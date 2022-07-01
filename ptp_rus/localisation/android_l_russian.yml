@@ -1,0 +1,22 @@
+﻿l_russian:
+
+####################################
+# Species Classes
+####################################
+
+EANDR:0 "Андроид"
+EANDR_desc:1 "Вид не влияет на вашу империю, но андроиды могут считать других андроидов менее чуждыми, чем представители других видов."
+EANDR_plural:0 "Андроиды"
+EANDR_insult_01:0 "чудовище"
+EANDR_insult_plural_01:0 "чудовищи"
+EANDR_compliment_01:0 "ангел"
+EANDR_compliment_plural_01:0 "ангелы"
+EANDR_spawn:0 "девушка"
+EANDR_spawn_plural:0 "девушки"
+EANDR_sound_01:0 "рычать"
+EANDR_sound_02:0 "ворчание"
+EANDR_sound_03:0 "болтать"
+EANDR_sound_04:0 "выть"
+EANDR_sound_05:0 "ныть"
+EANDR_organ:0 "желудок"
+EANDR_mouth:0 "рот"

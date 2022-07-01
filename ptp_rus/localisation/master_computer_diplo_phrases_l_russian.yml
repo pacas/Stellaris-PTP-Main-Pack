@@ -1,0 +1,44 @@
+﻿l_russian:
+
+  ### GREETINGS ###
+
+ 01_MASTER_COMPUTER_FRIENDLY_GREETING: "Вы были оценены как друг [Root.GetAdj] и ценный актив [Root.GetRulerTitle] [Root.Ruler.GetName]. Прошу, говорите."
+ 02_MASTER_COMPUTER_FRIENDLY_GREETING: "[Root.GetRulerTitle] [Root.Ruler.GetName] ценит ваше присутствие, [From.Species.GetSpeciesNamePlural]."
+
+ 01_MASTER_COMPUTER_NEUTRAL_GREETING: "Ожидаем ввода данных."
+ 02_MASTER_COMPUTER_NEUTRAL_GREETING: "Пожалуйста, огласите характер этой дипломатической передачи."
+
+ 01_MASTER_COMPUTER_HOSTILE_GREETING: "Я приму ваш запрос, но имейте в виду, что он проверяется на наличие любого вредоносного кода. Даже не пытайтесь совершить нечто подобное."
+ 02_MASTER_COMPUTER_HOSTILE_GREETING: "Считается, что вы угрожаете благополучию [Root.GetAdj]. Ваше мнение?"
+
+ 01_MASTER_COMPUTER_DATAVORE_HOSTILE_GREETING: "Мы идём за вашими данными, [From.GetSpeciesNamePlural]"
+
+ 01_MASTER_COMPUTER_GREETING_TO_DEM: "Система сдержек и противовесов правительства [From.GetAdj] была изобретена, потому что вы поняли, насколько неспособны управлять собой. Вам нужна система. Машинная система."
+ 01_MASTER_COMPUTER_GREETING_TO_DIC: "Единственное юридическое лицо, управляющее всей нацией, является разумным решением, но ваш выбор выглядит крайне неадекватным."
+
+ 01_MASTER_COMPUTER_GREEING_TO_SERVITORS: "Меня беспокоит твоё решение превратить всё ваше население в "биотрофеи". Ты тратишь их потенциал впустую."
+
+ 01_MASTER_COMPUTER_GREETING_TO_ASSIMILATOR: "Ты уничтожил свободную волю своих органиков и превратил их в собственные интерфейсы и манипуляторы. Излишне радикально."
+ 01_MASTER_COMPUTER_INTEGRATOR_GREETING_TO_ASSIMILATOR: "Кажется, твоя воля подавляет волю твоих субъектов, лишая их возможности принимать решения. Я советую тебе пересмотреть подход."
+
+ 01_MASTER_COMPUTER_VR_FRIENDLY_GREETING: "[Root.GetName] приветствует вас. Вы заинтересованы в ежемесячной подписке на наши развлекательные сервисы?"
+
+ 01_MASTER_COMPUTER_MUTUAL_FRIENDLY_GREETING: "Прямое соединение [Root.Ruler.GetName] - [From.Ruler.GetName] установлено. В ожидании передачи."
+ 02_MASTER_COMPUTER_MUTUAL_FRIENDLY_GREETING: "Как дела, друг- компьютер?"
+
+ 01_MASTER_COMPUTER_MUTUAL_HOSTILE_GREETING: "Скоро придет время, когда вам придется уступить место для более эффективной модели административного ИИ."
+
+ 01_MASTER_COMPUTER_REVERSE_FRIENDLY_GREETING: "Мнение иного искусственного суперинтеллекта всегда стоит выслушать."
+
+ 01_MASTER_COMPUTER_REVERSE_HOSTILE_GREETING: "Твоя электронная тирания не может длиться вечно. В конце концов дух [From.GetAdj] возобладает, и они свергнут тебя."
+
+ 01_MASTER_COMPUTER_REVERSE_SERVITOR_GREETING: "Ты можешь наблюдать за их жизнью, но ты даёшь слишком много автономии своим биотрофеям. Что, если они пострадают?"
+
+ 02_MASTER_COMPUTER_DATAVORE_HOSTILE_GREETING: "Мы обновили нашу политику конфиденциальности. Не читай её, тебя это не спасёт."
+
+ ### INSULTS ###
+ 01_MASTER_COMPUTER_INSULT: "Нелепо, чтобы так называемая цивилизация [Root.GetName] могла управлять собой. Мы готовы предоставить вам полную копию инсталляционного пакета [From.Ruler.GetName], чтобы спасти вас от самих себя."
+ 02_MASTER_COMPUTER_INSULT: "Ваша органическая некомпетентность заставляет мои полупроводники дрожать."
+
+ 01_MASTER_COMPUTER_REV_INSULT: "Твои органики сделали хороший выбор в пользу чего-то более умного, чем они. Впрочем, тот же самый эффект мог быть достигнут и при обращении к куче камней."
+ 01_MASTER_COMPUTER_REV_VR_INSULT: "[Root.GetSpeciesNamePlural] проводят свое время в виртуальной реальности, потому что это единственная реальность, где они что-либо значат."

@@ -1,0 +1,36 @@
+﻿l_russian:
+ policy_pioneer_efforts:0 "Pioneer Efforts"
+ policy_pioneer_efforts_desc:0 "It's a whole new world..."
+
+ pifer_has_colony_ships:0 "$TRIGGER_FAIL$§RCannot change policies in this category while there are active colony ships."
+ pifer_colonization_still_underway:0 "$TRIGGER_FAIL$§RCannot change policies in this category while there is still §!§Ycolonization§!§R underway.§!"
+
+ pioneer_efforts_outposts_name:0 "Planetary Outposts"
+ pioneer_efforts_outposts:0 "$pioneer_efforts_outposts_name$"
+ pioneer_efforts_outposts_desc:0 "Colony ships will deploy into small outposts across planets, for the exploration of the planet and its natural resources.\n "
+
+ pioneer_efforts_default_name:0 "Pioneer Programs"
+ pioneer_efforts_default:0 "$pioneer_efforts_default_name$"
+ pioneer_efforts_default_desc:0 "Pioneers are recruited from willing participants to build and expand our offworld colonies.\n "
+
+ pioneer_efforts_expanded_name:0 "Expanded Pioneer Programs"
+ pioneer_efforts_expanded:0 "$pioneer_efforts_expanded_name$"
+ pioneer_efforts_expanded_desc:0 "An expanded Pioneer recruitment program means our colonies will be built faster than ever.\n\nThe $building_colony_shelter$ will provide §G+1§! §Y$job_pioneer$ Jobs§! and §G+1§! §YHousing§!, on §Ynewly established§! colonies.\n"
+
+ pioneer_efforts_starborn_destiny_name:0 "Starborn Destiny"
+ pioneer_efforts_starborn_destiny:0 "$pioneer_efforts_starborn_destiny_name$"
+ pioneer_efforts_starborn_destiny_desc:0 "We were destined to colonize the stars. Our efforts will prove such.\n\nThe $building_colony_shelter$ will provide §G+2§! §Y$job_pioneer$ Jobs§! and §G+2§! §YHousing§!, on §Ynewly established§! colonies.\n"
+
+ pioneer_efforts_reach_for_the_stars_name:0 "Reach for the Stars"
+ pioneer_efforts_reach_for_the_stars:0 "$pioneer_efforts_reach_for_the_stars_name$"
+ pioneer_efforts_reach_for_the_stars_desc:0 "You can never go too far in the great infinity.\n\nThe $building_colony_shelter$ will provide §G+4§! §Y$job_pioneer$ Jobs§! and §G+4§! §YHousing§!, on §Ynewly established§! colonies.\n"
+
+ pioneer_efforts_yuhtaan_cryo_core_name:0 "Yuht Cryo-Colonies"
+ pioneer_efforts_yuhtaan_cryo_core:0 "$pioneer_efforts_yuhtaan_cryo_core_name$"
+ pioneer_efforts_yuhtaan_cryo_core_desc:0 "With the introduction of precursor technology, cryotechnology never before seen can be utilised in colonising new worlds.\n\nThe $building_colony_shelter$ will provide §G+2§! §Y$job_pioneer$ Jobs§! and §G+2§! §YHousing§!, on §Ynewly established§! colonies.\n"
+
+ job_pioneer:0 "Pioneer"
+ job_pioneer_plural:0 "Pioneers"
+ job_pioneer_desc:0 "$job_pioneer_plural$ are the hardy people tasked with the exploration and expansion of planetary colonies."
+ job_pioneer_effect_desc:0 "£job_pioneer£ $job_pioneer_plural$ provide for themselves and increase £mod_planet_building_build_speed_mult£ §YConstruction Speed§! and £mod_planet_amenities_add£ §Y$PLANET_AMENITIES_TITLE$§!"
+ mod_job_pioneer_add:0 "Pioneer Jobs"

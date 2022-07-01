@@ -1,0 +1,18 @@
+﻿l_russian:
+
+ mega_shipyard: "Мегаверфь"
+ mega_shipyard_DESC: "Одна из самых мощных верфей, когда-либо построенных в галактике. Способна выдержать командование могущественными империями, построив массивные армады за несколько месяцев."
+ mega_shipyard_MEGASTRUCTURE_DETAILS: "Гиганская верфь, способная плодить армады кораблей. Требуется установить связь со звёздной базой посредством специального модуля."
+ mega_shipyard_req_1: "$TRIGGER_FAIL$Can only own one §Y$mega_shipyard$§!."
+ mega_shipyard_req_2: "$TRIGGER_FAIL$Requires a §YStarbase§! with at least one §YShipyard§! in the system."
+
+ edict_active_mega_shipyard: "§GАктивировать Мегаверфь§!"
+ edict_active_mega_shipyard_desc: "Приказ на производство космической армады на Мегаверфи."
+
+ sm_megashipyard_module: "Узел связи с Мегаверфью"
+ sm_megashipyard_module_desc: "Специализированный модуль, обеспечивающий связь космической базы с Мегаверфью."
+ sm_megashipyard_module_req_1: "$TRIGGER_FAIL$Требуется §Y$mega_shipyard$§! в системе."
+
+ tech_mod_mega_shipyard: "Протоколы Мегверфи"
+ tech_mod_mega_shipyard_desc: ""
+ allow_mega_shipyard: "§HМегасооружение:§! Мегаверфь"

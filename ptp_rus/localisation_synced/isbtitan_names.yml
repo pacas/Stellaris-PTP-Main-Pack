@@ -1,0 +1,27 @@
+﻿l_russian:
+
+ # Localization source for the expressions like "name = "NAME_Arbitrator"" and "design = "NAME_Arbitrator"" (used in the ship designs, system ititializers and events).
+ NAME_Arbitrator: "Арбитр"
+ NAME_Avatar_Construction: "Строитель «Аватара»"
+ NAME_Avatar_Constructor: "Верфь «Аватара»"
+ NAME_Combat_Drone: "Боевой дрон"
+ NAME_Demi: "Деми"
+ NAME_Doom_Star: "Звезда смерти"
+ NAME_Drone_Squadron: "Эскадрилья дронов"
+ NAME_Erebus-Drone: "Дрон «Эребуса»"
+ NAME_Fires_of_Ragnarok: "Огни «Рагнарока»"
+ NAME_Frame: "Каркас"
+ NAME_Judicator: "Блюститель"
+ NAME_Prethoryn_Hive_Brood: "Выводок преторианского роя"
+ NAME_Ragnarok: "«Рагнарок»"
+ NAME_Raiders: "Рейдеры"
+ NAME_Spawn_of_Ragnarok: "Порождение «Рагнарока»"
+ NAME_Sun_Crusher: "«Крушитель солнц»"
+ NAME_Unknown: "Неизвестно"
+ NAME_Wrath_of_Ragnarok: "Гнев «Рагнарока»"
+ NAME_Wrath_of_Ragnarok_Mythic: "Гнев «Рагнарока» (мифический)"
+
+ # Isn't really needed for dummy objects, just following the general naming rule.
+ NAME_explosion: "explosion"
+ NAME_consume_planet: "consume_planet"
+ NAME_destroy_planet: "destroy_planet"

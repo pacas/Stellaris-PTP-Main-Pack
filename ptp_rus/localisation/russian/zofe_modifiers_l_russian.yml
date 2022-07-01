@@ -1,0 +1,49 @@
+﻿l_russian:
+
+
+ inspiring_warlord:0 "Вдохновляющий военачальник"
+ inspiring_warlord_desc:0 "Военачальник вдохновляет эту империю на борьбу."
+
+ demilitarized_state:0 "Демилитаризованное государство"
+ demilitarized_state_desc:0 "Это государство демилитаризовано и имеет ограниченное количество кораблей, которые оно может содержать."
+
+ new_world_order:0 "Новый мировой порядок"
+ new_world_order_desc:0 "Общество страдает от последствий перехода к новому порядку."
+
+ democratized_utopia:0 "Демократическая утопия"
+ democratized_utopia_desc:0 "Это, судя по всему, та самая демократизированная утопия."
+
+ fe_satrapy:0 "Сатрапия"
+ fe_satrapy_desc:0 "Как сатрапия, мы обязаны поставлять определенное количество новобранцев в армию из нашего населения."
+
+ the_preserve:0 "Заповедник"
+ the_preserve_desc:0 "Эта планета обладает широким спектром разумной жизни и является частью большого проекта сохранения инопланетной жизни."
+
+ has_preserve_world_planet:0 "Сохранение инопланетной жизни"
+ has_preserve_world_planet_desc:0 "Мы назначили идеальный мир в наших границах заповедником."
+
+ op_vs_plebs:0 "Мы vs плебеи"
+ op_vs_plebs_desc:0 "Мы знаем все их тактики, все их недостатки и слабости."
+ 
+ auxiliary_overlord:0 "Бонус вспомогательного юнита"
+ auxiliary_overlord_desc:0 "Наш вспомогательный юнит значительно расширяет наши возможности по сборке машин следующего поколения."
+ 
+ fe_xeno_preserve:0 "Ксенозаповедник"
+ fe_xeno_preserve_desc:0 "Массивный комплекс, предназначенный для защиты широкого спектра разумной жизни, собранной со всей галактики."
+ 
+ ai_debug_ascend:0 "Вознесённая империя"
+ ai_debug_ascend_desc:0 "Вознесённая империя имеет большое влияние в галактике."
+ 
+ #pm_planet_fe_buildings_boost:0 "Разгон автоматизированных зданий"
+ #pm_planet_fe_buildings_boost_desc:0 "Разгон наших автоматизированных производств обеспечит увеличение выработки ресурсов на 20%."
+ planet_fe_buildings_boost:0 "Производство в автоматизированных зданиях: §G+20%§!"
+
+ pm_Utopian_Paradise:0 "Утопический рай"
+
+ mod_damage_vs_country_type_ascended_empire_mult:0 "Урон против Вознесённых империй"
+ 
+ 
+ mod_planet_priests_physics_research_produces_add:0 "£physics£ $physics_research$ от £job_priest£ $job_priest_plural$"
+ mod_planet_priests_society_research_produces_add:0 "£society£ $society_research$ от £job_priest£ $job_priest_plural$"
+ mod_planet_priests_engineering_research_produces_add:0 "£engineering£ $engineering_research$ от £job_priest£ $job_priest_plural$"
+ 

@@ -1,0 +1,184 @@
+﻿l_russian:
+
+ tech_bwm_solar_envoy:0 "Схема корабля - Посланник Солнца"
+ tech_bwm_solar_envoy_desc:0 "Подробная схема оружия прародителей, обнаруженного в системе Аработ."
+
+ tech_bwm_gravekeeper:0 "Схема корабля - Могильщик"
+ tech_bwm_gravekeeper_desc:0 "Подробная схема оружия прародителей, обнаруженного в системе Дананн."
+
+ tech_bwm_magma_diver:0 "Схема корабля - Аватар"
+ tech_bwm_magma_diver_desc:0 "Подробная схема оружия прародителей, обнаруженного в системе Аркадия."
+
+ tech_bwm_lex_garden:0 "Утерянное наследие"
+ tech_bwm_lex_garden_desc:0 "Древняя технология, извлечённая из стража в системе Аркадия."
+
+ must_build_around_asteroid:1 "$TRIGGER_FAIL$Должно быть построено возле богатого минералами астероида."
+
+ requires_no_existing_solar_envoy:0 "$TRIGGER_FAIL$Нельзя построить более одного Посланника Солнца."
+ requires_no_existing_gravekeeper:0 "$TRIGGER_FAIL$Нельзя построить более одного Могильщика."
+ requires_no_existing_magma_diver:0 "$TRIGGER_FAIL$Нельзя построить более одного Аватара."
+ requires_no_existing_conduit_shipyard:0 "$TRIGGER_FAIL$Нельзя построить более одного Вечного оплота."
+ requires_no_existing_bwm_conduit_project:0 "$TRIGGER_FAIL$Нельзя иметь более одного процесса в очереди строительства."
+
+ requires_bwm_conduit_shipyard:0 "$TRIGGER_FAIL$Невозможно начать строительство без верфи-мегаструктуры «Вечный оплот»."
+
+ bwm_solar_envoy_project_00:0 "Место сборки «Посланника Солнца»"
+ bwm_solar_envoy_project_00_DESC:0 "Эта строительная станция служит местом сборки древнего оружия под названием '$bwm_solar_envoy_project_01$'."
+ bwm_solar_envoy_project_00_MEGASTRUCTURE_DETAILS:0 "Схема оружия прародителей §Y$bwm_solar_envoy_project_01$§!."
+
+ bwm_solar_envoy_project_01:0 "Посланник Солнца"
+ bwm_solar_envoy_project_01_DESC:0 "$bwm_solar_envoy_project_01$ - Стадия завершения: §Y1/1§!"
+
+ bwm_gravekeeper_project_00:0 "Место сборки Могильщика"
+ bwm_gravekeeper_project_00_DESC:0 "Эта строительная станция служит местом сборки древнего оружия под названием '$bwm_gravekeeper_project_01$'."
+ bwm_gravekeeper_project_00_MEGASTRUCTURE_DETAILS:0 "Схема оружия прародителей §Y$bwm_gravekeeper_project_01$§!."
+
+ bwm_gravekeeper_project_01:0 "Могильщик"
+ bwm_gravekeeper_project_01_DESC:0 "$bwm_gravekeeper_project_01$ - Стадия завершения: §Y1/1§!"
+
+ bwm_magma_diver_project_00:0 "Место сборки Аватара"
+ bwm_magma_diver_project_00_DESC:0 "Эта строительная станция служит местом сборки древнего оружия под названием '$bwm_magma_diver_project_01$'."
+ bwm_magma_diver_project_00_MEGASTRUCTURE_DETAILS:0 "Схема оружия прародителей §Y$bwm_magma_diver_project_01$§!."
+
+ bwm_magma_diver_project_01:0 "Аватар"
+ bwm_magma_diver_project_01_DESC:0 "$bwm_magma_diver_project_01$ - Стадия завершения: §Y1/1§!"
+
+ bwm_conduit_corvette_00:0 "Вечная флотилия - Эскорт"
+ bwm_conduit_corvette_00_DESC:0 "$bwm_conduit_corvette_00$ - Стадия завершения: §Y1/1§!"
+ bwm_conduit_corvette_00_MEGASTRUCTURE_DETAILS:0 "Строительство 8 эскортных кораблей прародителей"
+
+ bwm_conduit_destroyer_00:0 "Вечная флотилия - Линейный крейсер"
+ bwm_conduit_destroyer_00_DESC:0 "$bwm_conduit_destroyer_00$ - Стадия завершения: §Y1/1§!"
+ bwm_conduit_destroyer_00_MEGASTRUCTURE_DETAILS:0 "Строительство 4 линейных кораблей прародителей"
+
+ bwm_conduit_cruiser_00:0 "Вечная флотилия - Титан"
+ bwm_conduit_cruiser_00_DESC:0 "$bwm_conduit_cruiser_00$ - Стадия завершения: §Y1/1§!"
+ bwm_conduit_cruiser_00_MEGASTRUCTURE_DETAILS:0 "Строительство 2 титанов прародителей"
+
+ bwm_conduit_battleship_00:0 "Вечная флотилия - Авианосец"
+ bwm_conduit_battleship_00_DESC:0 "$bwm_conduit_battleship_00$ - Стадия завершения: §Y1/1§!"
+ bwm_conduit_battleship_00_MEGASTRUCTURE_DETAILS:0 "Строительство 1 авианосца прародителей"
+
+ bwm_conduit_shipyard_00:0 "Место строительства Вечного оплота"
+ bwm_conduit_shipyard_00_DESC:0 "Эта строительная станция служит местом сборки древней верфи под названием '$bwm_conduit_shipyard_09$'."
+ bwm_conduit_shipyard_00_MEGASTRUCTURE_DETAILS:0 "Схема верфи прародителей §Y$bwm_conduit_shipyard_09$§!."
+
+ bwm_conduit_shipyard_01:0 "Частично завершённый Вечный оплот"
+ bwm_conduit_shipyard_01_DESC:0 "$bwm_conduit_shipyard_09$ - Стадия завершения: §Y1/9§!"
+
+ bwm_conduit_shipyard_02:0 "Частично завершённый Вечный оплот"
+ bwm_conduit_shipyard_02_DESC:0 "$bwm_conduit_shipyard_09$ - Стадия завершения: §Y2/9§!"
+
+ bwm_conduit_shipyard_03:0 "Частично завершённый Вечный оплот"
+ bwm_conduit_shipyard_03_DESC:0 "$bwm_conduit_shipyard_09$ - Стадия завершения: §Y3/9§!"
+
+ bwm_conduit_shipyard_04:0 "Частично завершённый Вечный оплот"
+ bwm_conduit_shipyard_04_DESC:0 "$bwm_conduit_shipyard_09$ - Стадия завершения: §Y4/9§!"
+
+ bwm_conduit_shipyard_05:0 "Частично завершённый Вечный оплот"
+ bwm_conduit_shipyard_05_DESC:0 "$bwm_conduit_shipyard_09$ - Стадия завершения: §Y5/9§!"
+
+ bwm_conduit_shipyard_06:0 "Частично завершённый Вечный оплот"
+ bwm_conduit_shipyard_06_DESC:0 "$bwm_conduit_shipyard_09$ - Стадия завершения: §Y6/9§!"
+
+ bwm_conduit_shipyard_07:0 "Частично завершённый Вечный оплот"
+ bwm_conduit_shipyard_07_DESC:0 "$bwm_conduit_shipyard_09$ - Стадия завершения: §Y7/9§!"
+
+ bwm_conduit_shipyard_08:0 "Частично завершённый Вечный оплот"
+ bwm_conduit_shipyard_08_DESC:0 "$bwm_conduit_shipyard_09$ - Стадия завершения: §Y8/9§!"
+
+ bwm_conduit_shipyard_09:0 "Вечный оплот"
+ bwm_conduit_shipyard_09_DESC:0 "$bwm_conduit_shipyard_09$ - Стадия завершения: §Y9/9§!"
+
+ requires_no_existing_bwm_converter:0 "$TRIGGER_FAIL$Нельзя построить более одного Вечного горна."
+
+ bwm_conduit_converter_00:0 "Место строительства Вечного горна"
+ bwm_conduit_converter_00_DESC:0 "Вокруг звезды был установлен мощный массив отталкивателей-репульсоров, который подготовил её к строительству древней мегаструктуры под названием '$bwm_conduit_converter_08$'."
+ bwm_conduit_converter_00_MEGASTRUCTURE_DETAILS:0 "Схема мегаструктуры прародителей §Y$bwm_conduit_converter_08$§!."
+
+ bwm_conduit_converter_01:0 "Место строительства Вечного горна"
+ bwm_conduit_converter_01_DESC:0 "Эта строительная станция служит местом сборки древней мегаструктуры под названием '$bwm_conduit_converter_08$'."
+
+ bwm_conduit_converter_02:0 "Частично завершённый Вечный горн"
+ bwm_conduit_converter_02_DESC:0 "$bwm_conduit_converter_08$ - Стадия завершения: §Y1/6§!"
+
+ bwm_conduit_converter_03:0 "Частично завершённый Вечный горн"
+ bwm_conduit_converter_03_DESC:0 "$bwm_conduit_converter_08$ - Стадия завершения: §Y2/6§!"
+
+ bwm_conduit_converter_04:0 "Частично завершённый Вечный горн"
+ bwm_conduit_converter_04_DESC:0 "$bwm_conduit_converter_08$ - Стадия завершения: §Y3/6§!"
+
+ bwm_conduit_converter_05:0 "Частично завершённый Вечный горн"
+ bwm_conduit_converter_05_DESC:0 "$bwm_conduit_converter_08$ - Стадия завершения: §Y4/6§!"
+
+ bwm_conduit_converter_06:0 "Частично завершённый Вечный горн"
+ bwm_conduit_converter_06_DESC:0 "$bwm_conduit_converter_08$ - Стадия завершения: §Y5/6§!"
+
+ bwm_conduit_converter_07:0 "Частично завершённый Вечный горн"
+ bwm_conduit_converter_07_DESC:0 "$bwm_conduit_converter_08$ - Стадия завершения: §Y6/6§!"
+
+ bwm_conduit_converter_08:0 "Вечный горн"
+ bwm_conduit_converter_08_DESC:0 "Полностью функциональная копия мегаструктуры прародителей, основанная на древних технологиях, извлечённых из стража в системе Аркадия. Она позволяет преобразовать расформированные или уничтоженные флоты в энергию и материю."
+
+ # bwm_enigma_cache_1_0:0 "Monolith"
+ # bwm_enigma_cache_1_0_DESC:0 ""
+ # bwm_enigma_cache_1_0_MEGASTRUCTURE_DETAILS:0 ""
+
+ # bwm_enigma_cache_2_0:0 "Monolith"
+ # bwm_enigma_cache_2_0_DESC:0 ""
+ # bwm_enigma_cache_2_0_MEGASTRUCTURE_DETAILS:0 ""
+
+ # bwm_enigma_cache_3_0:0 "Monolith"
+ # bwm_enigma_cache_3_0_DESC:0 ""
+ # bwm_enigma_cache_3_0_MEGASTRUCTURE_DETAILS:0 ""
+
+ # bwm_enigma_cache_4_0:0 "Monolith"
+ # bwm_enigma_cache_4_0_DESC:0 ""
+ # bwm_enigma_cache_4_0_MEGASTRUCTURE_DETAILS:0 ""
+
+ # bwm_enigma_cache_5_0:0 "Monolith"
+ # bwm_enigma_cache_5_0_DESC:0 ""
+ # bwm_enigma_cache_5_0_MEGASTRUCTURE_DETAILS:0 ""
+
+ # bwm_enigma_cache_6_0:0 "Monolith"
+ # bwm_enigma_cache_6_0_DESC:0 ""
+ # bwm_enigma_cache_6_0_MEGASTRUCTURE_DETAILS:0 ""
+
+ # bwm_enigma_cache_7_0:0 "Monolith"
+ # bwm_enigma_cache_7_0_DESC:0 ""
+ # bwm_enigma_cache_7_0_MEGASTRUCTURE_DETAILS:0 ""
+
+ # bwm_enigma_cache_8_0:0 "Monolith"
+ # bwm_enigma_cache_8_0_DESC:0 ""
+ # bwm_enigma_cache_8_0_MEGASTRUCTURE_DETAILS:0 ""
+
+ # bwm_enigma_cache_9_0:0 "Monolith"
+ # bwm_enigma_cache_9_0_DESC:0 ""
+ # bwm_enigma_cache_9_0_MEGASTRUCTURE_DETAILS:0 ""
+
+ # bwm_enigma_cache_1_1:0 "Monolith"
+ # bwm_enigma_cache_1_1_DESC:0 ""
+
+ # bwm_enigma_cache_2_1:0 "Monolith"
+ # bwm_enigma_cache_2_1_DESC:0 ""
+
+ # bwm_enigma_cache_3_1:0 "Monolith"
+ # bwm_enigma_cache_3_1_DESC:0 ""
+
+ # bwm_enigma_cache_4_1:0 "Monolith"
+ # bwm_enigma_cache_4_1_DESC:0 ""
+
+ # bwm_enigma_cache_5_1:0 "Monolith"
+ # bwm_enigma_cache_5_1_DESC:0 ""
+
+ # bwm_enigma_cache_6_1:0 "Monolith"
+ # bwm_enigma_cache_6_1_DESC:0 ""
+
+ # bwm_enigma_cache_7_1:0 "Monolith"
+ # bwm_enigma_cache_7_1_DESC:0 ""
+
+ # bwm_enigma_cache_8_1:0 "Monolith"
+ # bwm_enigma_cache_8_1_DESC:0 ""
+
+ # bwm_enigma_cache_9_1:0 "Monolith"
+ # bwm_enigma_cache_9_1_DESC:0 ""

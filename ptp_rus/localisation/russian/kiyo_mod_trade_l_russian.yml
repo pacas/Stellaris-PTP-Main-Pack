@@ -1,0 +1,105 @@
+﻿l_russian:
+ 
+ kiyo_mod_trade_zero:0 "0"
+ kiyo_mod_trade_noinfo:0 ""
+
+ KIYO_TRADE:0 "§WГрузовой корабль§!"
+ kiyo_trade:0 "§WГрузовой корабль§!"
+ kiyo_trade_plural:0 "§WГрузовые корабли§!"
+ 
+ opinion_kiyo_mod_trade_trade_routes:0 "Внешняя торговля"
+ 
+ planet_kiyo_mod_trader:0 "Внешняя торговля"
+ planet_kiyo_mod_trader_produces_add:0 "Прибыль от внешней торговли"
+ campaign_kiyo_mod_trade:0 "Стоимость грузового корабля"
+ campaign_kiyo_mod_trade_energy_upkeep_add:0 "Стоимость содержания грузового корабля"
+ 
+ ### Cargo Ship Components ###
+ 
+ COMBAT_COMPUTER_KIYO_MOD_TRADE_EVADE_DEFAULT:0 "Базовый боевой компьютер"
+ kiyo_mod_trade_evade:0 "Уклонение"
+ kiyo_mod_trade_evade_desc:1 "§YТактика уклонения:§! Корабль будет пытаться уйти от врага на достаточно большие расстояния."
+
+ KIYO_MOD_TRADE_CORVETTE_FISSION_REACTOR:1 "$CORVETTE_FISSION_REACTOR$"
+ KIYO_MOD_TRADE_CORVETTE_FUSION_REACTOR:1 "$CORVETTE_FUSION_REACTOR$"
+ KIYO_MOD_TRADE_CORVETTE_COLD_FUSION_REACTOR:1 "$CORVETTE_COLD_FUSION_REACTOR$"
+ KIYO_MOD_TRADE_CORVETTE_ANTIMATTER_REACTOR:1 "$CORVETTE_ANTIMATTER_REACTOR$"
+ KIYO_MOD_TRADE_CORVETTE_ZERO_POINT_REACTOR:1 "$CORVETTE_ZERO_POINT_REACTOR$"
+ KIYO_MOD_TRADE_CORVETTE_DARK_MATTER_REACTOR:1 "$CORVETTE_DARK_MATTER_REACTOR$"
+ 
+ KIYO_MOD_TRADE_SHIP_THRUSTER_1:1 "$SHIP_THRUSTER_1$"
+ KIYO_MOD_TRADE_SHIP_THRUSTER_2:1 "$SHIP_THRUSTER_2$"
+ KIYO_MOD_TRADE_SHIP_THRUSTER_3:1 "$SHIP_THRUSTER_3$"
+ KIYO_MOD_TRADE_SHIP_THRUSTER_4:1 "$SHIP_THRUSTER_4$"
+ KIYO_MOD_TRADE_SHIP_THRUSTER_5:1 "$SHIP_THRUSTER_5$"
+ 
+ KIYO_MOD_TRADE_EMPTY_DRIVE:1 "$EMPTY_DRIVE$"
+ KIYO_MOD_TRADE_HYPER_DRIVE_1:1 "$HYPER_DRIVE_1$"
+ KIYO_MOD_TRADE_HYPER_DRIVE_2:1 "$HYPER_DRIVE_2$"
+ KIYO_MOD_TRADE_HYPER_DRIVE_3:1 "$HYPER_DRIVE_3$"
+ KIYO_MOD_TRADE_JUMP_DRIVE_1:1 "$JUMP_DRIVE_1$"
+ KIYO_MOD_TRADE_PSI_JUMP_DRIVE_1:1 "$PSI_JUMP_DRIVE_1$"
+ 
+ ### Trade Hub ###
+ 
+ d_kiyo_mod_trade:1 "Торговый порт"
+ d_kiyo_mod_trade_desc:0 "Эта область предназначена для внешней торговли между различными империями. Ресурсы, получаемые от торговли, зависят от населения планеты, откуда импортируются товары."
+ 
+ ### Decisions and Edicts ###
+ 
+ decision_kiyo_mod_trade_setup_trade_route:0 "Добавить торговый путь"
+ decision_kiyo_mod_trade_setup_trade_route_max_trade_routes:0 "$TRIGGER_FAIL$Мы достигли максимального количества торговых путей, которые можем иметь в настоящее время."
+ decision_kiyo_mod_trade_setup_trade_route_effects:0 "Мы проложим торговый путь от этой планете. Вы должны отправить грузовой флот на другую планету, принадлежащую другой империи, чтобы начать торговый путь."
+ decision_kiyo_mod_trade_setup_trade_route_desc:0 "Торговый путь между империями, несомненно, улучшит дипломатические отношения и обеспечит взаимное процветание."
+ edict_kiyo_trade_check:0 "Проверить торговые суда и торговые пути"
+ edict_kiyo_trade_check_desc:0 "Открывает меню, в котором вы можете просмотреть информацию о ваших грузовых кораблях и о том, сколько вы зарабатываете на торговых путях."
+ edict_kiyo_trade_add_ships_to_trade_route:0 "Пополнить грузовой флот"
+ edict_kiyo_trade_add_ships_to_trade_route_desc:0 "Мы добавим ещё одно грузовое судно к выбранному вами торговому пути. Если вы измените свое решение, вы получите полную компенсацию при условии, что вы не превысите ваши административные возможности."
+ edict_kiyo_trade_add_ships_to_trade_route_any_fleet_has_room:0 "$TRIGGER_FAIL$Нет торговых путей, на которые можно было бы добавить ещё один грузовой корабль."
+ edict_kiyo_trade_add_ships_to_trade_route_has_window:0 "$TRIGGER_FAIL$Вы уже пытаетесь добавить грузовые корабли на торговый путь."
+ kiyo_trade_check_has_trade_route:1 "$TRIGGER_FAIL$You do not have any trade routes to check."
+ kiyo_trade_check_window_open:1 "$TRIGGER_FAIL$У вас уже открыто это меню."
+ 
+ kiyo_trade_manual_event.0.title:0 "Открытие международных торговых путей"
+ kiyo_trade_manual_event.0.desc:2 "Мы создали грузовой флот на планете $PLANET|Y$ в системе $SOLAR_SYSTEM|Y$.\n\nДля завершения настройки торгового маршрута, отправьте $FLEET|Y$ на другую планету, принадлежащую обычной империи. Обе планеты затем начнут получать ресурсы от торговли в зависимости от населения этих планет.\n\nТребуется пакт о ненападении или пакт о защите, если вы являетесь гештальт-сознанием."
+ 
+ kiyo_trade_manual_event.11.title:0 "Пополнение нашего грузового флота"
+ kiyo_trade_manual_event.11.desc:0 "Какой из ваших грузовых флотов вы хотите пополнить?"
+ kiyo_trade_manual_event.11.a:0 "[kiyo_trade_cargo_fleet_1.GetName]"
+ kiyo_trade_manual_event.11.b:0 "[kiyo_trade_cargo_fleet_2.GetName]"
+ kiyo_trade_manual_event.11.c:0 "[kiyo_trade_cargo_fleet_3.GetName]"
+ kiyo_trade_manual_event.11.d:0 "[kiyo_trade_cargo_fleet_4.GetName]"
+ kiyo_trade_manual_event.11.e:0 "[kiyo_trade_cargo_fleet_5.GetName]"
+ kiyo_trade_manual_event.11.f:0 "[kiyo_trade_cargo_fleet_6.GetName]"
+ kiyo_trade_manual_event.11.g:0 "[kiyo_trade_cargo_fleet_7.GetName]"
+ kiyo_trade_manual_event.11.h:0 "[kiyo_trade_cargo_fleet_8.GetName]"
+ kiyo_trade_manual_event.11.i:0 "[kiyo_trade_cargo_fleet_9.GetName]"
+ 
+ kiyo_trade_manual_event.2.title:0 "Торговые корабли и внешняя торговля: статистика"
+ kiyo_trade_manual_event.2.desc:1 "Торговые пути: §Y[This.kiyo_trade_num_trade_routes][This.Get0TradeRoutes]/[This.kiyo_trade_max_trade_routes]§!\nМаксимум $trade_plural$ за торговый путь: §Y[This.kiyo_trade_max_cargo_ships_per_fleet]§!\nРесурсы от ваших торговых путей: [This.kiyo_trade_minerals_start] £minerals£, [This.kiyo_trade_energy_start] £energy£, [This.kiyo_trade_food_start] £food£, [This.kiyo_trade_unity_start] £unity£, [This.kiyo_trade_consumer_goods_start] £consumer_goods£, [This.kiyo_trade_alloys_start] £alloys£, [This.kiyo_trade_physics_research_start] £physics£, [This.kiyo_trade_society_research_start] £society£, [This.kiyo_trade_engineering_research_start] £engineering£, [This.kiyo_trade_other_start] £trade_value£\nРесурсы от торговых путей других империй: [This.kiyo_trade_minerals_import] £minerals£, [This.kiyo_trade_energy_import] £energy£, [This.kiyo_trade_food_import] £food£, [This.kiyo_trade_unity_import] £unity£, [This.kiyo_trade_consumer_goods_import] £consumer_goods£, [This.kiyo_trade_alloys_import] £alloys£, [This.kiyo_trade_physics_research_import] £physics£, [This.kiyo_trade_society_research_import] £society£, [This.kiyo_trade_engineering_research_import] £engineering£, [This.kiyo_trade_other_import] £trade_value£\n\nВыберите торговый путь, чтобы посмотреть дополнительную информацию о нём."
+ kiyo_trade_manual_event.2.a:0 "[kiyo_trade_cargo_fleet_1.GetName]"
+ kiyo_trade_manual_event.2.b:0 "[kiyo_trade_cargo_fleet_2.GetName]"
+ kiyo_trade_manual_event.2.c:0 "[kiyo_trade_cargo_fleet_3.GetName]"
+ kiyo_trade_manual_event.2.d:0 "[kiyo_trade_cargo_fleet_4.GetName]"
+ kiyo_trade_manual_event.2.e:0 "[kiyo_trade_cargo_fleet_5.GetName]"
+ kiyo_trade_manual_event.2.f:0 "[kiyo_trade_cargo_fleet_6.GetName]"
+ kiyo_trade_manual_event.2.g:0 "[kiyo_trade_cargo_fleet_7.GetName]"
+ kiyo_trade_manual_event.2.h:0 "[kiyo_trade_cargo_fleet_8.GetName]"
+ kiyo_trade_manual_event.2.other:0 "Посмотреть информацию о торговых путях других империй"
+ kiyo_trade_manual_event.2.next:0 "Проверить другие торговые пути"
+ kiyo_trade_manual_event.2.cancel:0 "Закрыть"
+ kiyo_trade_manual_event.21.title:0 "§Y[This.GetName]§!"
+ kiyo_trade_manual_event.2.info:0 "\nИмпортированные ресурсы: [This.kiyo_trade_minerals_start] £minerals£, [This.kiyo_trade_energy_start] £energy£, [This.kiyo_trade_food_start] £food£, [This.kiyo_trade_unity_start] £unity£, [This.kiyo_trade_consumer_goods_start] £consumer_goods£, [This.kiyo_trade_alloys_start] £alloys£, [This.kiyo_trade_physics_research_start] £physics£, [This.kiyo_trade_society_research_start] £society£, [This.kiyo_trade_engineering_research_start] £engineering£, [This.kiyo_trade_other_start] £trade_value£\nРесурсы экспортированны: [This.kiyo_trade_minerals_end] £minerals£, [This.kiyo_trade_energy_end] £energy£, [This.kiyo_trade_food_end] £food£, [This.kiyo_trade_unity_end] £unity£, [This.kiyo_trade_consumer_goods_end] £consumer_goods£, [This.kiyo_trade_alloys_end] £alloys£, [This.kiyo_trade_physics_research_end] £physics£, [This.kiyo_trade_society_research_end] £society£, [This.kiyo_trade_engineering_research_end] £engineering£, [This.kiyo_trade_other_end] £trade_value£"
+ kiyo_trade_manual_event.22.title:0 "Торговый путь от империи §Y[kiyo_trade_other_empire.GetName]§!"
+ kiyo_trade_manual_event.22.desc:0 "[kiyo_trade_cargo_fleet_other_1.GetName]: [kiyo_trade_cargo_fleet_other_1.kiyo_trade_minerals_end] £minerals£, [kiyo_trade_cargo_fleet_other_1.kiyo_trade_energy_end] £energy£, [kiyo_trade_cargo_fleet_other_1.kiyo_trade_food_end] £food£, [kiyo_trade_cargo_fleet_other_1.kiyo_trade_unity_end] £unity£, [kiyo_trade_cargo_fleet_other_1.kiyo_trade_consumer_goods_end] £consumer_goods£, [kiyo_trade_cargo_fleet_other_1.kiyo_trade_alloys_end] £alloys£, [kiyo_trade_cargo_fleet_other_1.kiyo_trade_physics_research_end] £physics£, [kiyo_trade_cargo_fleet_other_1.kiyo_trade_society_research_end] £society£, [kiyo_trade_cargo_fleet_other_1.kiyo_trade_engineering_research_end] £engineering£, [kiyo_trade_cargo_fleet_other_1.kiyo_trade_other_end] £trade_value£\n\n[kiyo_trade_cargo_fleet_other_2.GetName]: [kiyo_trade_cargo_fleet_other_2.kiyo_trade_minerals_end] £minerals£, [kiyo_trade_cargo_fleet_other_2.kiyo_trade_energy_end] £energy£, [kiyo_trade_cargo_fleet_other_2.kiyo_trade_food_end] £food£, [kiyo_trade_cargo_fleet_other_2.kiyo_trade_unity_end] £unity£, [kiyo_trade_cargo_fleet_other_2.kiyo_trade_consumer_goods_end] £consumer_goods£, [kiyo_trade_cargo_fleet_other_2.kiyo_trade_alloys_end] £alloys£, [kiyo_trade_cargo_fleet_other_2.kiyo_trade_physics_research_end] £physics£, [kiyo_trade_cargo_fleet_other_2.kiyo_trade_society_research_end] £society£, [kiyo_trade_cargo_fleet_other_2.kiyo_trade_engineering_research_end] £engineering£, [kiyo_trade_cargo_fleet_other_2.kiyo_trade_other_end] £trade_value£\n\n[kiyo_trade_cargo_fleet_other_3.GetName]: [kiyo_trade_cargo_fleet_other_3.kiyo_trade_minerals_end] £minerals£, [kiyo_trade_cargo_fleet_other_3.kiyo_trade_energy_end] £energy£, [kiyo_trade_cargo_fleet_other_3.kiyo_trade_food_end] £food£, [kiyo_trade_cargo_fleet_other_3.kiyo_trade_unity_end] £unity£, [kiyo_trade_cargo_fleet_other_3.kiyo_trade_consumer_goods_end] £consumer_goods£, [kiyo_trade_cargo_fleet_other_3.kiyo_trade_alloys_end] £alloys£, [kiyo_trade_cargo_fleet_other_3.kiyo_trade_physics_research_end] £physics£, [kiyo_trade_cargo_fleet_other_3.kiyo_trade_society_research_end] £society£, [kiyo_trade_cargo_fleet_other_3.kiyo_trade_engineering_research_end] £engineering£, [kiyo_trade_cargo_fleet_other_3.kiyo_trade_other_end] £trade_value£\n\n[kiyo_trade_cargo_fleet_other_4.GetName]: [kiyo_trade_cargo_fleet_other_4.kiyo_trade_minerals_end] £minerals£, [kiyo_trade_cargo_fleet_other_4.kiyo_trade_energy_end] £energy£, [kiyo_trade_cargo_fleet_other_4.kiyo_trade_food_end] £food£, [kiyo_trade_cargo_fleet_other_4.kiyo_trade_unity_end] £unity£, [kiyo_trade_cargo_fleet_other_4.kiyo_trade_consumer_goods_end] £consumer_goods£, [kiyo_trade_cargo_fleet_other_4.kiyo_trade_alloys_end] £alloys£, [kiyo_trade_cargo_fleet_other_4.kiyo_trade_physics_research_end] £physics£, [kiyo_trade_cargo_fleet_other_4.kiyo_trade_society_research_end] £society£, [kiyo_trade_cargo_fleet_other_4.kiyo_trade_engineering_research_end] £engineering£, [kiyo_trade_cargo_fleet_other_4.kiyo_trade_other_end] £trade_value£\n\n[kiyo_trade_cargo_fleet_other_5.GetName]: [kiyo_trade_cargo_fleet_other_5.kiyo_trade_minerals_end] £minerals£, [kiyo_trade_cargo_fleet_other_5.kiyo_trade_energy_end] £energy£, [kiyo_trade_cargo_fleet_other_5.kiyo_trade_food_end] £food£, [kiyo_trade_cargo_fleet_other_5.kiyo_trade_unity_end] £unity£, [kiyo_trade_cargo_fleet_other_5.kiyo_trade_consumer_goods_end] £consumer_goods£, [kiyo_trade_cargo_fleet_other_5.kiyo_trade_alloys_end] £alloys£, [kiyo_trade_cargo_fleet_other_5.kiyo_trade_physics_research_end] £physics£, [kiyo_trade_cargo_fleet_other_5.kiyo_trade_society_research_end] £society£, [kiyo_trade_cargo_fleet_other_5.kiyo_trade_engineering_research_end] £engineering£, [kiyo_trade_cargo_fleet_other_5.kiyo_trade_other_end] £trade_value£\n\n[kiyo_trade_cargo_fleet_other_6.GetName]: [kiyo_trade_cargo_fleet_other_6.kiyo_trade_minerals_end] £minerals£, [kiyo_trade_cargo_fleet_other_6.kiyo_trade_energy_end] £energy£, [kiyo_trade_cargo_fleet_other_6.kiyo_trade_food_end] £food£, [kiyo_trade_cargo_fleet_other_6.kiyo_trade_unity_end] £unity£, [kiyo_trade_cargo_fleet_other_6.kiyo_trade_consumer_goods_end] £consumer_goods£, [kiyo_trade_cargo_fleet_other_6.kiyo_trade_alloys_end] £alloys£, [kiyo_trade_cargo_fleet_other_6.kiyo_trade_physics_research_end] £physics£, [kiyo_trade_cargo_fleet_other_6.kiyo_trade_society_research_end] £society£, [kiyo_trade_cargo_fleet_other_6.kiyo_trade_engineering_research_end] £engineering£, [kiyo_trade_cargo_fleet_other_6.kiyo_trade_other_end] £trade_value£\n\n[kiyo_trade_cargo_fleet_other_7.GetName]: [kiyo_trade_cargo_fleet_other_7.kiyo_trade_minerals_end] £minerals£, [kiyo_trade_cargo_fleet_other_7.kiyo_trade_energy_end] £energy£, [kiyo_trade_cargo_fleet_other_7.kiyo_trade_food_end] £food£, [kiyo_trade_cargo_fleet_other_7.kiyo_trade_unity_end] £unity£, [kiyo_trade_cargo_fleet_other_7.kiyo_trade_consumer_goods_end] £consumer_goods£, [kiyo_trade_cargo_fleet_other_7.kiyo_trade_alloys_end] £alloys£, [kiyo_trade_cargo_fleet_other_7.kiyo_trade_physics_research_end] £physics£, [kiyo_trade_cargo_fleet_other_7.kiyo_trade_society_research_end] £society£, [kiyo_trade_cargo_fleet_other_7.kiyo_trade_engineering_research_end] £engineering£, [kiyo_trade_cargo_fleet_other_7.kiyo_trade_other_end] £trade_value£\n\n[kiyo_trade_cargo_fleet_other_8.GetName]: [kiyo_trade_cargo_fleet_other_8.kiyo_trade_minerals_end] £minerals£, [kiyo_trade_cargo_fleet_other_8.kiyo_trade_energy_end] £energy£, [kiyo_trade_cargo_fleet_other_8.kiyo_trade_food_end] £food£, [kiyo_trade_cargo_fleet_other_8.kiyo_trade_unity_end] £unity£, [kiyo_trade_cargo_fleet_other_8.kiyo_trade_consumer_goods_end] £consumer_goods£, [kiyo_trade_cargo_fleet_other_8.kiyo_trade_alloys_end] £alloys£, [kiyo_trade_cargo_fleet_other_8.kiyo_trade_physics_research_end] £physics£, [kiyo_trade_cargo_fleet_other_8.kiyo_trade_society_research_end] £society£, [kiyo_trade_cargo_fleet_other_8.kiyo_trade_engineering_research_end] £engineering£, [kiyo_trade_cargo_fleet_other_8.kiyo_trade_other_end] £trade_value£"
+ 
+ ### Events ###
+ 
+ kiyo_trade_orbit_event.1.title:0 "Настройка торгового пути завершена"
+ kiyo_trade_orbit_event.1.desc:0 "Наша империя завершила создание торгового пути между планетами $PLANET_1|Y$ и $PLANET_2|Y$. Теперь наш грузовой флот будет отправлять грузы на эти планеты в зависимости от населения на каждой из этих планет."
+ 
+ kiyo_trade_orbit_event.12.title:0 "Торговый путь империи §Y[kiyo_trade_trader.GetName]§!"
+ kiyo_trade_orbit_event.12.desc:0 "Другая империя проложила торговый путь к одной из наших планет ($PLANET_2|Y$ в системе $SOLAR_SYSTEM|Y$)."
+ 
+ kiyo_trade_triggered_event.9.title:0 "Торговый путь закрыт"
+ kiyo_trade_triggered_event.9.desc:0 "Наш торговый путь из §Y[Root.GetName]§! был закрты.\n\nЕсли торговый путь был полностью налажен, это может стать причиной натянутых отношений с вашим торговым партнером или опустошения планеты. В противном случае вы могли сделать что-то действительно странное, например, распустить отдельное грузовое судно (что только навредит вам)."

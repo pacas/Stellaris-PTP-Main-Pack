@@ -1,0 +1,9 @@
+﻿l_english: 
+ # DECISIONS  
+ decision_neutral_zoning: "Определить в нейтральною зону"
+ decision_neutral_zoning_desc: "Это система будет объявлена нейтральной зоной."
+ decision_neutral_zoning_custom: "Как только система определена в нейтральную зону, она не может быть захвачена ни одной империей."
+ 
+ decision_end_neutral_zoning: "Вернуть нейтральную зону"
+ decision_end_neutral_zoning_desc: "Любая соседняя система в нейтральной зоне будет возвращена вашей империи."
+ decision_end_neutral_zoning_custom: "Любая соседняя система в нейтральной зоне будет возвращена вашей империи."

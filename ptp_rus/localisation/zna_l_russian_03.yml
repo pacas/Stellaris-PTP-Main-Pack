@@ -1,0 +1,3 @@
+﻿l_russian:
+
+requires_technology_hive_confluence: "$TRIGGER_FAIL$ Необходима технология £society£ §Y$tech_hive_confluence$§!."

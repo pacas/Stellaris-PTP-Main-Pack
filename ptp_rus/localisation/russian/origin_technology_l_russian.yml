@@ -1,0 +1,503 @@
+﻿l_russian:
+
+### SHIP COMPONENTS TEXTS
+
+TECH_UNLOCK_ORIGIN_ARMOR_TITLE: "§HКомпонент:§! Божественная броня "
+TECH_UNLOCK_ORIGIN_ARMOR_DESC: "Очень прочный слой брони, изготовленный из ранее неизвестных древних материалов, способный восстанавливаться после любого повреждения."
+
+TECH_UNLOCK_ORIGIN_PLATINGS_TITLE: "§HКомпонент:§! Покрытия серафима"
+TECH_UNLOCK_ORIGIN_PLATINGS_DESC: "Эти покрытия сделаны из ранее неизвестных древних материалов, которые не только чрезвычайно долговечны, но также способны изменять и регенерировать себя, чтобы исправить любые повреждения, нанесенные корпусу корабля."
+
+TECH_UNLOCK_ORIGIN_SHIELD_TITLE: "§HКомпонент:§! Божественный щит"
+TECH_UNLOCK_ORIGIN_SHIELD_DESC: "Эти сверкающие щиты, вероятно, самая сильная технология преломления энергии, которую когда-либо видела галактика."     
+
+TECH_UNLOCK_ORIGIN_THRUSTER_TITLE: "§HКомпонент:§! Light Matter Thrusters"
+TECH_UNLOCK_ORIGIN_THRUSTER_DESC: "Древние, но черезвычайно мощные двигатели, намного превосходящие то, что разработано другими империями."
+      
+TECH_UNLOCK_ORIGIN_REACTOR_TITLE: "§HКомпонент:§! Light Matter Reactor"
+TECH_UNLOCK_ORIGIN_REACTOR_DESC: "Благодаря пока необъяснимым методам эти сверкающие генераторы энергии создают безграничную энергию, намного превосходящую энергию темной материи."
+
+TECH_UNLOCK_ORIGIN_SENSORS_TITLE: "§HКомпонент:§! Exarch Sensors"
+TECH_UNLOCK_ORIGIN_SENSORS_DESC: "Эти высокотехнологичные датчики могут легко находить энергию противника и сообщать их точное местоположение в далеких системах, в реальном времени."
+
+TECH_UNLOCK_ORIGIN_CCOM_TITLE: "§HКомпонент:§! Autarch-Class Combat Analyzer"
+TECH_UNLOCK_ORIGIN_CCOM_DESC: "Боевой анализатор класса Autarch - это чрезвычайно передовой боевой компьютер, который анализирует условия поля боя в режиме реального времени и прогнозирует наилучший ход действий, а затем автоматически дает указания внутренним системам корабля реагировать в соответственно с минимальным ручным управлением."
+
+TECH_UNLOCK_ORIGIN_JDRIVE_TITLE: "§HКомпонент:§! Eternity Stellar Drive"
+TECH_UNLOCK_ORIGIN_JDRIVE_DESC: "Охватывая Материю света. Охватывая вечность. Звезды в наших руках"
+
+ORIGIN_FLAK_CANNON: "Seraph Defense Matrix"
+ORIGIN_FLAK_CANNON_DESC: "Уклонение? Это так похоже на 2300-ые. Никакое уклонение не спасет врага от пуль, сделанных из чистых звездных энергий."
+
+ENERGY_LANCE_POINT_DEFENCE: "Aegis Lance Point Defense"
+ENERGY_LANCE_POINT_DEFENCE_DESC: "Старые версии энергетических копий были изменены и модифицированы для функционирования в качестве систем защиты на больших расстояниях."
+
+ORIGIN_STELLARITE_LASER: "Stellarite Laser Cannon"
+ORIGIN_STELLARITE_LASER_DESC: "Звездные пушки для титанов, звездные копья для линкоров и, конечно, звездные лазеры для корветов. Наши враги будут полыхать!"
+
+ORIGIN_JUDGEMENT_DISRUPTOR: "Exorcist Ray"
+ORIGIN_JUDGEMENT_DISRUPTOR_DESC: "An intense wave of nanite energy that reduces all matter into nothingness, including living beings aboard vessels."
+
+ORIGIN_ARTILLERY: "Light Matter Artillery"
+ORIGIN_ARTILLERY_DESC: "These artilleries fire projectiles infused with concentrated Light Matter that will quickly suck away weaker energy generated from shields and heavily damage target's hull and electronic systems."
+
+ORIGIN_OMNI_PLASMA: "Stellarite Plasma Accelerator"
+ORIGIN_OMNI_PLASMA_DESC: "It costs 1,200,000,000 energy credits to fire this weapon for 12 seconds. They may outsmart the gunners, but they will not outsmart plasma showers."
+
+ORIGIN_FIGHTER: "Paladin Fighter"
+ORIGIN_FIGHTER_DESC: "Space-Superiority Stike Crafts specifically designed to uninstall inferior designs and chew through missiles and torpedoes with their autocannons."
+
+ORIGIN_BOMBER: "Crusader Bomber"
+ORIGIN_BOMBER_DESC: "Heavily fortified and extremely high top-speed, these bombers are equipped with powerful stellarite missiles that can make short work of even the toughest battleships."
+
+HOLY_LANCE: "Light of Arya"
+HOLY_LANCE_DESC: "While mostly identical to Titan Lances, the addition of Light Matter Focusing Lens gives this beautiful weapon an undeniable advantage by eliminating other lance's usual weakness to Energy Shields."
+
+ORIGIN_ULTIMATE_WEAPON: "Divine Judgement"
+ORIGIN_ULTIMATE_WEAPON_DESC: "A weapon of light, to keep the forces of evil at bay."
+
+ORIGIN_FLAGSHIP_SUPER_WEAPON: "Divine Intervention"
+ORIGIN_FLAGSHIP_SUPER_WEAPON_DESC: " The Ultimate Weapon used by the Original Empire. Divine Intervention Cannons are capable of instantly vaporizing most vessels in a single hit. bypassing shields and armors entirely. Due to the Arkship's multiple reactors, Intervention-class Judgement Beam are much faster to charge-up than the smaller cousin."
+
+ORIGIN_LANCE: "Stellarite Cannon"
+ORIGIN_LANCE_DESC: "An extremely powerful but slow-firing lance-like energy cannon that utilizes the power of stellarite to melt enemy ships into dust."
+
+STARVIPER_MISSILE: "Starviper Missile"
+STARVIPER_MISSILE_DESC: "Elegant Missiles harnessing Stellarite Energy as weapons. They are deadly and extremely hard to shoot down."
+
+CELESTIAL_ARMOR: "Celestial Armor"
+CELESTIAL_ARMOR_DESC: "Очень прочный слой брони, изготовленный из не доконца изученых в древние времена материалов, способная восстанавливаться после любого повреждения."
+SERAPH_PLATING: "Seraph Plating"
+SERAPH_PLATING_DESC: "Эти покрытия сделаны из ранее неизвестных древних материалов, которые не только чрезвычайно долговечны, но также способны изменять и регенерировать себя, чтобы исправить любые повреждения, нанесенные корпусу корабля."
+DIVINE_SHIELD: "Divine Shield"
+DIVINE_SHIELD_DESC: "Эти сверкающие щиты, вероятно, самая сильная технология преломления энергии, которую когда-либо видела галактика."
+
+
+MEDIUM_CELESTIAL_ARMOR: "Medium Celestial Armor"
+MEDIUM_CELESTIAL_ARMOR_DESC: "Очень прочный слой брони, изготовленный из не доконца изученых в древние времена материалов, способная восстанавливаться после любого повреждения."
+
+LARGE_CELESTIAL_ARMOR: "Large Celestial Armor"
+LARGE_CELESTIAL_ARMOR_DESC: "Очень прочный слой брони, изготовленный из не доконца изученых в древние времена материалов, способная восстанавливаться после любого повреждения."
+
+MEDIUM_SERAPH_PLATING: "Medium Seraph Plating"
+MEDIUM_SERAPH_PLATING_DESC: "Эти покрытия сделаны из ранее неизвестных древних материалов, которые не только чрезвычайно долговечны, но также способны изменять и регенерировать себя, чтобы исправить любые повреждения, нанесенные корпусу корабля."
+
+LARGE_SERAPH_PLATING: "Large Seraph Plating"
+LARGE_SERAPH_PLATING_DESC: "Эти покрытия сделаны из ранее неизвестных древних материалов, которые не только чрезвычайно долговечны, но также способны изменять и регенерировать себя, чтобы исправить любые повреждения, нанесенные корпусу корабля."
+
+MEDIUM_DIVINE_SHIELD: "Medium Divine Shield"
+MEDIUM_DIVINE_SHIELD_DESC: "Эти сверкающие щиты, вероятно, самая сильная технология преломления энергии, которую когда-либо видела галактика."
+
+LARGE_DIVINE_SHIELD: "Large Divine Shield"
+LARGE_DIVINE_SHIELD_DESC: "Эти сверкающие щиты, вероятно, самая сильная технология преломления энергии, которую когда-либо видела галактика."
+
+ORIGIN_ESCORT_SHIP_THRUSTER: "Light Matter Thrusters"
+ORIGIN_ESCORT_SHIP_THRUSTER_DESC: "Древние, но черезвычайно мощные двигатели, намного превосходящие то, что разработано другими империями."
+
+ORIGIN_BATTLECRUISER_SHIP_THRUSTER: "Light Matter Thrusters"
+ORIGIN_BATTLECRUISER_SHIP_THRUSTER_DESC: "Древние, но черезвычайно мощные двигатели, намного превосходящие то, что разработано другими империями."
+
+ORIGIN_TITAN_SHIP_THRUSTER: "Light Matter Thrusters"
+ORIGIN_TITAN_SHIP_THRUSTER_DESC: "Древние, но черезвычайно мощные двигатели, намного превосходящие то, что разработано другими империями."
+
+ORIGIN_GOLIATH_SHIP_THRUSTER: "Light Matter Thrusters"
+ORIGIN_GOLIATH_SHIP_THRUSTER_DESC: "Древние, но черезвычайно мощные двигатели, намного превосходящие то, что разработано другими империями."
+
+ORIGIN_FLAGSHIP_SHIP_THRUSTER: "Light Matter Thrusters"
+ORIGIN_FLAGSHIP_SHIP_THRUSTER_DESC: "Древние, но черезвычайно мощные двигатели, намного превосходящие то, что разработано другими империями."
+
+ORIGIN_ESCORT_REACTOR: "Light Matter Reactor"
+ORIGIN_ESCORT_REACTOR_DESC: "Благодаря пока необъяснимым методам эти сверкающие генераторы энергии создают безграничную энергию, намного превосходящую энергию темной материи."
+
+ORIGIN_BATTLECRUISER_REACTOR: "Light Matter Reactor"
+ORIGIN_BATTLECRUISER_REACTOR_DESC: "Благодаря пока необъяснимым методам эти сверкающие генераторы энергии создают безграничную энергию, намного превосходящую энергию темной материи."
+
+ORIGIN_TITAN_REACTOR: "Light Matter Reactor"
+ORIGIN_TITAN_REACTOR_DESC: "Благодаря пока необъяснимым методам эти сверкающие генераторы энергии создают безграничную энергию, намного превосходящую энергию темной материи."
+
+ORIGIN_GOLIATH_REACTOR: "Light Matter Reactor"
+ORIGIN_GOLIATH_REACTOR_DESC: "Благодаря пока необъяснимым методам эти сверкающие генераторы энергии создают безграничную энергию, намного превосходящую энергию темной материи."
+
+ORIGIN_STATIONS_REACTOR: "Light Matter Reactor"
+ORIGIN_STATIONS_REACTOR_DESC: "Благодаря пока необъяснимым методам эти сверкающие генераторы энергии создают безграничную энергию, намного превосходящую энергию темной материи."
+
+ORIGIN_TOWER_REACTOR: "Light Matter Reactor"
+ORIGIN_TOWER_REACTOR_DESC: "Благодаря пока необъяснимым методам эти сверкающие генераторы энергии создают безграничную энергию, намного превосходящую энергию темной материи."
+
+ORIGIN_FLAGSHIP_REACTOR: "Light Matter Reactor"
+ORIGIN_FLAGSHIP_REACTOR_DESC: "Благодаря пока необъяснимым методам эти сверкающие генераторы энергии создают безграничную энергию, намного превосходящую энергию темной материи."
+
+ORIGIN_SENSOR: "Exarch Sensors"
+ORIGIN_SENSOR_DESC: "Эти высокотехнологичные датчики могут легко находить энергию противника и сообщать их точное местоположение в далеких системах, в реальном времени."
+
+ORIGIN_OFFENSIVE_COMBAT_COMPUTER: "Escort Offensive Combat Analyzer"
+ORIGIN_OFFENSIVE_COMBAT_COMPUTER_DESC: "Боевой анализатор класса Autarch - это чрезвычайно передовой боевой компьютер, который анализирует условия поля боя в режиме реального времени и прогнозирует наилучший ход действий, а затем автоматически дает указания внутренним системам корабля реагировать в соответственно с минимальным ручным управлением. This particular version is optimized for offensive tactics."
+
+ORIGIN_DEFENSIVE_COMBAT_COMPUTER: "Escort Defensive Combat Analyzer"
+ORIGIN_DEFENSIVE_COMBAT_COMPUTER_DESC: "Боевой анализатор класса Autarch - это чрезвычайно передовой боевой компьютер, который анализирует условия поля боя в режиме реального времени и прогнозирует наилучший ход действий, а затем автоматически дает указания внутренним системам корабля реагировать в соответственно с минимальным ручным управлением. This particular version is optimized for defensive tactics."
+
+ORIGIN_OFFENSIVE_COMBAT_COMPUTER_BATTLECRUISER: "Battlecruiser Offensive Combat Analyzer"
+ORIGIN_OFFENSIVE_COMBAT_COMPUTER_BATTLECRUISER_DESC: "Боевой анализатор класса Autarch - это чрезвычайно передовой боевой компьютер, который анализирует условия поля боя в режиме реального времени и прогнозирует наилучший ход действий, а затем автоматически дает указания внутренним системам корабля реагировать в соответственно с минимальным ручным управлением. This particular version is optimized for offensive tactics."
+
+ORIGIN_DEFENSIVE_COMBAT_COMPUTER_BATTLECRUISER: "Battlecruiser Defensive Combat Analyzer"
+ORIGIN_DEFENSIVE_COMBAT_COMPUTER_BATTLECRUISER_DESC: "Боевой анализатор класса Autarch - это чрезвычайно передовой боевой компьютер, который анализирует условия поля боя в режиме реального времени и прогнозирует наилучший ход действий, а затем автоматически дает указания внутренним системам корабля реагировать в соответственно с минимальным ручным управлением. This particular version is optimized for defensive tactics."
+
+ORIGIN_OFFENSIVE_COMBAT_COMPUTER_TITAN: "Titan Offensive Combat Analyzer"
+ORIGIN_OFFENSIVE_COMBAT_COMPUTER_TITAN_DESC: "Боевой анализатор класса Autarch - это чрезвычайно передовой боевой компьютер, который анализирует условия поля боя в режиме реального времени и прогнозирует наилучший ход действий, а затем автоматически дает указания внутренним системам корабля реагировать в соответственно с минимальным ручным управлением. This particular version is optimized for offensive tactics."
+
+ORIGIN_DEFENSIVE_COMBAT_COMPUTER_TITAN: "Titan Defensive Combat Analyzer"
+ORIGIN_DEFENSIVE_COMBAT_COMPUTER_TITAN_DESC: "Боевой анализатор класса Autarch - это чрезвычайно передовой боевой компьютер, который анализирует условия поля боя в режиме реального времени и прогнозирует наилучший ход действий, а затем автоматически дает указания внутренним системам корабля реагировать в соответственно с минимальным ручным управлением. This particular version is optimized for defensive tactics."
+
+ORIGIN_OFFENSIVE_COMBAT_COMPUTER_GOLIATH: "Goliath Offensive Combat Analyzer"
+ORIGIN_OFFENSIVE_COMBAT_COMPUTER_GOLIATH_DESC: "Боевой анализатор класса Autarch - это чрезвычайно передовой боевой компьютер, который анализирует условия поля боя в режиме реального времени и прогнозирует наилучший ход действий, а затем автоматически дает указания внутренним системам корабля реагировать в соответственно с минимальным ручным управлением. This particular version is optimized for offensive tactics."
+
+ORIGIN_DEFENSIVE_COMBAT_COMPUTER_GOLIATH: "Goliath Defensive Combat Analyzer"
+ORIGIN_DEFENSIVE_COMBAT_COMPUTER_GOLIATH_DESC: "Боевой анализатор класса Autarch - это чрезвычайно передовой боевой компьютер, который анализирует условия поля боя в режиме реального времени и прогнозирует наилучший ход действий, а затем автоматически дает указания внутренним системам корабля реагировать в соответственно с минимальным ручным управлением. This particular version is optimized for defensive tactics."
+
+ORIGIN_DEFENSIVE_COMBAT_COMPUTER_FLAGSHIP: "Gaia Supreme Combat Analyzer"
+ORIGIN_DEFENSIVE_COMBAT_COMPUTER_FLAGSHIP_DESC: "Боевой анализатор класса Autarch - это чрезвычайно передовой боевой компьютер, который анализирует условия поля боя в режиме реального времени и прогнозирует наилучший ход действий, а затем автоматически дает указания внутренним системам корабля реагировать в соответственно с минимальным ручным управлением. This particular version is optimized for the Gaia Arkship."
+
+ORIGIN_STARBASE_DEFENSIVE_COMBAT_COMPUTER: "Starbase Autarch Combat Analyzer"
+ORIGIN_STARBASE_DEFENSIVE_COMBAT_COMPUTER_DESC: "Боевой анализатор класса Autarch - это чрезвычайно передовой боевой компьютер, который анализирует условия поля боя в режиме реального времени и прогнозирует наилучший ход действий, а затем автоматически дает указания внутренним системам корабля реагировать в соответственно с минимальным ручным управлением. This particular version is designed for starbase computers."
+
+ORIGIN_PLATFORM_DEFENSIVE_COMBAT_COMPUTER: "Platform Autarch Combat Analyzer"
+ORIGIN_PLATFORM_DEFENSIVE_COMBAT_COMPUTER_DESC: "Боевой анализатор класса Autarch - это чрезвычайно передовой боевой компьютер, который анализирует условия поля боя в режиме реального времени и прогнозирует наилучший ход действий, а затем автоматически дает указания внутренним системам корабля реагировать в соответственно с минимальным ручным управлением. This particular version is designed for platform computers."
+
+ORIGIN_JUMP_DRIVE: "Eternity Stellar Drive"
+ORIGIN_JUMP_DRIVE_DESC: "Охватывая Материю света. Охватывая вечность. Звезды в наших руках."
+
+ORIGIN_AURA_SHIELD_SUPERCHARGER: "Enigmatic Distortion Field"
+ORIGIN_AURA_SHIELD_SUPERCHARGER_DESC: "This extremely powerful distortion field zaps away hostile ship's powers and bestows them on allied ships. Their powers are ours to command and conquer."
+
+ORIGIN_AURA_SUPERAURA: "Omni-Matrix Weblink"
+ORIGIN_AURA_SUPERAURA_DESC: "Omni-Matrix Weblink establishes powerful artificial Weblink between all vessel's computers within the fleet, tuning them together as one unbreakable chains."
+
+AUX_STELLARITE_CORE: "Super-focused Stellarite Core"
+AUX_STELLARITE_CORE_DESC: "Super-focused Stellarite Core converts excess energies from Light Matter Power together to create a focused power auras that increases the ship's weapon systems immensely."
+
+AUX_ENIGMATIC_AI: "Enigmatic Cypher-Intelligence Analyzer"
+AUX_ENIGMATIC_AI_DESC: "This unique combat computer understands every inner-workings of all precursor's designs and updates their weak points to the main computer. Press 1 to remove Awakened Empire. Press 2 to delete Ascended Empire. Press 3 to uninstall Original Empire. Press 4 to annihilate them all."
+
+aura_origin: "Ommi-Matrix Network"
+aura_shield_supercharger_give: "Kolyn's Gifts"
+aura_shield_supercharger_sap: "Kolyn's Curses"
+
+#### SHIP Tech ####
+
+origin_tech_armor: "Celestial Armor"
+origin_tech_armor_desc: "The armor platings utilized by the Original Empire seem to have been made from an unknown material, possibly originated from their homeworlds. They are extremely durable and are capable of reforming their shapes much like living metals."
+
+origin_tech_artillery: "Light-Matter Artillery"
+origin_tech_artillery_desc: "We have discovered that with sufficient kinetic forces, extremely concentrated amounts of Light Matter can be used as very powerful artillery projectiles that will quickly suck away enemy ship's shields and powers."
+
+origin_tech_bomber: "Crusader Bomber Squadrons"
+origin_tech_bomber_desc: "Based on the debris analyzed from the Original Empire, we may be able to construct one of the strongest bombers"
+
+origin_tech_computer: "Autarch Combat Analyzer"
+origin_tech_computer_desc: "These extremely advanced combat computers seem to negate other older design's tendency to overspecialize into multiple variants. The Autarch Combat Analyzer simply combines the power of all designs into two categories: Offense and Defense."
+
+origin_tech_disruptor: "Exorcist Ray"
+origin_tech_disruptor_desc: "Light Matter can be channeled into extremely deadly weapons with the right focusing lens. This is the concept of the weapon dubbed "Exorcist Ray". A terrifying disruptor-like energy wave that fries the entire ship."
+
+origin_tech_enigmatic_ai: "Enigmatic Cypher-Intelligence Analyzer"
+origin_tech_enigmatic_ai_desc: "This enigmatic piece of technology seems to serve a very unique purpose. The computer is specifically designed to analyze weaknesses present in all precursor ship's designs. After which the new algorithms are instantly updated to every weapon targeting systems."
+
+origin_tech_fighter: "Paladin Fighter Squadrons"
+origin_tech_fighter_desc: "It seems the Original Empire deploy these fast and deadly space-superiority strike crafts to act as escorts and point-defenses against bombers and missiles. They are extremely fast and quite durable for their sizes."
+
+origin_tech_flak: "Seraph Defense Matrix"
+origin_tech_flak_desc: "Advanced Sensors, Enigmatic Computers, Deadly Weapons. All these elements combined seem to make this point-defense autocannon a nightmare for any strikecrafts or missile ships."
+
+origin_tech_goliath_aura: "Omni-Matrix Weblink"
+origin_tech_goliath_aura_desc: "Coordination is key, our flagships will be the epicenter of which all of our fleets will tune in perfect synchronization."
+
+origin_tech_holy_lance: "Light of Arya"
+origin_tech_holy_lance_desc: "Named after the star that the Original Empire's homeworld resided, this powerful lance was crafted during their exile in response to the swarming tactics employed by the Fallen Empires. While not as strong as Divine Judgement, Light of Arya is much more effective at dealing with smaller ships."
+
+origin_tech_jump_drive: "Eternity Jump Drive"
+origin_tech_jump_drive_desc: "Light Matter Reactor allows us to create one of the strongest Jump Drive any galactic civilization can ever hope to achieve. FTL Travel seems to be as simple as driving a hovercar now."
+
+origin_tech_lance_point_defence: "Aegis Lance Point Defense"
+origin_tech_lance_point_defence_desc: "We don't have much uses for older-generation lances, but with advanced technologies we can transform them into point-defense weapons instead. Because why not?"
+
+origin_tech_laser: "Stellarite Laser Cannon"
+origin_tech_laser_desc: "Based on the same principle as many Stellarite Weapons used by Original Empire. This deadly state-of-the-art compact laser turret outclasses most weapons of similar sizes."
+
+origin_tech_missile: "Stellarite Missile"
+origin_tech_missile_desc: "Power of an entire star imbued within these missiles. Would the enemies like to be boiled or fried?"
+
+origin_tech_plasma: "Stellarite Plasma Accelerator"
+origin_tech_plasma_desc: "It costs 1,200,000,000 energy credits to fire this weapon for 12 seconds. They may outsmart the gunners, but they will not outsmart plasma showers."
+
+origin_tech_plating: "Seraph Platings"
+origin_tech_plating_desc: "Эти покрытия сделаны из ранее неизвестных древних материалов, которые не только чрезвычайно долговечны, но также способны изменять и регенерировать себя, чтобы исправить любые повреждения, нанесенные корпусу корабля."
+
+origin_tech_reactor: "Light Matter Reactor"
+origin_tech_reactor_desc: "Благодаря пока необъяснимым методам эти сверкающие генераторы энергии создают безграничную энергию, намного превосходящую энергию темной материи. Unlocking this secret will allow us to explore further into new possibilities. This will also allow us to utilize some of the Original Empire Ship Designs as well."
+
+origin_tech_sensor: "Exarch Sensors"
+origin_tech_sensor_desc: "Эти высокотехнологичные датчики могут легко находить энергию противника и сообщать их точное местоположение в далеких системах, в реальном времени."
+
+origin_tech_shield: "Divine Shields"
+origin_tech_shield_desc: "Эти сверкающие щиты, вероятно, самая сильная технология преломления энергии, которую когда-либо видела галактика."
+
+origin_tech_stellar_core: "Super-focused Stellarite Core"
+origin_tech_stellar_core_desc: "With such excess energy, one can always utilize more and more power. Power! Unlimited Power!"
+
+origin_tech_stellarite_cannon: "Stellarite Lance"
+origin_tech_stellarite_cannon_desc: "While weaker than Titanic-sized Звездные пушки, these lances are still one of the deadliest turret-mounted energy weapons ever developed."
+
+origin_tech_supercharger: "Enigmatic Distortion Field"
+origin_tech_supercharger_desc: "This extremely powerful distortion field zaps away hostile ship's powers and bestows them on allied ships. Their powers are ours to command and conquer."
+
+origin_tech_thruster: "Light Matter Thrusters"
+origin_tech_thruster_desc: "Ancient yet extremely powerful ship thrusters far exceed that of other designs."
+
+origin_tech_ultimate_weapon: "Divine Judgement Beam"
+origin_tech_ultimate_weapon_desc: "The Ultimate Weapon used by the Original Empire. Divine Judgement Cannons are capable of instantly vaporizing most vessels in a single hit. bypassing shields and armors entirely. The cannon has a very lengthy charge-up time and suffers immense minimum firing range however."
+
+origin_tech_celestial_guardian: "Celestial Warriors"
+origin_tech_celestial_guardian_desc: "Once guardians to the Original Empire's homeworlds, these elite warriors are willing to fight for glory once again under our banner. We will need to first understand their capabilities and introduce them to our military doctrines first however."
+
+origin_tech_planet_killer_naniter: "Nanite Cleanser"
+origin_tech_planet_killer_naniter_desc: "Nanite Cleanser is Orginal Empire's frightening weapon that can quickly terraform and cleanse the entire world with Nanite."
+
+ORIGIN_ESCORT_KEY: "Original Escort Front"
+ORIGIN_ESCORT_STERN_KEY: "Original Escort Rear"
+
+ORIGIN_BATTLECRUISER_BOW_KEY: "Original Battlecruiser Spear"
+ORIGIN_BATTLECRUISER_KEY: "Original Battlecruiser Mail"
+ORIGIN_BATTLECRUISER_STERN_KEY: "Original Battlecruiser Shield"
+
+ORIGINAL_TITAN_BOW_KEY: "Original Titan Bow"
+ORIGINAL_TITAN_KEY: "Original Titan Arrow"
+ORIGINAL_TITAN_HANGAR: "Original Titan Quiver"
+ORIGINAL_TITAN_STERN: "Original Titan Cape"
+
+ORIGIN_GOLIATH_BOW_KEY: "Goliath Holy Vanguard"
+ORIGIN_GOLIATH_KEY: "Goliath Inner Strength"
+ORIGIN_GOLIATH_HANGAR: "Goliath Devoted Followers"
+ORIGIN_GOLIATH_STERN: "Goliath Divine Stead"
+
+ORIGINAL_COLOSSUS_SECTION: "Original Colossus"
+
+sofe_ancient_weapon: "Gaia Arkship"
+sofe_ancient_weapon_plural: "Gaia Arkships"
+sofe_ancient_cruiser: "Dreadnought"
+sofe_ancient_cruiser_plural: "Dreadnoughts"
+sofe_ancient_escort: "Gunship"
+sofe_ancient_escort_plural: "Gunships"
+
+
+damage_vs_country_type_ascended_empire_mult: "Damage to Ascended Empires"
+damage_vs_country_type_lost_empire_mult: "Damage to Lost Empires"
+damage_vs_country_type_original_empire_mult: "Damage to the Original Empire"
+
+aryan: "Aryan"
+NAME_ORIGINAL: "Original"
+NAME_ORIGINAL_PLURAL: "Originals"
+ORIGINAL: "Humanoid?"
+original_empire_general: "Anarch"
+original_empire_admiral: "Exarch"
+
+origin_assault_guardian: "Celestial Guardians"
+origin_assault_guardian_desc: "Once serving as the Original Empire's guardians of the Original Empire's Homeworld, the new generations of these holy beings now bring salvation through annihilations to the New Order they now serve loyally."
+origin_guardian: "Celestial Warriors"
+origin_guardian_desc: "These holy guardians protect Fortress of Solitude, the last homeworld of the Original Empire. Thanks to their thousand years of combat experiences, they have become the deadliest warriors unrivalled by any."
+
+origin_citadel: "Holy Fortress"
+origin_citadel_plural: "Holy Fortresses"
+origin_super_citadel: "Golden Throne"
+origin_super_citadel_plural: "Golden Thrones"
+
+building_crystal_arch: "Crystal Arch Pylon"
+building_crystal_arch_desc: "To make up for the limited space they have, the Original Empire created these Light-Matter powered Pylons that can generate large amounts of energy and minerals very efficiently."
+
+building_eden_garden: "Garden of Eden"
+building_eden_garden_desc: "As the Original Empire has only one system in the L-Cluster they were trapped in, they combined all living luxuries and food production into one efficient building package."
+
+building_heaven_sanctuary: "Heaven Sanctuary"
+building_heaven_sanctuary_desc: "Millions of the Original Empire's leftover citizens reside in this capital city, awaiting for their revenge against those who have wronged them."
+
+building_omega_fortress: "Omega Fortress"
+building_omega_fortress_desc: "Realizing that this is the only homeworld they have left, the Original Empire focused all of their ground forces around this huge fortress, easily capable of defending the entire planet from almost any invasion attempts."
+
+building_power_pyramid: "Omega Pyramid"
+building_power_pyramid_desc: "This mysterious building attunes every Original Empire's buildings Light Matter Power Grid for maximized productions."
+
+building_super_shelter: "Docked Science Vessel"
+building_super_shelter_desc: "As the Original Empire no longer need to survey the systems around the L-Clusters, they simply docked all of their advanced science ships within the surface where they function as makeshift labs, vainly attempting to discover how to re-open the L-Gates."
+
+building_chamber_of_hope: "Chamber of Hope"
+building_chamber_of_hope_desc: "In the cold darkness of the void, only through this ancient meditation chamber can the Original People find solace, peace and serenity...and anger."
+
+building_grand_fortress: "Grand Fortress"
+building_grand_fortress_desc: "Grand Fortress houses the Original Empire's support garrisons. While nowhere near as deadly as the Omega Fortress, it still boasts considerable defenses that will deter most invasion forces."
+
+building_library_of_fate: "Library of Fate"
+building_library_of_fate_desc: "The holy library of the Original People contains the records of many ancient galactic events, every worlds conquered. every major achievements in the Original Empire's late histories. Oddly enough, it contains no details before their ascensions, perhaps they wish to totally abandon their pasts?"
+
+civic_solar_empire: "Eternal Empire"
+civic_solar_empire_desc: "The Original Empire was and arguably still is one of the strongest empire to ever existed, their citizens are forever and ever committed to the ambitions, thousands of year of exile did little to waver their devotions to the cause."
+
+civic_eternal_fleet: "Eternal Fleet"
+civic_eternal_fleet_desc: "The Original Empire Fleets are extremely advanced so much so that they never require maintenances even after prolonged exiles. Their admirals and crews are able to command their ships like they are part of their bodies."
+
+civic_know_everything: "Eternal Vengeance"
+civic_know_everything_desc: "Being the forebearer of all technologies and civilizations, the Eternal Empire has focused all of their efforts to study all the inner-workings of their usurper's technologies. They will not stop at nothing until those who utilize Dark Matter are properly punished."
+
+gov_ancient_ascendency: "Ancient Ascendency"
+gov_ancient_ascendency_desc: "The Original Empire is an ancient ascendency that predated most galactic civilizations. The ultimate goal of this empire was and likely still is to create the "Grand Order", a united Galaxy under one ultimate rule. It is likely that now the Original Empire seeks only revenge and retribution however.
+
+protectorate_of_original: "Protectorate of the Original"
+protectorate_of_original_desc: "We are under the protection of the Original Empire. In exchange for loyalty and menpower, the ancient one has granted us safety, economic prosperities and useful combat datas to fight against the other precursors."
+
+banished_of_original: "Eternal Punishment"
+banished_of_original_desc: "The Original Empire demands that we repent for our crimes, we must support their ambitions with manpower and resources. We are also not allowed to engage in any diplomacy or expansion."
+
+SUBJECT_origin_protectorate: "Original Protectorate"
+SUBJECT_DESC_origin_protectorate: "Original Protectorate is an ordinary empire who swears loyalty and bends to the Original Empire. They have to support the Original Empire with 20% of their naval capacities. In return, the Original Empire grants them economic boons and special tactical data against other precursors."
+
+SUBJECT_origin_banished_ascendancy: "Eternal Atonement"
+SUBJECT_DESC_origin_banished_ascendancy: "Once a powerful ascended, this empire has surrendered in shame to the Original Empire. That are not allowed to engage diplomacy or expand. They are also forced to pay large sums of tributes to their new master as repentance for their crimes."
+
+opinion_new_orginal_empire: "The New Original Empire"
+opinion_new_orginal_empire_desc: "By studying and mastering the power of Light Matter, we have been perceived by many as the successor of the Original Empire. They will not respond well to the amounts of threats we now possess."
+
+PROJECT_ALL_ORIGIN_TECH: "Zenith of the Original Empire"
+PROJECT_ALL_ORIGIN_TECH_DESC: "We will succeed where the Original Empire failed. We will take their knowledges and technologies and forge a new future for the galaxy. Our ambitions will not be thwarted!!"
+
+PROJECT_LIGHT_MATTER: "Light Matter Reactor Analysis"
+PROJECT_LIGHT_MATTER_DESC: "If we are to even up the scales in our fights against the Original Empire, we must use their own powers against them. Once we understand the concept of Light Matter Power, we will be able to field even more powerful ships!!"
+
+PROJECT_OFFENSE_ORIGIN_TECH: "Original Empire Offensive Analysis"
+PROJECT_OFFENSE_ORIGIN_TECH_DESC: "Superior Firepower is the only course of actions we will use in our battle strategies. If they have stronger weapons, then we will make them our own."
+
+PROJECT_DEFENSE_ORIGIN_TECH: "Original Empire Defensive Analysis"
+PROJECT_DEFENSE_ORIGIN_TECH_DESC: "Armors, Platings, Thrusters and Jump Drives. These are the tools we need to outsmart our enemies. They cannot defeat what they cannot reach!"
+
+PROJECT_UTILITY_ORIGIN_TECH: "Original Empire Strategic Analysis"
+PROJECT_UTILITY_ORIGIN_TECH_DESC: "We must understand how their computers work. If possible, we will be able to apply many of our tactical datas onto them and adapt their designs to our own."
+
+ORIGINAL_ARKSHIP_REBUILD: "The Arkship Reclaimation"
+ORIGINAL_ARKSHIP_REBUILD_DESC: "With the last resources acquired from the Original Shipyard, we can reconstruct the Gaia Arkship of the Original Empire: The Kaiser. The scale of this ship requires large amounts of construction ships and time investment."
+
+ORIGINAL_FLEET_REBUILD: "The Golden Armada"
+ORIGINAL_FLEET_REBUILD_DESC: "With the resources left from the Original Empire Shipyard, we can assemble a massive armada of Original Empire's own designs. They may not be as strong as the power of the Arkship, but they should prove to be much more practical."
+
+trait_bionic_implants: "Omni-Matrix AI-Assistant"
+trait_bionic_implants_desc: "This species utilize extremely powerful sentient AI-Assistant that assist them in multi-tasking."
+
+trait_ancient_race: "Divine People"
+trait_ancient_race_desc: "This species are truly divine, existed since the beginning of time. They have become almost immortal and possess supernatural strengths."
+
+trait_ancient_knowledge: "Punctual"
+trait_ancient_knowledge_desc: "Members of this species are always punctual, making them more productive than other species."
+
+trait_master_mind: "Perfect Mind"
+trait_master_mind_desc: "This species have mastered the psionic powers even beyond the Shroud. Their thoughts are one and their path is clear."
+
+leader_trait_admiral_ancient_knowledge: ""Divine Admiral"
+leader_trait_admiral_ancient_knowledge_desc: "This Admiral bears the mark of the Divine People. possessing knowledges and understandings of all tactics employed by lesser empires."
+leader_trait_admiral_bionic_implant: "Omni-Matrix AI-Assistant"
+leader_trait_admiral_bionic_implant_desc: "This Admiral is assisted by Omni-Matrix AI-Assistant, allowing the admiral to command every ships as if they are part of the body."
+leader_trait_admiral_master_mind: "Perfect Mind"
+leader_trait_admiral_master_mind_desc: "This Admiral has perfected psionic power, able to channel powerful barriers to assist the commanding fleet."
+
+leader_trait_general_ancient_knowledge: ""Divine General"
+leader_trait_general_ancient_knowledge_desc: "This General bears the mark of the Divine People. possessing complete understanding of battlefield tactics utilized by precursors since ancient times."
+leader_trait_general_bionic_implant: "Omni-Matrix AI-Assistant"
+leader_trait_general_bionic_implant_desc: "This General is assisted by Omni-Matrix AI-Assistant, allowing the general to command every armies as if they are part of the body."
+leader_trait_general_master_mind: "Perfect Mind"
+leader_trait_general_master_mind_desc: "This General has perfected psionic power, able to channel powerful barriers to assist the commanding armies."
+
+leader_trait_governor_ancient_knowledge: "Divine Governor"
+leader_trait_governor_ancient_knowledge_desc: "This Governor bears the mark of the Divine People. possessing complete understanding of governing administrations utilized by precursors since ancient times."
+leader_trait_governor_bionic_implant: "Omni-Matrix AI-Assistant"
+leader_trait_governor_bionic_implant_desc: "This Governor is assisted by Omni-Matrix AI-Assistant, allowing the governor to direct workforces as if they are part of the body."
+leader_trait_governor_master_mind: "Perfect Mind"
+leader_trait_governor_master_mind_desc: "This Governor has perfected psionic power, able to form mental link and binds all populations together towards unity and strength."
+
+leader_trait_scientist_ancient_knowledge: "Divine Scientist"
+leader_trait_scientist_ancient_knowledge_desc: "This Scientist bears the mark of the Divine People. possessing knowledges and understandings of all technologies used by precursors since ancient times."
+leader_trait_scientist_bionic_implant: "Omni-Matrix AI-Assistant"
+leader_trait_scientist_bionic_implant_desc: "This Scientist is assisted by Omni-Matrix AI-Assistant, allowing the scientist to perform through analysis and exploration with extreme efficiency."
+leader_trait_scientist_master_mind: "Perfect Mind"
+leader_trait_scientist_master_mind_desc: "This Scientist has perfected psionic power, able to channel powerful barriers to protect the frail science ship and greatly improves the speed."
+
+leader_trait_ruler_ancient_knowledge: "Divine Ruler"
+leader_trait_ruler_ancient_knowledge_desc: "This Ruler bears the mark of the Divine People. possessing knowledges and powers of the ancient Original Empire's Emperors."
+leader_trait_ruler_bionic_implant: "Omni-Matrix AI-Assistant"
+leader_trait_ruler_bionic_implant_desc: "This Ruler is assisted by Omni-Matrix AI-Assistant, allowing the ruler to boost the empire's precursor ship constructions."
+leader_trait_ruler_master_mind: "Perfect Mind"
+leader_trait_ruler_master_mind_desc: "This Ruler has perfected psionic power, able to use the power to command and conquer the empire with unity and purpose."
+
+tb_origin_infestation: "Infestation"
+tb_origin_infestation_desc: "This area seems to have been extremely infested by some unknown organisms. Clearing this area will require huge amounts of investment."
+
+tb_origin_quarantine_zone: "Quarantine Sections"
+tb_origin_quarantine_zone_desc: "It seems this area was built to quarantine the crisis within this habitat. The area has now since been abandoned."
+
+pop_origin_defiant: "Defiance"
+pop_origin_defiant_desc: "The Original People are still defiant to our rules. Unless we convince them to change their ways soon, we may have to apply extreme measures."
+
+processing_original: "Original Processing"
+processing_original_desc: "The Original People are processed into our power grid, granting us immense resource boosts."
+
+consuming_original: "Original Assimilation"
+consuming_original_desc: "The Original People are assimilated into our Hive Mind, granting us immense knowledge and power."
+
+personality_original_empire_personality: "Returned Progenitor"
+personality_original_empire_personality_desc: "It is unclear what the Returned Progenitor want with the galaxy..."
+
+shipsize_colossus_hull_add: "Colossus Hull Add"
+
+ORIGIN_PLANET_KILLER_NANITE: "Nanite Cleanser"
+ORIGIN_PLANET_KILLER_NANITE_DESC: "Nanite Cleanser is Orginal Empire's frightening weapon that can quickly terraform and cleanse the entire world with Nanite."
+ORIGIN_PLANET_KILLER_NANITE_ACTION: "Nanite-Cleanse"
+
+FLEETORDER_DESTROY_PLANET_WITH_ORIGIN_PLANET_KILLER_NANITE: "Preparing to cleanse $PLANET|Y$ with nanites"
+MESSAGE_DESC_FOR_ORIGIN_PLANET_KILLER_NANITE: "was cleansed by nanites from"
+is_nanited: "§R$TRIGGER_FAIL$Target is already a Nanite World§!"
+
+ESCORT_OFFENSIVE_BEHAVIOR_DESC: "§HEscort Offensive Tactics:§! The ship will move into close range and form an offensive line. (§Y60§!)."
+ESCORT_DEFENSIVE_BEHAVIOR_DESC: "§HEscort Defensive Tactics:§! The ship will stay  behind and form a defensive line.(§Y100§!)."
+
+BATTLECRUISER_OFFENSIVE_BEHAVIOR_DESC: "§HBattlecruiser Offensive Tactics:§! The ship will move into close range and form an offensive line. (§Y110§!)."
+BATTLECRUISER_DEFENSIVE_BEHAVIOR_DESC: "§HBattlecruiser Defensive Tactics:§! The ship will stay  behind and form a defensive line.(§Y150§!)."
+
+TITAN_OFFENSIVE_BEHAVIOR_DESC: "§HTitan Offensive Tactics:§! The ship will move into close range and form an offensive line. (§Y130§!)."
+TITAN_DEFENSIVE_BEHAVIOR_DESC: "§HTitan Defensive Tactics:§! The ship will stay  behind and form a defensive line.(§YMax§!)."
+
+GOLIATH_OFFENSIVE_BEHAVIOR_DESC: "§HGoliath Offensive Tactics:§! The ship will move into close range and form an offensive line. (§Y150§!)."
+GOLIATH_DEFENSIVE_BEHAVIOR_DESC: "§HGoliath Defensive Tactics:§! The ship will stay  behind and form a defensive line.(§YMax§!)."
+
+FLAGSHIP_DEFENSIVE_BEHAVIOR_DESC: "§HFlagship Defensive Tactics:§! The ship will scan and eradicate all hostile targets with ruthless efficiency.(§Y250§!)."
+
+not_in_crisis: "§ROnly under a threat of galactic scale can Galactic Defense Protocols be utilized.§!"
+edict_origin_final_armada: "§MGalactic Defense Protocol :§! Final Armada"
+edict_origin_final_armada_desc: "With the enemy that which threatens the entire galaxy and our fates uncertain, we must prepare the largest possible fleets if we are to survive."
+
+edict_origin_mass_production: "§MGalactic Defense Protocol :§! Mass Production"
+edict_origin_mass_production_desc: "We cannot spare any expenses when the fate of the galaxy hangs in the balance. All productions must be raised to maximum. We face an enemy unlike never before."
+
+edict_origin_persuit_of_knowledge: "§MGalactic Defense Protocol :§! Knowledge is Power"
+edict_origin_persuit_of_knowledge_desc: "Any edges we can discover against the ongoing crisis must be found. We must learn our enemies as much as possible if we are to defeat them."
+
+edict_origin_mod_menu_edict: "§EOpen Sins of the Fallen Empire Menu§!"
+edict_origin_mod_menu_edict: "This menu will allow you to adjust or fix various aspects of SOFE."
+
+challenger_original: "Original Insight"
+challenger_original_desc: "Our through analysis of the Light Matter has allowed us to adapt various useful aspects into our Dark Matter Designs. The Precursors have beaten the Original Empire before, we will do so again. Permanently"
+
+pleb_original: "Curse of the Pleb"
+pleb_original_desc: "Something has cursed you with horrible debuffs that make you a trash-tier pleb."
+
+easy_original: "Curse of the Call of Duty"
+easy_original_desc: "Press F to pay respect and win the fight. F F F F F F F F F F F/n/nMission Failed. We will get them next time."
+
+hard_original: "Boon of the Hard"
+hard_original_desc: "Dark Souls of Stellaris? "
+
+terrible_original: "Kolyn Approved"
+terrible_original_desc: "BATMANNNN...BATMANNNNNNNNNN BATMANNNNNN BATMANNNNN"

@@ -1,0 +1,88 @@
+﻿l_russian:
+
+### RUSSIAN LOCALIZATION
+
+########################################
+###      Psionic Blast Torpedo       ###
+########################################
+
+NHSC_TORPEDO_PSI_1: "Псионическая торпеда"
+NHSC_TORPEDO_PSI_1_DESC: "Энергетическая торпеда, поражающая цели мощным псионическим взрывом."
+
+########################################
+###  Improved Psionic Blast Torpedo  ###
+########################################
+
+NHSC_TORPEDO_PSI_2: "Улучшенная псионическая торпеда"
+NHSC_TORPEDO_PSI_2_DESC: "Улучшенная технология удержания псионической энергии позволяет увеличить силу взрыва псионической торпеды."
+
+########################################
+###     Psionic Energy Projector     ###
+########################################
+
+NHSC_CANNON_PSI_1: "Проектор псионической энергии"
+NHSC_CANNON_PSI_1_DESC: "Энергетическое оружие, поражающее цели сфокусированной псионической энергией."
+SMALL_NHSC_CANNON_PSI_1: "Малый $NHSC_CANNON_PSI_1$"
+SMALL_NHSC_CANNON_PSI_1_DESC: "$NHSC_CANNON_PSI_1_DESC$"
+MEDIUM_NHSC_CANNON_PSI_1: "Средний $NHSC_CANNON_PSI_1$"
+MEDIUM_NHSC_CANNON_PSI_1_DESC: "$NHSC_CANNON_PSI_1_DESC$"
+LARGE_NHSC_CANNON_PSI_1: "Большой $NHSC_CANNON_PSI_1$"
+LARGE_NHSC_CANNON_PSI_1_DESC: "$NHSC_CANNON_PSI_1_DESC$"
+
+########################################
+###       Psionic Wave Cannon        ###
+########################################
+
+NHSC_CANNON_PSI_2: "Проектор псионических волн"
+NHSC_CANNON_PSI_2_DESC: "Улучшенная фокусировка псионической энергии значительно увеличивает мощность псионических проекторов."
+SMALL_NHSC_CANNON_PSI_2: "Малый $NHSC_CANNON_PSI_2$"
+SMALL_NHSC_CANNON_PSI_2_DESC: "$NHSC_CANNON_PSI_2_DESC$"
+MEDIUM_NHSC_CANNON_PSI_2: "Средний $NHSC_CANNON_PSI_2$"
+MEDIUM_NHSC_CANNON_PSI_2_DESC: "$NHSC_CANNON_PSI_2_DESC$"
+LARGE_NHSC_CANNON_PSI_2: "Большой $NHSC_CANNON_PSI_2$"
+LARGE_NHSC_CANNON_PSI_2_DESC: "$NHSC_CANNON_PSI_2_DESC$"
+
+########################################
+###       Psionic Beam Cannon        ###
+########################################
+
+NHSC_CANNON_PSI_3: "Проектор псионического луча"
+NHSC_CANNON_PSI_3_DESC: "Сфокусированный луч псионической энергии, способный сокрушать противников за считанные секунды."
+SMALL_NHSC_CANNON_PSI_3: "Малый $NHSC_CANNON_PSI_3$"
+SMALL_NHSC_CANNON_PSI_3_DESC: "$NHSC_CANNON_PSI_3_DESC$"
+MEDIUM_NHSC_CANNON_PSI_3: "Средний $NHSC_CANNON_PSI_3$"
+MEDIUM_NHSC_CANNON_PSI_3_DESC: "$NHSC_CANNON_PSI_3_DESC$"
+LARGE_NHSC_CANNON_PSI_3: "Большой $NHSC_CANNON_PSI_3$"
+LARGE_NHSC_CANNON_PSI_3_DESC: "$NHSC_CANNON_PSI_3_DESC$"
+
+########################################
+###           Psionic Lance          ###
+########################################
+
+NHSC_PSI_LANCE_1: "Псионическое копьё"
+NHSC_PSI_LANCE_1_DESC: "Энергетическое копьё, созданное из сфокусированной и концентрированной псионической энергии."
+
+########################################
+###           Shroud Piercer         ###
+########################################
+
+NHSC_PSI_LANCE_2: "Пустотный луч"
+NHSC_PSI_LANCE_2_DESC: "Улучшенная и ещё более мощная версия псионического копья."
+
+########################################
+###              Void Ray            ###
+########################################
+
+NHSC_PSI_LANCE_TITANIC: "Луч пустоты"
+NHSC_PSI_LANCE_TITANIC_DESC: "Псионическое копье невообразимой силы, которое подпитывает голодной пустотой покрова."
+NHSC_PSI_LANCE_JUGGERNAUT: "$NHSC_PSI_LANCE_TITANIC$ ($juggernaut$)"
+NHSC_PSI_LANCE_JUGGERNAUT_DESC: "$NHSC_PSI_LANCE_TITANIC_DESC$"
+
+NHSC_PSIONIC_BLAST: "Псионическая ударная волна"
+NHSC_PSIONIC_BLAST_DESC: "Ударная волна чистой псионической энергии, способная уничтожить практически всё."
+########################################
+###       Psionic Interceptors       ###
+########################################
+
+NHSC_PSI_CRAFTS: "Псионические перехватчики"
+NHSC_PSI_CRAFTS_DESC: "Перехватчики, оснащенные псионическим оружием."

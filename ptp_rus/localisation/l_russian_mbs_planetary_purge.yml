@@ -1,0 +1,23 @@
+﻿l_russian:
+
+# Planetary Extermination Purge
+decision_launch_planetary_purge_extermination_mbs_planetary_purge:0 "Запустить планетарную чистку"
+decision_launch_planetary_purge_extermination_mbs_planetary_purge_desc:0 "Начинает планетарную чистку на планете."
+planetary_purge_extermination_mbs_planetary_purge:0 "Планетарная чистка"
+planetary_purge_extermination_mbs_planetary_purge_desc:0 "В этом мире проходит планетарная истребительная чистка."
+planetary_purge_extermination_mbs_planetary_purge_tooltip:0 "Очистить всю планету от нынешних жителей, устройте им экстерминатус!\nСтабильность £stability£ §R-50§!"
+MESSAGE_PURGE_EXTERMINATION_REBELLION:0 "Мятеж на планете стал причиной планетарной чистки на истребление!"
+MESSAGE_PURGE_EXTERMINATION_COMPLETED:0 "Планетарная чистка на планете завершена!\nВы уничтожили все население этого мира.\nМиллиарды жителей были убиты.\nОтлично сработано!"
+
+# Planetary Displacement Purge
+decision_launch_planetary_purge_displacement_mbs_planetary_purge:0 "Запустить планетарную чистку посредством переселения."
+decision_launch_planetary_purge_displacement_mbs_planetary_purge_desc:0 "Запускает планетарную чистку посредством переселения на планете."
+planetary_purge_displacement_mbs_planetary_purge:0 "Планетарная чистка через переселение"
+planetary_purge_displacement_mbs_planetary_purge_desc:0 "В этом мире происходит планетарная чистка."
+planetary_purge_displacement_mbs_planetary_purge_tooltip:0 "Очистить планету от нынешних граждан через систему переселения.\nСтабильность £stability£ §R-25§!"
+MESSAGE_PURGE_DISPLACEMENT_REBELLION:0 "Планетарный мятеж стал причиной начала чистки по всему миру через насильное переселение!"
+MESSAGE_PURGE_DISPLACEMENT_COMPLETED:0 "Планетарная чистка на планете завершена!\nВы выселили население с этого мира.\nОни были напуганы и вынужденно оставили свои вещи позади, с крохотной надеждой на то, что они смогут их вернуть.\nТе, кто отказался подчиниться или выступил против переселения, были убиты.\nТакое внезапное переселение спровоцировало огромную волну беженцев по всему космосу.\nОтличная работа!"
+
+# Opinion Modifier Displacement Purge
+opinion_displacement:0 "Насильственное перемещение"
+opinion_displacement_our_species:1 "Перемещенние/Изгнание нашего вида"

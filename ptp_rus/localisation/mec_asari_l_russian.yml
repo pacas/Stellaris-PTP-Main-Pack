@@ -1,0 +1,213 @@
+﻿l_russian:
+ name_list_mec_asari_names:0 "Азари 1"
+ FLAG_CATEGORY_mec_asari_civ:0 "Азари"
+
+ ####################################
+ # Keywords
+ ####################################
+ mec_asari_republics:1 "Республики Азари"
+ mec_asari_corporate_interests:1 "Корпоративные Интересы Азари"
+ mec_asari_ascendancy:1 "Вознесённые Азари"
+
+ ####################################
+ # Species
+ ####################################
+ MECASA:0 "Азари"
+ MECASA_desc:0 "Группа Азари"
+ MECASA_adj:0 "Азари"
+ MECASA_plural:0 "Азари"
+ MECASA_fossil:0 "ископаемое"
+ MECASA_fossil_plural:0 "ископаемые"
+ MECASA_remnant:0 "скелет"
+ MECASA_remnant_plural:0 "скелеты"
+ MECASA_insult_01:0 "паразит"
+ MECASA_insult_02:0 "синяя змея"
+ MECASA_insult_03:0 "кальмароголовая"
+ MECASA_insult_04:0 "тентаклешлюха"
+ MECASA_insult_plural_01:0 "паразиты"
+ MECASA_insult_plural_02:0 "синие змеи"
+ MECASA_insult_plural_03:0 "кальмароголовые"
+ MECASA_insult_plural_04:0 "тентаклешлюхи"
+ MECASA_compliment_01:0 "ангел"
+ MECASA_compliment_plural_01:0 "ангелы"
+ MECASA_spawn:0 "дева"
+ MECASA_spawn_plural:0 "девы"
+ MECASA_sound_01:0 "нытье"
+ MECASA_sound_02:0 "визг"
+ MECASA_sound_03:0 "тявкать"
+ MECASA_sound_04:0 "плакать"
+ MECASA_sound_05:0 "жаловаться"
+ MECASA_organ:0 "желудок"
+ MECASA_organ_plural:0 "желудки"
+ MECASA_mouth:0 "рот"
+ MECASA_ear:0 "ухо"
+ MECASA_ear_plural:0 "уши"
+ MECASA_hand:0 "рука"
+ MECASA_hand_plural:0 "руки"
+ MECASA_tooth:0 "зуб"
+ MECASA_tooth_plural:0 "зубы"
+
+ ####################################
+ # Empire
+ ####################################
+ EMPIRE_DESIGN_mec_asarirepublics_civ:0 "Республики Азари"
+ EMPIRE_DESIGN_mec_asarirepublics_civ_desc:0 "Азари - моногендерные гуманоиды, отличающиеся своей сложной нервной системой, долголетием и особой формой партеногенетического размножения, которая позволяет их виду размножаться и развиваться, ассимилируя генетическую особенность чужеродных рас в их собственный геном.\n\nКультура азари предрасположена к мирному сосуществованию, центризму в политике и компромиссу в конфликте. Республики никогда не имели глобального правительства и до сих пор остаются множеством независимых государств, но Азари сумели научиться жить в относительном мире и стабильности на протяжении большей части своей истории.\n\nЭто, однако, не делает их слепыми к опасностям вселенной или беспомощными перед лицом соперника. Наоборот: они знают ценность своих многочисленных достижений и тревожных секретов, и у них нет никаких сомнений в том, чтобы использовать силу и обман, чтобы защитить себя и свою расу."
+ START_SCREEN_MEC_ASR:0 "Мы [Root.GetName]. Несмотря на нашу историю разнообразия и распрей, мы всегда находили способ понять друг друга, избежать крупных войн, защитить наших граждан от преступлений, болезней и голода. Одним из наших самых важных достижений было создание сложной инфраструктуры связи, которая позволила каждому представителю [Root.GetSpeciesName] иметь право голоса во многих электронных демократиях, которые составляют наше общество.\n\nСообща мы воздвигли чудесные сооружения, создали прекрасные произведения искусства и разработали передовые технологии. И на этом мы не собираемся останавливаться - наша культура задаст вектор развития галактики на тысячелетия вперед. Когда другие разумные существа будут смотреть на что-то с благоговением, мы хотим, чтобы они думали о нас."
+
+ EMPIRE_DESIGN_mec_asariillium_civ:0 "Корпоративные Интересы Азари"
+ EMPIRE_DESIGN_mec_asariillium_civ_desc:0 "Азари - моногендерные гуманоиды, отличающиеся своей сложной нервной системой, долголетием и особой формой партеногенетического размножения, которая позволяет их виду размножаться и развиваться, ассимилируя генетическую особенность чужеродных рас в их собственный геном.\n\nКорпоративные Интересы Азари действуют в Иллиуме, молодой (по стандартам азари) колонии, которая принадлежит и управляется частным сектором, а не собственно Республиками Азари. Корпорации на Иллиуме пользуются практически неограниченной юридической свободой, позорно приводя к злоупотреблениям в трудовой практике и легализации практически всего, кроме убийства.\n\nНо это не равносильно беззаконию и хаосу, а даже наоборот. Поскольку параноидальные руководители и состоятельные знаменитости ставят порядок и безопасность превыше всего, повсеместный надзор и экстенсивная бюрократия гарантируют, что никто не нарушит декадентский рай для всех остальных."
+ START_SCREEN_MEC_ASI:0 "Основанная всего несколько веков назад, колония [Root.Capital.GetName] начала процветать за пределами самых амбициозных прогнозов под контролем [Root.GetName].\n\nС момента своего основания, [Root.Capital.GetName] был синонимом передовых технологий, гламурной роскоши и нетрадиционных идей, которые никогда не укоренились бы в более консервативных частях галактики; при этом, здесь всем удается оставаться в безопасности, что выгодно тем, кто вложил бесчисленные средства в этот успех.\n\nНо если мы хотим избежать застоя и соответствовать галактической сцене, мы должны расширить сферу наших амбиций. Нас ждет целая плеяда возможностей, но они не будут ждать вечно, если мы не примем участие в соревновании. Мы должны перехватить инициативу - это единственный путь вперед, в светлое будушее."
+
+ EMPIRE_DESIGN_mec_asarirepublics_civ_old:0 "$EMPIRE_DESIGN_mec_asarirepublics_civ$"
+ EMPIRE_DESIGN_mec_asarirepublics_civ_old_desc:0 "$EMPIRE_DESIGN_mec_asarirepublics_civ_desc$"
+
+ ####################################
+ # System Initializers
+ ####################################
+ mec_asr_system_initializer_NAME:0 "Туманность Афины"
+ mec_asr_system_initializer_DESC:0 "§LРодная система Республик Азари. Содержит заданные системы с планетами: Парнита, Иалесса, Орисони, Томарос и Вернио.§!\n"
+
+ mec_asi_system_initializer_NAME:0 "Туманность Полумесяц"
+ mec_asi_system_initializer_DESC:0 "§LБуферная зона между системами Терминус и Республиками азари, дом для корпораций с Иллума. Содержит заданные системы с планетами: Тазале, Люсарна, Зелена и Ондеста.§!\n"
+
+ ####################################
+ # Traits
+ ####################################
+ mec_asari_trait_core:0 "Неувядающие"
+ mec_asari_trait_core_desc:0 "§LЭтот исключительно женский вид отличается исключительной долговечностью благодаря мощной клеточной регенерации, а также уникальной форме партеногенетического размножения, позволяющей им размножаться даже в отсутствие партнеров идентичного вида.§!\n"
+ mec_asari_trait_CORE_EFFECT:0 "Когда §YПопуляция £pop£ ксенофилов§! перестает расти, имеется вероятность ассимиляции этим видом\n\nПродолжительность жизни лидера: §G+900§! лет\nОграничение возраста лидера: §Y250§!-§Y750§! лет\nСтоимость вербовки и содержания лидера: §R+100%§!\nСкорость роста популяции: §R-25%§!"
+ mec_asari_trait_biotic:0 "Натуральные биотики"
+ mec_asari_trait_biotic_desc:0 "§LЭтот вид обладает врожденной способностью использовать биотику, что позволяет их нервной системе удаленно манипулировать полями массы воздействуя на них без помощи специальных имплантатов.§!\n"
+ mec_asari_trait_BIOTIC_EFFECT:0 "Биотические £pop£ поселения производят §G+0.1§! £mec_biotics£ Биотику, которая может быть потрачена на активацию особых §Yуказов§!."
+ mec_asari_trait_sophisticated:0 "Сложные потребности"
+ mec_asari_trait_sophisticated_desc:0 "§LЭтот вид очень социальный и культурный, его легко ввергнуть в тоску и печаль, если ему отказывают в общении и интеллектуальном стимулировании.§!\n"
+ mec_asari_trait_SOPHISTICATED_EFFECT:0 ""
+
+ mec_asari_leader_trait_farsighted:0 "Дальновидная"
+ mec_asari_leader_trait_farsighted_desc:0 "Этот лидер строит планы на будущее - на десятилетия, столетия, даже поколения вперед."
+
+ ####################################
+ # Civics
+ ####################################
+
+ # Thessian Statecraft
+
+ mec_asari_civic_thessia:0 "Тессийское право"
+ mec_civic_asari_thessia_desc:0 "Связность лежит в основе этого общества. Государственные вопросы всегда открыты для плебисцита, а вездесущая медийная машина способствует мгновенному распространению идей. Культура расцветает через ассимиляцию различных точек зрения и инопланетных концепций."
+ mec_asari_civic_tooltip_thessia_effects:2 "§YТессийская республика§! может быть установлена как тип правления на планете, добавляя вакансии специалистов и привлекательность этик в зависимости от выбранного типа республики."
+
+ mec_asari_decision_civic_republic_establish:0 "Утвердить Тессийскую республику"
+ mec_asari_decision_civic_republic_establish_desc:0 "Полуавтономная Тессийская республика управляет этой планетой с идентичностью, определяемой ценностями народа."
+ mec_asari_decision_civic_republic_establish_condition_1:0 "£trigger_no£ Количество поселений с соответствующей этикой больше или равно §Y5§!"
+ mec_asari_decision_civic_republic_establish_condition_1a:0 "£trigger_yes£ Количество поселений с соответствующей этикой больше или равно §Y5§!"
+ mec_asari_decision_civic_republic_establish_condition_2:0 "£trigger_no£ Ещё нет §YТессийской республики§!"
+ mec_asari_decision_civic_republic_establish_condition_2a:0 "£trigger_yes£ Ещё нет §YТессийской республики§!"
+ mec_asari_decision_civic_republic_establish_effects:0 "Adds jobs and ethic attraction based on the chosen ideology"
+
+ mec_asari_decision_busy:0 "£trigger_no£ Событие уже происходит"
+
+ mec_asari_asr.201.name:0 "Новая республика"
+ mec_asari_asr.201.desc:0 "Forums across the extranet are abuzz with the news! The local e-democracies of [This.GetName] have voted to form a global assembly to represent the planet's interests in the Ecclessia. While the various local republics will retain their autonomy in regional matters, they must now find common ground and decide what joint agenda the §YRepublic of [This.GetName]§! will bring to the international table..."
+ mec_asari_asr.201.a:0 "Свобода"
+ mec_asari_asr.201.a.tooltip:0 "$job_entertainer$ Jobs: §G+1§!\n§G+1§! $job_entertainer$ Job per §Y40§! Pops\n$mod_pop_ethic_egalitarian_attraction_mult$: §G+20%§!"
+ mec_asari_asr.201.b:0 "Стабильность"
+ mec_asari_asr.201.b.tooltip:0 "$job_bureaucrat$ Jobs: §G+1§!\n§G+1§! $job_bureaucrat$ Job per §Y40§! Pops\n$mod_pop_ethic_authoritarian_attraction_mult$: §G+20%§!"
+ mec_asari_asr.201.c:0 "Благосостояние"
+ mec_asari_asr.201.c.tooltip:0 "$job_healthcare$ Jobs: §G+1§!\n§G+1§! $job_healthcare$ Job per §Y40§! Pops\n$mod_pop_ethic_xenophile_attraction_mult$: §G+20%§!"
+ mec_asari_asr.201.d:0 "Безопастность"
+ mec_asari_asr.201.d.tooltip:0 "$job_enforcer$ Jobs: §G+1§!\n§G+1§! $job_enforcer$ Job per §Y40§! Pops\n$mod_pop_ethic_xenophobe_attraction_mult$: §G+20%§!"
+ mec_asari_asr.201.e:0 "Процветание"
+ mec_asari_asr.201.e.tooltip:0 "$job_artisan$ Jobs: §G+1§!\n§G+1§! $job_artisan$ Job per §Y40§! Pops\n$mod_pop_ethic_pacifist_attraction_mult$: §G+20%§!"
+ mec_asari_asr.201.f:0 "Индустрия"
+ mec_asari_asr.201.f.tooltip:0 "$job_foundry$ Jobs: §G+1§!\n§G+1§! $job_foundry$ Job per §Y40§! Pops\n$mod_pop_ethic_militarist_attraction_mult$: §G+20%§!"
+ mec_asari_asr.201.g:0 "Обучение"
+ mec_asari_asr.201.g.tooltip:0 "$job_researcher$ Jobs: §G+1§!\n§G+1§! $job_researcher$ Job per §Y40§! Pops\n$mod_pop_ethic_materialist_attraction_mult$: §G+20%§!"
+ mec_asari_asr.201.h:0 "Культура"
+ mec_asari_asr.201.h.tooltip:0 "$job_culture_worker$ Jobs: §G+1§!\n§G+1§! $job_culture_worker$ Job per §Y40§! Pops\n$mod_pop_ethic_spiritualist_attraction_mult$: §G+20%§!"
+ mec_asari_asr.201.ha.tooltip:0 "$job_priest$ Jobs: §G+1§!\n§G+1§! $job_priest$ Job per §Y40§! Pops\n$mod_pop_ethic_spiritualist_attraction_mult$: §G+20%§!"
+ mec_asari_asr.201.i:0 "£trigger_no£ No consensus"
+
+ d_mec_asari_republic_egalitarian:0 "Тессийская республика: Свобода"
+ d_mec_asari_republic_egalitarian_desc:0 "This Republic values the freedom and individuality of its citizens above all else. Lax legistlation and freedom of expression have given rise to a thriving entertainment industry."
+ d_mec_asari_republic_authoritarian:0 "Тессийская республика: Стабильность"
+ d_mec_asari_republic_authoritarian_desc:0 "This Republic is a highly efficient machine driven by a well-designed bureaucratic system that ensures mag-trains always run on time and citizens rarely face inconvenience in their daily lives."
+ d_mec_asari_republic_xenophile:0 "Тессийская республика: Благосостояние"
+ d_mec_asari_republic_xenophile_desc:0 "This Republic cultivates a deep reverence for life in all aspects of society. Generous investment in healthcare and xenostudies make the quality of life second to none for native and foreign citizens alike."
+ d_mec_asari_republic_xenophobe:0 "Тессийская республика: Безопасность"
+ d_mec_asari_republic_xenophobe_desc:0 "This Republic is a bastion of safety, protecting its citizens from crime, corporate exploitation and other dangers both within and without."
+ d_mec_asari_republic_pacifist:0 "Тессийская республика: Процветание"
+ d_mec_asari_republic_pacifist_desc:0 "This Republic was founded on the idea that happiness can indeed be bought. State patronage of local craft guilds and open but ethical trade policies offer the citizens a peaceful life in the lap of luxury."
+ d_mec_asari_republic_militarist:0 "Тессийская республика: Индустрия"
+ d_mec_asari_republic_militarist_desc:0 "This Republic inspires a sense of patriotic zeal in its citizens, centered around the ship-building industry. They take great pride in the navy and those who serve aboard."
+ d_mec_asari_republic_materialist:0 "Тессийская республика: Обучение"
+ d_mec_asari_republic_materialist_desc:0 "This Republic is renowned for its institutions of learning, many of which regularly produce prominent scholars and scientists."
+ d_mec_asari_republic_spiritualist:0 "Тессийская республика: Культура"
+ d_mec_asari_republic_spiritualist_desc:0 "This Republic is famous for its rich and diverse portfolio of art, literature, philosophy and even some more esoteric disciplines."
+
+ mec_asari_decision_civic_republic_dissolve:0 "Распустить Тессийскую республику"
+ mec_asari_decision_civic_republic_dissolve_desc:0 "Существующая Тессийская республика будет распущена."
+ mec_asari_decision_civic_republic_dissolve_effects:0 "Удаляет §YТессийскую республику§!"
+
+ MEC_ASARI_REPUBLIC_EXPIRED_NO_CIVIC:0 "Без поддержки правительства, Тессийская республика на $PLANET|H$ прекратила существование."
+
+# Illium à la Mode
+
+ mec_asari_civic_illium:0 "Illium à la Mode (Иллиумская мода)"
+ mec_asari_civic_illium_desc:0 "Эта мегакорпорация представляет собой децентрализованную сеть партнерских отношений между автономными корпорациями и влиятельными лицами, которые процветают на декадентском либеральном рынке."
+ mec_asari_civic_tooltip_illium_effects:2 "Получение §G+0.002§! £influence£ влияния за каждую единицу £trade_value£ объёма торговли.\nФилиалы могут поддерживать §YПартнерские отношения§!, предлагая различные дипломатические и экономические выгоды за счет £influence£ влияния."
+
+ mec_asari_branch_illium_inv_entertainment:0 "Партнёрство: развлечения"
+ mec_asari_branch_illium_inv_entertainment_desc:0 "Партнерство с местным медиагигантом. В обмен на участие в структуре власти страны он получает эксклюзивные возможности заключения контрактов с известными галактическими знаменитостями."
+ mec_asari_branch_illium_inv_consumer:0 "Партнёрство: кибертехнологии"
+ mec_asari_branch_illium_inv_consumer_desc:0 "Партнерство с местным брендом кибертехнологий. В обмен на участие в структуре власти страны он получает доступ к передовым технологиям и фактическую монополию на их распространение."
+ mec_asari_branch_illium_inv_alloys:0 "Партнёрство: военные технологии"
+ mec_asari_branch_illium_inv_alloys_desc:0 "Партнерство с местным производителем оружия. В обмен на участие в структуре власти страны он получает доступ к передовым технологиям и фактическую монополию на их распространение."
+
+  # Thessian Ascendancy (Special)
+
+ mec_asari_civic_ascendancy:0 "Восходящая судьба"
+ mec_asari_civic_ascendancy_desc:0 "Люди этого общества видят себя избранными преемниками предшествующей империи, которая когда-то правила галактикой, и стремятся заявить о своем законном наследстве."
+ mec_asari_civic_tooltip_ascendancy_effects:2 "Уменьшенное §Yотношение§! к империи от империй, которые не являются субъектами или членами федерации."
+
+ # Misc
+
+ mec_asari_civic_tooltip_req_origin_thessia:0 "Имеет происхождение: §Y$mec_asari_origin_thessia$§!"
+ mec_asari_civic_tooltip_req_origin_illium:0 "Имеет происхождение: §Y$mec_asari_origin_illium$§!"
+
+ ####################################
+ # Governments
+ ####################################
+
+ gov_mec_asr:0 "Electronic Democracy"
+ gov_mec_asr_desc:0 "This government is a highly decentralized form of democracy where a sophisticated communications network permeating the entire civil infrastructure allows citizens to be directly involved in the matters of countless semi-independent nation-states.\nThe only elected office is that of a liaison representing the e-republics' collective interests on the galactic stage."
+ MEC_RT_ASR_M:0 "Liaison"
+ MEC_RT_ASR_F:0 "Liaison"
+
+ ####################################
+ # Decisions
+ ####################################
+ mec_biotics:0 "Biotics"
+ mec_biotics_desc:0 "§E§H$mec_biotics$§! (£mec_biotics£) represents the abstract sum of biotic assets and research at the empire's disposal. It is collected from Biotic £pop£ §HPops§! and can be spent to activate special §HEdicts§!.§!"
+
+ edict_mec_biotics_edict_armies:0 "Biotics: Empower Military"
+ edict_mec_biotics_edict_armies_desc:0 "In combat, biotically-supported units benefit from not only a sheer strength multiplier but also the tactical flexibility provided by easily deployed barriers, precise gravitational anomalies and other forms of mass effect manipulation.\n\n§Y$mec_biotics_desc$§!"
+ edict_mec_biotics_edict_research:0 "Biotics: Fund Research"
+ edict_mec_biotics_edict_research_desc:0 "Biotics have many practical applications across a wide range of scientific disciplines. Between manipulating gravity, generating containment fields and even more exotic phenomena manifested by test subjects, there are very few avenues of research that cannot benefit from a little biotic touch.\n\n§Y$mec_biotics_desc$§!"
+ edict_mec_biotics_edict_upkeep:0 "Biotics: Support Industry"
+ edict_mec_biotics_edict_upkeep_desc:0 "While even organic Biotics cannot generate more energy than they consume, the resulting input-output ratio is still far more efficient than any machinery. By substituting biotics for equipment in certain fields of industry, the operating costs can be greatly reduced.\n\n§Y$mec_biotics_desc$§!"
+ edict_mec_biotics_edict_sell:0 "Biotics: Sell Biotic Research"
+ edict_mec_biotics_edict_sell_desc:0 "Knowledge is power and power has a price that someone somewhere is always willing to pay.\n\n§Y$mec_biotics_desc$§!"
+
+ ####################################
+ # Modifiers
+ ####################################
+ mec_asari_mod_pop_ardatyakshi:0 "Перенаселение Ардат-Якши"
+ mec_asari_mod_pop_ardatyakshi_desc:0 "This population contains an abnormally high number of Ardat-Yakshi individuals."
+
+ ####################################
+ # Opinion Modifiers
+ ####################################
+ mec_asari_triggered_opinion_asr_asi_base:0 "Дальние сестры"
+ mec_asari_triggered_opinion_asi_asr_base:0 "Дальние сестры"
+ mec_asari_triggered_opintion_asc_civic_effect:0 "$mec_asari_civic_ascendancy$"
+ mec_asari_triggered_opintion_galactic_good_effect:0 "Sharing Prothean Beacon"

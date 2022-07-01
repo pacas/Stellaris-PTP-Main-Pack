@@ -1,0 +1,200 @@
+﻿l_russian:
+
+ pc_bwm_star_dummy:0 ""
+ pc_bwm_star_dummy_desc:0 ""
+
+ pc_bwm_planet_dummy:0 ""
+ pc_bwm_planet_dummy_desc:0 ""
+
+ bwm_apostle_seal:0 "Защитник"
+ bwm_apostle_seal_mid_key:0 "Ядро защитника"
+
+ bwm_apostle_s_cloud:0 "Предок"
+ bwm_apostle_s_cloud_mid_key:0 "Высвобожденное ядро предка"
+
+ bwm_apostle_m_cloud:0 "Предок"
+ bwm_apostle_m_cloud_mid_key:0 "Высвобожденное ядро предка"
+
+ bwm_apostle_l_cloud:0 "Предок"
+ bwm_apostle_l_cloud_mid_key:0 "Высвобожденное ядро предка"
+
+ bwm_apostle_xl_cloud:0 "Предок"
+ bwm_apostle_xl_cloud_mid_key:0 "Высвобожденное ядро предка"
+
+  bwm_apostle_xxl_cloud:0 "Предок"
+ bwm_apostle_xxl_cloud_mid_key:0 "Высвобожденное ядро предка"
+
+ bwm_apostle_scout:0 "Предок"
+ bwm_apostle_scout_mid_key:0 "Ядро «Аколит» предка"
+
+ bwm_apostle_station:0 "Предок"
+ bwm_apostle_station_mid_key:0 "Ядро «Храм» предка"
+
+ bwm_apostle_1:0 "Предок"
+ bwm_apostle_1_mid_key:0 "Ядро корабля предка"
+
+ bwm_apostle_2:0 "Предок"
+ bwm_apostle_2_mid_key:0 "Ядро корабля предка"
+
+ bwm_apostle_3:0 "Предок"
+ bwm_apostle_3_mid_key:0 "Ядро корабля предка"
+
+ bwm_apostle_4:0 "Предок"
+ bwm_apostle_4_mid_key:0 "Ядро корабля предка"
+
+ bwm_apostle_egg:0 "Предок"
+ bwm_apostle_egg_mid_key:0 "Ядро корабля предка"
+
+ bwm_apostle_child:0 "Предок"
+ bwm_apostle_child_mid_key:0 "Ядро корабля предка"
+
+ bwm_apostle_seal_plural:0 "Защитники"
+ bwm_apostle_s_cloud_plural:0 "Высвобожденные"
+ bwm_apostle_m_cloud_plural:0 "Высвобожденные"
+ bwm_apostle_l_cloud_plural:0 "Высвобожденные"
+ bwm_apostle_xl_cloud_plural:0 "Высвобожденные"
+ bwm_apostle_xxl_cloud_plural:0 "Высвобожденные"
+ bwm_apostle_scout_plural:0 "Предки"
+ bwm_apostle_station_plural:0 "Предки"
+ bwm_apostle_1_plural:0 "Предки"
+ bwm_apostle_2_plural:0 "Предки"
+ bwm_apostle_3_plural:0 "Предки"
+ bwm_apostle_4_plural:0 "Предки"
+ bwm_apostle_egg_plural:0 "Предки"
+ bwm_apostle_child_plural:0 "Предки"
+
+ bwm_ANCESTOR_PRIMARY_WEAPON:0 "Супергравитонная пушка предка"
+ bwm_ANCESTOR_SECONDARY_WEAPON:0 "Гравитонная пушка предка"
+ bwm_ANCESTOR_SECONDARY_STATION_WEAPON:0 "Гравитонная пушка предка"
+ bwm_ANCESTOR_TORPEDO:0 "Коррозийная торпеда предка"
+ bwm_ANCESTOR_LARGE_WEAPON:0 "Фотонная пушка предка Т-III"
+ bwm_ANCESTOR_MEDIUM_WEAPON:0 "Фотонная пушка предка Т-II"
+ bwm_ANCESTOR_SMALL_WEAPON:0 "Фотонная пушка предка Т-I"
+ bwm_ANCESTOR_PD:0 "Оборонительный комплекс предка"
+
+ bwm_ANCESTOR_STAR_XXL_WEAPON:0 "Ударная пушка предка Т-V"
+ bwm_ANCESTOR_STAR_XL_WEAPON:0 "Ударная пушка предка Т-IV"
+ bwm_ANCESTOR_STAR_L_WEAPON:0 "Ударная пушка предка Т-III"
+ bwm_ANCESTOR_STAR_M_WEAPON:0 "Ударная пушка предка Т-II"
+ bwm_ANCESTOR_STAR_S_WEAPON:0 "Ударная пушка предка Т-I"
+
+ bwm_ANCESTOR_FIGHTER_HANGAR:0 "Ангар дронов предка Т-I"
+ bwm_ANCESTOR_BOMBER_HANGAR:0 "Ангар дронов предка Т-II"
+
+ bwm_ANCESTOR_PRISON_AURA:0 "Подавляющее поле защитника"
+ bwm_ANCESTOR_DAMAGE_AURA_S:0 "Дезинтегратор предка Т-I"
+ bwm_ANCESTOR_DAMAGE_AURA_M:0 "Дезинтегратор предка Т-II"
+ bwm_ANCESTOR_DAMAGE_AURA_L:0 "Дезинтегратор предка Т-III"
+ bwm_ANCESTOR_DAMAGE_AURA_XL:0 "Дезинтегратор предка Т-IV"
+ bwm_ANCESTOR_DAMAGE_AURA_XXL:0 "Дезинтегратор предка Т-V"
+ bwm_ANCESTOR_SCOUT_AURA:0 "Поле-ингибитор предка"
+ bwm_ANCESTOR_BOSS_AURA:0 "Поле ужаса предков"
+
+ bwm_building_crisis_ruin:0 "Руины"
+ bwm_building_crisis_ruin_desc:0 "§LОстался только пепел.§!"
+
+ tb_bwm_nature:0 "£blocker  Дикие заросли"
+ tb_bwm_nature_desc:0 "Безумие природы."
+
+ bwm_ancestor_weakness:0 "Разложение"
+ bwm_ancestor_weakness_desc:0 "Обновленные данные целеуказания позволят нашим флотилиям использовать слабости Предков."
+ damage_vs_country_type_bwm_ancestor_guardian_mult:0 "Урон предкам"
+
+ bwm_ANCESTOR_WEAKNESS_PROJECT:0 "Перекалибровка оружия - Предки"
+ bwm_ANCESTOR_WEAKNESS_PROJECT_DESC:0 "Исследуйте «Избранников Тесана» и найдите их слабости."
+
+ bwm_pop_ancestor:0 "Метка Тесана"
+ bwm_pop_ancestor_desc:0 "Тронутые «Избранниками Рассвета»."
+
+ bwm_ancestor_in_system:0 "Свет Тесана"
+ bwm_ancestor_in_system_desc:0 "Присутствие Тесана сохраняется."
+
+ bwm_ancestor_garden_world:0 "Нетронутый мир-сад"
+ bwm_ancestor_garden_world_desc:0 "Избранники Тесана превратили этот мир в цветущий рай."
+
+ bwm_ancestor.40:0 "Древняя Тюрьма"
+ bwm_ancestor.40.desc:0 "Наши корабельные сканеры обнаружили ряд объектов с очень высоким зарядом в пределах системы [From.GetName], которая странным образом лишена каких-либо планет или астероидов. Следует соблюдать осторожность и подвести флот поближе, чтобы получить детальные показания."
+ bwm_ancestor.40.a.tooltip:0 "§RВНИМАНИЕ - Обнаружены высокоэнергетические сигнатуры.§!"
+
+ bwm_ancestor.41:0 "Расколотая печать"
+ bwm_ancestor.41.desc:0 "Печать была нейтрализована, её физическая форма превратилась в нестабильное образование из чистой энергии. Интересно, действительно ли мы поступили разумно?"
+ bwm_ancestor.41.a:0 "Время покажет."
+
+ bwm_ancestor.42:0 "Пересекая Рубикон"
+ bwm_ancestor.42.desc:0 "Тессеракт в [bwm_prison_system_local.GetName] распадается до своей базовой формы. Хотя физически он уменьшился, выделяемая энергия возросла до опасного уровня."
+ bwm_ancestor.42.a:0 "Пути назад нет."
+
+ bwm_ancestor.43:0 "Детонация тессеракта"
+ bwm_ancestor.43.desc:0 "Тессеракт в системе [bwm_prison_system_local.GetName] взорвался. Подпитываемый всё больше возрастающим количеством собственной энергии, он, кажется, временно нарушил известные нам законы физики, - и коллапсировал из-за невероятной плотности этой энергии."
+ bwm_ancestor.43.a:0 "Готовьтесь к худшему."
+
+ bwm_ancestor.44:0 "Избранники Рассвета"
+ bwm_ancestor.44.desc:0 "Существо великой силы появляется из недр павшей звезды."
+ bwm_ancestor.44.a:0 "Это явно нехорошо."
+
+ bwm_ancestor.45:0 "Кокон"
+ bwm_ancestor.45.desc:0 "Странный Левиафан, бродящий по нашей галактике, перестроился на молекулярном уровне. После сканирования его обновлённой структуры мы можем сделать вывод, что его потенциальный урон значительно увеличился."
+ bwm_ancestor.45.a:0 "Что это за безумие?"
+
+ bwm_ancestor.46:0 "Зарождение"
+ bwm_ancestor.46.desc:0 "Из Левиафана «появился» новый тип корабля, и мы никак не можем понять, как это внешне механическое существо способно на такие вещи. Учитывая его новые возможности, мы должны повысить наш уровень военного присутствия для противодействия этому существу."
+ bwm_ancestor.46.a:0 "Как это вообще возможно?"
+
+ bwm_ancestor.47:0 "Чистый лист"
+ bwm_ancestor.47.desc:0 "Равновесие восстанавливается, когда природа восстанавливает то, что было искусственно изменено."
+ bwm_ancestor.47.a:0 "Сложная ситуация."
+
+ bwm_ancestor.48:0 "Выжженная земля"
+ bwm_ancestor.48.desc:0 "Бомбардировка ранее терраформированного мира уничтожила все следы его новообретенной красоты."
+ bwm_ancestor.48.a:0 "Все равно она была неестественной."
+
+ bwm_ancestor.49:0 "Война за печати"
+ bwm_ancestor.49.desc:0 "Вы, высокомерные и воинственные глупцы. В течение многих эпох мы пытались защитить печати от взлома, и каким-то образом ваши примитивные технологии сумели не попасть в наше поле зрения. Теперь вы заплатите за свои действия. Будем надеяться, что ещё не слишком поздно."
+ bwm_ancestor.49.a:0 "Подождите! Мы не могли этого знать!"
+ bwm_ancestor.49.a.response:0 "Это не имеет никакого значения."
+
+ bwm_ancestor.51:0 "Конец света"
+ bwm_ancestor.51.desc:0 "Изводящий нашу галактику левиафан был отключен, и мы больше не наблюдаем никаких свидетельств его функционирования. Мы должны чтить наших адмиралов, которые одержали столь великую победу."
+ bwm_ancestor.51.a:0 "Этот кошмар, наконец, окончился."
+
+ bwm_ancestor.52:0 "Телемерия - Вестники Тесана"
+ bwm_ancestor.52.desc:0 "Нам удалось перехватить подпространственную сигнатуру странного инопланетного корабля, которой недавно пересек наше пространство. Теперь мы можем его отследить."
+
+ bwm_ancestor.53:0 "- ВНИМАНИЕ -"
+ bwm_ancestor.53.desc:0 "Вражеское судно выполняет экстренный сверхсветовой манёвр."
+
+ bwm_ancestor.61:0 "Из пепла"
+ bwm_ancestor.61.desc:0 "Наше оружие оказалось неэффективным против этой цели. Наш уровень потерь очень высок, и адмиралы предлагают направить научную команду на разработку способа предоления обороны врагов."
+ bwm_ancestor.61.a:0 "Нас не так легко победить."
+ bwm_ancestor.61.b:0 "Наши военные справятся самостоятельно."
+
+ bwm_ancestor.62:0 "Последний бой"
+ bwm_ancestor.62.desc:0 "Наши ученые считают, что они разработали военную технику, что поможет преодолеть оборону, которая оказалась неприступной для наших сил во время последнего столкновения. Наши офицеры готовы испытать эту новую технику на противнике."
+ bwm_ancestor.62.a:0 "Победа будет за нами!"
+
+ bwm_lex_ancestor_chain_title:0 "Дети Рассвета"
+ bwm_lex_ancestor_chain_desc:0 "Древний враг, когда-то изгнанный за свои преступления против народов этой галактики, был непреднамеренно освобожден из своих тысячелетних оков и теперь разгуливает на свободе."
+ bwm_ancestor_worlds:0 "§YТерраформированные миры§!"
+ bwm_ancestor_worlds_cleansed:0 "§YТерраформированные миры очищены§!"
+ bwm_ancestor_kills_us:0 "§GИзбранники Тесана убиты нами§!"
+ bwm_ancestor_kills_others:0 "§GИзбранники Тесана убиты не нами§!"
+ bwm_ancestor_victims:0 "§RПереоборудованные суда§!"
+ bwm_ancestor_herald_counter:0 "§HВестники побеждены.§!"
+
+ bwm_ancestor_herald_1_poi:0 "1-ый Вестник"
+ bwm_ancestor_herald_1_poi_desc:0 "Подпространственная сигнатура судна, обозначенного как «1-ый Вестник»."
+
+ bwm_ancestor_herald_2_poi:0 "2-ой Вестник"
+ bwm_ancestor_herald_2_poi_desc:0 "Подпространственная сигнатура судна, обозначенного как «2-ой Вестник»."
+
+ bwm_ancestor_herald_3_poi:0 "3-ий Вестник"
+ bwm_ancestor_herald_3_poi_desc:0 "Подпространственная сигнатура судна, обозначенного как «3-ий Вестник»."
+
+ bwm_ancestor_herald_4_poi:0 "4-ый Вестник"
+ bwm_ancestor_herald_4_poi_desc:0 "Подпространственная сигнатура судна, обозначенного как «4-ый Вестник»."
+
+ bwm_ancestor_herald_5_poi:0 "5-ый Вестник"
+ bwm_ancestor_herald_5_poi_desc:0 "Подпространственная сигнатура судна, обозначенного как «5-ый Вестник»."
+
+ bwm_ancestor_herald_6_poi:0 "6-ой Вестник"
+ bwm_ancestor_herald_6_poi_desc:0 "Подпространственная сигнатура судна, обозначенного как «6-ой Вестник»."

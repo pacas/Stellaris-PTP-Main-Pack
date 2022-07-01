@@ -1,0 +1,188 @@
+﻿l_russian:
+ tradition_global:0 "Кнопка «Пуск»"
+ tradition_global_desc:0 "Это кнопка «Пуск», она нужна из-за того, как в Stellaris работают традиции, нажмите на нее и перейдите к действующим традициям."
+
+ tratr_diplo_unlocked:0 "Дипломатия"
+ tratr_adapt_unlocked:0 "Приспособляемость"
+ tratr_versa_unlocked:0 "Гибкость"
+ 
+ tratr_est_friend_unlocked:0 "Дружба"
+ tratr_est_malice_unlocked:0 "Устрашение"
+ tratr_est_malicealt_unlocked:0 "Устрашение"
+ tratr_est_per_ip_unlocked:0 "Настойчивость"
+ 
+ tratr_est_aspir_unlocked:0 "Стремление"
+ 
+ tratr_expan_unlocked:0 "Расширение"
+ 
+ tratr_admin_unlocked:0 "Администратум"
+ tratr_omnipresence_unlocked:0 "Вездесущность"
+ 
+ tratr_found_unlocked:0 "Основание"
+ tratr_confe_unlocked:0 "Конфедерация"
+ tratr_subminds_unlocked:0 "Часть разума"
+ 
+ tratr_domin_unlocked:0 "Доминирование"
+ 
+ tratr_isolation_unlocked:0 "Изоляционизм"
+ tratr_proys_unlocked:0 "Прозелитизм"
+ 
+ tratr_ptmal_unlocked:0 "Устрашение"
+ 
+ tratr_theswarm_unlocked:0 "Рой"
+ 
+ tratr_harmo_unlocked:0 "Гармония"
+ tratr_synch_unlocked:0 "Синхронность"
+ tratr_syncm_unlocked:0 "Синхронность"
+ 
+ tratr_aesth_unlocked:0 "Эстетика"
+ tratr_aesthspirit_unlocked:0 "Эстетика"
+ tratr_agehive_unlocked:0 "Эпоха"
+ tratr_agemach_unlocked:0 "Эпоха"
+ 
+ tratr_justice_unlocked:0 "Справедливость"
+ tratr_dest_unlocked:0 "Разрушение"
+ 
+ tratr_liber_unlocked:0 "Свобода"
+ tratr_libernomig_unlocked:0 "Свобода"
+ 
+ tratr_order_unlocked:0 "Порядок"
+ tratr_orderegal_unlocked:0 "Порядок"
+ tratr_cooper_unlocked:0 "Кооперативность"
+ 
+ tratr_ptaff_unlocked:0 "Взаимность"
+ 
+ tratr_ptmyst_unlocked:0 "Мистицизм"
+ tratr_ptmystmach_unlocked:0 "Мистицизм"
+ 
+ tratr_disco_unlocked:0 "Открытия"
+ 
+ tratr_arch_paco_mod:0 "Архивариус"
+ tratr_arch_pafm_mod:0 "Архивариус"
+ tratr_arch_pavc_mod:0 "Архивариус"
+ tratr_arch_pabio_mod:0 "Архивариус"
+ tratr_arch_pasc_mod:0 "Архивариус"
+ tratr_arch_panw_mod:0 "Архивариус"
+ tratr_arch_pamt_mod:0 "Архивариус"
+ tratr_arch_pama_mod:0 "Архивариус"
+ tratr_arch_paind_mod:0 "Архивариус"
+ tratr_arch_paro_mod:0 "Архивариус"
+ tratr_arch_cofm_mod:0 "Архивариус"
+ tratr_arch_covc_mod:0 "Архивариус"
+ tratr_arch_cobio_mod:0 "Архивариус"
+ tratr_arch_cosc_mod:0 "Архивариус"
+ tratr_arch_conw_mod:0 "Архивариус"
+ tratr_arch_comt_mod:0 "Архивариус"
+ tratr_arch_coma_mod:0 "Архивариус"
+ tratr_arch_coind_mod:0 "Архивариус"
+ tratr_arch_coro_mod:0 "Архивариус"
+ tratr_arch_fmvc_mod:0 "Архивариус"
+ tratr_arch_fmbio_mod:0 "Архивариус"
+ tratr_arch_fmsc_mod:0 "Архивариус"
+ tratr_arch_fmnw_mod:0 "Архивариус"
+ tratr_arch_fmmt_mod:0 "Архивариус"
+ tratr_arch_fmma_mod:0 "Архивариус"
+ tratr_arch_fmind_mod:0 "Архивариус"
+ tratr_arch_fmro_mod:0 "Архивариус"
+ tratr_arch_vcbio_mod:0 "Архивариус"
+ tratr_arch_vcsc_mod:0 "Архивариус"
+ tratr_arch_vcnw_mod:0 "Архивариус"
+ tratr_arch_vcmt_mod:0 "Архивариус"
+ tratr_arch_vcma_mod:0 "Архивариус"
+ tratr_arch_vcind_mod:0 "Архивариус"
+ tratr_arch_vcro_mod:0 "Архивариус"
+ tratr_arch_biosc_mod:0 "Архивариус"
+ tratr_arch_bionw_mod:0 "Архивариус"
+ tratr_arch_biomt_mod:0 "Архивариус"
+ tratr_arch_bioma_mod:0 "Архивариус"
+ tratr_arch_bioind_mod:0 "Архивариус"
+ tratr_arch_bioro_mod:0 "Архивариус"
+ tratr_arch_scnw_mod:0 "Архивариус"
+ tratr_arch_scmt_mod:0 "Архивариус"
+ tratr_arch_scma_mod:0 "Архивариус"
+ tratr_arch_scind_mod:0 "Архивариус"
+ tratr_arch_scro_mod:0 "Архивариус"
+ tratr_arch_nwmt_mod:0 "Архивариус"
+ tratr_arch_nwma_mod:0 "Архивариус"
+ tratr_arch_nwind_mod:0 "Архивариус"
+ tratr_arch_nwro_mod:0 "Архивариус"
+ tratr_arch_mtma_mod:0 "Архивариус"
+ tratr_arch_mtind_mod:0 "Архивариус"
+ tratr_arch_mtro_mod:0 "Архивариус"
+ tratr_arch_maind_mod:0 "Архивариус"
+ tratr_arch_maro_mod:0 "Архивариус"
+ tratr_arch_indro_mod:0 "Архивариус"
+ 
+ tratr_aca_unlocked:0 "Академия"
+ tratr_shbn_unlocked:0 "Рожденный в пелене"
+ tratr_hack_unlocked:0 "Взлом"
+ tratr_hackt_unlocked:0 "Взлом"
+ 
+ tratr_supre_unlocked:0 "Превосходство"
+ 
+ tratr_milit_unlocked:0 "Милитаризм"
+ tratr_might_unlocked:0 "Сила"
+ 
+ tratr_pir_unlocked:0 "Пиратство"
+ tratr_pirspec_unlocked:0 "Пиратство"
+ tratr_pirgc_unlocked:0 "Пиратство"
+ tratr_pirgc_unlocked:0 "Пиратство"
+ 
+ tratr_ptass_unlocked:0 "Нападение"
+ 
+ tratr_ptang_unlocked:0 "Натиск"
+ 
+ tratr_ptorder_unlocked:0 "Порядок"
+ 
+ tratr_ptdef_unlocked:0 "Защита"
+ 
+ tratr_prosp_unlocked:0 "Процветание"
+ tratr_prospm_unlocked:0 "Процветание"
+ tratr_prosph_unlocked:0 "Процветание"
+ 
+ tratr_comm_unlocked:0 "Коммерция"
+ tratr_bene_unlocked:0 "Благожелательность"
+ 
+ tratr_greed_unlocked:0 "Жадность"
+ 
+ tratr_ptklept_unlocked:0 "Клептократия"
+ 
+ tratr_space_unlocked:0 "Рожденный в космосе"
+ 
+ tratr_mech_unlocked:0 "Механикум"
+ tratr_mechr_unlocked:0 "Механикум"
+ tratr_mechgc_unlocked:0 "Механикум"
+ 
+ tratr_ptend_unlocked:0 "Стойкость"
+ 
+ tratr_ptind_unlocked:0 "Индустрия"
+ 
+ tratr_ptcyber_unlocked:0 "Кибернетика"
+ tratr_ptcyberh_unlocked:0 "Кибернетика"
+ 
+ tratr_indus_unlocked:0 "Индустрия"
+ 
+ tratr_myst_unlocked:0 "Мистицизм"
+ tratr_philo_unlocked:0 "Философия"
+ 
+ tratr_nat_unlocked:0 "Природа"
+ tratr_nath_unlocked:0 "Природа"
+ tratr_natm_unlocked:0 "Природа"
+ 
+ tratr_pttrans_unlocked:0 "Трансформация"
+
+ tr_tratr_malice_1:0 "Надежда"
+ tr_tratr_malice_1_desc:0 "§Y$mod_pop_cat_worker_happiness$§! увеличено на §G10%§!."
+ tr_tratr_malice_1_delayed:0 "Даже в самые смутные и самые безнадежные времена наши работники все ещё надеятся на лучшую жизнь."
+
+ tr_tratr_malice_3:0 "Уверенность"
+ tr_tratr_malice_3_desc:0 "§Y$mod_planet_jobs_worker_produces_mult$§! увеличено на §G+5%§!."
+ tr_tratr_malice_3_delayed:0 "Наши работники остаются уверенными и никогда не боятся дня грядущего."
+
+ tr_tratr_malice_4:0 "Гнев"
+ tr_tratr_malice_4_desc:0 "§Y$mod_planet_jobs_worker_minerals_produces_mult$§! увеличено на §G+7.5%§!."
+ tr_tratr_malice_4_delayed:0 "Мы будем читать их боль медленно, страницу за страницей. Много врагов, много чести. В то время как наше правительство стремится увеличить количество наших врагов, шахты продолжают заставлять рабов собирать больше £minerals §Yминералов§!."
+
+ tr_tratr_malice_5:0 "Примирение"
+ tr_tratr_malice_5_desc:1 "§Y$mod_planet_jobs_worker_food_produces_mult$§! увеличено на §G+5%§!."
+ tr_tratr_malice_5_delayed:0 "Наши фермеры всегда борются с корпорациями, которые распространяют семена, если мы хотим накормить наше население, мы должны поощрять примирение между ними."

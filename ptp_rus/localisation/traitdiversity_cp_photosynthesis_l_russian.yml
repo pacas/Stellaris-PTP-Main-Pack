@@ -1,0 +1,57 @@
+﻿l_russian:
+
+
+
+# *
+# Modifiers
+# *
+
+mod_planet_pops_organics_energy_upkeep_mult:0 "Содержание поселений £energy£ (энергия)"
+
+
+
+# *
+# Traits (Add-on) - Photosynthesis Compatibility Patch
+# *
+
+trait_td_plnt_fruitage:0 "$trait_td_fruitage$"
+trait_td_plnt_fruitage_desc:0 "$trait_td_fruitage_desc$"
+
+trait_td_plnt_pyrokinetic:0 "$trait_td_pyrokinetic$"
+trait_td_plnt_pyrokinetic_desc:0 "$trait_td_pyrokinetic_desc$"
+
+trait_td_plnt_ignis_fatuus:0 "$trait_td_ignis_fatuus$"
+trait_td_plnt_ignis_fatuus_desc:0 "$trait_td_ignis_fatuus_desc$"
+
+trait_td_plnt_lithovore:0 "$trait_td_lithovore$"
+trait_td_plnt_lithovore_desc:0 "$trait_td_lithovore_desc$"
+
+trait_td_plnt_metalivore:0 "$trait_td_lith_metalivore$"
+trait_td_plnt_metalivore_desc:0 "$trait_td_lith_metalivore_desc$"
+
+trait_td_plnt_controlled_metabolism:0 "$trait_td_controlled_metabolism$"
+trait_td_plnt_controlled_metabolism_desc:0 "$trait_td_controlled_metabolism_desc$"
+
+trait_td_plnt_efficient_metabolism:0 "$trait_td_efficient_metabolism$"
+trait_td_plnt_efficient_metabolism_desc:0 "$trait_td_efficient_metabolism_desc$"
+
+trait_td_plnt_gluttony:0 "$trait_td_gluttony$"
+trait_td_plnt_gluttony_desc:0 "$trait_td_gluttony_desc$"
+
+trait_td_plnt_sitomaniac:0 "$trait_td_sitomaniac$"
+trait_td_plnt_sitomaniac_desc:0 "$trait_td_sitomaniac_desc$"
+
+trait_td_plnt_pyromaniac:0 "$trait_td_pyromaniac$"
+trait_td_plnt_pyromaniac_desc:0 "$trait_td_pyromaniac_desc$"
+
+trait_td_plnt_fire_breath:0 "$trait_td_fire_breath$"
+trait_td_plnt_fire_breath_desc:0 "$trait_td_fire_breath_desc$"
+
+trait_td_plnt_healing_factor:0 "$trait_td_healing_factor$"
+trait_td_plnt_healing_factor_desc:0 "$trait_td_healing_factor_desc$"
+
+trait_td_plnt_vestigial_psionic:0 "$trait_td_vestigial_psionic$"
+trait_td_plnt_vestigial_psionic_desc:0 "$trait_td_vestigial_psionic_desc$"
+
+trait_td_plnt_terrible_punishment:0 "$trait_td_terrible_punishment$"
+trait_td_plnt_terrible_punishment_desc:0 "$trait_td_terrible_punishment_desc$"

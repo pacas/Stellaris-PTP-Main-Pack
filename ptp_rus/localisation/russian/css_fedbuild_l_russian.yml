@@ -1,0 +1,21 @@
+﻿l_russian:
+ ####################################
+ # Alpha Naming Convention - WILL LIKELY BE CHANGED IF SECTIONS ARE REDESIGNED
+ #
+ # Mid sections have a flavor-name fitting to number of weapon/utility slots followed by the key-word "Core"
+ # Front sections have a flavor-name followed by the key-word "Breaker"
+ # Rear sections have a flavor-name followed by the key-word "Bulwark"
+ #
+ ####################################
+
+ css_fedbuild:0 "Строители Федерации"
+ css_fedbuild_desc:1 "Корабли защитников и хранителей Строителей Федерации."
+
+ css_fedbuild_colours:0 "Строители Федерации [Цвет]"
+ css_fedbuild_colours_desc:1 "Корабли защитников и хранителей Строителей Федерации с динамическими цветами."
+
+ css_dss_fedbuild:0 "DS: Строители Федерации"
+ css_dss_fedbuild_desc:1 "Корабли защитников и хранителей Строителей Федерации. С патчем для мода Downscaled ships."
+
+ css_dss_fedbuild_colours:0 "DS: Строители Федерации [Цвет]"
+ css_dss_fedbuild_colours_desc:1 "Корабли защитников и хранителей Строителей Федерации с динамическими цветами. С патчем для мода Downscaled ships."

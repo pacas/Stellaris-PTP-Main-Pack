@@ -1,0 +1,89 @@
+﻿l_russian:
+
+### ENGLISH LOCALIZATION
+
+########################################
+###            Buildings             ###
+########################################
+
+del_building_admin_tier_0: "Административный филиал"
+del_building_admin_tier_0_desc: "Местный административный офис."
+del_building_admin_tier_1: "Административный офис"
+del_building_admin_tier_1_desc: "Офисный комплекс, специализирующийся на системном администрировании."
+del_building_admin_tier_2: "Административный мегаплекс"
+del_building_admin_tier_2_desc: "Обширный офисный комплекс, специализирующийся на системном администрировании."
+del_building_admin_tier_3: "Административно-столичный комплекс"
+del_building_admin_tier_3_desc: "Охватывающий континенты офисный комплекс, направленный на системное администрирование."
+del_building_admin_tier_4: "Имперский административный головной офис"
+del_building_admin_tier_4_desc: "Центр административного устройства нашей империи."
+del_building_admin_office: "Административный офис"
+del_building_admin_office_desc: "Офисный комплекс, специализирующийся на системном администрировании."
+del_building_admin_megaplex: "Административный мегаплекс"
+del_building_admin_megaplex_desc: "Обширный офисный комплекс, специализирующийся на системном администрировании."
+del_building_admin_capital: "Административно-столичный комплекс"
+del_building_admin_capital_desc: "Охватывающий континенты офисный комплекс, направленный на системное администрирование."
+
+########################################
+###               Jobs               ###
+########################################
+
+job_del_admin: "Бюрократ"
+job_del_admin_plural: "Бюрократы"
+mod_job_del_admin_add: "Деятельность: $job_del_admin$"
+job_del_admin_desc: "Администрирование целых систем является сложной задачей, которая требует узконаправленных и высококвалифицированных специалистов."
+job_del_admin_effect_desc: "£job_del_admin£ $job_del_admin_plural$ производят £unity£ §Y$unity$§!, £mod_planet_amenities_add£ §Y$PLANET_AMENITIES_TITLE$§!, и £mod_country_admin_cap_add£ §Y$MOD_COUNTRY_ADMIN_CAP_ADD$§!"
+
+job_del_admin_drone: "Дрон-бюрократ"
+job_del_admin_drone_plural: "Дроны-бюрократы"
+mod_job_del_admin_drone_add: "Деятельность: $job_del_admin_drone$"
+job_del_admin_drone_desc: "Эти сложные дроны выполняют административные задачи в наших звездных системах."
+job_del_admin_drone_effect_desc: "£job_del_admin_drone£ $job_del_admin_drone_plural$ производят £unity£ §Y$unity$§!, £mod_planet_amenities_add£ §Y$PLANET_AMENITIES_TITLE$§!, и £mod_country_admin_cap_add£ §Y$MOD_COUNTRY_ADMIN_CAP_ADD$§!"
+
+job_del_admin_unit: "Юнит-бюрократ"
+job_del_admin_unit_plural: "Юниты-бюрократы"
+mod_job_del_admin_unit_add: "Деятельность: $job_del_admin_unit$"
+job_del_admin_unit_desc: "$job_del_admin_drone_desc$"
+job_del_admin_unit_effect_desc: "£job_del_admin_drone£ $job_del_admin_unit_plural$ производят £unity£ §Y$unity$§!, £mod_planet_amenities_add£ §Y$PLANET_AMENITIES_TITLE$§!, и £mod_country_admin_cap_add£ §Y$MOD_COUNTRY_ADMIN_CAP_ADD$§!"
+
+
+########################################
+###      Technologies : general      ###
+########################################
+
+del_tech_admin_office: "Системное администрирование"
+del_tech_admin_office_desc: "Наши бюрократы разработали ещё более эффективные способы управления нашей империей."
+del_tech_admin_office_desc_hive: "Специализированные административные дроны осуществляют контроль над нашей империей."
+del_tech_admin_office_desc_machine: "Специализированные административные юниты осуществляют контроль над нашей империей."
+
+del_tech_admin_megaplex: "Продвинутое системное администрирование"
+del_tech_admin_megaplex_desc: "Теперь мы можем послать легионы бюрократов, чтобы контролировать самые обыденные административные действия."
+del_tech_admin_megaplex_desc_hive: "Наши административные дроны еще больше расширяют контроль над нашей империей."
+del_tech_admin_megaplex_desc_machine: "Наши административные юниты еще больше расширяют контроль над нашей империей."
+
+del_tech_admin_capital: "Галактическое системное администрирование"
+del_tech_admin_capital_desc: "Административные галактические комплексы изливают армии бюрократов, чтобы перевернуть нашу империю."
+del_tech_admin_capital_desc_hive: "Армии административных дронов делают нашу власть над империей беспрекословной."
+del_tech_admin_capital_desc_machine: "Армии административных юнитов делают нашу власть над империей беспрекословной."
+
+########################################
+###        Starbase Buildings        ###
+########################################
+
+sm_del_station_admin: "Административный офис системы"
+sm_del_station_admin_desc: "Офисы на звёздной базе, предназначенные для управления империей"
+
+########################################
+###              Civics              ###
+########################################
+
+civic_del_admin:0 "Административное государство"
+civic_del_admin_desc:0 "Это общество имеет хорошо налаженную бюрократическую систему управления своей империей.."
+civic_del_admin_effects:5 "Административный лимит: §G+10§!\nСтабильность: §G+5§!\nЕдинство: §G+5%§!\n\nДаёт +1 £job_del_admin£ $job_del_admin$ на планету. £job_del_admin£ $job_del_admin_plural$ производят £unity£ §Y$unity$§!, £mod_planet_amenities_add£ §Y$PLANET_AMENITIES_TITLE$§!, и £mod_country_admin_cap_add£ §Y$MOD_COUNTRY_ADMIN_CAP_ADD$§!"
+
+civic_del_admin_hive:0 "Административное государство"
+civic_del_admin_hive_desc:0 "Мы едины"
+civic_del_admin_hive_effects:5 "Административный лимит: §G+10§!\nБлага: §G+5%§!\nЕдинство: §G+5%§!\n\nДаёт +1 £job_del_admin_drone£ $job_del_admin_drone$ на планету. £job_del_admin_drone£ $job_del_admin_drone_plural$ производят £unity£ §Y$unity$§!, £mod_planet_amenities_add£ §Y$PLANET_AMENITIES_TITLE$§!, и £mod_country_admin_cap_add£ §Y$MOD_COUNTRY_ADMIN_CAP_ADD$§!"
+
+civic_del_admin_machine:0 "Административное государство"
+civic_del_admin_machine_desc:0 "57 65 20 61 72 65 20 6f 6e 65"
+civic_del_admin_machine_effects:5 "Административный лимит: §G+10§!\nБлага: §G+5%§!\nЕдинство: §G+5%§!\n\nДаёт +1 £job_del_admin_unit£ $job_del_admin_unit$ на планету. £job_del_admin£ $job_del_admin_unit_plural$ производят £unity£ §Y$unity$§!, £mod_planet_amenities_add£ §Y$PLANET_AMENITIES_TITLE$§!, и £mod_country_admin_cap_add£ §Y$MOD_COUNTRY_ADMIN_CAP_ADD$§!"

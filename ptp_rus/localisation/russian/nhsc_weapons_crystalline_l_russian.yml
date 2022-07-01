@@ -1,0 +1,91 @@
+﻿l_russian:
+
+### RUSSIAN LOCALIZATION
+
+########################################
+###       Crystal Shard Thrower      ###
+########################################
+
+NHSC_CRYSTAL_CANNON_1: "Кристаллический осколкомёт"
+NHSC_CRYSTAL_CANNON_1_DESC: "Орудие, разработанное на основе наступательных и защитных механизмов кристаллических существ."
+SMALL_NHSC_CRYSTAL_CANNON_1: "Малый $NHSC_CRYSTAL_CANNON_1$"
+SMALL_NHSC_CRYSTAL_CANNON_1_DESC: "$NHSC_CRYSTAL_CANNON_1_DESC$"
+MEDIUM_NHSC_CRYSTAL_CANNON_1: "Средний $NHSC_CRYSTAL_CANNON_1$"
+MEDIUM_NHSC_CRYSTAL_CANNON_1_DESC: "$NHSC_CRYSTAL_CANNON_1_DESC$"
+LARGE_NHSC_CRYSTAL_CANNON_1: "Большой $NHSC_CRYSTAL_CANNON_1$"
+LARGE_NHSC_CRYSTAL_CANNON_1_DESC: "$NHSC_CRYSTAL_CANNON_1_DESC$"
+
+########################################
+###  Improved Crystal Shard Thrower  ###
+########################################
+
+NHSC_CRYSTAL_CANNON_2: "Улучшенный кристаллический осколкомёт"
+NHSC_CRYSTAL_CANNON_2_DESC: "Несколько улучшенная версия кристаллического осколкомёта, увеличивающая скорость снарядов."
+SMALL_NHSC_CRYSTAL_CANNON_2: "Малый $NHSC_CRYSTAL_CANNON_2$"
+SMALL_NHSC_CRYSTAL_CANNON_2_DESC: "$NHSC_CRYSTAL_CANNON_2_DESC$"
+MEDIUM_NHSC_CRYSTAL_CANNON_2: "Малый $NHSC_CRYSTAL_CANNON_2$"
+MEDIUM_NHSC_CRYSTAL_CANNON_2_DESC: "$NHSC_CRYSTAL_CANNON_2_DESC$"
+LARGE_NHSC_CRYSTAL_CANNON_2: "Большой $NHSC_CRYSTAL_CANNON_2$"
+LARGE_NHSC_CRYSTAL_CANNON_2_DESC: "$NHSC_CRYSTAL_CANNON_2_DESC$"
+
+########################################
+###       Crystal Spike Thrower      ###
+########################################
+
+NHSC_CRYSTAL_CANNON_3: "Кристаллический шипомёт"
+NHSC_CRYSTAL_CANNON_3_DESC: "Исследования новых материалов позволяют значительно улучшить качество органических кристаллов, используемых этим оружием в качестве снарядов, и тем самым увеличить наносимый им урон."
+SMALL_NHSC_CRYSTAL_CANNON_3: "Малый $NHSC_CRYSTAL_CANNON_3$"
+SMALL_NHSC_CRYSTAL_CANNON_3_DESC: "$NHSC_CRYSTAL_CANNON_3_DESC$"
+MEDIUM_NHSC_CRYSTAL_CANNON_3: "Средний $NHSC_CRYSTAL_CANNON_3$"
+MEDIUM_NHSC_CRYSTAL_CANNON_3_DESC: "$NHSC_CRYSTAL_CANNON_3_DESC$"
+LARGE_NHSC_CRYSTAL_CANNON_3: "Большой $NHSC_CRYSTAL_CANNON_3$"
+LARGE_NHSC_CRYSTAL_CANNON_3_DESC: "$NHSC_CRYSTAL_CANNON_3_DESC$"
+
+########################################
+###  Improved Crystal Spike Thrower  ###
+########################################
+
+NHSC_CRYSTAL_CANNON_4: "Улучшенный кристаллический шипомёт"
+NHSC_CRYSTAL_CANNON_4_DESC: "Ряд дополнительных усовершенствований технологии кристаллического оружия позволяет ещё больше увеличить его разрушительную силу."
+SMALL_NHSC_CRYSTAL_CANNON_4: "Малый $NHSC_CRYSTAL_CANNON_4$"
+SMALL_NHSC_CRYSTAL_CANNON_4_DESC: "$NHSC_CRYSTAL_CANNON_4_DESC$"
+MEDIUM_NHSC_CRYSTAL_CANNON_4: "Средний $NHSC_CRYSTAL_CANNON_4$"
+MEDIUM_NHSC_CRYSTAL_CANNON_4_DESC: "$NHSC_CRYSTAL_CANNON_4_DESC$"
+LARGE_NHSC_CRYSTAL_CANNON_4: "Большой $NHSC_CRYSTAL_CANNON_4$"
+LARGE_NHSC_CRYSTAL_CANNON_4_DESC: "$NHSC_CRYSTAL_CANNON_4_DESC$"
+
+########################################
+###       Crystal Spear Cannon       ###
+########################################
+
+NHSC_CRYSTAL_CANNON_5: "Ускоритель кристаллических пик"
+NHSC_CRYSTAL_CANNON_5_DESC: "Лучшее кристаллическое орудие из возможных."
+SMALL_NHSC_CRYSTAL_CANNON_5: "Малый $NHSC_CRYSTAL_CANNON_5$"
+SMALL_NHSC_CRYSTAL_CANNON_5_DESC: "$NHSC_CRYSTAL_CANNON_5_DESC$"
+MEDIUM_NHSC_CRYSTAL_CANNON_5: "Средний $NHSC_CRYSTAL_CANNON_5$"
+MEDIUM_NHSC_CRYSTAL_CANNON_5_DESC: "$NHSC_CRYSTAL_CANNON_5_DESC$"
+LARGE_NHSC_CRYSTAL_CANNON_5: "Большой $NHSC_CRYSTAL_CANNON_5$"
+LARGE_NHSC_CRYSTAL_CANNON_5_DESC: "$NHSC_CRYSTAL_CANNON_5_DESC$"
+
+########################################
+###      Crystal Javelin Cannon      ###
+########################################
+
+NHSC_CRYSTAL_LANCE_1: "Ускоритель кристаллических дротиков"
+NHSC_CRYSTAL_LANCE_1_DESC: "Увеличенная версия ускорителя кристаллических копий, способная наносить колоссальное количество урона каждым выстрелом."
+
+########################################
+###       Crystal Lance Cannon       ###
+########################################
+
+NHSC_CRYSTAL_LANCE_2: "Ускоритель кристаллических копий"
+NHSC_CRYSTAL_LANCE_2_DESC: "Переработанная и ещё более мощная версия ускорителя кристаллических дротиков."
+
+########################################
+###       Crystalline Impaler        ###
+########################################
+
+NHSC_CRYSTAL_LANCE_TITANIC: "Кристаллический коломет"
+NHSC_CRYSTAL_LANCE_TITANIC_DESC: "Огромная версия ускорителя кристаллических копий, предназначенная для кораблей-титанов."
+NHSC_CRYSTAL_LANCE_JUGGERNAUT: "$NHSC_CRYSTAL_LANCE_TITANIC$ ($juggernaut$)"
+NHSC_CRYSTAL_LANCE_JUGGERNAUT_DESC: "$NHSC_CRYSTAL_LANCE_TITANIC_DESC$"

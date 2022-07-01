@@ -1,0 +1,65 @@
+﻿l_russian:
+#Strategic Resource Manufacturing Buildings
+ eb_refinery:0 "Усовершенствованные заводы по переработке экзотического газа"
+ eb_refinery_desc:0 "Модернизированная версия экзотических газоперерабатывающих заводов."
+
+ eb_refinery2:0 "Усовершенствованные заводы по переработке экзотического газа 2"
+ eb_refinery2_desc:0 "Модернизированная версия экзотических газоперерабатывающих заводов."
+
+ eb_chemical_plant:0 "Усовершенствованные химические заводы"
+ eb_chemical_plant_desc:0 "Модернизированная версия химических заводов."
+
+ eb_chemical_plant2:0 "Усовершенствованные химические заводы 2"
+ eb_chemical_plant2_desc:0 "Модернизированная версия химических заводов."
+
+ eb_crystal_plant:0 "Усовершенствованный завод по синтетическим кристаллам"
+ eb_crystal_plant_desc:0 "Модернизированная версия заводов по созданию синтетических кристаллов."
+
+ eb_crystal_plant2:0 "Усовершенствованный завод по синтетическим кристаллам 2"
+ eb_crystal_plant2_desc:0 "Модернизированная версия заводов по созданию синтетических кристаллов."
+
+#Dark Matter Stuff
+eb_dark_matter:0 "Коллайдер чёрных дыр"
+eb_dark_matter_desc:0 "Установка, которая кидает миниатюрные чёрные дыры друг в друга, чтобы произвести тёмную материю."
+
+job_eb_dark_matter:0 "Техник коллайдера"
+job_eb_dark_matter_desc:0 "Работяги с самым высоким уровнем образования в галактике."
+job_eb_dark_matter_plural:0 "Техники коллайдера"
+mod_job_eb_dark_matter_add:0 "Техники коллайдера"
+job_eb_dark_matter_effect_desc:0 "£job_eb_dark_matter£ Техники коллайдера перерабатывают £minerals£ §Yминералы, £exotic_gases£ экзотические газы, £rare_crystals£ редике кристаллы и £volatile_motes£ $volatile_motes$§! в £sr_dark_matter£ §Yтёмную материю§!."
+
+job_eb_dark_matter_drone:0 "Дрон-техники коллайдера"
+job_eb_dark_matter_drone_desc:0 "Дроны с самым высоким уровнем доверия в галактике."
+job_eb_dark_matter_drone_plural:0 "Дроны-техники коллайдера"
+mod_job_eb_dark_matter_drone_add:0 "Дроны-техники коллайдера"
+job_eb_dark_matter_drone_effect_desc:0 "£job_eb_dark_matter£ Дроны-техники коллайдера перерабатывают £minerals£ §Yминералы, £exotic_gases£ экзотические газы, £rare_crystals£ редике кристаллы и £volatile_motes£ $volatile_motes$§! в £sr_dark_matter£ §Yтёмную материю§!."
+
+planet_eb_dark_matter:0 "Вакансии техников коллайдера"
+
+#Nanite Stuff
+eb_nanite_assembly:0 "Сборщик нанитов"
+eb_nanite_assembly_desc:0 "Фабрика где собирают наниты."
+
+job_eb_nanite_assembler:0 "Сборщик нанитов"
+job_eb_nanite_assembler_desc:0 "Работяги с самым высоким уровнем образования в галактике."
+job_eb_nanite_assembler_plural:0 "Сборщики нанитов"
+mod_job_eb_nanite_assembler_add:0 "Сборщики нанитов"
+job_eb_nanites_effect_desc:0 "£job_eb_nanite_assembler£ Сборщики нанитов перерабатывают £minerals£ §Yминералы§! и £energy£ §Yэнергию§! в £nanites£ §Yнаниты§!."
+
+job_eb_nanite_assembler_drone:0 "Дрон-сборщик нанитов"
+job_eb_nanite_assembler_drone_desc:0 "Дроны с самым высоким уровнем доверия в галактике."
+job_eb_nanite_assembler_drone_plural:0 "Дроны-сборщики нанитов"
+mod_job_eb_nanite_assembler_drone_add:0 "Дроны-сборщики нанитов"
+job_eb_nanites_drone_effect_desc:0 "£job_eb_nanite_assembler£ Дроны-сборщики нанитов перерабатывают £minerals£ §Yминералы§! и £energy£ §Yэнергию§! в £nanites£ §Yнаниты§!.""
+
+planet_eb_nanite:0 "Вакансии сборщиков нанитов"
+
+#Techs
+ eb_strategicresource_tech:0 "Передовые методы производства стратегических ресурсов"
+ eb_strategicresource_tech_desc:0 "Разблокирует 2-й уровень зданий по стратегическим ресурсам."
+
+ eb_more_strategicresource_tech:0 "Передовые методы производства стратегических ресурсов 2"
+ eb_more_strategicresource_tech_desc:0 "Разблокирует 3-й уровень зданий по стратегическим ресурсам."
+
+eb_srmines_unlock:0 "§G+2§! $job_mote_harvester$/$job_mote_harvesting_drone$ в $building_mote_harvesters$ \n§G+2§! $job_gas_extractor$/$job_gas_extraction_drone$ в $building_gas_extractors$ \n§G+2§! $job_crystal_miner$/$job_crystal_mining_drone$ в $building_crystal_mines$ \n§G+2§! $job_technician$/$job_technician_drone$ в $building_betharian_power_plant$"
+eb_srmines_unlock_desc:0 "Ну привет!"

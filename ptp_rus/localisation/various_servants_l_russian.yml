@@ -1,0 +1,26 @@
+﻿l_russian:
+job_maid_servant:0 "Служанка"
+job_maid_servant_plural:0 "Служанки"
+job_maid_servant_desc:0 "Служанки несут ответственность за общую работу по дому и воспитание детей."
+mod_job_maid_servant_add:0 "Служанки"
+
+job_reproductive_servant:0 "Репродуктивный раб"
+job_reproductive_servant_plural:0 "Репродуктивные рабы"
+job_reproductive_servant_desc:0 "Помогают размножаться."
+mod_job_reproductive_servant_add:0 "Репродуктивные рабы"
+
+job_pet_servant:0 "Питомец"
+job_pet_servant_plural:0 "Питомцы"
+job_pet_servant_desc:0 "Чаще всего люди заводят домашних животных для компании."
+mod_job_pet_servant_add:0 "Питомцы"
+
+policy_servant_job_policy:0 "Политика домашних слуг"
+policy_servant_job_policy_desc:0 "Слуги должны работать в надлежащем месте."
+
+servant_policy_default:0 "Обычные должности"
+servant_policy_default_name:0 "$servant_policy_default$"
+servant_policy_default_desc:0 "Слуги должны работать где угодно.\n\n§EДомашние слуги, которые не работают на другой работе, будут занимать должности £job_servant£ §Y$job_servant$§! / £job_maid_servant£ §Y$job_maid_servant$§! / £job_reproductive_servant£ §Y$job_reproductive_servant$§! / £job_pet_servant£ §Y$job_pet_servant$§!.§!"
+
+servant_policy_servant_only:0 "Только прислуга"
+servant_policy_servant_only_name:0 "$servant_policy_servant_only$"
+servant_policy_servant_only_desc:0 "Слуги должны прислуживать своему мастеру.\n\n§EДомашние слуги всегда будут занимать должности £job_servant£ §Y$job_servant$§! / £job_maid_servant£ §Y$job_maid_servant$§! / £job_reproductive_servant£ §Y$job_reproductive_servant$§! / £job_pet_servant£ §Y$job_pet_servant$§!.§!"

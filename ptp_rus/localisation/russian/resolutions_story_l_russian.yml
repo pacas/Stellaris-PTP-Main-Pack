@@ -1,0 +1,65 @@
+﻿l_russian:
+
+  health_and_safety:0 "Здоровье и безопасность"
+  resolution_category_power_runes: "Руны cилы"
+  
+  resolution_power_runes_ban_arcane: "Регуляция таинственной руны"
+  resolution_power_runes_ban_arcane_desc: "Искусственные формы жизни, которые создает таинственная руна, могут представлять угрозу для галактики. Запрет на использование и взятие руны в аренду обеспечит мир среди заинтересованных им."
+  resolution_power_runes_ban_illusion: "Регуляция руны иллюзий"
+  resolution_power_runes_ban_illusion_desc: "С помощью чувств наши тела и инструменты воспринимают внешние раздражители, но из-за потенциального воздействия со стороны руны иллюзий, которая находится в чьей-то власти, мы просто не можем доверять нашим чувствам. Повсюду царят подозрительность и обман, и этому надо положить конец!"
+  resolution_power_runes_ban_mighty: "Регуляция могучей руны"
+  resolution_power_runes_ban_mighty_desc: "Мощь могучей руны не должна принадлежать ни империи, ни индивиду. Эта руна обладает способностью полностью уничтожать планеты, и сама по себе она представляет собой угрозу для всех нас."
+  resolution_power_runes_ban_regeneration: "Регуляция руны регенерации"
+  resolution_power_runes_ban_regeneration_desc: "Руна регенерации обладает целительными способностями, которые некоторые считают неестественными. Кто знает, к чему могут привести эти противоестественные процессы? Может мутировать новый вирус, который будет размножаться и распространяться по всей галактике, создавая угрозу для всех нас."
+  resolution_power_runes_ban_haste: "Регуляция руны спешки"
+  resolution_power_runes_ban_haste_desc: "К чему такая спешка? Бесчисленные исследования показывают, что быстрый рост населения или инфраструктуры не равнозначен прогрессу. Если у империй не будет ниморальной, ни политической зрелости, чтобы идти в ногу с их ростом, мы можем столкнуться с появлением чудовищных режимов."
+  resolution_power_runes_ban_invisibility: "Регуляция руны невидимости"
+  resolution_power_runes_ban_invisibility_desc: "Прозрачность является ключевым фактором для процветания. Мы не можем просто позволить другим скрывать свои достижения, прогресс или намерения от остального сообщества."
+  
+  
+  resolution_power_runes_repeal_ban_arcane: "§RАннулировать резолюцию $resolution_power_runes_ban_arcane$§!"
+  resolution_power_runes_repeal_ban_arcane_desc: "Галактические законы не должны ни регулировать, ни запрещать частную собственность. Абсолютно каждый предмет может быть как инструментом, так оружием, и руны ничем не отличаются. В умелых конечностях руны будут инструментами, что принесут прогресс и благополучие."
+  resolution_power_runes_repeal_ban_illusion: "§RАннулировать резолюцию $resolution_power_runes_ban_illusion$§!"
+  resolution_power_runes_repeal_ban_illusion_desc: "$resolution_power_runes_ban_arcane_desc$"
+  resolution_power_runes_repeal_ban_mighty: "§RАннулировать резолюцию $resolution_power_runes_ban_mighty$§!"
+  resolution_power_runes_repeal_ban_mighty_desc: "$resolution_power_runes_ban_arcane_desc$"
+  resolution_power_runes_repeal_ban_regeneration: "§RАннулировать резолюцию $resolution_power_runes_ban_regeneration$§!"
+  resolution_power_runes_repeal_ban_regeneration_desc: "$resolution_power_runes_ban_arcane_desc$"
+  resolution_power_runes_repeal_ban_haste: "§RАннулировать резолюцию $resolution_power_runes_ban_haste$§!"
+  resolution_power_runes_repeal_ban_haste_desc: "$resolution_power_runes_ban_arcane_desc$"
+  resolution_power_runes_repeal_ban_invisibility: "§RАннулировать резолюцию $resolution_power_runes_ban_invisibility$§!"
+  resolution_power_runes_repeal_ban_invisibility_desc: "$resolution_power_runes_ban_arcane_desc$"
+  
+  resolution_power_runes_ban_arcane_tooltip: "Члены галактического сообщества, которые используют §Yтаинственную руну§!, станут §Rнарушителями галактического закона§! и получат суровые штрафы."
+  resolution_power_runes_ban_illusion_tooltip: "Члены галактического сообщества, которые используют §Yруну иллюзий§!, станут §Rнарушителями галактического закона§! и получат суровые штрафы."
+  resolution_power_runes_ban_mighty_tooltip: "Члены галактического сообщества, которые используют §Yмогучую руну§!, станут §Rнарушителями галактического закона§! и получат суровые штрафы."
+  resolution_power_runes_ban_regeneration_tooltip: "Члены галактического сообщества, которые используют §Yруну регенерации§!, станут §Rнарушителями галактического закона§! и получат суровые штрафы."
+  resolution_power_runes_ban_haste_tooltip: "Члены галактического сообщества, которые используют §Yруну спешки§!, станут §Rнарушителями галактического закона§! и получат суровые штрафы."
+  resolution_power_runes_ban_invisibility_tooltip: "Члены галактического сообщества, которые используют §Yруну невидимости§!, станут §Rнарушителями галактического закона§! и получат суровые штрафы."
+  
+
+  resolution_power_runes_repeal_ban_arcane_effect_success: "Аннулировать резолюцию §Y$resolution_power_runes_repeal_ban_arcane$§!, позволив любой империи использовать §Yтаинственную руну§! не нарушая галактического закона."
+  resolution_power_runes_repeal_ban_illusion_effect_success: "Аннулировать резолюцию §Y$resolution_power_runes_repeal_ban_illusion$§!, позволив любой империи использовать §Yруну иллюзий§! не нарушая галактического закона."
+  resolution_power_runes_repeal_ban_mighty_effect_success: "Аннулировать резолюцию §Y$resolution_power_runes_repeal_ban_mighty$§!, позволив любой империи использовать §Yмогучую руну§! не нарушая галактического закона."
+  resolution_power_runes_repeal_ban_regeneration_effect_success: "Аннулировать резолюцию §Y$resolution_power_runes_repeal_ban_regeneration$§!, позволив любой империи использовать §Yруну регенерации§! не нарушая галактического закона."
+  resolution_power_runes_repeal_ban_haste_effect_success: "Аннулировать резолюцию §Y$resolution_power_runes_repeal_ban_haste$§!, позволив любой империи использовать §Yруну спешки§! не нарушая галактического закона."
+  resolution_power_runes_repeal_ban_invisibility_effect_success: "Аннулировать резолюцию §Y$resolution_power_runes_repeal_ban_invisibility$§!, позволив любой империи использовать §Yруну невидимости§! не нарушая галактического закона."
+  
+  arcane_penalties: "Нарушение галактического закона: Использование таинственной руны"
+  regeneration_penalties: "Нарушение галактического закона: Использование руны регенерации"
+  invisibility_penalties: "Нарушение галактического закона: Использование руны невидимости"
+  illusion_penalties: "Нарушение галактического закона: Использование руны иллюзий"
+  damage_penalties: "Нарушение галактического закона: Использование могучей руны"
+  haste_penalties: "Нарушение галактического закона: Использование руны спешки"
+
+
+  triggered_opinion_reso_arcane_rune:0 "Нарушение галактического закона: Использование таинственной руны"
+  triggered_opinion_reso_regeneration_rune:0 "Нарушение галактического закона: Использование руны регенерации"
+  triggered_opinion_reso_invisibility_rune:0 "Нарушение галактического закона: Использование руны невидимости"
+  triggered_opinion_reso_illusion_rune:0 "Нарушение галактического закона: Использование руны иллюзий"
+  triggered_opinion_reso_damage_rune:0 "Нарушение галактического закона: Использование могучей руны"
+  triggered_opinion_reso_haste_rune:0 "Нарушение галактического закона: Использование руны спешки"
+  
+  
+  
+  

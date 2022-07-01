@@ -1,0 +1,27 @@
+﻿l_russian:
+
+ ###################
+ # Decisions
+ ###################
+ decision_eac_empire_university:0 "£eac_lightbulb Связаться с §EИмперским университетом§!"
+ decision_eac_empire_university_desc:1 "Связаться с Имперским университетом для найма особых лидеров за увеличенную цену."
+ decision_eac_empire_university_tooltip:0 "Открывает экран Имперского университета для найма нового лидера."
+ 
+ # Static Modifiers
+ eac_waiting_for_psionic_leader:0 "В поиске лидера-псионика"
+ eac_waiting_for_psionic_leader_desc:0 "В поиске лидера-псионика" 
+
+ #############################
+ # Modded Trait
+ #############################
+ leader_trait_university_educated_admiral:0 "Выпускник Имперского университета"
+ leader_trait_university_educated_admiral_desc:1 "Этот руководитель является выпускником престижного Имперского университета."
+
+ leader_trait_university_educated_general:0 "Выпускник Имперского университета"
+ leader_trait_university_educated_general_desc:1 "Этот руководитель является выпускником престижного Имперского университета."
+
+ leader_trait_university_educated_scientist:0 "Выпускник Имперского университета"
+ leader_trait_university_educated_scientist_desc:1 "Этот руководитель является выпускником престижного Имперского университета."
+
+ leader_trait_university_educated_governor:0 "Выпускник Имперского университета"
+ leader_trait_university_educated_governor_desc:1 "Этот руководитель является выпускником престижного Имперского университета."

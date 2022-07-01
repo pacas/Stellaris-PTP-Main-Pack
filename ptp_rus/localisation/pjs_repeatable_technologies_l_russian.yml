@@ -1,0 +1,79 @@
+﻿l_russian:
+
+  tech_repeatable_country_resource_max_add:0 "Эффективные шаблоны хранения"
+  tech_repeatable_country_resource_max_add_desc:0 "Увеличение емкости хранения ресурсов империи."
+
+  tech_repeatable_megastructure_build_speed_mult:0 "Шаблоны мегасооружений"
+  tech_repeatable_megastructure_build_speed_mult_desc:0 "Увеличение скорости сборки наших мегасооружений."
+
+  tech_repeatable_num_tech_alternatives_add:0 "Анализ логических моделей"
+  tech_repeatable_num_tech_alternatives_add_desc:0 "Увеличение доступных технических альтернатив."
+
+  tech_repeatable_planet_amenities_mult:0 "Потребительское разнообразие"
+  tech_repeatable_planet_amenities_mult_desc:0 "Увеличение генерации благ на наших планетах."
+
+  tech_repeatable_planet_housing_mult:0 "Компактное проживание"
+  tech_repeatable_planet_housing_mult_desc:0 "Увеличение количества жилья для наших граждан."
+
+  tech_repeatable_planet_immigration_pull_mult:0 "Иммиграционное законодательство"
+  tech_repeatable_planet_immigration_pull_mult_desc:0 "Увеличение иммиграционной привлекательности нашей империи."
+
+  tech_repeatable_planet_jobs_complex_drone_produces_mult:0 "Эффективные комплексные дроны"
+  tech_repeatable_planet_jobs_complex_drone_produces_mult_desc:0 "Увеличение эффективности деятельности комплексных дронов."
+
+  tech_repeatable_planet_jobs_simple_drone_produces_mult:0 "Усовершенствованные дроны-рабочие"
+  tech_repeatable_planet_jobs_simple_drone_produces_mult_desc:0 "Увеличение эффективности деятельности дронов-рабочих."
+
+  tech_repeatable_planet_jobs_specialist_produces_mult:0 "Образованные специалисты"
+  tech_repeatable_planet_jobs_specialist_produces_mult_desc:0 "Увеличение эффективности деятельности специалистов."
+
+  tech_repeatable_planet_jobs_worker_produces_mult:0 "Квалифицированные рабочие"
+  tech_repeatable_planet_jobs_worker_produces_mult_desc:0 "Увеличение эффективности деятельности рабочих."
+
+  tech_repeatable_planet_max_buildings_add:0 "Архитектурное возрождение"
+  tech_repeatable_planet_max_buildings_add_desc:0 "Включение еще одного слота для строительства без ограничений по поселениям."
+
+  tech_repeatable_pop_assembly_speed:0 "Стандартизированные шаблоны сборки"
+  tech_repeatable_pop_assembly_speed_desc:0 "Увеличение скорости сборки поселений."
+
+  tech_repeatable_pop_growth_speed:0 "Отпуск по уходу за ребенком"
+  tech_repeatable_pop_growth_speed_desc:0 "Увеличение скорости роста поселений."
+
+  tech_repeatable_ship_fire_rate_mult:0 "Учреждение адмиралтейства"
+  tech_repeatable_ship_fire_rate_mult_desc:0 "Увеличение скорострельности корабельных орудий."
+
+  tech_repeatable_ship_hull_mult:0 "Стальные яйца"
+  tech_repeatable_ship_hull_mult_desc:0 "Усиление корпуса кораблей."
+
+  tech_repeatable_ship_speed_mult:0 "Динамические ускорители"
+  tech_repeatable_ship_speed_mult_desc:0 "Увеличение скорости кораблей"
+
+  tech_repeatable_ship_weapon_range_mult:0 "Эффективные боевые компьютеры"
+  tech_repeatable_ship_weapon_range_mult_desc:0 "Увеличение дальности корабельных орудий."
+
+  tech_repeatable_ships_upkeep_mult:0 "Стандартизированные компоненты корабля"
+  tech_repeatable_ships_upkeep_mult_desc:0 "Сокращение затрат на содержание корабля."
+
+  tech_repeatable_starbase_shipyard_build_cost_mult:0 "Сокращение затрат на постройку кораблей"
+  tech_repeatable_starbase_shipyard_build_cost_mult_desc:0 "Сокращение затрат на постройку кораблей."
+
+  tech_repeatable_starbase_shipyard_build_speed_mult:0 "Конвеерные верфи"
+  tech_repeatable_starbase_shipyard_build_speed_mult_desc:0 "Увеличение скорости постройки кораблей."
+
+  tech_repeatable_starbase_upgrade_cost_mult:0 "Динамические верфи"
+  tech_repeatable_starbase_upgrade_cost_mult_desc:0 "Снижение затрат на модернизацию кораблей."
+
+  tech_repeatable_station_gatherers_produces_mult:0 "Продвинутые зонды"
+  tech_repeatable_station_gatherers_produces_mult_desc:0 "Увеличение производительности добывающих станций."
+
+  tech_repeatable_station_researchers_produces_mult:0 "Углубленный анализ данных"
+  tech_repeatable_station_researchers_produces_mult_desc:0 "Увеличение эффективности научных станций."
+
+  tech_repeatable_terraform_speed_mult:0 "Ускоренное терраформирование"
+  tech_repeatable_terraform_speed_mult_desc:0 "Увеличение скорости терраформирования."
+
+  tech_repeatable_terraforming_cost_mult:0 "Эффективное терраформирование"
+  tech_repeatable_terraforming_cost_mult_desc:0 "Сокращение затрат на терраформирование."
+
+  tech_repeatable_trade_value_mult:0 "Свободная торговля"
+  tech_repeatable_trade_value_mult_desc:0 "Увеличение торговой ценности в границах нашей империи."

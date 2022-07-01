@@ -1,0 +1,248 @@
+﻿l_russian:
+
+  casus_belli_cb_dragon_trophy:0 "Отказ в доступе к §EТрофею победы над эфирным драконом§!"
+  war_goal_wg_dragon_trophy:0 "Захватить §E$r_dragon_trophy$§!"
+  war_goal_wg_dragon_trophy_desc:0 "У врага есть §E$r_dragon_trophy$§!. Мы должны заполучить его."
+
+  relic_wars.10.name:0 "Захватить §E$r_dragon_trophy$§!"
+  relic_wars.10.desc:0 "[From.From.GetName] признает свое поражение, и мы отнимаем §E$r_dragon_trophy$§! у этих недостойных!"
+  relic_wars.10.a:0 "Теперь он принадлежит нам."
+
+  relic_wars.11.name:0 "Потеря §EТрофея победы над эфирным драконом§!"
+  relic_wars.11.desc:0 "Если не считать многочисленных функционеров, которые бились в истерике, передача §EТрофея победы над эфирным драконом§! силам расы [From.GetAdj] прошла без эксцессов."
+  relic_wars.11.a:0 "Бессловесный страдальческий вой."
+
+
+  casus_belli_cb_khans_throne:0 "Отказ в доступе к §EТрону хана§!"
+  war_goal_wg_khans_throne:0 "Захватить §E$r_khans_throne$§!"
+  war_goal_wg_khans_throne_desc:0 "У врага есть §E$r_khans_throne$§!. Мы должны заполучить его."
+
+  relic_wars.20.name:0 "Захватить §E$khans_throne$§!"
+  relic_wars.20.desc:0 "[From.From.GetName] признает свое поражение, и мы отнимаем §E$r_khans_throne$§! у этих недостойных!"
+  relic_wars.20.a:0 "Теперь он принадлежит нам."
+
+  relic_wars.21.name:0 "Потеря §EТрона хана§!"
+  relic_wars.21.desc:0 "Если не считать многочисленных функционеров, которые бились в истерике, передача §EТрона хана§! to [From.GetAdj] прошла без эксцессов."
+  relic_wars.21.a:0 "Бессловесный страдальческий вой."
+
+
+  casus_belli_cb_worm_scales:0 "Отказ в доступе к §EЧешуе Червя§!"
+  war_goal_wg_worm_scales:0 "Захватить §EЧешую Червя§!"
+  war_goal_wg_worm_scales_desc:0 "У врага есть §E$r_worm_scales$§!.Мы должны заполучить её."
+
+  relic_wars.30.name:0 "Захватить §EЧешую Червя§!"
+  relic_wars.30.desc:0 "[From.From.GetName] признает свое поражение, и мы отнимаем §EЧешую Червя§! у этих недостойных!"
+  relic_wars.30.a:0 "Теперь она принадлежит нам."
+
+  relic_wars.31.name:0 "Потеря §EЧешуи Червя§!"
+  relic_wars.31.desc:0 "Если не считать многочисленных функционеров, которые бились в истерике, передача §EЧешуи Червя§! силам расы [From.GetAdj] прошла без эксцессов."
+  relic_wars.31.a:0 "Бессловесный страдальческий вой."
+
+
+  casus_belli_cb_rubricator:0 "Отказ в доступе к §EРубрикатору§!"
+  war_goal_wg_rubricator:0 "Захватить §E$r_rubricator$§!"
+  war_goal_wg_rubricator_desc:0 "У врага есть §E$r_rubricator$§!. Мы должны заполучить его."
+
+  relic_wars.40.name:0 "Захватить §E$rubricator$§!"
+  relic_wars.40.desc:0 "[From.From.GetName] признает свое поражение, и мы отнимаем §E$r_rubricator$§! у этих недостойных!"
+  relic_wars.40.a:0 "Теперь он принадлежит нам."
+
+  relic_wars.41.name:0 "Потеря §EРубрикатора§!"
+  relic_wars.41.desc:0 "Если не считать многочисленных функционеров, которые бились в истерике, передача §EРубрикатора§! силам расы [From.GetAdj] прошла без эксцессов."
+  relic_wars.41.a:0 "Бессловесный страдальческий вой."
+
+
+  casus_belli_cb_galaxy:0 "Отказ в доступе к §EМиниатюрной галактике§!"
+  war_goal_wg_galaxy:0 "Захватить §EМиниатюрную галактику§!"
+  war_goal_wg_galaxy_desc:0 "У врага есть §E$r_galaxy$§!. Мы должны заполучить её."
+
+  relic_wars.50.name:0 "Захватить §EМиниатюрную галактику§!"
+  relic_wars.50.desc:0 "[From.From.GetName] признает свое поражение, и мы отнимаем §EМиниатюрную галактику§! у этих недостойных!"
+  relic_wars.50.a:0 "Теперь она принадлежит нам."
+
+  relic_wars.51.name:0 "Потеря §EМиниатюрной галактики§!"
+  relic_wars.51.desc:0 "Если не считать многочисленных функционеров, которые бились в истерике, передача §EМиниатюрной галактики§! силам расы [From.GetAdj] прошла без эксцессов."
+  relic_wars.51.a:0 "Бессловесный страдальческий вой."
+
+
+  casus_belli_cb_omnicodex:0 "Отказ в доступе к §E$r_omnicodex$у§!"
+  war_goal_wg_omnicodex:0 "Захватить §E$r_omnicodex$§!"
+  war_goal_wg_omnicodex_desc:0 "У врага есть §E$omnicodex$§!. Мы должны заполучить его."
+
+  relic_wars.60.name:0 "Захватить §E$r_omnicodex$§!"
+  relic_wars.60.desc:0 "[From.From.GetName] признает свое поражение, и мы отнимаем §E$r_omnicodex$§! у этих недостойных!"
+  relic_wars.60.a:0 "Теперь он принадлежит нам."
+
+  relic_wars.61.name:0 "Потеря §E$r_omnicodex$а§!"
+  relic_wars.61.desc:0 "Если не считать многочисленных функционеров, которые бились в истерике, передача §E$r_omnicodex$а§! силам расы [From.GetAdj] прошла без эксцессов."
+  relic_wars.61.a:0 "Бессловесный страдальческий вой."
+
+
+  casus_belli_cb_surveyor:0 "Отказ в доступе к §E$r_surveyor$у§!"
+  war_goal_wg_surveyor:0 "Захватить §E$r_surveyor$§!"
+  war_goal_wg_surveyor_desc:0 "У врага есть §E$r_surveyor$§!. Мы должны заполучить его."
+
+  relic_wars.70.name:0 "Захватить §E$r_surveyor$§!"
+  relic_wars.70.desc:0 "[From.From.GetName] признает свое поражение, и мы отнимаем §E$r_surveyor$§! у этих недостойных!"
+  relic_wars.70.a:0 "Теперь он принадлежит нам."
+
+  relic_wars.71.name:0 "Потеря §E$r_surveyor$а§!"
+  relic_wars.71.desc:0 "Если не считать многочисленных функционеров, которые бились в истерике, передача §E$r_surveyor$а§! силам расы [From.GetAdj] прошла без эксцессов."
+  relic_wars.71.a:0 "Бессловесный страдальческий вой."
+
+
+  casus_belli_cb_ancient_sword:0 "Отказ в доступе к §EКлинку Охотницы§!"
+  war_goal_wg_ancient_sword:0 "Захватить §E$r_ancient_sword$§!"
+  war_goal_wg_ancient_sword_desc:0 "У врага есть §E$r_ancient_sword$§!. Мы должны заполучить его."
+
+  relic_wars.90.name:0 "Захватить §E$r_ancient_sword$§!"
+  relic_wars.90.desc:0 "[From.From.GetName] признает свое поражение, и мы отнимаем §E$r_ancient_sword$§! у этих недостойных!"
+  relic_wars.90.a:0 "Теперь он принадлежит нам."
+
+  relic_wars.91.name:0 "Потеря §EКлинка Охотницы§!"
+  relic_wars.91.desc:0 "Если не считать многочисленных функционеров, которые бились в истерике, передача §EКлинка Охотницы§! силам расы [From.GetAdj] прошла без эксцессов."
+  relic_wars.91.a:0 "Бессловесный страдальческий вой."
+
+
+  casus_belli_cb_severed_head:0 "Отказ в доступе к §EГолове Зарклана§!"
+  war_goal_wg_severed_head:0 "Захватить §EГолову Зарклана§!"
+  war_goal_wg_severed_head_desc:0 "У врага есть §E$r_severed_head$§!. Мы должны заполучить её."
+
+  relic_wars.100.name:0 "Захватить §EГолову Зарклана§!"
+  relic_wars.100.desc:0 "[From.From.GetName] признает свое поражение, и мы отнимаем §EГолову Зарклана§! у этих недостойных!"
+  relic_wars.100.a:0 "Теперь она принадлежит нам."
+
+  relic_wars.101.name:0 "Потеря §EГоловы Зарклана§!"
+  relic_wars.101.desc:0 "Если не считать многочисленных функционеров, которые бились в истерике, передача §EГоловы Зарклана§! силам расы [From.GetAdj] прошла без эксцессов."
+  relic_wars.101.a:0 "Бессловесный страдальческий вой."
+
+
+  casus_belli_cb_prethoryn_queen:0 "Отказ в доступе к §EПреторианской матке§!"
+  war_goal_wg_prethoryn_queen:0 "Захватить §EПреторианскую матку§!"
+  war_goal_wg_prethoryn_queen_desc:0 "У врага есть §E$r_prethoryn_queen$§!. Мы должны заполучить её."
+
+  relic_wars.110.name:0 "Захватить §EПреторианскую матку§!"
+  relic_wars.110.desc:0 "[From.From.GetName] признает свое поражение, и мы отнимаем §EПреторианскую матку§! у этих недостойных!"
+  relic_wars.110.a:0 "Теперь она принадлежит нам."
+
+  relic_wars.111.name:0 "Потеря §EПреторианской матки§!"
+  relic_wars.111.desc:0 "Если не считать многочисленных функционеров, которые бились в истерике, передача §EПреторианской матки§! силам расы [From.GetAdj] прошла без эксцессов."
+  relic_wars.111.a:0 "Бессловесный страдальческий вой."
+
+
+  casus_belli_cb_unbidden_warlock:0 "Отказ в доступе к §EКолдуну из другого измерения§!"
+  war_goal_wg_unbidden_warlock:0 "Захватить §EКолдуна из другого измерения§!"
+  war_goal_wg_unbidden_warlock_desc:0 "У врага есть §E$r_unbidden_warlock$§!. Мы должны заполучить его."
+
+  relic_wars.120.name:0 "Захватить §EКолдуна из другого измерения§!"
+  relic_wars.120.desc:0 "[From.From.GetName] признает свое поражение, и мы отнимаем §EКолдуна из другого измерения§! у этих недостойных!"
+  relic_wars.120.a:0 "Теперь он принадлежит нам."
+
+  relic_wars.121.name:0 "Потеря §EКолдуна из другого измерения§!"
+  relic_wars.121.desc:0 "Если не считать многочисленных функционеров, которые бились в истерике, передача §EКолдуна из другого измерения§! силам расы [From.GetAdj] прошла без эксцессов."
+  relic_wars.121.a:0 "Бессловесный страдальческий вой."
+
+
+  casus_belli_cb_contingency_core:0 "Отказ в доступе к §EИзолированному ядру Контингенции§!"
+  war_goal_wg_contingency_core:0 "Захватить §E$r_contingency_core$§!"
+  war_goal_wg_contingency_core_desc:0 "У врага есть §E$r_contingency_core$§!. Мы должны заполучить его."
+
+  relic_wars.130.name:0 "Захватить §E$r_contingency_core$§!"
+  relic_wars.130.desc:0 "[From.From.GetName] признает свое поражение, и мы отнимаем §E$r_contingency_core$§! у этих недостойных!"
+  relic_wars.130.a:0 "Теперь оно принадлежит нам."
+
+  relic_wars.131.name:0 "Потеря §EИзолированного ядра Контингенции§!"
+  relic_wars.131.desc:0 "Если не считать многочисленных функционеров, которые бились в истерике, передача §EИзолированного ядра Контингенции§! силам расы [From.GetAdj] прошла без эксцессов."
+  relic_wars.131.a:0 "Бессловесный страдальческий вой."
+
+
+  casus_belli_cb_zro_crystal:0 "Отказ в доступе к §EНетронутому зро-камню души§!"
+  war_goal_wg_zro_crystal:0 "Захватить §E$r_zro_crystal$§!"
+  war_goal_wg_zro_crystal_desc:0 "У врага есть §E$r_zro_crystal$§!. Мы должны заполучить его."
+
+  relic_wars.140.name:0 "Захватить §E$r_zro_crystal$§!"
+  relic_wars.140.desc:0 "[From.From.GetName] признает свое поражение, и мы отнимаем §E$r_zro_crystal$§! у этих недостойных!"
+  relic_wars.140.a:0 "Теперь он принадлежит нам."
+
+  relic_wars.141.name:0 "Потеря §EНетронутого зро-камня души§!"
+  relic_wars.141.desc:0 "Если не считать многочисленных функционеров, которые бились в истерике, передача §EНетронутого зро-камня души§! силам расы [From.GetAdj] прошла без эксцессов."
+  relic_wars.141.a:0 "Бессловесный страдальческий вой."
+
+
+  casus_belli_cb_the_last_baol:0 "Отказ в доступе к §EПоследнему из баол§!"
+  war_goal_wg_the_last_baol:0 "Захватить §EПоследнего из баол§!"
+  war_goal_wg_the_last_baol_desc:0 "У врага есть §E$r_the_last_baol$§!. Мы должны заполучить его."
+
+  relic_wars.150.name:0 "Захватить §EПоследнего из баол§!"
+  relic_wars.150.desc:0 "[From.From.GetName] признает свое поражение, и мы отнимаем §EПоследнего из баол§! у этих недостойных!"
+  relic_wars.150.a:0 "Теперь он принадлежит нам."
+
+  relic_wars.151.name:0 "Потеря §EПоследнего из баол§!"
+  relic_wars.151.desc:0 "Если не считать многочисленных функционеров, которые бились в истерике, передача §EПоследнего из баол§! силам расы [From.GetAdj] прошла без эксцессов."
+  relic_wars.151.a:0 "Бессловесный страдальческий вой."
+
+
+  casus_belli_cb_the_defragmentor:0 "Отказ в доступе к §E$r_the_defragmentor$у§!"
+  war_goal_wg_the_defragmentor:0 "Захватить §E$r_the_defragmentor$§!"
+  war_goal_wg_the_defragmentor_desc:0 "У врага есть §E$the_defragmentor$§!. Мы должны заполучить его."
+
+  relic_wars.160.name:0 "Захватить §E$r_the_defragmentor$§!"
+  relic_wars.160.desc:0 "[From.From.GetName] признает свое поражение, и мы отнимаем §E$the_defragmentor$§! у этих недостойных!"
+  relic_wars.160.a:0 "Теперь он принадлежит нам."
+
+  relic_wars.161.name:0 "Потеря §E$the_defragmentor$а§!"
+  relic_wars.161.desc:0 "Если не считать многочисленных функционеров, которые бились в истерике, передача §E$the_defragmentor$а§! силам расы [From.GetAdj] прошла без эксцессов."
+  relic_wars.161.a:0 "Бессловесный страдальческий вой."
+
+
+  casus_belli_cb_reality_perforator:0 "Отказ в доступе к §EВультаумскому перфоратору реальности§!"
+  war_goal_wg_reality_perforator:0 "Захватить §E$r_reality_perforator$§!"
+  war_goal_wg_reality_perforator_desc:0 "У врага есть §E$r_reality_perforator$§!. Мы должны заполучить его."
+
+  relic_wars.170.name:0 "Захватить §E$r_reality_perforator$§!"
+  relic_wars.170.desc:0 "[From.From.GetName] признает свое поражение, и мы отнимаем §E$r_reality_perforator$§! у этих недостойных!"
+  relic_wars.170.a:0 "Теперь он принадлежит нам."
+
+  relic_wars.171.name:0 "Потеря §EВультаумского перфоратора реальности§!"
+  relic_wars.171.desc:0 "Если не считать многочисленных функционеров, которые бились в истерике, передача §EВультаумского перфоратора реальности§! силам расы [From.GetAdj] прошла без эксцессов."
+  relic_wars.171.a:0 "Бессловесный страдальческий вой."
+
+
+  casus_belli_cb_pox_sample:0 "Отказ в доступе к §EШтамму яворианской чумы§!"
+  war_goal_wg_pox_sample:0 "Захватить §E$r_pox_sample$§!"
+  war_goal_wg_pox_sample_desc:0 "У врага есть §E$r_pox_sample$§!. Мы должны заполучить его."
+
+  relic_wars.180.name:0 "Захватить §E$r_pox_sample$§!"
+  relic_wars.180.desc:0 "[From.From.GetName] признает свое поражение, и мы отнимаем §E$r_pox_sample$§! у этих недостойных!"
+  relic_wars.180.a:0 "Теперь он принадлежит нам."
+
+  relic_wars.181.name:0 "Потеря §EШтамма яворианской чумы§!"
+  relic_wars.181.desc:0 "Если не считать многочисленных функционеров, которые бились в истерике, передача §EШтамма яворианской чумы§! силам расы [From.GetAdj] прошла без эксцессов."
+  relic_wars.181.a:0 "Бессловесный страдальческий вой."
+
+
+  casus_belli_cb_cryo_core:0 "Отказ в доступе к §EЮутскому криоядру§!"
+  war_goal_wg_cryo_core:0 "Захватить §E$r_cryo_core$§!"
+  war_goal_wg_cryo_core_desc:0 "У врага есть §E$r_cryo_core$§!. Мы должны заполучить его."
+
+  relic_wars.190.name:0 "Захватить §E$r_cryo_core$§!"
+  relic_wars.190.desc:0 "[From.From.GetName] признает свое поражение, и мы отнимаем §E$r_cryo_core$§! у этих недостойных!"
+  relic_wars.190.a:0 "Теперь оно принадлежит нам."
+
+  relic_wars.191.name:0 "Потеря §EЮутского криоядра§!"
+  relic_wars.191.desc:0 "Если не считать многочисленных функционеров, которые бились в истерике, передача §EЮутского криоядра§! силам расы [From.GetAdj] прошла без эксцессов."
+  relic_wars.191.a:0 "Бессловесный страдальческий вой."
+
+
+  casus_belli_cb_war_forge:0 "Отказ в доступе к §EВоенной кузнице Сайбрекса§!"
+  war_goal_wg_war_forge:0 "Захватить §EВоенную кузницу Сайбрекса§!"
+  war_goal_wg_war_forge_desc:0 "У врага есть §E$r_war_forge$§!. Мы должны заполучить её."
+
+  relic_wars.200.name:0 "Захватить §EВоенную кузницу Сайбрекса§!"
+  relic_wars.200.desc:0 "[From.From.GetName] признает свое поражение, и мы отнимаем §EВоенную кузницу Сайбрекса§! у этих недостойных!"
+  relic_wars.200.a:0 "Теперь она принадлежит нам."
+
+  relic_wars.201.name:0 "Потеря §EВоенной кузницы Сайбрекса§!"
+  relic_wars.201.desc:0 "Если не считать многочисленных функционеров, которые бились в истерике, передача §EВоенной кузницы Сайбрекса§! силам расы [From.GetAdj] прошла без эксцессов."
+  relic_wars.201.a:0 "Бессловесный страдальческий вой."
+

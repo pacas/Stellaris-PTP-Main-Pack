@@ -1,0 +1,12 @@
+﻿l_russian:
+
+
+ civic_machine_quantum_systems: "Квантовые симуляции"
+ civic_machine_quantum_systems_desc: "Этот машинный интеллект предназначен для предсказания будущего путем сбора информации о событиях прошлого и настоящего."
+ civic_tooltip_machine_quantum_systems_effects: "Квантовые симуляции: §G+1§! за каждые завершённые археологические раскопки, максимум 5.\n§YКвантовые симуляции§! повышают §Gотслеживание§!, §Gуклонение§!, §Gточночть§! и §Gшанс выхода из боя§!."
+
+ cx_quantum_system_1: "Квантовые симуляции"
+ cx_quantum_system_2: "$cx_quantum_system_1$"
+ cx_quantum_system_3: "$cx_quantum_system_1$"
+ cx_quantum_system_4: "$cx_quantum_system_1$"
+ cx_quantum_system_5: "$cx_quantum_system_1$"

@@ -1,0 +1,70 @@
+﻿l_russian:
+ #########################################
+ # Hull Sizes                            #  
+ #########################################
+ RS_SUPPORT_CRUISER:0 "Крейсер поддержки"
+ rs_support_cruiser:0 "Крейсер поддержки"
+ rs_support_cruiser_plural:0 "Крейсеры поддержки"
+ RS_EA_CRUISER:0 "РЭБ-крейсер"
+ rs_ea_cruiser:0 "РЭБ-крейсер"
+ rs_ea_cruiser_plural:0 "РЭБ-крейсеры"
+ RS_BATTLECRUISER:0 "Линейный крейсер"
+ rs_battlecruiser:0 "Линейный крейсер"
+ rs_battlecruiser_plural:0 "Линейные крейсеры"
+ RS_DREADNOUGHT:0 "Дредноут"
+ rs_dreadnought:0 "Дредноут"
+ rs_dreadnought_plural:0 "Дредноуты"
+ RS_CARRIER:0 "Носитель"
+ rs_carrier:0 "Носитель"
+ rs_carrier_plural:0 "Носители"
+ RS_HEAVY_DREADNOUGHT:0 "Тяжёлый дредноут"
+ rs_heavy_dreadnought:0 "Тяжёлый дредноут"
+ rs_heavy_dreadnought_plural:0 "Тяжёлые дредноуты"
+
+ RS_HEAVY_DREADNOUGHT_TYPE_A:0 "Тяжёлый дредноут"
+ rs_heavy_dreadnought_type_a:0 "Тяжёлый дредноут"
+ rs_heavy_dreadnought_type_a_plural:0 "Тяжёлые дредноуты"
+
+ RS_HEAVY_DREADNOUGHT_TYPE_B:0 "Тяжёлый дредноут"
+ rs_heavy_dreadnought_type_b:0 "Тяжёлый дредноут"
+ rs_heavy_dreadnought_type_b_plural:0 "Тяжёлые дредноуты"
+
+ RS_HEAVY_DREADNOUGHT_TYPE_C:0 "Тяжёлый дредноут"
+ rs_heavy_dreadnought_type_c:0 "Тяжёлый дредноут"
+ rs_heavy_dreadnought_type_c_plural:0 "Тяжёлые дредноуты"
+
+ RS_HEAVY_DREADNOUGHT_TYPE_D:0 "Тяжёлый дредноут"
+ rs_heavy_dreadnought_type_d:0 "Тяжёлый дредноут"
+ rs_heavy_dreadnought_type_d_plural:0 "Тяжёлые дредноуты"
+
+ RS_HEAVY_DREADNOUGHT_TYPE_E:0 "Тяжёлый дредноут"
+ rs_heavy_dreadnought_type_e:0 "Тяжёлый дредноут"
+ rs_heavy_dreadnought_type_e_plural:0 "Тяжёлые дредноуты"
+
+ RS_HEAVY_DREADNOUGHT_TYPE_F:0 "Тяжёлый дредноут"
+ rs_heavy_dreadnought_type_f:0 "Тяжёлый дредноут"
+ rs_heavy_dreadnought_type_f_plural:0 "Тяжёлые дредноуты"
+
+ RS_HEAVY_DREADNOUGHT_TYPE_G:0 "Тяжёлый дредноут"
+ rs_heavy_dreadnought_type_g:0 "Тяжёлый дредноут"
+ rs_heavy_dreadnought_type_g_plural:0 "Тяжёлые дредноуты"
+
+ RS_HEAVY_DREADNOUGHT_TYPE_H:0 "Тяжёлый дредноут"
+ rs_heavy_dreadnought_type_h:0 "Тяжёлый дредноут"
+ rs_heavy_dreadnought_type_h_plural:0 "Тяжёлые дредноуты"
+
+ rs_heavy_dreadnought_type_i:0 "Тяжёлый дредноут"
+ RS_HEAVY_DREADNOUGHT_TYPE_I:0 "Тяжёлый дредноут"
+ rs_heavy_dreadnought_type_i_plural:0 "Тяжёлые дредноуты"
+
+ rs_heavy_dreadnought_type_j:0 "Тяжёлый дредноут"
+ RS_HEAVY_DREADNOUGHT_TYPE_J:0 "Тяжёлый дредноут"
+ rs_heavy_dreadnought_type_j_plural:0 "Тяжёлые дредноуты"
+
+ rs_heavy_dreadnought_type_k:0 "Тяжёлый дредноут"
+ RS_HEAVY_DREADNOUGHT_TYPE_K:0 "Тяжёлый дредноут"
+ rs_heavy_dreadnought_type_k_plural:0 "Тяжёлые дредноуты"
+
+ rs_heavy_dreadnought_type_l:0 "Тяжёлый дредноут"
+ RS_HEAVY_DREADNOUGHT_TYPE_L:0 "Тяжёлый дредноут"
+ rs_heavy_dreadnought_type_l_plural:0 "Тяжёлые дредноуты"

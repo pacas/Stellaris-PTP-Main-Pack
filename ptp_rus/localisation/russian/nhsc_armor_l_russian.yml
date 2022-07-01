@@ -1,0 +1,122 @@
+﻿l_russian:
+
+### RUSSIAN LOCALIZATION
+
+########################################
+###        Conventional Armor        ###
+########################################
+
+NHSC_ADV_ARMOR_1: "Улучшенная нейтрониевая броня"
+NHSC_ADV_ARMOR_1_DESC: "Ещё более плотный вариант нейтрониевой брони, способный устоять практически перед любым негативным воздействием."
+SMALL_NHSC_ADV_ARMOR_1: "Малая $NHSC_ADV_ARMOR_1$"
+SMALL_NHSC_ADV_ARMOR_1_DESC: "$NHSC_ADV_ARMOR_1_DESC$"
+MEDIUM_NHSC_ADV_ARMOR_1: "Средняя $NHSC_ADV_ARMOR_1$"
+MEDIUM_NHSC_ADV_ARMOR_1_DESC: "$NHSC_ADV_ARMOR_1_DESC$"
+LARGE_NHSC_ADV_ARMOR_1: "Большая $NHSC_ADV_ARMOR_1$"
+LARGE_NHSC_ADV_ARMOR_1_DESC: "$NHSC_ADV_ARMOR_1_DESC$"
+
+NHSC_ADV_ARMOR_2: "Адамантиевая броня"
+NHSC_ADV_ARMOR_2_DESC: "Названная в честь фантастического материала, эта практически неразрушимая броня способна предложить нашим кораблям несравненный класс защиты."
+SMALL_NHSC_ADV_ARMOR_2: "Маля $NHSC_ADV_ARMOR_2$"
+SMALL_NHSC_ADV_ARMOR_2_DESC: "$NHSC_ADV_ARMOR_2_DESC$"
+MEDIUM_NHSC_ADV_ARMOR_2: "Средняя $NHSC_ADV_ARMOR_2$"
+MEDIUM_NHSC_ADV_ARMOR_2_DESC: "$NHSC_ADV_ARMOR_2_DESC$"
+LARGE_NHSC_ADV_ARMOR_2: "Большая $NHSC_ADV_ARMOR_2$"
+LARGE_NHSC_ADV_ARMOR_2_DESC: "$NHSC_ADV_ARMOR_2_DESC$"
+
+########################################
+###        Nanomaterial Armor        ###
+########################################
+
+NHSC_NANO_ARMOR_1: "Наноструктурированная броня"
+NHSC_NANO_ARMOR_1_DESC: "Внедряя в обшивку наниты, способные производить ремонтные работы, мы можем создать броню, которая не только защищает от урона, но и восстанавливает полученные повреждения."
+SMALL_NHSC_NANO_ARMOR_1: "Малая $NHSC_NANO_ARMOR_1$"
+SMALL_NHSC_NANO_ARMOR_1_DESC: "$NHSC_NANO_ARMOR_1_DESC$"
+MEDIUM_NHSC_NANO_ARMOR_1: "Средняя $NHSC_NANO_ARMOR_1$"
+MEDIUM_NHSC_NANO_ARMOR_1_DESC: "$NHSC_NANO_ARMOR_1_DESC$"
+LARGE_NHSC_NANO_ARMOR_1: "Большая $NHSC_NANO_ARMOR_1$"
+LARGE_NHSC_NANO_ARMOR_1_DESC: "$NHSC_NANO_ARMOR_1_DESC$"
+
+NHSC_NANO_ARMOR_2: "Улучшенная наноструктурированная броня"
+NHSC_NANO_ARMOR_2_DESC: "Улучшенный вариант нанитонесущей брони. Он обладает большей устойчивостью и ускоренным самовосстановлением."
+SMALL_NHSC_NANO_ARMOR_2: "Малая $NHSC_NANO_ARMOR_2$"
+SMALL_NHSC_NANO_ARMOR_2_DESC: "$NHSC_NANO_ARMOR_2_DESC$"
+MEDIUM_NHSC_NANO_ARMOR_2: "Средняя $NHSC_NANO_ARMOR_2$"
+MEDIUM_NHSC_NANO_ARMOR_2_DESC: "$NHSC_NANO_ARMOR_2_DESC$"
+LARGE_NHSC_NANO_ARMOR_2: "Большая $NHSC_NANO_ARMOR_2$"
+LARGE_NHSC_NANO_ARMOR_2_DESC: "$NHSC_NANO_ARMOR_2_DESC$"
+
+########################################
+###          Shielding Armor         ###
+########################################
+
+NHSC_SHIELD_ARMOR_1: "Щитовая броня"
+NHSC_SHIELD_ARMOR_1_DESC: "Внедряя в броню нанитов, способных управлять окружающими энергиями, мы можем создать броню, которая генерирует дополнительные силовые щиты."
+SMALL_NHSC_SHIELD_ARMOR_1: "Малая $NHSC_SHIELD_ARMOR_1$"
+SMALL_NHSC_SHIELD_ARMOR_1_DESC: "$NHSC_SHIELD_ARMOR_1_DESC$"
+MEDIUM_NHSC_SHIELD_ARMOR_1: "Средняя $NHSC_SHIELD_ARMOR_1$"
+MEDIUM_NHSC_SHIELD_ARMOR_1_DESC: "$NHSC_SHIELD_ARMOR_1_DESC$"
+LARGE_NHSC_SHIELD_ARMOR_1: "Большая $NHSC_SHIELD_ARMOR_1$"
+LARGE_NHSC_SHIELD_ARMOR_1_DESC: "$NHSC_SHIELD_ARMOR_1_DESC$"
+
+NHSC_SHIELD_ARMOR_2: "Улучшенная щитовая броня"
+NHSC_SHIELD_ARMOR_2_DESC: "Улучшенная версия щитогенерирующей брони. Она обладает большей устойчивостью и создаёт более прочные щиты."
+SMALL_NHSC_SHIELD_ARMOR_2: "Малая $NHSC_SHIELD_ARMOR_2$"
+SMALL_NHSC_SHIELD_ARMOR_2_DESC: "$NHSC_SHIELD_ARMOR_2_DESC$"
+MEDIUM_NHSC_SHIELD_ARMOR_2: "Средняя $NHSC_SHIELD_ARMOR_2$"
+MEDIUM_NHSC_SHIELD_ARMOR_2_DESC: "$NHSC_SHIELD_ARMOR_2_DESC$"
+LARGE_NHSC_SHIELD_ARMOR_2: "Большая $NHSC_SHIELD_ARMOR_2$"
+LARGE_NHSC_SHIELD_ARMOR_2_DESC: "$NHSC_SHIELD_ARMOR_2_DESC$"
+
+NHSC_SHIELD_ARMOR_3: "Щитовой бастион"
+NHSC_SHIELD_ARMOR_3_DESC: "Ещё более прочная версия щитогенерирующей брони, способная проецировать более мощные щиты."
+SMALL_NHSC_SHIELD_ARMOR_3: "Малая $NHSC_SHIELD_ARMOR_3$"
+SMALL_NHSC_SHIELD_ARMOR_3_DESC: "$NHSC_SHIELD_ARMOR_3_DESC$"
+MEDIUM_NHSC_SHIELD_ARMOR_3: "Средняя $NHSC_SHIELD_ARMOR_3$"
+MEDIUM_NHSC_SHIELD_ARMOR_3_DESC: "$NHSC_SHIELD_ARMOR_3_DESC$"
+LARGE_NHSC_SHIELD_ARMOR_3: "Большая $NHSC_SHIELD_ARMOR_3$"
+LARGE_NHSC_SHIELD_ARMOR_3_DESC: "$NHSC_SHIELD_ARMOR_3_DESC$"
+
+########################################
+###         Leviathans' Armor        ###
+########################################
+
+NHSC_DRAGON_NANOARMOR: "Нанитонесущая драконья чешуя"
+NHSC_DRAGON_NANOARMOR_DESC: "Внедрение наномашин в "броню из драконьей чешуи" ещё сильнее повышает её и без того впечатляющую прочность."
+SMALL_NHSC_DRAGON_NANOARMOR: "Малая $NHSC_DRAGON_NANOARMOR$"
+SMALL_NHSC_DRAGON_NANOARMOR_DESC: "$NHSC_DRAGON_NANOARMOR_DESC$"
+MEDIUM_NHSC_DRAGON_NANOARMOR: "Средняя $NHSC_DRAGON_NANOARMOR$"
+MEDIUM_NHSC_DRAGON_NANOARMOR_DESC: "$NHSC_DRAGON_NANOARMOR_DESC$"
+LARGE_NHSC_DRAGON_NANOARMOR: "Большая $NHSC_DRAGON_NANOARMOR$"
+LARGE_NHSC_DRAGON_NANOARMOR_DESC: "$NHSC_DRAGON_NANOARMOR_DESC$"
+
+NHSC_HARDLIGHT_ARMOR: "Световая броня"
+NHSC_HARDLIGHT_ARMOR_DESC: "Световые частицы, сконцентрированные в защитный слой псевдовещества. Избыточная энергия перераспределяется на щиты, ускоряя их восстановление."
+SMALL_NHSC_HARDLIGHT_ARMOR: "Малая $NHSC_HARDLIGHT_ARMOR$"
+SMALL_NHSC_HARDLIGHT_ARMOR_DESC: "$NHSC_HARDLIGHT_ARMOR_DESC$"
+MEDIUM_NHSC_HARDLIGHT_ARMOR: "Средняя $NHSC_HARDLIGHT_ARMOR$"
+MEDIUM_NHSC_HARDLIGHT_ARMOR_DESC: "$NHSC_HARDLIGHT_ARMOR_DESC$"
+LARGE_NHSC_HARDLIGHT_ARMOR: "Большая $NHSC_HARDLIGHT_ARMOR$"
+LARGE_NHSC_HARDLIGHT_ARMOR_DESC: "$NHSC_HARDLIGHT_ARMOR_DESC$"
+
+NHSC_HORROR_ARMOR: "Броня межпространственного ужаса"
+NHSC_HORROR_ARMOR_DESC: "Невероятно прочный материал, воспроизводящий структуру внешних покровов Межпространственного ужаса."
+SMALL_NHSC_HORROR_ARMOR: "Малая $NHSC_HORROR_ARMOR$"
+SMALL_NHSC_HORROR_ARMOR_DESC: "$NHSC_HORROR_ARMOR_DESC$"
+MEDIUM_NHSC_HORROR_ARMOR: "Средняя $NHSC_HORROR_ARMOR$"
+MEDIUM_NHSC_HORROR_ARMOR_DESC: "$NHSC_HORROR_ARMOR_DESC$"
+LARGE_NHSC_HORROR_ARMOR: "Большая $NHSC_HORROR_ARMOR$"
+LARGE_NHSC_HORROR_ARMOR_DESC: "$NHSC_HORROR_ARMOR_DESC$"
+
+########################################
+###        Crystalline Armor         ###
+########################################
+
+NHSC_CRYSTAL_ARMOR_3: "Усиленное кристаллическое покрытие"
+NHSC_CRYSTAL_ARMOR_3_DESC: "Кристаллическое покрытие нового поколения для корпусов, разработанное с применением невероятно прочных кристалических материалов."
+SMALL_NHSC_CRYSTAL_ARMOR_3: "Малая $NHSC_CRYSTAL_ARMOR_3$"
+SMALL_NHSC_CRYSTAL_ARMOR_3_DESC: "$NHSC_CRYSTAL_ARMOR_3_DESC$"
+MEDIUM_NHSC_CRYSTAL_ARMOR_3: "Средняя $NHSC_CRYSTAL_ARMOR_3$"
+MEDIUM_NHSC_CRYSTAL_ARMOR_3_DESC: "$NHSC_CRYSTAL_ARMOR_3_DESC$"
+LARGE_NHSC_CRYSTAL_ARMOR_3: "Большая $NHSC_CRYSTAL_ARMOR_3$"
+LARGE_NHSC_CRYSTAL_ARMOR_3_DESC: "$NHSC_CRYSTAL_ARMOR_3_DESC$"

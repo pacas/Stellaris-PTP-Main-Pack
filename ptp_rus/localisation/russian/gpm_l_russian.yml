@@ -1,0 +1,1333 @@
+﻿l_russian:
+
+ #### In this file localisation for ####
+ # Other non-cat events
+ # Ambiend Objects
+ # Armies
+ # Artifact Actions
+ # Buildings
+ # Casus Bellis
+ # Colour Tricks
+ # Country Modifiers
+ # Debug
+ # Districts
+ # Edicts
+ # Jobs
+ # Messages
+ # Modifier localisations
+ # Opinions
+ # Planet Classes
+ # Policies
+ # R.E.S.
+ # Ships
+ # Ship Components
+ # Starbase Buildings and Modules
+ # Start Menu
+ # Techologies
+ # Traits
+ # War Goals
+ # war Names
+ #######################################
+
+
+ #######################################
+ #### Other non-cat events
+ #######################################
+ precursor.99336.name:0 "Они добрались сюда первыми!"
+ precursor.99336.desc.vultaum:0 "Другая Империя обнаружила родную систему Вультаума!"
+ precursor.99336.desc.yuht:0 "Другая Империя обнаружила родную систему Юутов!"
+ precursor.99336.desc.first_league:0 "Другая Империя обнаружила родную систему Первой Лиги!"
+ precursor.99336.desc.irassian:0 "Другая Империя обнаружила родную систему Ирассианцев!"
+ precursor.99336.desc.cybrex:0 "Другая Империя обнаружила родную систему Сайбрекса!"
+
+ #######################################
+ #### Ambiend Objects
+ #######################################
+ gpm_broken_wormhole_ring:0 "Сломанный генератор червоточин"
+ gpm_abandoned_station_object:0 "Заброшенная станция"
+ gpm_mysterious_space_station_object:0 "Руины станции"
+ gpm_abandoned_ship_2_object:0 "Древний корпус"
+ gpm_abandoned_starbase_01_object:0 "Разрушенная станция"
+
+ gpm_precursor_shipyards_star:0 "Древние верфи"
+ gpm_precursor_shipyards_star_rs:0 "Древние верфи"
+ gpm_precursor_shipyards_30:0 "Верфи предтеч"
+ gpm_precursor_shipyards_25:0 "$gpm_precursor_shipyards_30$"
+ gpm_precursor_shipyards_24:0 "$gpm_precursor_shipyards_30$"
+ gpm_precursor_shipyards_23:0 "$gpm_precursor_shipyards_30$"
+ gpm_precursor_shipyards_22:0 "$gpm_precursor_shipyards_30$"
+ gpm_precursor_shipyards_21:0 "$gpm_precursor_shipyards_30$"
+ gpm_precursor_shipyards_20:0 "$gpm_precursor_shipyards_30$"
+ gpm_precursor_shipyards_19:0 "$gpm_precursor_shipyards_30$"
+ gpm_precursor_shipyards_18:0 "$gpm_precursor_shipyards_30$"
+ gpm_precursor_shipyards_17:0 "$gpm_precursor_shipyards_30$"
+ gpm_precursor_shipyards_16:0 "$gpm_precursor_shipyards_30$"
+ gpm_precursor_shipyards_15:0 "$gpm_precursor_shipyards_30$"
+ gpm_precursor_shipyards_14:0 "$gpm_precursor_shipyards_30$"
+ gpm_precursor_shipyards_13:0 "$gpm_precursor_shipyards_30$"
+ gpm_precursor_shipyards_12:0 "$gpm_precursor_shipyards_30$"
+ gpm_precursor_shipyards_11:0 "$gpm_precursor_shipyards_30$"
+ gpm_precursor_shipyards_10:0 "$gpm_precursor_shipyards_30$"
+ gpm_precursor_shipyards_9:0 "$gpm_precursor_shipyards_30$"
+ gpm_precursor_shipyards_8:0 "$gpm_precursor_shipyards_30$"
+ gpm_precursor_shipyards_7:0 "$gpm_precursor_shipyards_30$"
+ gpm_precursor_shipyards_RS_30:0 "$gpm_precursor_shipyards_30$"
+ gpm_precursor_shipyards_RS_25:0 "$gpm_precursor_shipyards_30$"
+ gpm_precursor_shipyards_RS_24:0 "$gpm_precursor_shipyards_30$"
+ gpm_precursor_shipyards_RS_23:0 "$gpm_precursor_shipyards_30$"
+ gpm_precursor_shipyards_RS_22:0 "$gpm_precursor_shipyards_30$"
+ gpm_precursor_shipyards_RS_21:0 "$gpm_precursor_shipyards_30$"
+ gpm_precursor_shipyards_RS_20:0 "$gpm_precursor_shipyards_30$"
+ gpm_precursor_shipyards_RS_19:0 "$gpm_precursor_shipyards_30$"
+ gpm_precursor_shipyards_RS_18:0 "$gpm_precursor_shipyards_30$"
+ gpm_precursor_shipyards_RS_17:0 "$gpm_precursor_shipyards_30$"
+ gpm_precursor_shipyards_RS_16:0 "$gpm_precursor_shipyards_30$"
+ gpm_precursor_shipyards_RS_15:0 "$gpm_precursor_shipyards_30$"
+ gpm_precursor_shipyards_RS_14:0 "$gpm_precursor_shipyards_30$"
+ gpm_precursor_shipyards_RS_13:0 "$gpm_precursor_shipyards_30$"
+ gpm_precursor_shipyards_RS_12:0 "$gpm_precursor_shipyards_30$"
+ gpm_precursor_shipyards_RS_11:0 "$gpm_precursor_shipyards_30$"
+ gpm_precursor_shipyards_RS_10:0 "$gpm_precursor_shipyards_30$"
+ gpm_precursor_shipyards_RS_9:0 "$gpm_precursor_shipyards_30$"
+ gpm_precursor_shipyards_RS_8:0 "$gpm_precursor_shipyards_30$"
+ gpm_precursor_shipyards_RS_7:0 "$gpm_precursor_shipyards_30$"
+
+ gpm_precursor_shipyards_star_cybrex_desc:0 "Эти колоссальные верфи когда-то использовались Сайбрексом. Сборочные отсеки изгибаются под влиянием гравитации звезды, поглощая энергию, необходимую для производства кораблей."
+ gpm_precursor_shipyards_star_desc:0 "Эти колоссальные верфи когда-то использовались древней цивилизацией предтеч."
+
+ gpm_binary_asteroids:0 "Близнец [gpm_double_asteroid.GetName]"
+
+ gpm_james_web:0 "Телескоп Джеймс Уэбб"
+ gpm_james_web_desc:0 "Телескоп Джеймс Уэбб считается одним из величайших достижений человечества. Он позволил получить беспрецедентное представление о зарождении Вселенной."
+
+ #######################################
+ #### Armies
+ #######################################
+ gpm_precursor_mech_army:0 "Робот предтеч"
+ gpm_precursor_mech_army_plural:0 "Робот предтеч"
+ gpm_precursor_mech_army_desc:0 "Робот предтеч. Хоть это и отняло немало ресурсов, но нам наконец удалось вернуть его в строй! Эти роботы, будучи выше зданий самой колонии и оснащёнными тяжёлым вооружением, являют собой впечатляющее зрелище. Однако, к сожалению, столь крупные размеры этих машин означают и то, что мы сможем их использовать лишь в обороне."
+ precursor_mech_army_trigger_tooltip:0 "§BМожно построить только в мирах с боевыми роботами предтеч.§!"
+
+ gpm_precursor_bunker_army:0 "Бункер предтеч"
+ gpm_precursor_bunker_army_plural:0 "Бункеры предтеч"
+ gpm_precursor_bunker_army_desc:0 "Бункер предтеч. Сложность бункерной сети этого мира поражает воображение. Будучи спроектированным продвинутым ИИ, каждый такой бункер представляет собой самодостаточную систему, способную принести нам немало пользы. У наших врагов уйдут месяцы, чтобы преодолеть их практически непробиваемые стены, а, обладая достаточным числом таких бункеров, мы сможем сдерживать силы противника почти бесконечно."
+ precursor_bunker_army_trigger_tooltip:0 "§BМожно построить только в мирах с бункерами предтеч.§!"
+
+ gpm_giant_arachnid_army:0 "Армия гигантских арахнидов"
+ gpm_giant_arachnid_army_plural:0 "Армия гигантских арахнидов"
+ gpm_giant_arachnid_army_desc:0 "Пролив реки крови, пота и слёз... хорошо, по большей части крови и слёз, нам удалось приручить местных пауков! Мы создали специальные кибернетические имплантаты, позволяющие управлять этими арахнидами путём задания их вектора перемещения. И этого более чем достаточно, поскольку они совершенно самостоятельно пытаются сожрать всё, на что наткнутся. Орбитальный дождь из закованных в тяжёлую броню и силовые поля гигантских пауков вполне способен оказаться достаточно страшным, чтобы мы смогли выиграть войну!"
+ giant_arachnid_army_trigger_tooltip:0 "§BМожно построить только в мирах, заражённых гигантскими арахнидами.§!"
+
+ gpm_giant_arachnid_army_defensive:0 "Рой гигантских арахнидов"
+ gpm_giant_arachnid_army_defensive_plural:0 "Рои гигантских арахнидов"
+ gpm_giant_arachnid_army_defensive_desc:0 "Рой сверхагрессивных гигантских арахнидов."
+
+ gpm_precursor_mech_army_machine:0 "Переоснащённые боевые роботы предтеч"
+ gpm_precursor_mech_army_machine_plural:0 "Переоснащённые боевые роботы предтеч"
+ gpm_precursor_mech_army_machine_desc:0 "Переоснащённые боевые роботы предтеч. Используя этих роботов как основу, мы интегрировали  в них значительное количество наших собственных систем. Там, где необходимо, мы использовали искусственные суставы и мышцы для улучшения движения. Помимо этого, новый источник питания и блок управления - это все, что потребовалось, чтобы снова запустить роботов."
+ precursor_mech_army_machine_trigger_tooltip:0 "§BМожно построить только в мирах с боевыми роботами предтеч.§!"
+
+ gpm_precursor_bunker_army_machine:0 "Рой бункеров предтеч"
+ gpm_precursor_bunker_army_machine_plural:0 "Рои бункеров предтеч"
+ gpm_precursor_bunker_army_machine_desc:0 "Рои бункеров предтеч. Сложность бункерной сети в этом мире удивительна. Очевидно, что это разработано продвинутым ИИ. Каждый бункер - это самообслуживаемая система, которую мы можем использовать в своих интересах. Практически непроницаемые стены защитят от врагов на несколько месяцев. С достаточным количеством этих бункеров мы могли бы сдерживать вражеские силы бесконечно. Внедрив в систему дозорных дронов, мы можем сделать так, чтобы каждый бункер в сети мог уничтожить любого потенциального противника самостоятельно."
+ precursor_bunker_army_machine_trigger_tooltip:0 "§BМожно построить только в мирах с бункерами предтеч.§!"
+
+ gpm_giant_arachnid_army_machine:0 "Рой кибернетических арахнидов"
+ gpm_giant_arachnid_army_machine_plural:0 "Рой кибернетических арахнидов"
+ gpm_giant_arachnid_army_machine_desc:0 "Обширно используя кибернетику и мозговые имплантаты на арахнидов, нам удалось получить полный контроль над этими жестокими существами. Программы быстрого размножения гарантируют, что можно использовать полчища этих существ. Будучи запрограммированными на поведение как плотный, быстро движущийся рой, они гарантируют победу над нашими врагами практически в любой ситуации."
+ giant_arachnid_army_machine_trigger_tooltip:0 "§BМожно построить только в мирах, заражённых гигантскими арахнидами.§!"
+
+ gpm_relic_tank_battalion:0 "Батальон танков"
+ gpm_relic_tank_battalion_desc:0 "Сверхпродвинутые танки на воздушной подушке."
+
+ gpm_relic_mech_squadron:0 "Мехвоины"
+ gpm_relic_mech_squadron_desc:0 "Колосальные мехи под управлением лучших пилотов с достаточной для уничтожения небольшой луны огневой мощью."
+
+ gpm_relic_fighter_squadron:0 "Эскадрилья истребителей"
+ gpm_relic_fighter_squadron_desc:0 "Быстрые и манёвренные наземные спидеры, способные осуществлять атмосферные полёты на низких высотах."
+
+ gpm_relic_power_armoured_troops:0 "Армия в силовой броне"
+ gpm_relic_power_armoured_troops_desc:0 "Отряды в высокотехнологичной персональной броне."
+
+ # event xenomorph armies
+ gpm_xenomorph_army_defensive:0 "Ксеноморф"
+ gpm_xenomorph_army_defensive_plural:0 "Ксеноморфы"
+ gpm_xenomorph_army_defensive_desc:0 "Полчища голодных тварей, созданных биоинженерами, состоящие из зубов, когтей и ненасытной тяги к убийству."
+
+ gpm_xenomorph_army_queen:0 "Королева ксеноморфов"
+ gpm_xenomorph_army_queen_plural:0 "Королевы ксеноморфов"
+ gpm_xenomorph_army_queen_desc:0 "Единственный крупный ксеноморф, способный производить их яйца."
+
+ # xenomorph army dupe no upkeep
+ gpm_xenomorph_army_no_upkeep:0 "$xenomorph_army$"
+ gpm_xenomorph_army_no_upkeep_desc:0 "$xenomorph_army_desc$"
+
+ # Venerable dreadnaught army
+ gpm_venerable_dreadnaught_army:0 "Древний дредноут"
+ gpm_venerable_dreadnaught_army_desc:0 "Мощный и древний личный мех."
+
+ # dreadnaught army
+ gpm_dreadnaught_army:0 "Дредноут"
+ gpm_dreadnaught_army_desc:0 "Медленный неуклюжий личный робот, оснащенный разрушительными системами оружия и колоссальными пластинами брони."
+
+ #######################################
+ #### Artifact Actions
+ #######################################
+ # unused
+ # gpm_artifact_precursor_deciphering_locked:0 "§L??????§!"
+ # gpm_artifact_precursor_deciphering_locked_desc:0 "$artifact_action_locked_desc$"
+ # gpm_artifact_precursor_deciphering:0 "Experiment With Precursor Technology"
+ # gpm_artifact_precursor_deciphering_desc:0 "Have your scientists experiment with some minor artifacts to see what insights they will yield for our own research."
+ # gpm_artifact_precursor_deciphering_effect:0 "Experiment on £minor_artifacts£Minor Artifacts to discover random precursor technologies.\n\nCooldown: £time£ §Y1800§!"
+ # gpm_artifact_precursor_deciphering_cooldown:0 "Experiments Cooldown"
+ # requires_gpm_artifact_precursor_deciphering_no_cooldown:0 "Cannot have Experiments Cooldown"
+ gpm_artifact_precursor_deciphering_effectTT:0 "Разберите £minor_artifacts£ мелкие артефакты ради случайных технологических бонусов. Вы добьетесь прогресса для случайной технологии, наберете очки исследований или получите временный бонус к темпу исследований.\n\n§Y20%§! шанс получить редкую технологию предтеч.\n\nПерезарядка: £time£ §Y3600§!"
+
+ requires_artifact_sell_collector_cooldown_no_cooldown:0 "$TRIGGER_FAIL$§RВы пока не можете продать больше артефактов.§!"
+ artifact_sell_collector_cooldown:0 "$artifact_sell_collector$ Перезарядка"
+ gpm_artifact_sell_collectorTT:0 "\n\nПерезарядка: £time£ §Y360§!"
+
+ GPM_unlock_artifact_research_centre_locked:0 "§L??????§!"
+ GPM_unlock_artifact_research_centre_locked_desc:0 "$artifact_action_locked_desc$"
+ GPM_unlock_artifact_research_centre:0 "Спонсировать $gpm_tech_arcane_research$"
+ GPM_unlock_artifact_research_centre_desc:0 "Откроет технологию §H$gpm_tech_arcane_research$§!, которая позволит построить §H$gpm_precursor_research_center$§! на планетах с модификаторами предтеч или орбиталях, построенных над такими планетами. Это уникальное здание империи, предназначенное для помощи в исследованиях и экспериментах с малыми артефактами."
+ GPM_unlock_artifact_research_centre_TT:0 "\n§Y$gpm_tech_arcane_research$§! откроет здание §H$gpm_precursor_research_center$§!, которое добавит 2 вида деятельности $job_gpm_precursor_archaeologist$.\n\n$job_gpm_precursor_archaeologist_effect_desc$\n\n"
+ gpm_artifact.1.name:0 "Технологический прорыв!"
+ gpm_artifact.1.desc:0 "Эксперименты с артефактами привели к невероятному технологическому прорыву!"
+ gpm_artifact.2.name:0 "§HИнженерный анализ§! готов"
+ gpm_artifact.2.desc:0 "Наши учёные готовы приступить к §Hинженерному анализу§! новой партии £minor_artifacts£ малых артефактов."
+
+ #######################################
+ #### Buildings
+ #######################################
+ gpm_building_stronghold:0 "Центр управления бункерами предтеч"
+ gpm_building_stronghold_desc:0 "Командный центр контролирует развертывание оборонительных армий в древних бункерах предтеч. Со временем станет доступно больше бункеров."
+
+ gpm_building_mining_nanite_nexus:0 "Нексус добывающих нанитов"
+ gpm_building_mining_nanite_nexus_desc:0 "Центр хранения и управления нашими горными нанитами. При высвобождении они будут рыть гладкие большие туннели к недоступным иными методами минеральным жилам."
+
+ gpm_precursor_research_center:0 "Институт тайных наук"
+ gpm_precursor_research_center_desc:0 "Специализированные исследовательские центры для оказания помощи в изучении древних и могущественных цивилизаций предтеч."
+
+ gpm_building_ascension_tower:0 "Башня вознесения"
+ gpm_building_ascension_tower_desc:0 "Колоссальное здание, способное вместить невероятное количество населения. Башня вознесения столь высока, что её вершину приходится делать герметичной, дабы её обитатели не задохнулись."
+
+ gpm_building_exotic_park:0 "Экзотический парк"
+ gpm_building_exotic_park_desc:0 "Парк, полный странной и экзотической инопланетной фауны."
+
+ gpm_building_manufactory_hub:0 "Хаб мануфакторума"
+ gpm_building_manufactory_hub_desc:0 "Сложный производственный центр, способный заранее динамично регулировать производственные объёмы на входе и на выходе своей системы, чтобы поддерживать работу заводов на оптимальных мощностях."
+
+ gpm_building_core_prison:0 "Подземная тюрьма"
+ gpm_building_core_prison_desc:0 "Эта тюрьма находится настолько глубоко в ядре планеты, что побег оттуда просто невозможен. Единственный вход и выход из тюрьмы - это одна шахта, охраняемая смертоносными автономными механизмами."
+
+ #######################################
+ #### Casus Bellis
+ #######################################
+ casus_belli_cb_gpm_r_time_displacer:0 "Выдвинуть претензию на $gpm_r_time_displacer$"
+ casus_belli_cb_gpm_r_alien_eggs:0 "Выдвинуть претензию на $gpm_r_alien_eggs$"
+ casus_belli_cb_gpm_r_machine_world_core:0 "Выдвинуть претензию на $gpm_r_machine_world_core$"
+ casus_belli_cb_gpm_r_encyclopedia_galactica:0 "Выдвинуть претензию на $gpm_r_encyclopedia_galactica$"
+ casus_belli_cb_gpm_r_zero_energy_generator:0 "Выдвинуть претензию на $gpm_r_zero_energy_generator$"
+ casus_belli_cb_gpm_r_quantum_sphere:0 "Выдвинуть претензию на $gpm_r_quantum_sphere$"
+ casus_belli_cb_gpm_r_ai_architect:0 "Выдвинуть претензию на $gpm_r_ai_architect$"
+ casus_belli_cb_gpm_r_encrypted_sct:0 "Выдвинуть претензию на $gpm_r_encrypted_sct$"
+ casus_belli_cb_gpm_r_experimental_weapon:0 "Выдвинуть претензию на $gpm_r_experimental_weapon$"
+ casus_belli_cb_gpm_r_fallout_emergency_replicator:0 "Выдвинуть претензию на $gpm_r_fallout_emergency_replicator$"
+ casus_belli_cb_gpm_r_power_core:0 "Выдвинуть претензию на $gpm_r_power_core$"
+ casus_belli_cb_gpm_r_mysterious_shield_generator:0 "Выдвинуть претензию на $gpm_r_mysterious_shield_generator$"
+ casus_belli_cb_gpm_r_gravity_engine:0 "Выдвинуть претензию на $gpm_r_gravity_engine$"
+ casus_belli_cb_gpm_r_codex_administratum:0 "Выдвинуть претензию на $gpm_r_codex_administratum$"
+ casus_belli_cb_gpm_r_enigmatic_advisor:0 "Выдвинуть претензию на $gpm_r_enigmatic_advisor$"
+ casus_belli_cb_gpm_r_positronic_microchip:0 "Выдвинуть претензию на $gpm_r_positronic_microchip$"
+ casus_belli_cb_gpm_r_venerable_dreadnaught:0 "Выдвинуть претензию на $gpm_r_venerable_dreadnaught$"
+ casus_belli_cb_gpm_r_sentinel_queen:0 "Выдвинуть претензию на $gpm_r_sentinel_queen$"
+ casus_belli_cb_gpm_r_earthquake_engine:0 "Выдвинуть претензию на $gpm_r_earthquake_engine$"
+ casus_belli_cb_gpm_r_manufactorium_ship:0 "Выдвинуть претензию на $gpm_r_manufactorium_ship$"
+ casus_belli_cb_gpm_r_datacube:0 "Выдвинуть претензию на $gpm_r_datacube$"
+ casus_belli_cb_gpm_r_self_assembly_hub:0 "Выдвинуть претензию на $gpm_r_self_assembly_hub$"
+ casus_belli_cb_gpm_r_banner_of_the_fallen:0 "Выдвинуть претензию на $gpm_r_banner_of_the_fallen$"
+ casus_belli_cb_gpm_r_cloaking_device:0 "Выдвинуть претензию на $gpm_r_cloaking_device$"
+ casus_belli_cb_gpm_r_q_storage_compressor:0 "Выдвинуть претензию на $gpm_r_q_storage_compressor$"
+ casus_belli_cb_gpm_r_soul_gem:0 "Выдвинуть претензию на $gpm_r_soul_gem$"
+ casus_belli_cb_gpm_r_self_repairing_obelisk:0 "Выдвинуть претензию на $gpm_r_self_repairing_obelisk$"
+
+ casus_belli_cb_gpm_r_dragon_trophy:0 "Выдвинуть претензию на $r_dragon_trophy$"
+ casus_belli_cb_gpm_r_khans_throne:0 "Выдвинуть претензию на $r_khans_throne$"
+ casus_belli_cb_gpm_r_worm_scales:0 "Выдвинуть претензию на $r_worm_scales$"
+ casus_belli_cb_gpm_r_galaxy:0 "Выдвинуть претензию на $r_galaxy$"
+ casus_belli_cb_gpm_r_omnicodex:0 "Выдвинуть претензию на $r_omnicodex$"
+ casus_belli_cb_gpm_r_surveyor:0 "Выдвинуть претензию на $r_surveyor$"
+ casus_belli_cb_gpm_r_ancient_sword:0 "Выдвинуть претензию на $r_ancient_sword$"
+ casus_belli_cb_gpm_r_severed_head:0 "Выдвинуть претензию на $r_severed_head$"
+ casus_belli_cb_gpm_r_prethoryn_queen:0 "Выдвинуть претензию на $r_prethoryn_queen$"
+ casus_belli_cb_gpm_r_unbidden_warlock:0 "Выдвинуть претензию на $r_unbidden_warlock$"
+ casus_belli_cb_gpm_r_contingency_core:0 "Выдвинуть претензию на $r_contingency_core$"
+ casus_belli_cb_gpm_r_zro_crystal:0 "Выдвинуть претензию на $r_zro_crystal$"
+ casus_belli_cb_gpm_r_the_last_baol:0 "Выдвинуть претензию на $r_the_last_baol$"
+ casus_belli_cb_gpm_r_the_defragmentor:0 "Выдвинуть претензию на $r_the_defragmentor$"
+ casus_belli_cb_gpm_r_reality_perforator:0 "Выдвинуть претензию на $r_reality_perforator$"
+ casus_belli_cb_gpm_r_cryo_core:0 "Выдвинуть претензию на $r_cryo_core$"
+ casus_belli_cb_gpm_r_pox_sample:0 "Выдвинуть претензию на $r_pox_sample$"
+ casus_belli_cb_gpm_r_war_forge:0 "Выдвинуть претензию на $r_war_forge$"
+
+ #######################################
+ #### Colour Tricks
+ #######################################
+ # Change name to red with skull icon
+ color_red:0 "£military_power_boss  §R [This.GetName] §!"
+
+ # Change name to orange with something icon
+ # color_planet_wonder:0 "£gpm_planet_wonder  §H[This.GetName]§!"
+ color_planet_wonder:0 "§H[This.GetName]§!"
+ color_planet_wonder_col:0 "§H[This.GetName]§!"
+
+ # Change name to teal with something icon
+ # color_precursor:0 "£gpm_precursor  §B[This.GetName]§!"
+ color_precursor:0 "§B[This.GetName]§!"
+ color_precursor_col:0 "§B[This.GetName]§!"
+
+ # reset to default, only applies to planet names
+ color_default_white:0 "Разрушенный мир [Root.Solar_System.GetName]"
+ color_default_white_col:0 "§W[This.GetName]§!"
+
+ gpm_infested:0 "£military_power_boss §R Заражённый мир§!"
+
+ #######################################
+ #### Country Modifiers
+ #######################################
+ gpm_precursor_remnants_discovery:0 "Устройство для записи измерений"
+ gpm_precursor_remnants_discovery_2:0 "Древние звёздные карты"
+ gpm_precursor_energy_grid_discovery:0 "Фазовые индукторы"
+ gpm_precursor_energy_grid_discovery_2:0 "Заряженная опора"
+ gpm_precursor_satellite_grid_discovery:0 "Тарелка дефлектора"
+ gpm_precursor_satellite_grid_discovery_2:0 "4-мерный гироскоп"
+ gpm_precursor_city_discovery:0 "Личный гравипак"
+ gpm_precursor_city_discovery_2:0 "I-балка из странного сплава"
+ gpm_precursor_shipyards_discovery:0 "Усик автономной верфи"
+ gpm_precursor_shipyards_discovery_2:0 "Самоуплотняющиеся соединения"
+ gpm_precursor_planetary_gun_discovery:0 "Дезинтеграционная пушка"
+ gpm_precursor_planetary_gun_discovery_2:0 "Оболочки, заряженные отрицательной энергией"
+ gpm_precursor_bunker_grid_discovery:0 "Неразорвавшаяся противобункерная бомба"
+ gpm_precursor_bunker_grid_discovery_2:0 "Излучатель энергетического поля"
+ gpm_precursor_mechs_discovery:0 "Разрушительная плазменная пушка"
+ gpm_precursor_mechs_discovery_2:0 "Восстановленная броня меха"
+ gpm_precursor_planetary_shield_discovery:0 "Экспериментальный эмиттер"
+ gpm_precursor_planetary_shield_discovery_2:0 "Экзотический энергоаккумуляторный блок"
+ gpm_precursor_floating_city_discovery:0 "Сверх-растяжимый кабель"
+ gpm_precursor_floating_city_discovery_2:0 "Древний летающий автомобиль"
+ gpm_precursor_capital_complex_discovery:0 "Галактические правила бюрократии, том 3"
+ gpm_precursor_capital_complex_discovery_2:0 "Галактические правила дипломатии, том 1"
+ gpm_precursor_communication_hub_discovery:0 "Подпространственное коммуникационное реле"
+ gpm_precursor_communication_hub_discovery_2:0 "Личное подпространственное коммуникационное устройство"
+ gpm_precursor_singularity_drive_discovery:0 "Древний квантовый компьютер"
+ gpm_precursor_singularity_drive_discovery_2:0 "Блок фотонной памяти"
+ gpm_precursor_eternal_fortress_discovery:0 "Излучатель стелс-поля"
+ gpm_precursor_eternal_fortress_discovery_2:0 "Брошенный парящий танк"
+ gpm_precursor_prison_planet_discovery:0 "3-D карта структуры тюрьмы"
+ gpm_precursor_prison_planet_discovery_2:0 "Чертежи тайной крепости"
+ gpm_precursor_mines_discovery:0 "Крохотный шахтерский дрон"
+ gpm_precursor_mines_discovery_2:0 "Уникальный заново вырастающий кристалл"
+ gpm_precursor_manufactorium_discovery:0 "Устаревшая плавильня сплавов"
+ gpm_precursor_manufactorium_discovery_2:0 "Рассыпающийся образец сплава"
+ gpm_precursor_vaults_discovery:0 "Коллекция древних реликвий"
+ gpm_precursor_vaults_discovery_2:0 "Датакуб бесконечной энергии"
+ gpm_precursor_crashed_spacestation_discovery:0 "Древний дроид стюард"
+ gpm_precursor_crashed_spacestation_discovery_2:0 "Секция сверхлёгкой станции"
+ gpm_precursor_battleground_ruins_discovery:0 "Тайник с древним огнестрельным оружием"
+ gpm_precursor_battleground_ruins_discovery_2:0 "Портативное копьё"
+ gpm_precursor_outpost_ruins_discovery:0 "Сенсор загадочного корабля"
+ gpm_precursor_outpost_ruins_discovery_2:0 "Проектор идеальный голограмм"
+ gpm_precursor_harbor_ruins_discovery:0 "Аварийный репликтор для выживания"
+ gpm_precursor_harbor_ruins_discovery_2:0 "Ископаемые окаменелости"
+ gpm_precursor_ruins_discovery:0 "Коллекция старинных безделушек"
+ gpm_precursor_ruins_discovery_2:0 "Прекрасно сохранившийся экземпляр"
+ gpm_precursor_obelisks_discovery:0 "Древний Обелиск"
+ gpm_precursor_obelisks_discovery_2:0 "Кристальный Обелиск"
+ gpm_very_hot_core_discovery:0 "Открытие горячего планетарного ядра"
+ gpm_very_hot_core_discovery_2:0 "Открытие горячего планетарного ядра"
+ gpm_gaia_world_discovery:0 "Вкусные попплеры"
+ gpm_gaia_world_discovery_2:0 "Вечный цветок"
+ gpm_holy_world_discovery:0 "Блестящая чашка"
+ gpm_holy_world_discovery_2:0 "Загадочное сообщение"
+ gpm_floating_islands_discovery:0 "Тепловыделяющие кристаллы"
+ gpm_floating_islands_discovery_2:0 "Магнитный осколок обсидиана"
+ gpm_ruined_battlefield_discovery:0 "Старинный музыкальный инструмент"
+ gpm_ruined_battlefield_discovery_2:0 "Неразорвавшаяся разрушительная граната"
+ gpm_spaceship_graveyard_discovery:0 "Разбившийся ударный истребитель"
+ gpm_spaceship_graveyard_discovery_2:0 "Расплавленный корпус"
+ gpm_artificial_water_discovery:0 "Проба искусственной воды"
+ gpm_artificial_water_discovery_2:0 "Проба чистой «воды»"
+ gpm_android_pleasure_palace_discovery:0 "Подключи-и-работай части робота"
+ gpm_android_pleasure_palace_discovery_2:0 "Персональный развлекательный бот"
+ gpm_ancient_temple_discovery:0 "Прекрасно сохранившийся древний свиток"
+ gpm_ancient_temple_discovery_2:0 "Нечитаемая книга"
+ gpm_crystal_moon_palace_discovery:0 "Резонирующая почва"
+ gpm_crystal_moon_palace_discovery_2:0 "Прозрачное животное-литоид"
+ gpm_plasmoid_life_discovery:0 "Образец живой плазмы"
+ gpm_plasmoid_life_discovery_2:0 "Данные по экзотической плазме"
+ gpm_temple_of_the_ancient_one_discovery:0 "Внимание Старца"
+ gpm_temple_of_the_ancient_one_discovery_2:0 "Тёмные секреты"
+ gpm_proto_forests_discovery:0 "Растительная протожизнь"
+ gpm_proto_forests_discovery_2:0 "Протоамёба"
+ gpm_hiveworld_discovery:0 "Окаменевший Панцирь"
+ gpm_hiveworld_discovery_2:0 "Спящий «ползун»"
+ gpm_arachnophobia_discovery:0 "Одомашненный мелкий паук"
+ gpm_arachnophobia_discovery_2:0 "Альфа-паук"
+ gpm_giant_worm_discovery:0 "Яйца гигантского червя"
+ gpm_giant_worm_discovery_2:0 "Шкура червя"
+ gpm_artificial_core_discovery:0 "Открытие искусственного ядра"
+ gpm_artificial_core_discovery_2:0 "Открытие искусственного ядра"
+ gpm_surface_of_bones_discovery:0 "Планета мёртвых"
+ gpm_surface_of_bones_discovery_2:0 "Планета мёртвых"
+ gpm_strange_alien_eggs_discovery:0 "Спящее инопланетное яйцо"
+ gpm_strange_alien_eggs_discovery_2:0 "Мертвая инопланетная пиявка"
+ gpm_mushroom_forest_discovery:0 "Куча безвредных грибов"
+ gpm_mushroom_forest_discovery_2:0 "Очаровательные грибы"
+ gpm_terraform_speed_one:0 "Инженерия миров"
+ gpm_terraform_speed_two:0 "Инженерия миров"
+ gpm_terraform_speed_three:0 "Инженерия миров"
+
+ #######################################
+ #### Debug
+ #######################################
+
+ #######################################
+ #### Districts
+ #######################################
+ district_gpm_precursor_housing:0 "Отремонтированный городской район"
+ district_gpm_precursor_housing_desc:0 "Отремонтированная часть некогда великого города."
+ district_gpm_precursor_science:0 "Археологический район"
+ district_gpm_precursor_science_desc:0 "Обозначает разрушающийся городской сектор как важный археологический объект."
+
+ district_gpm_precursor_science_standard:0 "Археологический район"
+ district_gpm_precursor_science_standard_plural:0 "Археологические районы"
+ district_gpm_precursor_science_standard_desc:0 "Обозначает сектор как важный археологический объект."
+ mod_district_gpm_precursor_science_standard_max:0 "Максимум археологических районов"
+
+ district_gpm_precursor_manufactorium:0 "Восстановленный район мануфакториума"
+ district_gpm_precursor_manufactorium_plural:0 "Восстановленные районы мануфакториума"
+ district_gpm_precursor_manufactorium_desc:0 "Полностью отреставрированный производственный район может производить невиданное количество продукции."
+ mod_district_gpm_precursor_manufactorium_max:0 "Максимум восстановленных районов мануфакториума"
+
+ #######################################
+ #### Edicts
+ #######################################
+ edict_gpm_edict_pop_assembly:0 "Архотек: сборка машин"
+ edict_gpm_edict_pop_assembly_desc:0 "Используйте £minor_artifacts£  §Bмалые артефакты§!, чтобы ускорить производство новых машин. Этот процесс крайне нестабилен и уничтожит малые артефакты."
+ edict_gpm_edict_tech_alternatives:0 "Архотек: исследовательские альтернативы"
+ edict_gpm_edict_tech_alternatives_desc:0 "Исследователи попытаются расшифровать некоторые £minor_artifacts£  §Bмалые артефакты§! в надежде узнать что-то новое."
+ edict_gpm_edict_station_production:0 "Архотек: производство на станциях"
+ edict_gpm_edict_station_production_desc:0 "Улучшите добывающие станции при помощи £minor_artifacts£ §Bмалых артефактов§!. Это обновление крайне нестабильно и через некоторое время эти обновления отключатся."
+ edict_gpm_edict_alloy_production:0 "Архотек: производство сплавов"
+ edict_gpm_edict_alloy_production_desc:0 "Используйте £minor_artifacts£  §Bмалые артефакты§!, чтобы увеличить производство £alloys£ §Hсплавов§!. Этот процесс крайне нестабилен и уничтожит малые артефакты."
+ edict_gpm_edict_consumer_goods_production:0 "Архотек: производство ТМС"
+ edict_gpm_edict_consumer_goods_production_desc:0 "Используйте £minor_artifacts£  §Bмалые артефакты§!, чтобы увеличить производство £consumer_goods£ §Hтоваров массового спроса§!. Этот процесс крайне нестабилен и уничтожит малые артефакты."
+ edict_gpm_edict_exotic_production:0 "Архотек: производство экзотических материалов"
+ edict_gpm_edict_exotic_production_desc:0 "Используйте £minor_artifacts£  §Bмалые артефакты§!, чтобы увеличить производство §Hэкзотических материалов§!. Этот процесс крайне нестабилен и уничтожит малые артефакты."
+ edict_gpm_edict_planet_sensor_range:0 "Архотек: усиление сенсоров"
+ edict_gpm_edict_planet_sensor_range_desc:0 "Используйте £minor_artifacts£  §Bмалые артефакты§!, чтобы временно увеличить дальность действия сенсоров планет."
+ edict_gpm_edict_terraform_speed:0 "Архотек: терраформирование"
+ edict_gpm_edict_terraform_speed_desc:0 "Используйте £minor_artifacts£  §Bмалые артефакты§!, чтобы улучшить процесс терраформирования. Этот процесс очень энергоёмок и быстро истощит малые артефакты."
+ edict_gpm_edict_armor_regen:0 "Архотек: ремонтные жидкости"
+ edict_gpm_edict_armor_regen_desc:0 "Используйте £minor_artifacts£  §Bмалые артефакты§!, чтобы улучшить регенерацию брони кораблей."
+ edict_gpm_edict_shield_regen:0 "Архотек: усилители щита"
+ edict_gpm_edict_shield_regen_desc:0 "Используйте £minor_artifacts£  §Bмалые артефакты§!, чтобы улучшить регенерацию щитов кораблей."
+ edict_gpm_edict_ship_bombard_dmg:0 "Архотек: планетарные боеголовки"
+ edict_gpm_edict_ship_bombard_dmg_desc:0 "Используйте £minor_artifacts£  §Bмалые артефакты§!, чтобы повысить эффективность и разрушительность планетарных бомбардировок."
+ edict_gpm_edict_army_boost:0 "Архотек: армейские припасы"
+ edict_gpm_edict_army_boost_desc:0 "Распределите £minor_artifacts£  §Bмалые артефакты§! среди солдат, чтобы повысить боевую эффективность армий."
+
+ #######################################
+ #### Jobs
+ #######################################
+ # Categories
+ pop_cat_gpm_spacer:0 "Орбитальный экстрактор"
+ pop_cat_gpm_spacer_plural:0 "Орбитальные экстракторы"
+ pop_cat_gpm_spacer_desc:0 "Это основные рабочие, используемые для добычи материалов в космосе."
+
+ pop_cat_gpm_spacer_specialist:0 "Орбитальный специалист"
+ pop_cat_gpm_spacer_specialist_plural:0 "Орбитальные специалисты"
+ pop_cat_gpm_spacer_specialist_desc:0 "Эти рабочие специализируются на добыче информации и материалов с орбиты."
+
+ # Jobs
+ job_gpm_bunker_drone:0 "Сторожевой дрон бункера предтеч"
+ job_gpm_bunker_drone_plural:0 "Сторожевые дроны бункера предтеч"
+ job_gpm_bunker_drone_desc:0 "Сложное устройство сети бункеров в этом мире поражает. Она явно разработана продвинутым ИИ. Кажется, что каждый бункер представляет собой самоподдерживающуюся систему, которую мы можем использовать в своих интересах. Практически непроницаемые стены означают, что нашим врагам потребуются месяцы, чтобы пробить их. При достаточном количестве этих бункеров мы могли бы легко сдерживать силы врага практически вечно. Внедрив в бункеры сторожевых дронов, мы сможем гарантировать, что каждый бункер в системе сможет справиться с любым потенциальным противником."
+ job_gpm_bunker_drone_effect_desc:0 "£job_gpm_bunker_drone£ $job_gpm_bunker_drone_plural$ увеличивают £mod_country_naval_cap_add£ §Y$MOD_COUNTRY_NAVAL_CAP_ADD$§! и создают £job_gpm_bunker_drone£ §Yоборонительные армии§!"
+
+ job_gpm_bunker_army:0 "Солдат бункера предтеч"
+ job_gpm_bunker_army_plural:0 "Солдаты бункера предтеч"
+ job_gpm_bunker_army_desc:0 "Сложное устройство сети бункеров в этом мире поражает. Она явно разработана продвинутым ИИ. Кажется, что каждый бункер представляет собой самоподдерживающуюся систему, которую мы можем использовать в своих интересах. Практически непроницаемые стены означают, что нашим врагам потребуются месяцы, чтобы пробить их. При достаточном количестве этих бункеров мы могли бы легко сдерживать силы врага практически вечно."
+ job_gpm_bunker_army_effect_desc:0 "£job_gpm_bunker_army£ $job_gpm_bunker_army_plural$ увеличивают £mod_country_naval_cap_add£ §Y$MOD_COUNTRY_NAVAL_CAP_ADD$§! и создают £job_gpm_bunker_army£ §Yоборонительные армии§!"
+
+ job_gpm_moon_miner:0 "Лунный шахтёр"
+ job_gpm_moon_miner_plural:0 "Лунные шахтёры"
+ job_gpm_moon_miner_desc:0 "Это тяжелая работа, но добыча материалов с лун может быть довольно прибыльной."
+ job_gpm_moon_miner_effect_desc:0 "£job_gpm_moon_miner£ $job_gpm_moon_miner_plural$ производят £minerals£ §Yминералы§!, но потребляют немного £consumer_goods£ §Yтоваров массового спроса§!"
+
+ job_gpm_moon_miner_drone:0 "Лунный экстрактор"
+ job_gpm_moon_miner_drone_plural:0 "Лунные экстракторы"
+ job_gpm_moon_miner_drone_desc:0 "$job_gpm_moon_miner_desc$"
+ job_gpm_moon_miner_drone_effect_desc:0 "£job_gpm_moon_miner_drone£ $job_gpm_moon_miner_drone_plural$ производят £minerals£ §Yминералы§!, но потребляют немного £energy£ §Yэнергии§!"
+
+ job_gpm_asteroid_miner:0 "Астероидный шахтёр"
+ job_gpm_asteroid_miner_plural:0 "Астероидные шахтёры"
+ job_gpm_asteroid_miner_desc:0 "Одна из самых опасных работ - добыча материалов из захваченных астероидов. Одно неверное движение - и вы раздавлены гигантской глыбой."
+ job_gpm_asteroid_miner_effect_desc:0 "£job_gpm_asteroid_miner£ $job_gpm_asteroid_miner_plural$ производят £minerals£ §Yминералы§!, но потребляют немного £consumer_goods£ §Yтоваров массового спроса§!"
+
+ job_gpm_asteroid_miner_drone:0 "Астероидный экстрактор"
+ job_gpm_asteroid_miner_drone_plural:0 "Астероидные экстракторы"
+ job_gpm_asteroid_miner_drone_desc:0 "$job_gpm_asteroid_miner_desc$"
+ job_gpm_asteroid_miner_drone_effect_desc:0 "£job_gpm_asteroid_miner_drone£ $job_gpm_asteroid_miner_drone_plural$ производят £minerals£ §Yминералы§!, но потребляют немного £energy£ §Yэнергии§!"
+
+ job_gpm_orbital_researcher:0 "Орбитальный исследователь"
+ job_gpm_orbital_researcher_plural:0 "Орбитальные исследователи"
+ job_gpm_orbital_researcher_desc:0 "Научные экспедиции всегда были основой открытий."
+ job_gpm_orbital_researcher_effect_desc:0 "£job_gpm_orbital_researcher£ $job_gpm_orbital_researcher_plural$ превращают £consumer_goods£ §Yтовары массового спроса§! в £physics£ £society£ £engineering£ §Yочки исследований§! для новых технологий"
+
+ job_gpm_orbital_researcher_drone:0 "Орбитальный калькулятор"
+ job_gpm_orbital_researcher_drone_plural:0 "Орбитальные калькуляторы"
+ job_gpm_orbital_researcher_drone_desc:0 "$job_gpm_orbital_researcher_desc$"
+ job_gpm_orbital_researcher_drone_effect_desc:0 "£job_gpm_orbital_researcher_drone£ $job_gpm_orbital_researcher_drone_plural$ превращают £energy£ §Yэнергию§! в £physics£ £society£ £engineering£ §Yочки исследований§! для новых технологий"
+
+ job_gpm_archaeologist:0 "Археолог"
+ job_gpm_archaeologist_plural:0 "Археологи"
+ job_gpm_archaeologist_desc:0 "Эти решительные археологи со шляпами и хлыстами не оставят и камня на камне."
+ job_gpm_archaeologist_effect_desc:0 "£job_gpm_archaeologist£ $job_gpm_archaeologist_plural$ превращают £consumer_goods£ §Y$consumer_goods$§! в £physics£ £society£ £engineering£ §Yочки исследований§!."
+
+ job_gpm_archaeologist_drone:0 "Дрон-археолог"
+ job_gpm_archaeologist_drone_plural:0 "Дроны-археологи"
+ job_gpm_archaeologist_drone_desc:0 "$job_gpm_archaeologist_desc$"
+ job_gpm_archaeologist_drone_effect_desc:0 "£job_gpm_archaeologist_drone£ $job_gpm_archaeologist_drone_plural$ превращают £energy£ §Y$energy$§! в £physics£ £society£ £engineering£ §Yочки исследований§!."
+
+ job_gpm_precursor_archaeologist:0 "Археолог предтеч"
+ job_gpm_precursor_archaeologist_plural:0 "Археологи предтеч"
+ job_gpm_precursor_archaeologist_desc:0 "Archaeologists specialised in the study of ancient civilisations."
+ job_gpm_precursor_archaeologist_effect_desc:0 "£job_gpm_precursor_archaeologist£ $job_gpm_precursor_archaeologist_plural$ превращают £consumer_goods£ §Y$consumer_goods$§! в £physics£ £society£ £engineering£ §Yочки исследований§! и £minor_artifacts£ §Yмалые артефакты§!"
+
+ job_gpm_precursor_archaeologist_drone:0 "Дрон-археолог предтеч"
+ job_gpm_precursor_archaeologist_drone_plural:0 "Дроны-археологи предтеч"
+ job_gpm_precursor_archaeologist_drone_desc:0 "$job_gpm_precursor_archaeologist_desc$"
+ job_gpm_precursor_archaeologist_drone_effect_desc:0 "£job_gpm_precursor_archaeologist_drone£ $job_gpm_precursor_archaeologist_drone_plural$ превращают £energy£ §Y$energy$§! в £physics£ £society£ £engineering£ §Yочки исследований§! и £minor_artifacts£ §Yмалые артефакты§!"
+
+ job_gpm_orbital_alloy_miner:0 "Орбитальный шахтёр сплавов"
+ job_gpm_orbital_alloy_miner_plural:0 "Орбитальные шахтёры сплавов"
+ job_gpm_orbital_alloy_miner_desc:0 "Опытные промышленные шахтеры, которые специализируются на добыче ценных сплавов из самых опасных мест."
+ job_gpm_orbital_alloy_miner_effect_desc:0 "£job_gpm_orbital_alloy_miner£ $job_gpm_orbital_alloy_miner_plural$ производят £alloy£ §Yсплавы§!, но потребляют немного £consumer_goods£ §Yтоваров массового спроса§!"
+
+ job_gpm_orbital_alloy_miner_drone:0 "Орбитальный экстрактор сплавов"
+ job_gpm_orbital_alloy_miner_drone_plural:0 "Орбитальные экстракторы сплавов"
+ job_gpm_orbital_alloy_miner_drone_desc:0 "$job_gpm_orbital_alloy_miner_desc$"
+ job_gpm_orbital_alloy_miner_drone_effect_desc:0 "£job_gpm_orbital_alloy_miner_drone£ $job_gpm_orbital_alloy_miner_drone_plural$ производят £alloy£ §Yсплавы§!, но потребляют немного £energy£ §Yэнергии§!"
+
+ job_gpm_orbital_mineral_miner:0 "Орбитальный шахтёр"
+ job_gpm_orbital_mineral_miner_plural:0 "Орбитальные шахтёры"
+ job_gpm_orbital_mineral_miner_desc:0 "Недорогие промышленные шахтеры, что специализируются на добыче полезных ископаемых с поверхности планеты."
+ job_gpm_orbital_mineral_miner_effect_desc:0 "£job_gpm_orbital_mineral_miner£ $job_gpm_orbital_mineral_miner_plural$ производят £minerals£ §Yминералы§!, но потребляют немного £consumer_goods£ §Yтоваров массового спроса§!"
+
+ job_gpm_orbital_mineral_miner_drone:0 "Орбитальный экстрактор"
+ job_gpm_orbital_mineral_miner_drone_plural:0 "Орбитальные экстракторы"
+ job_gpm_orbital_mineral_miner_drone_desc:0 "$job_gpm_orbital_mineral_miner_desc$"
+ job_gpm_orbital_mineral_miner_drone_effect_desc:0 "£job_gpm_orbital_mineral_miner_drone£ $job_gpm_orbital_mineral_miner_drone_plural$ производят £minerals£ §Yминералы§!, но потребляют немного £energy£ §Yэнергии§!"
+
+ job_gpm_orbital_particle_collector:0 "Орбитальный коллектор частиц"
+ job_gpm_orbital_particle_collector_plural:0 "Орбитальные коллекторы частиц"
+ job_gpm_orbital_particle_collector_desc:0 "Специализированные сборщики частиц являются основой этой области промышленности и настолько прочны, что могут противостоять самым экстремальным средам."
+ job_gpm_orbital_particle_collector_effect_desc:0 "£job_gpm_orbital_particle_collector£ $job_gpm_orbital_particle_collector_plural$ производят £energy£ §Yэнергию§!"
+
+ job_gpm_orbital_particle_collector_drone:0 "Орбитальный экстрактор частиц"
+ job_gpm_orbital_particle_collector_drone_plural:0 "Орбитальные экстракторы частиц"
+ job_gpm_orbital_particle_collector_drone_desc:0 "$job_gpm_orbital_particle_collector_desc$"
+ job_gpm_orbital_particle_collector_drone_effect_desc:0 "£job_gpm_orbital_particle_collector_drone£ $job_gpm_orbital_particle_collector_drone_plural$ производят £energy£ §Yэнергию§!"
+
+ job_gpm_orbital_spicer:0 "Орбитальный коллектор специй"
+ job_gpm_orbital_spicer_plural:0 "Орбитальные коллекторы специй"
+ job_gpm_orbital_spicer_desc:0 "Специя - источник жизненной силы галактики, и нет ничего важнее её добычи."
+ job_gpm_orbital_spicer_effect_desc:0 "£job_gpm_orbital_spicer£ $job_gpm_orbital_spicer_plural$ производят £energy£ §Yэнергию$§!"
+
+ job_gpm_orbital_spicer_drone:0 "Орбитальный экстрактор специй"
+ job_gpm_orbital_spicer_drone_plural:0 "Орбитальные экстракторы специй"
+ job_gpm_orbital_spicer_drone_desc:0 "$job_gpm_orbital_spicer_desc$"
+ job_gpm_orbital_spicer_drone_effect_desc:0 "£job_gpm_orbital_spicer_drone£ $job_gpm_orbital_spicer_drone_plural$ производят £energy£ §Yэнергию§!"
+
+ job_gpm_android_entertainer:0 "Посетитель «Развлечения»"
+ job_gpm_android_entertainer_plural:0 "Посетители «Развлечения»"
+ job_gpm_android_entertainer_desc:0 "Дух силён, но плоть слаба."
+ job_gpm_android_entertainer_effect_desc:0 "£job_gpm_android_entertainer£ $job_gpm_android_entertainer_plural$ производят £amenities£ §Yблага§!, £trade_value£ §Yторговую ценность§! и £unity£ §Yединство§!"
+
+ #######################################
+ #### Messages
+ #######################################
+ gpm_relics.1001.name:0 "Было вашим, стало нашим"
+ gpm_relics.1001.desc:0 "Мы успешно захватили другую империю, и их обширная коллекция ресурсов, искусства и реликвий готова к захвату."
+ gpm_relics.1101.name:0 "Трофеи порабощения"
+ gpm_relics.1101.desc:0 "Используя наше влияние и мощь, мы успешно поработили империю §H[from.GetName]§! и так мы получаем доступ к их трофеям."
+ gpm_relics.1201.name:0 "Все ваши реликвии - наши"
+ gpm_relics.1201.desc:0 "С интеграцией империи [from.GetName] мы получаем контроль над их обширной коллекцией антиквариата."
+
+ GPM_MESSAGE_NEIGHBOUR_RELIC_RUMOUR_TITLE:0 "Другая империя обнаружила реликвию!"
+ GPM_MESSAGE_NEIGHBOUR_RELIC_RUMOUR_DESC:0 "$COUNTRY|H$ по слухам получила в своё распоряжение §Hдревнюю реликвию§!."
+
+ GPM_MESSAGE_VALUABLE_WORLD_TITLE:0 "Ценный мир обнаружен!"
+ GPM_MESSAGE_VALUABLE_WORLD_DESC:0 "Планета $PLANET|H$ была отмечена как §Hценный мир§!. Этот мир может быть §Hтерраформирован§! при наличии нужной технологии."
+
+ GPM_MESSAGE_WONDROUS_WORLD_TITLE:0 "Мир с чудом обнаружен!"
+ GPM_MESSAGE_WONDROUS_WORLD_DESC:0 "§HЧудо обнаружено§! на планете $PLANET|H$"
+
+ #######################################
+ #### Modifier localisations
+ #######################################
+ mod_planet_districts_minerals_cost_add:0 "Стоимость планетарного района в £minerals£ минералах"
+ mod_planet_buildings_minerals_cost_add:0 "Стоимость планетарного здания в £minerals£ минералах"
+ mod_planet_buildings_minerals_cost_mult:0 "Стоимость планетарного здания в £minerals£ минералах"
+ mod_ship_components_alloys_cost_add:0 "Стоимость корабельных компонентов в £alloys£ сплавах"
+ mod_ship_components_alloys_cost_mult:0 "Стоимость корабельных компонентов в £alloys£ сплавах"
+ mod_ship_upgrades_alloys_cost_mult:0 "Стоимость улучшения корабля в £alloys£ сплавах"
+ mod_starbase_outpost_influence_cost_add:0 "Стоимость аванпоста во £influence£ влиянии"
+ mod_station_observer_missions_society_research_produces_mult:0 "£society_research£ Социологические исследования от станции наблюдения"
+ mod_stations_energy_upkeep_mult:0 "Стоимость содержания станции в £energy£ энергии"
+ mod_planet_buildings_energy_upkeep_mult:0 "Стоимость содержания здания в £energy£ энергии"
+ mod_planet_districts_energy_upkeep_mult:0 "Стоимость содержания района в £energy£ энергии"
+ mod_planet_districts_time_cost_mult:0 "Время £time£ строительства района"
+ mod_ship_upgrades_time_cost_mult:0 "Время £time£ обновления корабля:"
+ mod_planet_pops_food_upkeep_mult:0 "Потребление £food£ еды поселением"
+ mod_edicts_influence_cost_mult:0 "Стоимость £influence£ указа во влиянии:"
+ MOD_SHIP_ARMOR_ADD:0 "Очки брони"
+ MOD_SHIP_ARMOR_MULT:0 "Очки брони"
+ mod_pop_ethic_fanatic_spiritualist_attraction_mult:0 "Привлекательность этики фанатичного спиритуализма"
+ mod_planet_districts_minerals_cost_mult:0 "Стоимость района в £minerals£ минералах"
+ mod_ship_sections_alloys_cost_mult:0 "Стоимость корабельных секций в £alloys£ сплавах"
+ mod_country_base_physics_research_produces_add:0 "Ежемесячные £physics_research£ физические исследования"
+ mod_country_base_society_research_produces_add:0 "Ежемесячные £society_research£ социологические исследования"
+ mod_country_base_engineering_research_produces_add:0 "Ежемесячные £engineering_research£ инженерные исследования"
+ mod_country_base_minor_artifacts_produces_add:0 "Ежемесячные £minor_artifacts£ малые артефакты"
+ mod_country_base_nanites_produces_add:0 "Ежемесячные £nanites£ наниты"
+ mod_ship_sections_alloy_cost_multi:0 "Стоимость секции корабля £alloys£"
+ mod_planet_refiners_exotic_gases_produces_add:0 "£exotic_gases£ Экзотические газы от £job_gas_refiner£ переработчиков"
+ mod_planet_chemists_volatile_motes_produces_add:0 "£volatile_motes£ Летучие пылинки от £job_chemist£ химиков"
+ mod_planet_translucers_rare_crystals_produces_add:0 "£rare_crystals£ Редкие кристаллы от £job_translucer£ специалистов по кристаллам"
+ mod_planet_translucers_rare_crystals_produces_mult:0 "£rare_crystals£ Редкие кристаллы от £job_translucer£ специалистов по кристаллам"
+ mod_planet_jobs_specialist_rare_crystals_produces_mult:0 "£rare_crystals£ Редкие кристаллы от специалистов"
+ mod_planet_jobs_specialist_volatile_motes_produces_mult:0 "£volatile_motes£ Летучие пылинки от специалистов"
+ mod_planet_jobs_specialist_exotic_gases_produces_mult:0 "£exotic_gases£ Экзотические газы от специалистов"
+ mod_ship_upgrades_cost_mult:0 "Стоимость улучшения корабля"
+ mod_weapon_role_anti_armor_weapon_damage_mult:0 "Урон оружия против брони"
+ mod_weapon_role_anti_shield_weapon_damage_mult:0 "Урон оружия против щитов"
+ mod_planet_soldiers_unity_produces_add:0 "£unity£ единство от £job_soldier£ солдат"
+ mod_starbases_energy_upkeep_mult:0 "Содержание звездной базы £energy£"
+ mod_weapon_type_point_defense_weapon_fire_rate_mult:0 "Скоростельность орудий точечной обороны"
+ mod_shipclass_starbase_build_speed_mult:0 "Скорость строительства £time£ звездной базы"
+ mod_country_resource_max_energy_add:0 "Вместимость хранилища энергии"
+ mod_job_gpm_bunker_drone_add:0 "$job_gpm_bunker_drone$"
+ mod_job_gpm_bunker_army_add:0 "$job_gpm_bunker_army$"
+ mod_job_gpm_moon_miner_add:0 "$job_gpm_moon_miner$"
+ mod_job_gpm_moon_miner_drone_add:0 "$job_gpm_moon_miner_drone$"
+ mod_job_gpm_asteroid_miner_add:0 "$job_gpm_asteroid_miner$"
+ mod_job_gpm_asteroid_miner_drone_add:0 "$job_gpm_asteroid_miner_drone$"
+ mod_job_gpm_orbital_researcher_add:0 "$job_gpm_orbital_researcher$"
+ mod_job_gpm_orbital_researcher_drone_add:0 "$job_gpm_orbital_researcher_drone$"
+ mod_job_gpm_archaeologist_add:0 "$job_gpm_archaeologist$"
+ mod_job_gpm_archaeologist_drone_add:0 "$job_gpm_archaeologist_drone$"
+ mod_job_gpm_precursor_archaeologist_add:0 "$job_gpm_precursor_archaeologist$"
+ mod_job_gpm_precursor_archaeologist_drone_add:0 "$job_gpm_precursor_archaeologist_drone$"
+ mod_job_gpm_orbital_alloy_miner_add:0 "$job_gpm_orbital_alloy_miner$"
+ mod_job_gpm_orbital_alloy_miner_drone_add:0 "$job_gpm_orbital_alloy_miner_drone$"
+ mod_job_gpm_orbital_mineral_miner_add:0 "$job_gpm_orbital_mineral_miner$"
+ mod_job_gpm_orbital_mineral_miner_drone_add:0 "$job_gpm_orbital_mineral_miner_drone$"
+ mod_job_gpm_orbital_particle_collector_add:0 "$job_gpm_orbital_particle_collector$"
+ mod_job_gpm_orbital_particle_collector_drone_add:0 "$job_gpm_orbital_particle_collector_drone$"
+ mod_job_gpm_orbital_spicer_add:0 "$job_gpm_orbital_spicer$"
+ mod_job_gpm_orbital_spicer_drone_add:0 "$job_gpm_orbital_spicer_drone$"
+ mod_job_gpm_android_entertainer_add:0 "$job_gpm_android_entertainer$"
+ mod_megastructures_alloys_cost_mult:0 "Стоимость мегасооружения в сплавах"
+ mod_country_base_alloys_produces_add:0 "Ежемесячные £alloys£ сплавы"
+ mod_country_base_consumer_goods_produces_add:0 "Ежемесячные £consumer_goods£ товары массового спроса"
+ mod_job_gpm_orbital_spicer_per_pop:0 "§G+1§! $job_gpm_orbital_spicer$ за $VALUE$ поселений"
+ mod_job_gpm_orbital_spicer_drone_per_pop:0 "§G+1§! $job_gpm_orbital_spicer_drone$ за $VALUE$ поселений"
+ mod_planet_bureaucrats_unity_produces_add:0 "£unity£ единства от £job_bureaucrat£ бюрократов"
+ mod_planet_necro_apprentices_produces_mult:0 "Производство ресурсов £job_necro_apprentice£ некрофитами"
+ mod_planet_merchants_produces_mult:0 "Производство ресурсов £job_merchant£ торговцами"
+ mod_planet_entertainers_produces_mult:0 "Производство ресурсов £job_entertainer£ артистами"
+ mod_planet_necromancers_produces_mult:0 "Производство ресурсов £job_necromancer£ некромантами"
+ mod_planet_telepaths_produces_mult:0 "Производство ресурсов £job_telepath£ телепатами"
+ mod_planet_metallurgists_minerals_upkeep_add:0 "Содержание £job_foundry£ металлургов в минералах"
+ mod_planet_artisans_minerals_upkeep_add:0 "Содержание £job_artisan£ ремесленников в минералах"
+
+ #######################################
+ #### Opinions
+ #######################################
+ opinion_respected_species:0 "Уважаемые дети"
+ opinion_respected_species_desc:0 "По какой-то причине мы нравимся этой угасшей империи. Кажется, они очень заинтересованы в нашем происхождении."
+ opinion_intellectual_promise:0 "Интеллектуальное обещание"
+
+ #######################################
+ #### Policies
+ #######################################
+ policy_gpm_exploration_policy:0 "Политика изучения"
+ policy_gpm_exploration_policy_desc:0 "Эта политика определяет процедуры, которые наши научные корабли будут использовать при исследовании галактики.\n"
+ gpm_scientific_curiosity:0 "Наземные команды"
+ gpm_scientific_curiosity_desc:0 "Несколько команд с наших научных кораблей будут высаживаться на поверхность каждого найденного нами мира для составления его карты и исследования поверхности.\n\n§YОпыт§! §Eот открытий во время исследования увеличен на§! §Y100%§!, §Eтакже даётся§! §Y1§! §Eдополнительная§! §Yнаграда§! §Eза открытия во время исследования§!\n\n"
+ gpm_to_boldly_go:0 "Смело идти"
+ gpm_to_boldly_go_desc:0 "Научные корабли будут посылать только одну команду на исследование каждого найденного мира.\n"
+ gpm_long_range_scans:0 "Орбитальное картографирование"
+ gpm_long_range_scans_desc:0 "Наши научные корабли не будут высылать наземных команд. Быстрое сканирование каждого найденного нами мира позволит получить всю необходимую нам информацию. \n\n§RОткрытия во время исследования не будут появляться§!\n\n"
+
+ #######################################
+ #### Planet Classes
+ #######################################
+
+ pc_gpm_precursor_tomb:0 "Опустошенный мир предтеч"
+
+ #######################################
+ #### R.E.S.
+ #######################################
+ pc_gpm_res:0 "Участок добычи"
+ pc_gpm_res_anomaly_name:0 "Кольцевой участок добычи"
+ pc_gpm_res_resource_name:0 "Богатые ресурсы"
+ pc_gpm_res_exploited_name:0 "Участок по добыче ресурсов"
+ pc_gpm_res_tiyanki_name:0 "Кормовые земли тиянки"
+ pc_gpm_res_desc:0 "В этих планетарных кольцах находится значительное количество ресурсов, готовых к добыче."
+
+ #######################################
+ #### Ships
+ #######################################
+ gpm_manufactorium_ship:0 "Корабль-мануфакториум"
+ gpm_manufactorium_ship_plural:0 "Корабли-мануфакториумы"
+
+ gpm_precursor_destroyer:0 "Корабль предтеч"
+ gpm_precursor_destroyer_plural:0 "Корабли предтеч"
+
+ gpm_crystal_ship_large_blue_elite:0 "Кристаллический зверь"
+ gpm_crystal_ship_large_blue_elite_plural:0 "Кристаллические звери"
+ gpm_crystal_ship_large_blue_elite_section:0 " "
+
+ gpm_crystal_ship_large_green_elite:0 "Кристаллический зверь"
+ gpm_crystal_ship_large_green_elite_plural:0 "Кристаллические звери"
+ gpm_crystal_ship_large_green_elite_section:0 " "
+
+ gpm_crystal_ship_large_yellow_elite:0 "Кристаллический зверь"
+ gpm_crystal_ship_large_yellow_elite_plural:0 "Кристаллические звери"
+ gpm_crystal_ship_large_yellow_elite_section:0 " "
+
+ gpm_crystal_ship_large_red_elite:0 "Кристаллический зверь"
+ gpm_crystal_ship_large_red_elite_plural:0 "Кристаллические звери"
+ gpm_crystal_ship_large_red_elite_section:0 " "
+
+ #######################################
+ #### Ship Components
+ #######################################
+ GPM_ENIGMATIC_POWER_RELAY:0 "Загадочное силовое реле"
+ GPM_ENIGMATIC_POWER_RELAY_DESC:0 "Усовершенствованные силовые реле способны передавать огромное количество энергии без перегрева или перегрузок."
+
+ GPM_SINGULARITY_MATRIX:0 "Матрица сингулярности"
+ GPM_SINGULARITY_MATRIX_DESC:0 "Непостижимо сложная матрица из позитронных нано-проводов, которые каким-то образом дают ответы на поставленные им вопросы."
+ gpm_singularity_matrix_tt:0 "Производство:  £physics_research£2 £society_research£2 £engineering_research£2\nСодержание: £energy£§R-2§!"
+
+ GPM_ORBITAL_FABRICATOR:0 "Орбитальный фабрикатор"
+ GPM_ORBITAL_FABRICATOR_DESC:0 "Древняя мобильная фабрика, способная медленно производить ресурсы."
+ gpm_orbital_fabricator_tt:0 "Производство:  £alloys£ 2"
+
+ #######################################
+ #### Starbase Buildings and Modules
+ #######################################
+ sm_gpm_precursor_shipyards_uplink:0 "Канал связи верфи предтеч"
+ sm_gpm_precursor_shipyards_uplink_desc:0 "Этот специально разработанный канал связи связывает звёздную базу с древними верфями предтеч в этой солнечной системе. Наша звёздная база сможет отправлять запросы на строительство кораблей на верфях предтеч.\n"
+
+ #######################################
+ #### Start Menu
+ #######################################
+  gpm_start_menu.1.name:0 "Настройка Guilli's Planet Modifiers"
+ gpm_start_menu.1.desc:0 "§YНовое - возможности скалирования§!\nКоличество модификаторов теперь зависит от размера планеты!§!\n§GПо умолчанию скалирование включено§!§!\n\nВыберите количество модификаторов, которые будут появляться на планетах. Эта опция также влияет на генерацию модификаторов на мирах-кольцах, орбиталях и при терраформировании, если она не отключена в настройках.\n\n§HСоветы:§!\n  §Y- Убедитесь, что вы сначала установили нужные параметры!§!\n  §Y- Модификаторы появятся после снятия игры с паузы в течение 2-5 игровых дней.§!\n  §Y- Подождите пару дней, прежде чем отправлять научные суда сна исследования.\n\n§HЭто может занять несколько секунд.§!"
+
+ # §HThe mod might takes a few moments after unpausing to spawn everything during which the game may act slow or freeze for a second.§!
+
+ gpm_start_menu.1.START:0 "Начать игру"
+ gpm_start_menu.1.STARTTT:0 "Это позволит начать игру. Любые выбранные вами настройки будут применены и без запуска новой игры отменить их будет нельзя!"
+
+ gpm_start_menu.1.max_one:0 "§YКоличество модификаторов:§! Максимум один"
+ gpm_start_menu.1.max_oneTT:0 "§HНажмите сюда, чтобы циклически§! менять настройки, определяющие минимальное и максимальное количество модификаторов на планете.\n-----§HЧисло модификаторов§!:-----\n§W 0-1 на планету§! §G(Выбрано в данный момент)§!\n§L 0-2 на планету (Низкое число)§!\n§L 0-3 на планету (Стандартное число)§!\n§L 1-3 на планету (Большое число)§!"
+
+ # number of modifiers option
+ gpm_start_menu.1.low:0 "§YЧисло модификаторов:§! Низкое число"
+ gpm_start_menu.1.lowTT:0 "§HНажмите сюда, чтобы циклически§! менять настройки, определяющие минимальное и максимальное количество модификаторов на планете.\n-----§HЧисло модификаторов§!:-----\n§L 0-1 на планету (Максимум один)§!\n§W 0-2 на планету§! §G(Выбрано в данный момент)§!\n§L 0-3 на планету (Стандартное число)§!\n§L 0-4 на планету (Большое число)§!"
+
+ gpm_start_menu.1.normal:0 "§YЧисло модификаторов:§! Стандартное число (§Gрекомендовано§!)"
+ gpm_start_menu.1.normalTT:0 "§HНажмите сюда, чтобы циклически§! менять настройки, определяющие минимальное и максимальное количество модификаторов на планете.\n-----§HЧисло модификаторов§!:-----\n§L 0-1 на планету (Максимум один)§!\n§L 0-2 на планету (Низкое число)§!\n§W 0-3 на планету§! §G(Выбрано в данный момент)§!\n§L 1-3 на планету (Большое число)§!"
+
+ gpm_start_menu.1.high:0 "§YЧисло модификаторов:§! Большое число"
+ gpm_start_menu.1.highTT:0 "§HНажмите сюда, чтобы циклически§! менять настройки, определяющие минимальное и максимальное количество модификаторов на планете.\n-----§HЧисло модификаторов§!:-----\n§L 0-1 на планету (Максимум один)§!\n§L 0-2 на планету (Низкое число)§!\n§L 0-3 на планету (Стандартное число)§!\n§W 1-3 на планету§! §G(Выбрано в данный момент)§!"
+
+ # age of galaxy option
+
+ gpm_start_menu.1.young_galaxy_age:0 "§YВозраст галактики:§! Молодая"
+ gpm_start_menu.1.young_galaxy_ageTT:0 "§HНажмите сюда, чтобы циклически§! менять настройки, определяющие возраст галактики. Это определяет вероятность появления планетарных модификаторов. В молодой галактике будет меньше руин и следов прежних цивилизаций.\n-----§HВозраст галактики:§!:-----\n§W Молодая§! §G(Выбрано в данный момент)§!\n§L Стандартная (Стандартный вариант)§!\n§L Старая§!\n\n§HЭффекты:§!\nКоличество модификаторов предтеч: §R-30%§!\nКоличество неестественных модификаторов планет: §R-30%§!\nКоличество обычных модификаторов планет: §G+30§!"
+
+ gpm_start_menu.1.default_galaxy_age:0 "§YВозраст галактики:§! Стандартная"
+ gpm_start_menu.1.default_galaxy_ageTT:0 "§HНажмите сюда, чтобы циклически§! менять настройки, определяющие возраст галактики. Это определяет вероятность появления планетарных модификаторов. В нормальной галактике будет стандартное количество руин и следов предыдущих цивилизаций.\n-----§HВозраст галактики:§!:-----\n§L Молодая§!\n§W Стандартная §G(Выбрано в данный момент)§!§!\n§L Старая§!"
+
+ gpm_start_menu.1.old_galaxy_age:0 "§YВозраст галактики:§! Старая"
+ gpm_start_menu.1.old_galaxy_ageTT:0 "§HНажмите сюда, чтобы циклически§! менять настройки, определяющие возраст галактики. Это определяет вероятность появления планетарных модификаторов. В старой галактике будет больше руин и следов прежних цивилизаций.\n-----§HВозраст галактики:§!:-----\n§L Молодая§! \n§L Стандартная (Стандартный вариант)§!\n§W Старая§G(Выбрано в данный момент)§!\n\n§HЭффекты:§!\nКоличество модификаторов предтеч: §R+30%§!\nКоличество неестественных модификаторов планет: §R+30%§!\nКоличество обычных модификаторов планет: §G-30§!"
+
+ gpm_start_menu.1.default_scaling:0 "§YСкалирование:§! включено"
+ gpm_start_menu.1.default_scalingTT:0 "§HНажмите сюда, чтобы циклически§! менять настройки, определяющие будут ли модификаторы планет скалироваться от их размера. §HСкалирование сейчас§! §Gвключено§!"
+
+ gpm_start_menu.1.scaling_off:0 "§YСкалирование:§! выключено"
+ gpm_start_menu.1.scaling_offTT:0 "§HНажмите сюда, чтобы циклически§! менять настройки, определяющие будут ли модификаторы планет скалироваться от их размера. §HСкалирование сейчас§! §Rвыключено§!"
+
+ # various options
+ gpm_start_menu.1.options:0 "£options_icon  §YНастройки§! £options_icon"
+ gpm_start_menu.1.optionsTT:0 "Различные настройки мода Guilli's Planet Modifiers. Вы можете отключить или включить различные функции мода здесь.\n\n§YУстановить все необходмые вам параметры, прежде чем выбрать число модификаторов!§!"
+
+ gpm_start_menu.2.enabled_homeworld:0 "£options_icon  §GВключить модификаторы столицы§!"
+ gpm_start_menu.2.enabled_homeworldTT:0 "§HНажмите, чтобы включить модификаторы столицы§!\nЭто приведёт к появлению §Hслучайного§! планетарного модификатора на столичной планете.\n\n§RВнимание: это может привести к дополнительным сложностям!§!"
+ gpm_start_menu.2.disable_homeworld:0 "£options_icon  §RВыключить модификаторы столицы§!"
+ gpm_start_menu.2.disable_homeworldTT:0 "§HНажмите, чтобы выключить модификаторы столицы§!\nЭто предотвратит появление модификаторов на вашей столичной планете."
+
+ gpm_start_menu.2.disable_precursor:0 "£options_icon  §RОтключить модификаторы предтеч§!"
+ gpm_start_menu.2.enable_precursor:0 "£options_icon  §GВключить модификаторы предтеч§!"
+ gpm_start_menu.2.disable_fallen_empire:0 "£options_icon  §RОтключить модификаторы угасших империй§!"
+ gpm_start_menu.2.enable_fallen_empire:0 "£options_icon  §GВключить модификаторы угасших империй§!"
+ gpm_start_menu.2.disable_habitats:0 "£options_icon  §RОтключить модификаторы орбиталей§!"
+ gpm_start_menu.2.enable_habitats:0 "£options_icon  §GВключить модификаторы орбиталей§!"
+ gpm_start_menu.2.disable_ringworlds:0 "£options_icon  §RОтключить модификаторы миров-колец§!"
+ gpm_start_menu.2.enable_ringworlds:0 "£options_icon  §GВключить модификаторы миров-колец§!"
+ gpm_start_menu.2.disable_wonders:0 "£options_icon  §RОтключить планетарные чудеса§!"
+ gpm_start_menu.2.enable_wonders:0 "£options_icon  §GВключить планетарные чудеса§!"
+ gpm_start_menu.2.disable_planetary_rings:0 "£options_icon  §RОтключить планетарные кольца§!"
+ gpm_start_menu.2.enable_planetary_rings:0 "£options_icon  §GВключить планетарные кольца§!"
+ gpm_start_menu.2.enable_arcane_technology:0 "£options_icon  §GВключить малые артефакты§!"
+ gpm_start_menu.2.disable_arcane_technology:0 "£options_icon  §RОтключить малые артефакты§!"
+ gpm_start_menu.2.enable_precursor_ai_chain:0 "£options_icon  §GВключить цепочки заданий по поиску предтеч для ИИ§!"
+ gpm_start_menu.2.disable_precursor_ai_chain:0 "£options_icon  §RОтключить цепочки заданий по поиску предтеч для ИИ§!"
+
+ gpm_start_menu.2.disable_precursorTT:0 "§HНажмите сюда, чтобы отключить модификаторы предтеч§!\nЭто предотвратит появление модификаторов предтеч в галактике."
+ gpm_start_menu.2.enable_precursorTT:0 "§HНажмите сюда, чтобы включить модификаторы предтеч§!"
+ gpm_start_menu.2.disable_fallen_empireTT:0 "§HНажмите сюда, чтобы отключить модификаторы угасших империй§!\nЭто предотвратит появление модификаторов угасших империй в галактике."
+ gpm_start_menu.2.enable_fallen_empireTT:0 "§HНажмите сюда, чтобы включить модификаторы угасших империй§!"
+ gpm_start_menu.2.disable_habitatsTT:0 "§HНажмите сюда, чтобы отключить модификаторы орбиталей§!\nЭто предотвратит появление модификаторов на орбиталях."
+ gpm_start_menu.2.enable_habitatsTT:0 "§HНажмите сюда, чтобы включить модификаторы орбиталей§!"
+ gpm_start_menu.2.disable_ringworldsTT:0 "§HНажмите сюда, чтобы отключить модификаторы миров-колец§!\nЭто предотвратит появление модификаторов миров-колец на мирах-кольцах."
+ gpm_start_menu.2.enable_ringworldsTT:0 "§HНажмите сюда, чтобы включить модификаторы миров-колец§!"
+ gpm_start_menu.2.disable_wondersTT:0 "§HНажмите сюда, чтобы отключить планетарные чудеса§!\nЭто предотвратит появление планетарных чудес в галактике."
+ gpm_start_menu.2.enable_wondersTT:0 "§HНажмите сюда, чтобы включить планетарные чудеса§!"
+ gpm_start_menu.2.disable_planetary_ringsTT:0 "§HНажмите сюда, чтобы отключить планетарные кольца§!\nЭто предотвратит появление планетарных колец в галактике."
+ gpm_start_menu.2.enable_planetary_ringsTT:0 "§HНажмите сюда, чтобы включить планетарные кольца§!"
+
+ gpm_start_menu.2.disable_precursor_ai_chainTT:0 "§HНажмите сюда, чтобы отключить§! цепочки заданий по поиску предтеч для ИИ. ИИ не сможет выполнять их."
+ gpm_start_menu.2.enable_precursor_ai_chainTT:0 "§HНажмите сюда, чтобы включить§! цепочки заданий по поиску предтеч для ИИ. The ИИ сможет выполнять их."
+
+ gpm_start_menu.2.back:0 "§YНазад в главное меню§!"
+ gpm_start_menu.2.backTT:0 "Вернуться в главное меню."
+
+ gpm_start_menu.2.disable_relic_drops:0 "£options_icon  §RОтключить появление реликвий§!"
+ gpm_start_menu.2.enable_relic_drops:0 "£options_icon  §GВключить появление реликвий§!"
+ gpm_start_menu.2.disable_relic_dropsTT:0 "§HНажмите для отключения появления реликвий из мода§!\nЭто предотвратит появление какой-либо реликвии из этого мода в галактике."
+ gpm_start_menu.2.enable_relic_dropsTT:0 "§HНажмите для включения появления реликвий из мода§!"
+
+ #######################################
+ #### Techologies
+ #######################################
+ # unused
+ # gpm_tech_space_surveying:0 "Planetary Surveying"
+ # gpm_tech_space_surveying_desc:0 "Unlocks planetary decisions to extract resources on uninhabitable worlds in your colonised solar systems. (TO DO)"
+ # gpm_space_surveying_desc:0 "Unlocks Uninhabitable Planet Decisions"
+ # tech_gpm_artificial_core_discovery:0 ""
+ # tech_gpm_artificial_core_discovery_desc:0 ""
+ # tech_gpm_artificial_core_discovery_2:0 ""
+ # tech_gpm_artificial_core_discovery_2_desc:0 ""
+
+
+ gpm_tech_arcane_research:0 "Институт по исследованию загадочных технологий"
+ gpm_tech_arcane_research_desc:0 "Специализированный научно-исследовательский институт, посвященный сбору и анализу загадочных технологий."
+
+ tech_gpm_tb_toxic_gas:0 "Химические нейтрализаторы"
+ tech_gpm_tb_toxic_gas_desc:0 "Вероятно, удалить клубящиеся над поверхностью облака токсичного газа будет непросто. Самое верное решение - опустить на них туман химических нейтрализаторов."
+
+ tech_gpm_tb_toxic_gas_hive_mind:0 "Глобальные химические нейтрализаторы"
+ tech_gpm_tb_toxic_gas_desc_hive_mind:0 "Коллектив будет прилагать все усилия для распространения химических нейтрализаторов в этих мирах."
+ tech_gpm_tb_toxic_gas_machine_intelligence:0 "Некоррозионные сплавы"
+ tech_gpm_tb_toxic_gas_desc_machine_intelligence:0 "Создав сплав наших стандартных строительных материалов с некоррозионным элементами, мы можем предотвратить попадание токсичных газов в здания бесконечно долго. "
+
+ tech_gpm_d_unusual_formations:0 "Крупномасштабное разрушение"
+ tech_gpm_d_unusual_formations_desc:0 "Поскольку эти образования неустойчивы даже по самой своей природе, то всё, что нам потребуется - это взрывчатые вещества."
+
+ tech_gpm_d_unusual_formations_machine_intelligence:0 "Систематическая очистка"
+ tech_gpm_d_unusual_formations_desc_machine_intelligence:0 "Структурная целостность местности этого мире очень изменчива. Рельеф должен быть преобразован для обеспечения более эффективных строительных операций и удобного перемещения по поверхности."
+
+ tech_gpm_tb_locust_plagues:0 "Естественные хищники"
+ tech_gpm_tb_locust_plagues_desc:0 "Внедрив безвредных естественных хищников в экосистему, мы сможем контролировать рои саранчи. Мы твёрдо уверены, что с этим планом ничего не может пойти не так."
+
+ tech_gpm_tb_locust_plagues_hive_mind:0 "Плановое уничтожение"
+ tech_gpm_tb_locust_plagues_desc_hive_mind:0 "Для эффективной борьбы с роями саранчи, нам необходимо разделить территорию на сектора и работать с ними отдельно. Для постоянного искоренения вредителей мы используем специальное оборудование и генно-модифицированных хищников."
+
+ tech_gpm_tb_locust_plagues_machine_intelligence:0 "Искусственные хищники"
+ tech_gpm_tb_locust_plagues_desc_machine_intelligence:0 "Специально созданные механические насекомые будут использованы для охоты на саранчу."
+
+ tech_gpm_tb_seasonal_flooding:0 "Управление наводнениями"
+ tech_gpm_tb_seasonal_flooding_desc:0 "Стратегии управления наводнениями обычно опираются на ряд инженерных проектов, которые относятся к одной из двух категорий. Первая включает в себя "жёсткие" инженерные проекты и предусматривает строительство искусственных сооружений, которые благодаря сочетанию науки, техники и грубой силы препятствуют затоплению территорий. Вторая же является совокупностью "мягких" инженерных проектов, действующих совершенно иначе. Такие проекты полагаются на природные ресурсы и знания местных жителей для снижения ущерба, вызванного наводнением."
+
+ tech_gpm_tb_seasonal_flooding_machine_intelligence:0 "Системы дренажа наводнений"
+ tech_gpm_tb_seasonal_flooding_desc_machine_intelligence:0 "Искусственные бассейны и подземные цистерны будут использованы для сбора паводковых вод, появившимся из-за природных или искусственных изменений планеты."
+
+ tech_gpm_d_arachnophobia:0 "Это не шутки!"
+ tech_gpm_d_arachnophobia_desc:0 "Если бы мы только могли просто взять и улететь отсюда на следующем челноке! Однако, к сожалению, подобный путь не для нас, поэтому всё же придётся разбираться с этими гигантскими пауками. Возможно, гигантский огнемёт сможет чем-то помочь. То, что связано с огнём, §Rвсегда§! срабатывает."
+
+ tech_gpm_d_arachnophobia_hive_mind:0 "Сдерживание гнездовья"
+ tech_gpm_d_arachnophobia_desc_hive_mind:0 "Вокруг паучьих гнезд будет выстроена система ячеек, призванная сократить количество существ до приемлемого уровня. На пауков, которые будут выползать из ячеек наружу мы будем охотиться и убивать их."
+ tech_gpm_d_arachnophobia_machine_intelligence:0 "Кибернетические арахниды"
+ tech_gpm_d_arachnophobia_desc_machine_intelligence:0 "Внедрение машинных блоков управления позволит управлять паукообразными существами и направлять и туда, куда необходимо. Доступна команда мгновенного уничтожения. Для поимки и последующей имплантации паукообразных имплантации машинных блоков будут использованы дроны."
+
+ tech_gpm_d_dunes:0 "Ликвидация дюн"
+ tech_gpm_d_dunes_desc:0 "Реализация проектов по удалению дюн включает в себя посадку растительности. Однако недостаточно просто рассеять семена над песком, поскольку их сдует первым же сильным порывом ветра. Высадка ростков производится в лощинах песчаных холмов или на песчаных низменностях. Сами семена помещаются во влажную среду и покрываются тонким слоем песка, а выросшие растения с удалённой для снижения парусности верхушкой перемещаются в специально заглублённые лунки."
+
+ tech_gpm_precursor_remnants_discovery:0 "Нестандартное археологическое защитное снаряжение"
+ tech_gpm_precursor_remnants_discovery_desc:0 "Разрешение для ваших археологов на выбор своего снаряжения, зависящего от исследуемого ими места, увеличит на успех!"
+
+ tech_gpm_precursor_remnants_discovery_2:0 "Использование трёх зондов при сканировании"
+ tech_gpm_precursor_remnants_discovery_2_desc:0 "Использование оптимизированного шаблона поиска, использующего три зонда одновременно, значительно увеличивает нашу способность сканировать поверхности миров."
+
+ tech_gpm_precursor_energy_grid_discovery:0 "Каналы рециркуляции энергии"
+ tech_gpm_precursor_energy_grid_discovery_desc:0 "Новые системы рециркуляции тепла в энергетических каналах обеспечивают более эффективную передачу энергии. К сожалению, эта новая технология лучше всего работает в условиях вакуума, и она очень хрупка, поэтому лучше всего подходит для стационарных конструкций."
+
+ tech_gpm_precursor_energy_grid_discovery_2:0 "Теории энергетического поля"
+ tech_gpm_precursor_energy_grid_discovery_2_desc:0 "Новые теории энергетических полей окажут положительное влияние на нашу способность генерировать энергию."
+
+ tech_gpm_precursor_satellite_grid_discovery:0 "Неизлучающие наблюдательные станции"
+ tech_gpm_precursor_satellite_grid_discovery_desc:0 "Специальное покрытие из ультра-чёрного радиопоглощающего материала делает нашу станцию наблюдения и спутники практически невидимыми."
+
+ tech_gpm_precursor_satellite_grid_discovery_2:0 "Усилители сигналов дальнего космоса"
+ tech_gpm_precursor_satellite_grid_discovery_2_desc:0 "Спутники с автономным питанием в дальнем космосе выступают в качестве усилительной системы для связи на больших расстояниях. Эти усилители позволяют гораздо более эффективно передавать данные на большие расстояния."
+
+ tech_gpm_precursor_city_discovery:0 "Вдохновляющий дизайн"
+ tech_gpm_precursor_city_discovery_desc:0 "Высокоэффективные и красивые архитектурные решения."
+
+ tech_gpm_precursor_city_discovery_2:0 "Алгоритмическое планирование"
+ tech_gpm_precursor_city_discovery_2_desc:0 "Весьма сложный на первый взгляд план города, созданный с помощью современных алгоритмов."
+
+ tech_gpm_precursor_shipyards_discovery:0 "Фрактальное производство"
+ tech_gpm_precursor_shipyards_discovery_desc:0 "Использование новых технологий производства для печати небольших компонентов с фрактальными сетками позволяет нам экономить на материалах."
+
+ tech_gpm_precursor_shipyards_discovery_2:0 "Юниты быстрой замены"
+ tech_gpm_precursor_shipyards_discovery_2_desc:0 "Крошечные роботизированные манипуляторы, оснащенные собственными блоками базового ИИ, позволяют значительно более эффективно заменять компоненты с гораздо меньшими материальными отходами."
+
+ tech_gpm_precursor_planetary_gun_discovery:0 "Квантово-прогностические алгоритмы"
+ tech_gpm_precursor_planetary_gun_discovery_desc:0 "Специализированные квантовые компьютерные микросхемы намного эффективнее предсказывают, где будет находиться цель."
+
+ tech_gpm_precursor_planetary_gun_discovery_2:0 "Охлаждаемое аэрогелем покрытие"
+ tech_gpm_precursor_planetary_gun_discovery_2_desc:0 "На наши системы оружия можно нанести специальное углеродное аэрогелевое покрытие, позволяющее им стрелять быстрее, не вызывая внутренних повреждений от перегрева."
+
+ tech_gpm_precursor_bunker_grid_discovery:0 "Переносные силовые поля"
+ tech_gpm_precursor_bunker_grid_discovery_desc:0 "Усовершенствованные излучатели силового поля позволяют развёртывать их гораздо легче и проще."
+
+ tech_gpm_precursor_bunker_grid_discovery_2:0 "Опыт обороны"
+ tech_gpm_precursor_bunker_grid_discovery_2_desc:0 "Обширные оборонительные линии и бункеры, найденные в мире предтеч, позволяют проводить намного более интенсивную и реалистичную боевую подготовку. Опыт в атаке на оборонительные позиции, а также их защиты приобретается весьма быстро."
+
+ tech_gpm_precursor_mechs_discovery:0 "Мехи-шахтёры"
+ tech_gpm_precursor_mechs_discovery_desc:0 "Маленькие мехи, оснащённые двумя мощными буровыми установками, могут прорезать любой тип породы, с которой они сталкиваются."
+
+ tech_gpm_precursor_mechs_discovery_2:0 "Автономная перезаряющие манипуляторы"
+ tech_gpm_precursor_mechs_discovery_2_desc:0 "Крошечные автономные роботизированные манипуляторы быстро перезаряжают системы самообороны наших кораблей."
+
+ tech_gpm_precursor_planetary_shield_discovery:0 "Частотные модуляторы щитов"
+ tech_gpm_precursor_planetary_shield_discovery_desc:0 "Специализированные модуляторы создают волны в наших щитах, придавая им дополнительную прочность в поглощении прямых ударов."
+
+ tech_gpm_precursor_planetary_shield_discovery_2:0 "Ширококанальные проводники щитов"
+ tech_gpm_precursor_planetary_shield_discovery_2_desc:0 "Большие проводники с открытым каналом позволяют значительно большему количеству энергии проходить через эмиттеры щитов, заставляя наши защитные экраны быстрее восстанавливать свою мощность."
+
+ tech_gpm_precursor_floating_city_discovery:0 "Гравитационные якоря"
+ tech_gpm_precursor_floating_city_discovery_desc:0 "Гравитационные якоря уменьшают нагрузку, которую структуры испытывают под своим собственным весом. Они позволяют строить более высокие и широкие здания."
+
+ tech_gpm_precursor_floating_city_discovery_2:0 "Микрогравитационные поля"
+ tech_gpm_precursor_floating_city_discovery_2_desc:0 "Небольшие излучатели создают локализованное антигравитационное поле, что позволяет зданиям иметь далеко выдвигающиеся платформы и секции и не разрушаться при этом."
+
+ tech_gpm_precursor_capital_complex_discovery:0 "Бюрократические протоколы"
+ tech_gpm_precursor_capital_complex_discovery_desc:0 "Стандартизированные эффективные протоколы позволяют принимать решения быстрее, чем раньше."
+
+ tech_gpm_precursor_capital_complex_discovery_2:0 "Дипломатические методы умиротворения"
+ tech_gpm_precursor_capital_complex_discovery_2_desc:0 "Благодаря подлинному интересу или нет, мы можем уменьшить видимую угрозу для наших соседей, действуя слегка снисходительно. Эта дипломатическая техника весьма универсальна. Нас воспринимают как родителя, а не агрессивного родного брата."
+
+ tech_gpm_precursor_communication_hub_discovery:0 "Хранилище кристаллов времени"
+ tech_gpm_precursor_communication_hub_discovery_desc:0 "Искусственные кристаллы времени не деградируют и могут использоваться для хранения огромного количества знаний. Все знания и инструкции, которые могут понадобиться новой колонии для роста и расширения."
+
+ tech_gpm_precursor_communication_hub_discovery_2:0 "Ретрансляционные станции в глубоком космосе"
+ tech_gpm_precursor_communication_hub_discovery_2_desc:0 "Эффективные и автономные ретрансляционные станции для усиления сигналов, исходящих от границ нашей империи."
+
+ tech_gpm_precursor_singularity_drive_discovery:0 "Основная база данных"
+ tech_gpm_precursor_singularity_drive_discovery_desc:0 "Специализированная база данных, содержащая все научные знания наших империй. Особые алгоритмы поиска данных облегчают перекрестный поиск научной информации."
+
+ tech_gpm_precursor_singularity_drive_discovery_2:0 "Персональный сингулярностный привод"
+ tech_gpm_precursor_singularity_drive_discovery_2_desc:0 "В качестве личного помощника используется миниатюрный сингулярностный привод. Несмотря на простоту, личный привод может рассчитывать на чрезвычайно сложные задачи."
+
+ tech_gpm_precursor_eternal_fortress_discovery:0 "Орбитальный камуфляж"
+ tech_gpm_precursor_eternal_fortress_discovery_desc:0 "Уникальный способ строительства зданий с использованием различных углов и цветов, основанный на том, что окружает сами конструкции. Это весьма затрудняет их обнаружение с орбиты."
+
+ tech_gpm_precursor_eternal_fortress_discovery_2:0 "Полярные гарнизоны"
+ tech_gpm_precursor_eternal_fortress_discovery_2_desc:0 "Анализ данных о военной стратегии предтеч показал, что полярные вторжения - гораздо более распространенная стратегия, чем мы думали."
+
+ tech_gpm_precursor_prison_planet_discovery:0 "Дроны-наблюдатели"
+ tech_gpm_precursor_prison_planet_discovery_desc:0 "Крошечные дроны, которые патрулируют улицы, очень похожи на свой неподвижный статический вариант: дорожную камеру."
+
+ tech_gpm_precursor_prison_planet_discovery_2:0 "Пропаганда планеты-тюрьмы"
+ tech_gpm_precursor_prison_planet_discovery_2_desc:0 "Яркое напоминание о том, что тюремные планеты - отнудь не курорты. Страха быть отправленным на одну такую вполне достаточно, чтобы держать большинство граждан в узде."
+
+ tech_gpm_precursor_mines_discovery:0 "Сенсорное поле минералов"
+ tech_gpm_precursor_mines_discovery_desc:0 "Сенсорное поле способно обнаруживать даже самые маленькие и глубокие жилы минералов."
+
+ tech_gpm_precursor_mines_discovery_2:0 "Наниты-тоннельщики"
+ tech_gpm_precursor_mines_discovery_2_desc:0 "Крошечные машины, предназначенные для рытья глубоких туннелей в направлении минеральных жил. Эти автоматизированные машины строят очень сложные и прочные туннели, способные проникать глубже, чем когда-либо прежде."
+ tech_gpm_precursor_mines_discovery_2TT:0 "§YСооружение:§! Нексус нанитов-тоннельщиков"
+
+ tech_gpm_precursor_manufactorium_discovery:0 "Холодные сплаволитейные кузни"
+ tech_gpm_precursor_manufactorium_discovery_desc:0 "Криосистемы высокого давления встроены в наши сплаволитейные кузни, что позволяет им быстро разливать горячий металл."
+
+ tech_gpm_precursor_manufactorium_discovery_2:0 "Антигравитационные конвейеры"
+ tech_gpm_precursor_manufactorium_discovery_2_desc:0 "Антигравитационные поля могут переносить материалы и готовую продукцию из одной части фабрики в другую в любом направлении без необходимости в физических установках. Несколько производственных цепочек могут быть установлены в очень ограниченном пространстве."
+
+ tech_gpm_precursor_vaults_discovery:0 "Излучение артефактов"
+ tech_gpm_precursor_vaults_discovery_desc:0 "Обнаружение уникального подпространственного излучения, испускаемого этими артефактами, позволяет нам обнаруживать их на больших расстояниях. Галактика полна ими, мы просто должны забрать эти артефакты!"
+
+ tech_gpm_precursor_vaults_discovery_2:0 "Древняя карта сокровищ"
+ tech_gpm_precursor_vaults_discovery_2_desc:0 "Внутри одного из найденных артефактов была спрятана карта. Карта, ведущая к спрятанному, что находится на одной луне прямо на наших территориях хранилищу на наших территориях на древней луне. Экспедиция уже отправилась в путь."
+
+ tech_gpm_precursor_crashed_spacestation_discovery:0 "Самособирающиеся модули звёздных баз"
+ tech_gpm_precursor_crashed_spacestation_discovery_desc:0 "Модульные системы позволяют звёздным базам дёшево изменять свои конфигурации."
+
+ tech_gpm_precursor_crashed_spacestation_discovery_2:0 "Переработка тепла на звёздных базах"
+ tech_gpm_precursor_crashed_spacestation_discovery_2_desc:0 "Обширная сеть из узлов теплопередачи позволяет звездной базе эффективно перерабатывать отработанное тепло."
+
+ tech_gpm_precursor_battleground_ruins_discovery:0 "Плазменные винтовки"
+ tech_gpm_precursor_battleground_ruins_discovery_desc:0 "Солдаты будут вооружёны плазменными винтовками, что испускают луч плазмы - вещество в особом состоянии, состоящее из ядер и свободных электронов - которое наносит беспрецедентный ущерб поражённой цели."
+
+ tech_gpm_precursor_battleground_ruins_discovery_2:0 "Плазменные метатели"
+ tech_gpm_precursor_battleground_ruins_discovery_2_desc:0 "Плазменные метатели испускают поток плазмы в форме конуса, в результате чего всё, к чему он прикасается, мгновенно испаряется и превращается в облако перегретого газа. Быть поражённым плазменным метателем - самый страшный опыт, которого не пожелаешь даже злейшему врагу."
+
+ tech_gpm_precursor_outpost_ruins_discovery:0 "Подпространственные датчики"
+ tech_gpm_precursor_outpost_ruins_discovery_desc:0 "Датчики, способные анализировать подпространство, могут обнаруживать гравитационные искривления от кораблей на расстояниях, недоступным обычным датчикам."
+
+ tech_gpm_precursor_outpost_ruins_discovery_2:0 "Командные аванпосты"
+ tech_gpm_precursor_outpost_ruins_discovery_2_desc:0 "Специализированные военные командные посты позволяют флотам лучше координировать свои действия с центральным командованием. В результате использование большего количества войск на передовой становится намного проще."
+
+ tech_gpm_precursor_harbor_ruins_discovery:0 "Автоматизированное рыболовство"
+ tech_gpm_precursor_harbor_ruins_discovery_desc:0 "Автоматизированное рыболовство обеспечивает бесконечный запас продовольствия без негативного воздействия на окружающую среду."
+
+ tech_gpm_precursor_harbor_ruins_discovery_2:0 "Нанитные фильтры для жидкостей"
+ tech_gpm_precursor_harbor_ruins_discovery_2_desc:0 "Энергетические фильтры для жидкостей очищают их с помощью нанитных решёток, делая эти жидкости пригодными для питья."
+
+ tech_gpm_precursor_ruins_discovery:0 "Теории предтеч"
+ tech_gpm_precursor_ruins_discovery_desc:0 "Обширная база данных, полученных от предтеч, поможет нам с новыми открытиями."
+
+ tech_gpm_precursor_ruins_discovery_2:0 "Кто не рискует..."
+ tech_gpm_precursor_ruins_discovery_2_desc:0 "Игнорирование некоторых сложных руководящих принципов при поиске древних реликвий необходимо, чтобы опередить наших конкурентов в открытиях."
+
+ tech_gpm_precursor_obelisks_discovery:0 "Терраформирующий обелиск"
+ tech_gpm_precursor_obelisks_discovery_desc:0 "Соединив воедино сломанные артефакты, мы обнаружили то, что привёло нас к открытию его основного назначения. Это был терраформирующий обелиск. Высокое здание, предназначенное для фильтрации, обогрева и распространения различных газов и жидкостей по территории планеты, чтобы терраформировать её."
+
+ tech_gpm_precursor_obelisks_discovery_2:0 "Персональное устройство с ИИ"
+ tech_gpm_precursor_obelisks_discovery_2_desc:0 "Одним из артефактов, проанализированных нашим главным ученым, был небольшой обелиск, примерно размером с чашку. Похоже, что его основная цель состоит в том, чтобы помогать в расчёте сложных проблем."
+
+ tech_gpm_very_hot_core_discovery:0 "Жидкостная динамика ядра"
+ tech_gpm_very_hot_core_discovery_desc:0 "Лучшее понимание конвекционных течений вокруг ядра планеты значительно улучшит нашу способность к терраформированию."
+
+ tech_gpm_very_hot_core_discovery_2:0 "Создание вулканов"
+ tech_gpm_very_hot_core_discovery_2_desc:0 "Появилась новая теория терраформирования, заключающаяся в создании искусственных вулканов в стратегических местах, чтобы спровоцировать временную глобальную зиму. Улавливание частиц в атмосфере и нагревание планеты может резко снизить энергетические потребности для терраформирования мира."
+
+ tech_gpm_gaia_world_discovery:0 "Климатические теории"
+ tech_gpm_gaia_world_discovery_desc:0 "Изучение множества различных климатических условий в недавно открытом идеальном мире привело к некоторым интересным теориям о существовании экзотического климата. Эти знания очень помогут нашей способности адаптироваться к окружающей среде."
+
+ tech_gpm_gaia_world_discovery_2:0 "Нерушимые бобы"
+ tech_gpm_gaia_world_discovery_2_desc:0 "Мы недавно открыли новый тип бобов, которые могут расти практически везде и весьма питательны. Эта новая пища очень поможет прокормить новые колонии."
+
+ tech_gpm_holy_world_discovery:0 "Зависть к старшим"
+ tech_gpm_holy_world_discovery_desc:0 "Открытие священных сигналов на недавно открытом идеальном мире дало нашему правительству толчок, необходимый для финансирования научных исследований во всех областях. Мы должны сравняться в знаниях с этими древними империями и даже превзойти их."
+
+ tech_gpm_holy_world_discovery_2:0 "Решение экзистенциальных проблем"
+ tech_gpm_holy_world_discovery_2_desc:0 "Новости о том, что в нашей галактике есть гораздо более древние цивилизации, потрясла наше общество. Лучше всего помочь нашему народу справиться с этим экзистенциальным страхом."
+
+ tech_gpm_floating_islands_discovery:0 "Антигравитационные усилители"
+ tech_gpm_floating_islands_discovery_desc:0 "Открытие искусственных антигравитационных усилителей дает нам уникальное понимание природы искусственной гравитации."
+ tech_gpm_floating_islands_discovery_tt:0 "§HРазблокирует планетарное решение:§! Создать парящие острова"
+
+ tech_gpm_floating_islands_discovery_2:0 "Гравитационные инжекторы"
+ tech_gpm_floating_islands_discovery_2_desc:0 "Система антигравитационных инжекторов создает сильный гравитационный толчок для заряженных снарядов, позволяя им лететь с гораздо более высокими скоростями."
+
+ tech_gpm_ruined_battlefield_discovery:0 "Скоростные тактики"
+ tech_gpm_ruined_battlefield_discovery_desc:0 "Изучение древних полей сражений показало, что использование быстрых спидеров или мотоциклов для захода во фланг всё ещё важно в современной войне."
+
+ tech_gpm_ruined_battlefield_discovery_2:0 "Саботаж линий снабжения"
+ tech_gpm_ruined_battlefield_discovery_2_desc:0 "Исследования показали, что саботаж линий снабжения оказывают гораздо более пагубное влияние на моральный дух врага, чем простое их разрушение."
+
+ tech_gpm_spaceship_graveyard_discovery:0 "Стандартные шаблоны отсеков"
+ tech_gpm_spaceship_graveyard_discovery_desc:0 "Стандартные строительные шаблоны для секций кораблей значительно снижают стоимость их изготовления с течением времени."
+
+ tech_gpm_spaceship_graveyard_discovery_2:0 "Прочные переборки"
+ tech_gpm_spaceship_graveyard_discovery_2_desc:0 "Чрезвычайно плотные переборки находятся в каждом отсеке наших судов, делая их намного более устойчивыми к физическим нагрузкам."
+
+ tech_gpm_artificial_water_discovery:0 "Саморепликация"
+ tech_gpm_artificial_water_discovery_desc:0 "Тщательно контролируемые наниты могут копировать себя, что дает нам бесконечный запас нанитов для использования в других местах."
+
+ tech_gpm_artificial_water_discovery_2:0 "Нанитный охладитель"
+ tech_gpm_artificial_water_discovery_2_desc:0 "Нанитный охладитель способен сохранять себя настолько холодным, что он может почти вечно оставаться вблизи отрицательных температур. Это достигается за счет активной передачи тепла из окружающей среды в гиперэффективные тепловые элементы."
+
+ tech_gpm_android_pleasure_palace_discovery:0 "Дроиды с чёрного рынка"
+ tech_gpm_android_pleasure_palace_discovery_desc:0 "Хотя дроиды, доставляющие удовольствие, официально запрещены, они сейчас настолько широко распространены, что их невозможно запретить. Процветающий чёрный рынок привел к тому, что почти в каждом доме находится такой, хотя никто не признаётся во владении такими вещами."
+
+ tech_gpm_android_pleasure_palace_discovery_2:0 "Дроиды-слуги"
+ tech_gpm_android_pleasure_palace_discovery_2_desc:0 "Уникально покорный и не лишённый соблазнительности искусственный интеллект используется для создания лучших личных слуг, которых когда-либо видела галактика."
+
+ tech_gpm_ancient_temple_discovery:0 "Археологический дрон-искатель"
+ tech_gpm_ancient_temple_discovery_desc:0 "Модель 32-B-Short-Round - это высокоадаптивный и надежный дрон, способный находить необычные предметы в самых опасных и недоступных местах."
+
+ tech_gpm_ancient_temple_discovery_2:0 "Археологический ИИ"
+ tech_gpm_ancient_temple_discovery_2_desc:0 "Специализированный ИИ для анализа множества улик, найденных на местах раскопок."
+
+ tech_gpm_crystal_moon_palace_discovery:0 "Катализаторы роста кристаллов"
+ tech_gpm_crystal_moon_palace_discovery_desc:0 "Комбинация экзотических химикатов значительно увеличивает скорость роста искусственно созданных кристаллических структур."
+
+ tech_gpm_crystal_moon_palace_discovery_2:0 "Фрактальная рефракция"
+ tech_gpm_crystal_moon_palace_discovery_2_desc:0 "Искусственные кристаллы с бесконечной фрактальной структурой - это наилучший способ сфокусировать энергию на цели с помощью рефракции."
+
+ tech_gpm_plasmoid_life_discovery:0 "Плазменные поля"
+ tech_gpm_plasmoid_life_discovery_desc:0 "Создание стабильного плазменного поля вокруг снарядов оружия сможет обеспечить более высокую вероятность пробития брони."
+
+ tech_gpm_plasmoid_life_discovery_2:0 "Производство плазмы из радона"
+ tech_gpm_plasmoid_life_discovery_2_desc:0 "Использование газа радона, стабильного и пассивного элемента, и его нагрев до состояния плазмы, поможет нам в производстве нестабильных элементов."
+
+ tech_gpm_temple_of_the_ancient_one_discovery:0 "Ритуал проницательности"
+ tech_gpm_temple_of_the_ancient_one_discovery_desc:0 "Древний свиток рассказывает о ритуале, который даёт понимание самой природы вселенной."
+
+ tech_gpm_temple_of_the_ancient_one_discovery_2:0 "Ритуал жертвоприношения"
+ tech_gpm_temple_of_the_ancient_one_discovery_2_desc:0 "Древний свиток говорит о ритуале, который продлевает жизнь ... за цену."
+
+ tech_gpm_proto_forests_discovery:0 "Инопланетные фрукты"
+ tech_gpm_proto_forests_discovery_desc:0 "Быстрорастущие экзотические деревья плодоносят сочными оранжевыми плодами, готовые к употреблению."
+
+ tech_gpm_proto_forests_discovery_2:0 "Исцеляющие цветы"
+ tech_gpm_proto_forests_discovery_2_desc:0 "Цветы не от мира сего с замечательными целебными свойствами. Эти цветы невероятно нежные и требуют постоянного ухода, чтобы приносить пользу."
+
+ tech_gpm_hiveworld_discovery:0 "Самовосстанавливающаяся слизь"
+ tech_gpm_hiveworld_discovery_desc:0 "Тонкий слой живой слизи можно нанести на любой материал, чтобы придать ему самовосстанавливающийся защитный слой. Эта слизь очень вынослива и может выжить в суровых условиях космоса."
+
+ tech_gpm_hiveworld_discovery_2:0 "Газовые стручки"
+ tech_gpm_hiveworld_discovery_2_desc:0 "Биологические наросты, что периодически производят стабильный экзотический газ как побочный продукт своего метаболизма."
+
+ tech_gpm_arachnophobia_discovery:0 "ДНК арахнидов"
+ tech_gpm_arachnophobia_discovery_desc:0 "Клонирование древнего хищника? Да что может пойти не так?"
+ tech_gpm_arachnophobia_discovery_tt:0 "§HРазблокирует армию:§! Армия арахнидов"
+
+ tech_gpm_arachnophobia_discovery_2:0 "Изучение стайного поведения"
+ tech_gpm_arachnophobia_discovery_2_desc:0 "Уникальное понимание поведения стаи арахнидов привело к появлению некоторых интересных новых методологий для изучения других видов."
+
+ tech_gpm_giant_worm_discovery:0 "Плотные чешуйки"
+ tech_gpm_giant_worm_discovery_desc:0 "Гигантские чешуйки, периодически сбрасываемые недавно обнаруженными гигантскими червями, можно использовать для усиления слабых мест в броне наших кораблей."
+
+ tech_gpm_giant_worm_discovery_2:0 "Черви-шахтёры"
+ tech_gpm_giant_worm_discovery_2_desc:0 "Приручённые гигантские черви могут быть использованы для рытья больших туннелей. Яйца этих червей доставляются в наши колонии и именно тщательное воспитание является ключом к тому, чтобы они копали только там, где мы хотим."
+
+ tech_gpm_surface_of_bones_discovery:0 "Этическое обучение"
+ tech_gpm_surface_of_bones_discovery_desc:0 "Открытие планеты, полной костей, вызвало настоящий переполох во всех слоях нашего общества. Чтобы мы никогда не попали в ситуацию, что может привести к такому, мы ввели постоянное обучение, сфокусированное на этике. Мы никогда не должны сделать те же ошибки, что были допущены на планете костей."
+
+ tech_gpm_surface_of_bones_discovery_2:0 "Побочный ужас"
+ tech_gpm_surface_of_bones_discovery_2_desc:0 "Страх вызвать массовые жертвы и сопутствующий ущерб при ударе по вражеской цели привел к развитию невероятно умных боеприпасов и систем оружия. Бейте сильно, бейте точно и бейте лишь по врагу!"
+
+ tech_gpm_strange_alien_eggs_discovery:0 "Инкубация"
+ tech_gpm_strange_alien_eggs_discovery_desc:0 "Тщательное управление найденными яйцами позволяет нам выращивать больше этих существ."
+ tech_gpm_strange_alien_eggs_discovery_tt:0 "Каждые §Y7§! лет вы будете получать §G1§! армию ксеноморфов"
+
+ tech_gpm_strange_alien_eggs_discovery_2:0 "Частные благотворители"
+ tech_gpm_strange_alien_eggs_discovery_2_desc:0 "Некоторые открытия настолько уникальны и интересны, что сильно интересны частным инвесторам."
+
+ tech_gpm_mushroom_forest_discovery:0 "Пусть их съедят грибы"
+ tech_gpm_mushroom_forest_discovery_desc:0 "Гигантские грибные леса - идеальное место, чтобы избавиться от мёртвых. Скорость, с которой эти крупные грибы поедают трупы, беспрецедентна и делает утилизацию их безопасным и экологически чистым вариантом."
+
+ tech_gpm_mushroom_forest_discovery_2:0 "Голубые грибы"
+ tech_gpm_mushroom_forest_discovery_2_desc:0 "Было обнаружено, что странный синий гриб обладает уникальными свойствами, повышающими мужскую силу. И они, кажется, вызывают сильную зависимость и пользуются высоким спросом среди населения."
+
+ tech_gpm_supermaterials_precursor:0 "Экзотические суперматериалы"
+ tech_gpm_supermaterials_precursor_desc:0 ""
+
+ tech_gpm_manufactory_hub:0 "Максимизация производства"
+ tech_gpm_manufactory_hub_desc:0 "Интеграция автоматизации на некотором уровне в процесс принятия решений на производстве обязательно окажет свой положительный эффект."
+
+ tech_gpm_enigmatic_power_relays:0 "Эффективные реле кораблей"
+ tech_gpm_enigmatic_power_relays_desc:0 "Разобраться в энергетических состояниях реле предтеч очень непросто, но конечный результат будет стоить усилий."
+
+ tech_gpm_singularity_matrix:0 "Дублирование матриц"
+ tech_gpm_singularity_matrix_desc:0 "Мы знаем, как скопировать её конструкцию и материалы, но мы всё ещё не знаем, как точно она работает. Если мы дублируем матрицу и скопируем её энергетическое состояние, то сможем производить больше этих матриц."
+
+ gpm_tech_ringworld_parabolic_forcefield:0 "Псионические силовые поля мира-кольца"
+ gpm_tech_ringworld_parabolic_forcefield_desc:0 "Решение §H$decision_gpm_ringworld_parabolic_forcefield$§! добавляет миру-кольцу модификатор §H$gpm_ringworld_breath_taking_view$§!, увеличивающий счастье населения и снижающий урон от бомбардировки колоний."
+ gpm_tech_ringworld_parabolic_forcefield_tt:0 "§HРешение (мир-кольцо):§! $decision_gpm_ringworld_parabolic_forcefield$"
+
+ gpm_tech_ringworld_neural_nexus:0 "Нейронная сеть мира-кольца"
+ gpm_tech_ringworld_neural_nexus_desc:0 "Решение §H$decision_gpm_ringworld_neural_nexus$§! добавляет миру-кольцу модификатор §H$gpm_ringworld_neural_nexus$§!, увеличивающий объем исследований от поселений."
+ gpm_tech_ringworld_neural_nexus_tt:0 "§HРешение (мир-кольцо):§! $decision_gpm_ringworld_neural_nexus$"
+
+ gpm_tech_ringworld_idyllic_gardens:0 "Идиллические сады мира-кольца"
+ gpm_tech_ringworld_idyllic_gardens_desc:0 "Решение §H$decision_gpm_ringworld_idyllic_gardens$§! добавляет миру-кольцу модификатор §H$gpm_ringworld_idyllic_gardens$§!, увеличивающий производство единства населением и снижающий использование благ."
+ gpm_tech_ringworld_idyllic_gardens_tt:0 "§HРешение (мир-кольцо):§! $decision_gpm_ringworld_idyllic_gardens$"
+
+ gpm_tech_ringworld_xeno_zoo:0 "Заповедник ксенофауны мира-кольца"
+ gpm_tech_ringworld_xeno_zoo_desc:0 "Решение §H$decision_gpm_ringworld_xeno_zoo$§! добавляет миру-кольцу модификатор §H$gpm_ringworld_xeno_zoo$§!, позволяющий построить дополнительные заповедники и увеличивающий продуктивность работников культуры."
+ gpm_tech_ringworld_xeno_zoo_tt:0 "§HРешение (мир-кольцо):§! $decision_gpm_ringworld_xeno_zoo$"
+
+ gpm_tech_ringworld_simulators:0 "Ссекторы симуляции мира-кольца"
+ gpm_tech_ringworld_simulators_desc:0 "Решение §H$decision_gpm_ringworld_simulators$§! добавляет миру-кольцу модификатор §H$gpm_ringworld_battle_simulators$§!, увеличивающий скорость обучения армий и добавляющий вакансии солдат."
+ gpm_tech_ringworld_simulators_tt:0 "§HРешение (мир-кольцо):§! $decision_gpm_ringworld_simulators$"
+
+ gpm_tech_ringworld_endless_oceans:0 "Обширные океаны мира-кольца"
+ gpm_tech_ringworld_endless_oceans_desc:0 "Решение §H$decision_gpm_ringworld_endless_oceans$§! добавляет миру-кольцу модификатор §H$gpm_ringworld_endless_ocean$§!, позволяющий фермерам производить некоторое количество единства и увеличивающий производство продуктов питания фермерами."
+ gpm_tech_ringworld_endless_oceans_tt:0 "§HРешение (мир-кольцо):§! $decision_gpm_ringworld_endless_oceans$"
+
+ gpm_tech_ringworld_mass_transit:0 "Системы массового перемещения мира-кольца"
+ gpm_tech_ringworld_mass_transit_desc:0 "Решение §H$decision_gpm_ringworld_mass_transit$§! добавляет миру-кольцу модификатор §H$gpm_ringworld_mass_transit_systems$§!, снижающий затраты на содержание населения."
+ gpm_tech_ringworld_mass_transit_tt:0 "§HРешение (мир-кольцо):§! $decision_gpm_ringworld_mass_transit$"
+
+ #######################################
+ #### Traits
+ #######################################
+ trait_gpm_forgotten_species:0 "Забытый вид"
+ trait_gpm_forgotten_species_desc:0 "§LВы оказались на мире, разоренном войной, которую вы проиграли. Вы быстро развиваетесь не будете больше рисковать.§!"
+ TRAIT_GPM_FORGOTTEN_SPECIES_EFFECT:0 ""
+
+ trait_gpm_mega_adaptive:0 "Жители мира смерти"
+ trait_gpm_mega_adaptive_desc:0 "§LЭтот вид развивался в мертвом мире, где в результате естественного отбора выживают только сильнейшие.§!"
+ TRAIT_GPM_MEGA_ADAPTIVE_EFFECT:0 ""
+
+ trait_gpm_high_status:0 "Почитаемые истоки"
+ trait_gpm_high_status_desc:0 "§LYВы, как впрочем и вся остальная галактика, не знаете, как и откуда произошел ваш вид. Однако вы ощущаете, что ваше существование очень значимо.§!"
+ TRAIT_GPM_HIGH_STATUS_EFFECT:0 "£unity£ Единство от £pop£ видов деятельности: §G+15%§!\nВаш вид получает §G+40§! бонус в общении с §Hугасшими империями§!."
+
+ leader_trait_gpm_guilli:0 "Безумный ученый"
+ leader_trait_gpm_guilli_desc:0 "Г'Уил-Ли прожил на Ксандаре целую вечность, проводя большую часть своего времени в изучении Ксандара и вселенной. Хотя это сделало его слегка безумным."
+
+ leader_trait_gpm_stealth_tactician:0 "Скрытный тактик"
+ leader_trait_gpm_stealth_tactician_desc:0 "Этот лидер обучен передовым тактикам и стратегиям, основанным на скрытности."
+
+ leader_trait_gpm_shared_soul:0 "Общая душа"
+ leader_trait_gpm_shared_soul_desc:0 "Древняя душа обитает в теле нашего лидера."
+
+ trait_gpm_historian:0 "Историк предтеч"
+ trait_gpm_historian_desc:0 "Понимание прошлого имеет первостепенное значение для понимания нашего будущего."
+
+ leader_trait_gpm_precursor_expert:0 "Талант: предтечи"
+ leader_trait_gpm_precursor_expert_desc:0 "После нескольких лет обучения этот лидер считается экспертом в вопросах культуры предтеч."
+
+ trait_gpm_enigmatic_update:0 "Взломанный"
+ trait_gpm_enigmatic_update_desc:0 "§LЭтот машинный интеллект получил нежелательное обновление.§!"
+
+ leader_trait_gpm_fallen_heraldry:0 "Геральдика угасших"
+ leader_trait_gpm_fallen_heraldry_desc:0 "Яркие и блестящие геральдические символы, покрывающие броню наших войск, внушают доверие."
+
+ leader_trait_gpm_battle_standards:0 "Боевые штандарты"
+ leader_trait_gpm_battle_standards_desc:0 "Разноцветные знамёна вдохновляют наши войска и наводят страх на врагов."
+
+ leader_trait_gpm_personal_mech:0 "Персональный боевой робот"
+ leader_trait_gpm_personal_mech_desc:0 "У этого лидера есть доступ к личному боевому роботу."
+
+ #######################################
+ #### War Goals
+ #######################################
+ war_goal_wg_gpm_r_time_displacer:0 "Отобрать реликвию"
+ war_goal_wg_gpm_r_time_displacer_desc:0 "Целью войны является захват реликвии $gpm_r_time_displacer$"
+ war_goal_wg_gpm_r_alien_eggs:0 "Отобрать реликвию"
+ war_goal_wg_gpm_r_alien_eggs_desc:0 "Целью войны является захват реликвии $gpm_r_alien_eggs$"
+ war_goal_wg_gpm_r_machine_world_core:0 "Отобрать реликвию"
+ war_goal_wg_gpm_r_machine_world_core_desc:0 "Целью войны является захват реликвии $gpm_r_machine_world_core$"
+ war_goal_wg_gpm_r_encyclopedia_galactica:0 "Отобрать реликвию"
+ war_goal_wg_gpm_r_encyclopedia_galactica_desc:0 "Целью войны является захват реликвии $gpm_r_encyclopedia_galactica$"
+ war_goal_wg_gpm_r_zero_energy_generator:0 "Отобрать реликвию"
+ war_goal_wg_gpm_r_zero_energy_generator_desc:0 "Целью войны является захват реликвии $gpm_r_zero_energy_generator$"
+ war_goal_wg_gpm_r_quantum_sphere:0 "Отобрать реликвию"
+ war_goal_wg_gpm_r_quantum_sphere_desc:0 "Целью войны является захват реликвии $gpm_r_quantum_sphere$"
+ war_goal_wg_gpm_r_ai_architect:0 "Отобрать реликвию"
+ war_goal_wg_gpm_r_ai_architect_desc:0 "Целью войны является захват реликвии $gpm_r_ai_architect$"
+ war_goal_wg_gpm_r_encrypted_sct:0 "Отобрать реликвию"
+ war_goal_wg_gpm_r_encrypted_sct_desc:0 "Целью войны является захват реликвии $gpm_r_encrypted_sct$"
+ war_goal_wg_gpm_r_experimental_weapon:0 "Отобрать реликвию"
+ war_goal_wg_gpm_r_experimental_weapon_desc:0 "Целью войны является захват реликвии $gpm_r_experimental_weapon$"
+ war_goal_wg_gpm_r_fallout_emergency_replicator:0 "Отобрать реликвию"
+ war_goal_wg_gpm_r_fallout_emergency_replicator_desc:0 "Целью войны является захват реликвии $gpm_r_fallout_emergency_replicator$"
+ war_goal_wg_gpm_r_power_core:0 "Отобрать реликвию"
+ war_goal_wg_gpm_r_power_core_desc:0 "Целью войны является захват реликвии $gpm_r_power_core$"
+ war_goal_wg_gpm_r_mysterious_shield_generator:0 "Отобрать реликвию"
+ war_goal_wg_gpm_r_mysterious_shield_generator_desc:0 "Целью войны является захват реликвии $gpm_r_mysterious_shield_generator$"
+ war_goal_wg_gpm_r_gravity_engine:0 "Отобрать реликвию"
+ war_goal_wg_gpm_r_gravity_engine_desc:0 "Целью войны является захват реликвии $gpm_r_gravity_engine$"
+ war_goal_wg_gpm_r_codex_administratum:0 "Отобрать реликвию"
+ war_goal_wg_gpm_r_codex_administratum_desc:0 "Целью войны является захват реликвии $gpm_r_codex_administratum$"
+ war_goal_wg_gpm_r_enigmatic_advisor:0 "Отобрать реликвию"
+ war_goal_wg_gpm_r_enigmatic_advisor_desc:0 "Целью войны является захват реликвии $gpm_r_enigmatic_advisor$"
+ war_goal_wg_gpm_r_positronic_microchip:0 "Отобрать реликвию"
+ war_goal_wg_gpm_r_positronic_microchip_desc:0 "Целью войны является захват реликвии $gpm_r_positronic_microchip$"
+ war_goal_wg_gpm_r_venerable_dreadnaught:0 "Отобрать реликвию"
+ war_goal_wg_gpm_r_venerable_dreadnaught_desc:0 "Целью войны является захват реликвии $gpm_r_venerable_dreadnaught$"
+ war_goal_wg_gpm_r_sentinel_queen:0 "Отобрать реликвию"
+ war_goal_wg_gpm_r_sentinel_queen_desc:0 "Целью войны является захват реликвии $gpm_r_sentinel_queen$"
+ war_goal_wg_gpm_r_earthquake_engine:0 "Отобрать реликвию"
+ war_goal_wg_gpm_r_earthquake_engine_desc:0 "Целью войны является захват реликвии $gpm_r_earthquake_engine$"
+ war_goal_wg_gpm_r_manufactorium_ship:0 "Отобрать реликвию"
+ war_goal_wg_gpm_r_manufactorium_ship_desc:0 "Целью войны является захват реликвии $gpm_r_manufactorium_ship$"
+ war_goal_wg_gpm_r_datacube:0 "Отобрать реликвию"
+ war_goal_wg_gpm_r_datacube_desc:0 "Целью войны является захват реликвии $gpm_r_datacube$"
+ war_goal_wg_gpm_r_self_assembly_hub:0 "Отобрать реликвию"
+ war_goal_wg_gpm_r_self_assembly_hub_desc:0 "Целью войны является захват реликвии $gpm_r_self_assembly_hub$"
+ war_goal_wg_gpm_r_banner_of_the_fallen:0 "Отобрать реликвию"
+ war_goal_wg_gpm_r_banner_of_the_fallen_desc:0 "Целью войны является захват реликвии $gpm_r_banner_of_the_fallen$"
+ war_goal_wg_gpm_r_cloaking_device:0 "Отобрать реликвию"
+ war_goal_wg_gpm_r_cloaking_device_desc:0 "Целью войны является захват реликвии $gpm_r_cloaking_device$"
+ war_goal_wg_gpm_r_q_storage_compressor:0 "Отобрать реликвию"
+ war_goal_wg_gpm_r_q_storage_compressor_desc:0 "Целью войны является захват реликвии $gpm_r_q_storage_compressor$"
+ war_goal_wg_gpm_r_soul_gem:0 "Отобрать реликвию"
+ war_goal_wg_gpm_r_soul_gem_desc:0 "Целью войны является захват реликвии $gpm_r_soul_gem$"
+ war_goal_wg_gpm_r_self_repairing_obelisk:0 "Отобрать реликвию"
+ war_goal_wg_gpm_r_self_repairing_obelisk_desc:0 "Целью войны является захват реликвии $gpm_r_self_repairing_obelisk$"
+
+ war_goal_wg_gpm_r_dragon_trophy:0 "Отобрать реликвию"
+ war_goal_wg_gpm_r_dragon_trophy_desc:0 "Целью войны является захват реликвии $r_dragon_trophy$"
+ war_goal_wg_gpm_r_khans_throne:0 "Отобрать реликвию"
+ war_goal_wg_gpm_r_khans_throne_desc:0 "Целью войны является захват реликвии $r_khans_throne$"
+ war_goal_wg_gpm_r_worm_scales:0 "Отобрать реликвию"
+ war_goal_wg_gpm_r_worm_scales_desc:0 "Целью войны является захват реликвии $r_worm_scales$"
+ war_goal_wg_gpm_r_rubricator:0 "Отобрать реликвию"
+ war_goal_wg_gpm_r_rubricator_desc:0 "Целью войны является захват реликвии $r_rubricator$"
+ war_goal_wg_gpm_r_galaxy:0 "Отобрать реликвию"
+ war_goal_wg_gpm_r_galaxy_desc:0 "Целью войны является захват реликвии $r_galaxy$"
+ war_goal_wg_gpm_r_omnicodex:0 "Отобрать реликвию"
+ war_goal_wg_gpm_r_omnicodex_desc:0 "Целью войны является захват реликвии $r_omnicodex$"
+ war_goal_wg_gpm_r_surveyor:0 "Отобрать реликвию"
+ war_goal_wg_gpm_r_surveyor_desc:0 "Целью войны является захват реликвии $r_surveyor$"
+ war_goal_wg_gpm_r_ancient_sword:0 "Отобрать реликвию"
+ war_goal_wg_gpm_r_ancient_sword_desc:0 "Целью войны является захват реликвии $r_ancient_sword$"
+ war_goal_wg_gpm_r_severed_head:0 "Отобрать реликвию"
+ war_goal_wg_gpm_r_severed_head_desc:0 "Целью войны является захват реликвии $r_severed_head$"
+ war_goal_wg_gpm_r_prethoryn_queen:0 "Отобрать реликвию"
+ war_goal_wg_gpm_r_prethoryn_queen_desc:0 "Целью войны является захват реликвии $r_prethoryn_queen$"
+ war_goal_wg_gpm_r_unbidden_warlock:0 "Отобрать реликвию"
+ war_goal_wg_gpm_r_unbidden_warlock_desc:0 "Целью войны является захват реликвии $r_unbidden_warlock$"
+ war_goal_wg_gpm_r_contingency_core:0 "Отобрать реликвию"
+ war_goal_wg_gpm_r_contingency_core_desc:0 "Целью войны является захват реликвии $r_contingency_core$"
+ war_goal_wg_gpm_r_zro_crystal:0 "Отобрать реликвию"
+ war_goal_wg_gpm_r_zro_crystal_desc:0 "Целью войны является захват реликвии $r_zro_crystal$"
+ war_goal_wg_gpm_r_the_last_baol:0 "Отобрать реликвию"
+ war_goal_wg_gpm_r_the_last_baol_desc:0 "Целью войны является захват реликвии $r_the_last_baol$"
+ war_goal_wg_gpm_r_the_defragmentor:0 "Отобрать реликвию"
+ war_goal_wg_gpm_r_the_defragmentor_desc:0 "Целью войны является захват реликвии $r_the_defragmentor$"
+ war_goal_wg_gpm_r_reality_perforator:0 "Отобрать реликвию"
+ war_goal_wg_gpm_r_reality_perforator_desc:0 "Целью войны является захват реликвии $r_reality_perforator$"
+ war_goal_wg_gpm_r_pox_sample:0 "Отобрать реликвию"
+ war_goal_wg_gpm_r_pox_sample_desc:0 "Целью войны является захват реликвии $r_pox_sample$"
+ war_goal_wg_gpm_r_cryo_core:0 "Отобрать реликвию"
+ war_goal_wg_gpm_r_cryo_core_desc:0 "Целью войны является захват реликвии $r_cryo_core$"
+ war_goal_wg_gpm_r_war_forge:0 "Отобрать реликвию"
+ war_goal_wg_gpm_r_war_forge_desc:0 "Целью войны является захват реликвии $r_war_forge$"
+
+ #######################################
+ #### war Names
+ #######################################
+
+
+
+
+
+

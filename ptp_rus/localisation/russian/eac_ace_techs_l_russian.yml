@@ -1,0 +1,21 @@
+﻿l_russian:
+
+
+ # Society Techs
+  eac_tech_suppress_ethics:0 "Этическая пропаганда"
+  eac_tech_suppress_ethics_desc:0 "Изучение новых методов использования средств массовой информации для подавления этики с использованием маркетинговых кампаний."
+  
+  EAC_TECH_UNLOCK_SUPPRESS_ETHICS_TITLE:0 "§HУказ:§! §WКампании по подавлению этик§!"
+  EAC_TECH_UNLOCK_SUPPRESS_ETHICS_DESC:0 "Кампании по подавлению этик снижают её привлекательность на §R50%§! и уменьшают счастье поселений с этой этикой на §R15%§!.\n"
+
+  eac_tech_boost_research:0 "Ускорение исследований"
+  eac_tech_boost_research_desc:0 "Разблокируйте указ об ускорении исследований."
+
+  eac_tech_frontier_paradise:0 "Кампания «Рай на границе»"
+  eac_tech_frontier_paradise_desc:0 "Разблокирует планетарный указ, побуждающий граждан переезжать на новые рубежи."
+  
+ # Engineering Techs
+  
+  eac_tech_expand_habitat:0 "Увеличение орбитали"
+  eac_tech_expand_habitat_desc:0 "Инженерные технологии для увеличения орбиталей. Позволяет расширять каждую на станцию на 2 секции через планетарный указ."
+ 

@@ -1,0 +1,162 @@
+﻿l_russian:
+
+ ###################
+ # Decisions
+ ###################
+ decision_eac_apm_on:0 "Включить автоматическое переселение"
+ decision_eac_apm_on_desc:1 "Ежемесячно безработные люди, живущие на перенаселенных планетах, будут пытаться найти новый дом."
+ decision_eac_apm_on_tooltip:0 "Позволяет людям, которые не имеют работы и живут на перенаселенных планетах, переселяться в новые миры.\n£energy 12.5 - 225 за поселение в зависимости от стоимости переселения."
+ 
+ decision_eac_apm_off:0 "Выключить автоматическое переселение"
+ decision_eac_apm_off_desc:1 "Выключает автоматическое переселение"
+ decision_eac_apm_off_tooltip:0 "Останавливает автоматическое переселение"
+
+ decision_eac_apm_planet_preference_on:0 "Установить предпочитаемую планету для автоматического переселения"
+ decision_eac_apm_planet_preference_on_desc:1 "Отмечает эту планету как предпочтительное место для автоматической миграции."
+ decision_eac_apm_planet_preference_on_fail_text:0 "Только одна планета может быть отмечена как предпочтительная."
+
+ decision_eac_apm_planet_preference_off:0 "Удалить метку предпочитаемой планеты"
+ decision_eac_apm_planet_preference_off_desc:1 "Удаляет эту планету в качестве предпочтительного места назначения для автоматической миграции."
+
+ decision_eac_apm_planet_focus_research:0 "Исследовательские комплексы"
+ decision_eac_apm_planet_focus_research_desc:1 "Отмечает эту планету как научную для автоматической миграции населения. Поселения, которые имеют исследовательские черты, с большей вероятностью будут мигрировать сюда."
+
+ decision_eac_apm_planet_focus_energy:0 "Энергетические комплексы"
+ decision_eac_apm_planet_focus_energy_desc:1 "Отмечает эту планету как энергетическую для автоматической миграции населения. Поселения, которые имеют черты на выработку энергии, с большей вероятностью будут мигрировать сюда."
+
+ decision_eac_apm_planet_focus_minerals:0 "Шахтёрские комплексы"
+ decision_eac_apm_planet_focus_minerals_desc:1 "Отмечает эту планету как шахтёрскую для автоматической миграции населения. Поселения, которые имеют черты на производство минералов, с большей вероятностью будут мигрировать сюда."
+
+ decision_eac_apm_planet_focus_food:0 "Агрономические комплексы"
+ decision_eac_apm_planet_focus_food_desc:1 "Отмечает эту планету как сельскохозяйственную для автоматической миграции населения. Поселения, которые имеют черты на производство пищи, с большей вероятностью будут мигрировать сюда."
+
+ decision_eac_apm_planet_focus_toilers:0 "Миграция работяг"
+ decision_eac_apm_planet_focus_toilers_desc:1 "Отмечает эту планету для миграции работяг из этого невольничьего мира."
+
+ decision_eac_apm_planet_no_focus:0 "Отключить фокус APM"
+ decision_eac_apm_planet_no_focus_desc:1 "Удаляет текущий фокус планеты для автоматической миграции населения."
+ decision_eac_apm_planet_no_focus_tooltip:0 "Удаляет фокус планеты для автоматической миграции населения."
+
+ decision_eac_apm_planet_set_focus:0 "Установить частичный планетарный фокус APM"
+ decision_eac_apm_planet_set_focus_desc:0 "Установить частичный фокус APM"
+ decision_eac_apm_planet_set_focus_tooltip:0 "Открывает окно, чтобы выбрать фокус APM"
+
+ ###################
+ # Modifiers
+ ###################
+ eac_apm_on_modifier:0 "Автоматическая миграция включена"
+ eac_apm_on_modifier_desc:0 "$decision_eac_apm_on_desc$"
+
+ eac_apm_planet_preference_modifier:0 "Предпочитаемая планета для автоматической миграции"
+ eac_apm_planet_preference_modifier_desc:0 "Планета была отмечена как основное место для автоматической миграции."
+
+ eac_apm_focus_research_modifier:0 "Фокус на исследованиях"
+ eac_apm_focus_research_modifier_desc:0 "Планета была отмечена как научная для автоматической миграции населения. Поселения, которые имеют исследовательские черты, с большей вероятностью будут мигрировать сюда."
+ 
+ eac_apm_focus_energy_modifier:0 "Фокус на энергии"
+ eac_apm_focus_energy_modifier_desc:0 "Планета была отмечена как энергетическая для автоматической миграции населения. Поселения, которые имеют черты на выработку энергии, с большей вероятностью будут мигрировать сюда."
+
+ eac_apm_focus_minerals_modifier:0 "Фокус на минералах"
+ eac_apm_focus_minerals_modifier_desc:0 "Планета была отмечена как шахтёрская для автоматической миграции населения. Поселения, которые имеют черты на производство минералов, с большей вероятностью будут мигрировать сюда."
+
+ eac_apm_focus_food_modifier:0 "Фокус на пище"
+ eac_apm_focus_food_modifier_desc:0 "Планета была отмечена как сельскохозяйственная для автоматической миграции населения. Поселения, которые имеют черты на производство пищи, с большей вероятностью будут мигрировать сюда."
+
+ eac_apm_focus_toilers_modifier:0 "Фокус на миграции работяг"
+ eac_apm_focus_toilers_modifier_desc:0 "Планета была отмечена для миграции работяг из этого невольничьего мира."
+
+ eac_apm_focus_no_migration_modifier:0 "Автомиграция запрещена"
+ eac_apm_focus_no_migration_modifier_desc:0 "Планета была отмечена, чтобы не позволить поселениям перемещатся с неё."
+
+ eac_apm_focus_all_overcrowding_modifier:0 "Фокус на миграции бездомных"
+ eac_apm_focus_all_overcrowding_modifier_desc:0 "Планета была отмечена для миграции бездомных независимо от занятости."
+
+ eac_apm_focus_assimilating_modifier:0 "Фокус на ассимиляции"
+ eac_apm_focus_assimilating_modifier_desc:0 "Планета была отмечена как разрешенная для миграции ассимилирующихся поселений."
+
+ ###################
+ # Policies
+ ###################
+ policy_eac_auto_pop_migration_habitability:0 "АМ - приспособленность"
+ policy_eac_auto_pop_migration_habitability_desc:0 "Устанавливает политику проверки приспособленности планет для автоматической миграции"
+ eac_apm_habitability_80_name:0 "Минимум 80% приспособленности"
+ eac_apm_habitability_80:0 "$eac_apm_habitability_80_name$"
+ eac_apm_habitability_80_desc:0 "Автоматическое переселение разрешено только в том случае, если на целевой планете приспособленность не менее 80%."
+ eac_apm_habitability_60_name:0 "Минимум 60% приспособленности"
+ eac_apm_habitability_60:0 "$eac_apm_habitability_60_name$"
+ eac_apm_habitability_60_desc:0 "Автоматическое переселение разрешено только в том случае, если на целевой планете приспособленность не менее 60%."
+ eac_apm_habitability_all_name:0 "Любая приспособленность"
+ eac_apm_habitability_all:0 "$eac_apm_habitability_all_name$"
+ eac_apm_habitability_all_desc:0 "Автоматическое переселение на любые принадлежащие планеты."
+
+ policy_eac_auto_pop_migration_eligibility:0 "АМ - права"
+ policy_eac_auto_pop_migration_eligibility_desc:0 "Устанавливает политику прав на автоматическую миграцию."
+ eac_apm_eligibility_overcrowded_unemployed_name:0 "Безработные и бездомные"
+ eac_apm_eligibility_overcrowded_unemployed:0 "$eac_apm_eligibility_overcrowded_unemployed_name$"
+ eac_apm_eligibility_overcrowded_unemployed_desc:0 "Автоматическое переселение разрешено только в том случае, если поселение не работает на перенаселенной планете."
+ eac_apm_eligibility_all_unemployed_name:0 "Все безработные"
+ eac_apm_eligibility_all_unemployed:0 "$eac_apm_eligibility_all_unemployed_name$"
+ eac_apm_eligibility_all_unemployed_desc:0 "Назначает всех безработные поселения для автоматического переселения."
+
+ policy_eac_auto_pop_migration_force_migrate:0 "АМ - нужная приспособленность"
+ policy_eac_auto_pop_migration_force_migrate_desc:0 "Устанавливает политику принудительной миграции на основе приспособленности. Статус занятости и статус жилья игнорируются. Максимум 3 поселения в месяц могут быть перемещены. Последнее поселение на планете не будет перемещено.\n\n§RПовышенный риск разрушения зданий!§!"
+ eac_apm_force_migrate_none_name:0 "Нет"
+ eac_apm_force_migrate_none:0 "$eac_apm_force_migrate_none_name$"
+ eac_apm_force_migrate_none_desc:0 "Нет принудительной миграции"
+ eac_apm_force_migrate_less_60_name:0 "Меньше чем 60% приспособленности"
+ eac_apm_force_migrate_less_60:0 "$eac_apm_force_migrate_less_60_name$"
+ eac_apm_force_migrate_less_60_desc:0 "Перемещайте поселения, которые живут на планетах с менее чем 60% приспособленности, независимо от занятости или статуса жилья. Максимум 3 поселения в месяц могут быть перемещены. Последнее поселение на планете не будет перемещено.\n\n§RПовышенный риск разрушения зданий!§!"
+ eac_apm_force_migrate_less_40_name:0 "Меньше чем 40% приспособленности"
+ eac_apm_force_migrate_less_40:0 "$eac_apm_force_migrate_less_40_name$"
+ eac_apm_force_migrate_less_40_desc:0 "Перемещайте поселения, которые живут на планетах с менее чем 40% приспособленности, независимо от занятости или статуса жилья. Максимум 3 поселения в месяц могут быть перемещены. Последнее поселение на планете не будет перемещено.\n\n§RПовышенный риск разрушения зданий!§!"
+
+ policy_eac_auto_pop_migration_target:0 "АМ - свободные должности"
+ policy_eac_auto_pop_migration_target_desc:0 "Устанавливает политику, при которой на целевой планете обязательно требуются свободные рабочие места."
+ eac_apm_freejobs_require:0 "Требуются"
+ eac_apm_freejobs_require_name:0 "Требуются"
+ eac_apm_freejobs_require_desc:0 "Требовать свободные рабочие места на целевой планете."
+ eac_apm_freejobs_ignore:0 "Игнорируются"
+ eac_apm_freejobs_ignore_name:0 "Игнорируются"
+ eac_apm_freejobs_ignore_desc:0 "Игнорировать рабочие места на целевой планете."
+
+ ###################
+ # Events
+ ###################
+ eac_apm_close_window:0 "Отмена"
+ eac_apm_decisions.1.name:0 "Установить частичный планетарный фокус APM"
+ eac_apm_decisions.1.desc:0 "Установить фокус на [This.GetName]"
+ eac_apm_decisions.1.preferred:0 "Установить как предпочитаемую планету"
+ eac_apm_decisions.1.preferred.tooltip:0 "Отмечает эту планету как предпочтительное место для автоматической миграции."
+ eac_apm_decisions.1.research:0 "Установить фокус на исследованиях"
+ eac_apm_decisions.1.research.tooltip:0 "Отмечает эту планету как научную для автоматической миграции населения. Поселения, которые имеют исследовательские черты, с большей вероятностью будут мигрировать сюда."
+ eac_apm_decisions.1.minerals:0 "Установить фокус на минералах"
+ eac_apm_decisions.1.minerals.tooltip:0 "Отмечает эту планету как шахтёрскую для автоматической миграции населения. Поселения, которые имеют черты на производство минералов, с большей вероятностью будут мигрировать сюда."
+ eac_apm_decisions.1.food:0 "Установить фокус на пище"
+ eac_apm_decisions.1.food.tooltip:0 "Отмечает эту планету как сельскохозяйственную для автоматической миграции населения. Поселения, которые имеют черты на производство пищи, с большей вероятностью будут мигрировать сюда."
+ eac_apm_decisions.1.energy:0 "Установить фокус на энергии"
+ eac_apm_decisions.1.energy.tooltip:0 "Отмечает эту планету как энергетическую для автоматической миграции населения. Поселения, которые имеют черты на выработку энергии, с большей вероятностью будут мигрировать сюда."
+ eac_apm_decisions.1.toilers:0 "Установить фокус на работяг"
+ eac_apm_decisions.1.toilers.tooltip:0 "Отмечает эту планету для миграции работяг из этого невольничьего мира."
+ eac_apm_decisions.1.no_migration:0 "Запретить миграцию с планеты"
+ eac_apm_decisions.1.no_migration.tooltip:0 "Отмечает эту планету в качестве места, не разрешенного для миграции. Поселения не мигрируют с этой планеты."
+ eac_apm_decisions.1.all_overcrowding:0 "Фокус на перемещении бездомных"
+ eac_apm_decisions.1.all_overcrowding.tooltip:0 "Планета была отмечена для миграции бездомных независимо от занятости."
+ eac_apm_decisions.1.all_assimilating:0 "Фокус на ассимиляции"
+ eac_apm_decisions.1.all_assimilating.tooltip:0 "Планета была отмечена как разрешенная для миграции ассимилирующихся поселений."
+ eac_apm_missing_required_cost:0 "Отсутствуют необходимые ресурсы, чтобы включить этот фокус."
+ eac_apm_has_focus_set:0 "Не может быть установлено более одного фокуса."
+
+ eac_apm.999.title:0 "$edict_eac_show_job_and_housing_info_edict$"
+ eac_apm_free_jobs:0 "§WСвободные должности в империи: §Y[This.country_free_jobs]§!\n"
+ eac_apm_free_housing:0 "§WСвободное жильё в империи: §Y[This.country_free_housing]§!\n"
+ eac_apm_unemployed_pops:0 "§WБезработные поселения: §Y[This.country_unemployed_pops]§!\n"
+ eac_apm.999.desc:0 " $eac_apm_free_jobs$ $eac_apm_free_housing$ $eac_apm_unemployed_pops$"
+
+ ###################
+ # Edicts, Campaigns, Ambitions
+ ###################
+ edict_eac_job_retraining_campaign:0 "Кампания по переподготовке"
+ edict_eac_job_retraining_campaign_desc:0 "Значительно улучшает время, которое требуется новым безработным, чтобы устроиться на другую работу. Влияет только на безработных после начала кампании."
+
+ edict_eac_show_job_and_housing_info_edict:0 "Автоматическое переселение - статистика империи"
+ edict_eac_show_job_and_housing_info_edict_desc:0 "Показывает базовые цифры общего количества свободных рабочих мест, свободного жилья и общей численности безработных в вашей империи."

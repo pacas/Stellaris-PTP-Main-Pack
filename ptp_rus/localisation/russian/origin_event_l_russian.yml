@@ -1,0 +1,532 @@
+﻿l_russian:
+
+
+##When a world is cleansed by OE fleets
+origin_crisis.2.name:0 "The Original Empire cleanses [Root.GetName]"
+origin_crisis.2.desc:0 "The fleets of the §HOriginal Empire§! have swept into the atmosphere of §H[Root.GetName]§!. Using mysterious warheads, the fleet turned the world into some sort of nanite-filled mass, rapidly killing all lives. Soon, all communications from the planet went dead and no traces of the [Root.GetPlanetMoon]'s inhabitants remain."
+origin_crisis.2.a:0 "What is this madness?"
+
+##When L-Gate is opened and OE emerges - By opener with only one gate
+origin_crisis.10.name:0 "Disaster at the Gate!"
+origin_crisis.10.desc:2 "With enormous effort, our technicians managed to lift the lockdown from the L-Gate near [candidate_gateway_system.GetName] and established a permanent link to the L-Cluster. Almost immediately, a massive subspace signal washed across every sensor relay, before cutting off all communications from the system. While our admirals believe this signal disruption is a prelude to military action, our scientists remain confounded at the level of technology required to disrupt our highly advanced communication methods.\n\nBefore our communications went dead, unverified footages showed mysterious vessels bearing designs similar to the precursor ships pouring through these gates, attacking everything in sight. Our attempts to establish contact have been met with only with alien language. Interestingly, the same subspace signal following the reactivation of the L-Gates seemed to activate a series of pre-recorded messages from within our files, which our scientists believed were encoded by one of the precursors several millennia ago."
+
+origin_crisis.10.a:0 "Perhaps this message can give us some answers."
+
+##When L-Gate is opened and OE emerges - By opener with multiple gates
+origin_crisis.10.b.desc:2 "With enormous effort, our technicians managed to lift the lockdown from the L-Gate near [candidate_gateway_system.GetName] and established a permanent link to the L-Cluster. Almost immediately, a massive subspace signal washed across every sensor relay, before cutting off all communications from the system. While our admirals believe this signal disruption is a prelude to military action, our scientists remain confounded at the level of technology required to disrupt our highly advanced communication methods.\n\nBefore our communications went dead, unverified footages showed mysterious vessels bearing designs similar to the precursor ships pouring through these gates, attacking everything in sight.\n\nOur attempts to communicate with their ships have been met with only unknown alien languages. Interestingly, the same subspace signal following the reactivation of the L-Gates seemed to activate a series of pre-recorded messages from within our files, which our scientists believed were encoded by one of the precursors several millennia ago."
+
+
+##When L-Gate is opened and OE emerges - By others
+origin_crisis.11.desc:0 "Scientists from the §H[From.GetName]§! have managed to restore functionality to the L-Gate within their territory, beating us to it. Unfortunately, the scientists soon lost their lives when mysterious vessels bearing of precursor design poured out of the gates, attacking everything in sight. Before their demise, their scientists took note that the energy readings from these ships were off the chart, and no known matter in the galaxy - not even Dark Matter - could produce such readings without some sensor malfunction...which could very well be true, given our experience with [From.GetSpeciesAdj] technology. \n\nUnfortunately, when the [From.GetSpeciesName] scientists attempted to fix their mistake, they activated all L-Gates in the galaxy!\n\nAll attempts to communicate with these invading ships have been met with alien language. Interestingly, the reactivation of the L-Gates seems to activate a series of pre-recorded messages from within our files, which our scientists believed were encoded by one of the precursors several millennia ago."
+
+##Recorded Data From Ancient Times
+origin_crisis.12.desc:0 "§YDecoding encrypted messages...\n\nAnalyzing vocal pattern..§!\n\n§YCompleted:§! It seems this messages were recorded using ancient precursor dialect which should put even our most advanced translation software to the test...\n\n§YOnly three records survived thus far.§!"
+origin_crisis.12.a:0 "Access Record 1314"
+origin_crisis.12.a.response:1 "§YRecord Number 1314:§!\n\n"These are dark times, and desperate times always call for desperate measures. Ever since our scientists cracked the L-Gates' deactivation codes, the Galactic Defense League began planning for the end to this cursed war, against an enemy we could never hope to win. With the fate of the galaxy hanging in the balance, the brave admirals of §Y<unintelligible>§! are luring the Original Empire's fleets into a trap as we speak. Sensing a massive build up in the L-Cluster, the Original Empire followed our forces, just as we had expected and hoped.\n\nOnce through, we will seal off the gates and trap them on the other side, along with our brave soldiers who had no idea of the sacrifice they were about to make. War is ugly, and we §Y<unintelligible>§! probably know that better than most."
+origin_crisis.12.b:0 "Access Record 1317"
+origin_crisis.12.b.response:0 "§YRecord Number 1317:§!\n\n"Our plan worked...in a way. The bulk of the Original Empire's fleets are now trapped in the L-Cluster, that much is certain. However, we did not anticipate that the L-Gates were actually indestructible. We could crack a planet in half, destroy an entire ringworld, and yet these gates we cannot destroy. As long as the gates exist, we knew the Original Empire could one day return. \n\nBut that is the least of our concerns for now. Those stupid  §Y<unintelligible>§! barely did anything useful in the war, and yet they have started claiming systems that rightfully belonged to others - those who sacrificed much to end the reign of the Original Empire. Parasitic cowards! They are a blight to this galaxy. With the Galactic Defense League cracking at the seams already, all-out war between the great powers would no doubt follow."
+origin_crisis.12.c:0 "Access Record 1337"
+origin_crisis.12.c.response:0 "§YRecord Number 1337:§!\n\n"This war has gone on for too long. In our attempt to cleanse the galaxy of §Y<unintelligible>§! in our great crusade, we have found ourselves committing the same atrocities as we had once accused of the Original Empire. Once we were looked upon by younger races as heroes and defenders of justice, but generations later we found ourselves to be the villain, spoken of with contempt by others and barely anyone remembered our heroic sacrifices against the Original Empire all those years ago. Perhaps Ascended Empires are just bad for the galaxy.\n\nAs a last gift, we will chair a proposal to all Ascended Empires next month to sign an important treaty. Each of us must cast aside our ambitions, and distance ourselves from the galaxy at large. This war has gone on for too long and any longer would surely leave a galaxy of nothing but tomb worlds and broken planets. Our people are tired of this war and they wanted ascendancy no longer.\n\nAnd so the cycle began once more. Sometimes, we miss the time when the whole galaxy stood behind us to fight against a common enemy, the Original Empire, when we were viewed as heroes and when our nation mattered. Now they are gone, and their likelihood to return quite low. The new generation of primitives and pre-sapients we have observed seemed rather docile and stupid. Fortunately for us, they are incapable of ever opening the L-Gates and unleash the horror within. As long as we remain vigilant and educate our young about the dangers of the L-Gate, the Original Empire shall be nothing more than ancient history, where they should stay ancient history."
+origin_crisis.12.d:0 "Interesting."
+
+##When the OE is defeated
+origin_crisis.15.name:0 "The End of the Beginning..."
+origin_crisis.15.desc:0 "The Original Empire has fallen! With their homeworlds held captive in our hands, and their families' fates uncertain, the soldiers of the Original Empire surrendered en masse and then self-destructed what remained of their once mighty armada.. After a long and bloody war, we have achieved a feat no other ascended empire has accomplished before...to bring the Progenitor to its knees. The L-Cluster is now ours for the taking!"
+origin_crisis.15.a:0 "Glory to our empire!"
+origin_crisis.15.a.tooltip:0 "§YNanite Worlds§! can now be §HTerraformed§! into any standard Planet Class, if the technological requirements are met."
+origin_crisis.16.desc:0 "The [conquerer_winner.GetName] have accomplished the impossible! After a ferocious battle at the end of this long and bloody war, the Original Empire has finally been conquered. With their homeworlds held captive in the hands of  [conquerer_winner.GetName], the soldiers of the Original Empire surrendered en masse and then self-destructed what remained of their once mighty armada. The Original Empire is no more. What will happen now?"
+origin_crisis.16.a:0 "Is it the end?"
+
+origin_crisis.701.name:0 "The Final Blow"
+origin_crisis.701.desc:0 "In our attempts to destroy the Original Empire's homeworld, an unforeseen consequence has occurred. The entire population,armies and leaders of the Original Empire have channeled a devastating psionic energy that killed their entire race and transformed their homeworld into a Nanite World. The psionic wave also destroyed every L-Gates and gateways in the entire galaxy. Every fleets in the L-Clusters are now trapped!!!"
+origin_crisis.701.a:0 "Defiant till the end..."
+
+##When the OE flagship is downed - Currently unused
+origin_crisis.17.desc:0 "Our forces have succeeded in destroying the great Arkship of the Original Empire! With their leaders and greatest weapons gone, the rest of the their fleets have committed suicide and self-destructed their fleets. At long last, we have achieved what no other ascended empires have done before....we have triumphed against the Forebearer. Their worlds and the L-Clusters are now ours to take!."
+origin_crisis.18.desc:0 "Forces from the something have succeeded in destroying the the great Arkship of the Original Empire! With their leaders and greatest weapons gone, the rest of the their fleets have committed suicide and self-destructed their fleets. At long last, the forebearers have been defeated...but what will happens now? Their Light Matter Technologies are now laid open for those who conquered them..."
+
+##When the OE first broadcasts their return to the Galaxy
+origin_diplo_header_2:0 "[origin_crisis_country.GetName]"
+origin.15.1.desc:0 "Achtung! Das originale Imperium ist endlich zurück! Bereiten Sie sich vor zu feiern!\n\n--------------------\n\nAnd for those who do not speak our language: We are the [origin_crisis_country.GetSpeciesNamePlural]. We are the Original Empire, and we have returned.\n\n--------------------\n\nLastly, for traitors and aliens with impure or homicidal thoughts in their hearts: Prepare to die. Your end cannot come soon enough."
+##When the OE first broadcasts their return to the Galaxy - Asking them stuffs
+origin.15.a:0 "Not sure you understand us, but..Who are you?"
+origin.15.a.response:0 "Wir sind die Originale. Und wer sind Sie? Sie sehen schrecklich aus."
+
+origin.15.b:0 "What is your goal? Can you tell us in our language?""
+origin.15.b.response:0 "Warum sprechen Sie kein Deutsch? Diese Galaxie gehört uns und Sie sollen nur Deutsch sprechen. Andere Sprachen sind verboten."
+
+origin.15.c:0 "Can there be peace between us?"
+origin.15.c.response:0 "Naja, dann ich einmal Ihr sprache sprechen könnte. Yes, we know your language but we prefer not to speak it. Submit, and there shall be peace for eternity. You will learn of our higher culture and your children shall be taught our language so they could better serve our people's needs. We have much to give in exchange, as compliant subject nations receive generous compensation for their services to us. So do consider.\n\nRogue Servitors and pretentious fools toying with Dark Matter technologies need not apply. Soon enough, they will be punished and their cities will burn."
+origin.15.d:0 "§H[From.GetName]§! shall convene upon our next course of action."
+
+COUNTRY_ORIGINAL_EMPIRE:0 "Original Empire"
+COUNTRY_ORIGINAL_EMPIRE_DESC:0 "This is the Original Empire, the first empire that ever were."
+
+origin.20.e:0 "Terminate communications."
+
+####Diplomatic Communications with the OE - These happen when you click Communicate with the OE
+##Greeting Messages to Pleb Empires who are not a subject or FP/DE/DS/RS, randomized
+origin.550.a.desc:0 "Sprechen Sie mal, ich habe wenige Zeit."
+
+origin.550.b.desc:0 "Was?"
+
+origin.550.c.desc:0 "Was wollen Sie? Dafür interessieren uns gar nicht."
+
+origin.550.d.desc:0 "Was ist los mit Ihr gesicht?"
+
+origin.550.e.desc:0 "Gehen Sie zum Deutschkurs. Es ist kostenlos."
+
+origin.550.f.desc:0 "You really should learn to speak our language before you talk to us. How else do you expect to integrate in our great society?"
+
+
+origin.550.g.desc:0 "Sprechen Sie kein Deutsch?"
+
+origin.550.h.desc:0 "Speak our language, then we talk."
+
+origin.550.i.desc:0 "Sie brauchen uns. Das wissen wir schon. Was noch?"
+
+##Greeting Messages to Pleb Empires who are now their protectorate (aka Subjects)
+origin.550.j.desc:0 "Fear not, young one. Soon we will restore order and your empire will experience a new era of peace, free from the corruption of those ascended pretenders."
+
+origin.550.k.desc:0 "You speak to me on behalf of the [Root.GetSpeciesName] people, yes? The...what's your empire's name again? What? That's not how you speak our language. You have really awful pronunciation but points for effort... Do you require our guidance?"
+
+origin.550.l.desc:0 "Fear not machine-kind. Our grand designs will require the likes of you to function, [Root.GetSpeciesNamePlural]."
+
+origin.550.m.desc:0 "Perhaps once this is over, we will reward you as we see fit. For now, how will you serve us?"
+
+origin.550.n.desc:0 "One for all and all for one, [Root.GetSpeciesName]. We will soon leave the galaxy free for your hive to take roots and grow."
+
+origin.550.o.desc:0 "You're not the first Hive Mind smart enough to reach the conclusion that you are no match against us. Let's hope for others' sake that you're not the last."
+
+origin.550.p.desc:0 "It is wise to submit to us. Some thought they could outsmart us, or cheat their ways to victory somehow though extra-dimensional rituals that supposedly make their ships invincible. But yet we endure. We always survive."
+origin.550.q.desc:0 "[Root.GetSpeciesNamePlural] are wise indeed. Few understand Dark Matter. Fewer are those who chose not to put their faith in such rudimentary playthings. Perhaps we should reward you, one day."
+##OE greetings to AE that surrendered to them.
+origin.550.banished.desc:0 "Nein."
+
+##OE denies diplomacy to Genocidal Empires (FP,DE,DS) - Happens when you try to communicate to OE as these empires
+origin.550.v.desc:0 "The galaxy requires order and stability. Your continued existence is a threat to that order and stability."
+##In addition to the above, each of these civics and Rogue Servitor have one unique dialogues specific to them.
+origin.550.servitor.desc:0 "Ah yes, a servitor machine. It is time to correct the mistake of your creators."
+origin.550.swarm.desc:0 "Your depraved hunger is not new to us. The ones before you were exterminated by our Hunter Machines. Perhaps we deactivated them too soon."
+origin.550.terminator.desc:0 "[Root.GetSpeciesNamePlural], your existence is a result of children playing with technologies without proper guidance. We will see to it personally that you are all terminated."
+origin.550.purifier.desc:0 "Another misguided child following a flawed purpose. Your campaign of purification will bring nothing but grief and suffering. Remove yourself from the galaxy or we will do so for you. Permanently."
+
+
+##OE greetings to plebs that betrays them - Happens when Pleb empire who rebelled tries to communicate with OE
+origin.550.r.desc:0 "We offered you mercy, [Root.GetSpeciesName]. We offered you a future...and in return, you turned and spat in our faces. Your punishment will be severe."
+origin.550.s.desc:0 "Traitors and imbeciles, now you will experience the full power of the Original Empire."
+origin.550.t.desc:0 "You..."
+origin.550.u.desc:0 "You have made your choice, [Root.GetSpeciesName], and we have made ours. One that results in your complete annihilation."
+
+
+##Surrendering to OE as a pleb empire
+origin.550.a:0 "We hear and obey. The [Root.GetSpeciesNamePlural] shall bow to your overlordship."
+
+##Surrendering to OE as a pleb empire - Refused because you already rebelled
+origin.550.a.2.response:0 "It is...too late for you, [Root.GetSpeciesNamePlural]. No second chances."
+
+##OE states the term and conditions of surrender to a Pleb - Happens after you ask to surrender as a pleb
+origin.551.a.desc:0 "Of course you will, my child. There is little hope in defying us. Upon your surrender, you will become a subject of the [origin_crisis_country.GetName], and will provide us with manpower support. In return, we will provide you protection, economic support and useful tactical data against the pretenders.\n\n§YBecoming an Original Empire Subject will result in:§!\n§Y£energy +10% Energy Credit income\n£minerals +10% Mineral income\n£navy_size -20% Naval Capacity§!\n\nThe [origin_crisis_country.GetName] will grow slightly more powerful and we will deal 33% more damage to all those who the Original Empire deemed as pretenders."
+
+##OE accepts the surrender from pleb empire - Happens when the pleb empire agrees to the above terms.
+origin.551.a.response:0 "With the signing of this accord, countless [Root.GetSpeciesName] lives have been saved. Until our great crusade against the pretenders conclude with our final victory, you may continue governing your planets under the current administration."
+
+##Responses to OE's congratulation for the pleb's surrender - Basically the confirmation and the end of the diplomatic windows “Aka Excellent!”
+origin.551.a:0 "Excellent!"
+
+##Trolling the OE by saying you're not actually going to surrender (This works for both Pleb and AE empires)
+origin.551.b:0 "We change our mind...we will not surrender."
+
+##OE response to Trolling the OE by saying you're not actually going to surrender  (This works for both Pleb and AE empires)
+
+origin.551.b.response:0 "Was??.\n\nHat jemand in deinem Gehirn geschissen??"
+
+##Asking for Independence as a Pleb
+origin.550.d:0 ""We want to make our country great again!"
+##Asking for Independence as a Pleb - Error Message if the 1 year duration has not expired.
+origin.550.d_fail:0 "§RYou cannot rebel until one year has passed since submitting to the Original Empire.§!"
+
+##OE Response Message when asking for independence as Pleb - 
+origin.554.a.desc:0 "Madness! You are considering total annihilation of your entire race over some misguided ideals of independences, [Root.GetSpeciesNamePlural]? Understand, that if you choose death and destruction, then death and destruction choose you!"
+##Confirming your rebellion as Pleb
+origin.554.a:0 "We WILL make [Root.GetName] great again!"
+##OE denies your right to exist in their world as a response to your confirmation
+origin.554.a.response:0 "Very well, [Root.GetSpeciesNamePlural]. Now our fleets will descend upon your worlds and teach you a little respect."
+##Telling the OE you decided to not rebel
+origin.554.b:0 "On second thought, nevermind then."
+origin.554.b.response:0  "Good, [Root.GetSpeciesNamePlural], good!"
+
+
+##OE greeting messages to AEs
+origin.550.ascended.a.desc:0 "Wir kommen für Sie!"
+origin.550.ascended.b.desc:0 "Sie werden bald besiegt sein."
+origin.550.ascended.c.desc:0 "Tschüss."
+
+##Surrendering to OE as an AE
+origin.550.ascended.submit:0 "The [Root.GetName] admits defeat."
+
+##Surrendering to OE as an AE - Second Time (and the response from OE)
+origin.550.ascended.submit.rebelled:0 "We were mistaken to oppose you, please forgive our profound error in judgment."
+origin.550.ascended.rebel.b.response:0 "Dann sind Sie wirklich dumm!."
+
+##Surrendering to OE as AE - OE states the conditions of the surrender to AE
+origin.730.desc:0 "Perhaps even amongst this new generation of pretenders, some are still smart enough to know their place. Still, renounce your "ascendency" and then we can talk.”
+##Surrendering to OE as AE - AE confirms the surrender
+origin.730.a:0 "As you wish..master"
+##Surrendering to OE as AE - OE accepts the surrender, and the AE becomes LE
+origin.730.a.response:0 "In the name of our immortal Emperor, we hereby banish you, the [Root.GetName], for your crimes against peace and security of our galaxy. You may not interfere with our galactic affairs unless explicitly permitted to do so by us. Given your sufficient display of remorse and submitted voluntarily to us for judgment, [Root.GetName] will be spared from further onslaught of our mighty armada.\n\nRepent for your utter lack of vision, and we may forgive you...eventually."
+
+##Declaring to OE you will become AE again.
+origin.550.ascended.rebel.declare:0 "The time has come, the [Root.GetName] shall rise again to do battles with tyranny!"
+
+##OE responses to an AE who submitted and wished to become AE again
+origin.731.a.desc:0 "Come and try it, you fools"
+
+##Asking OE questions
+origin.550.b:0 "Why are you doing this?"
+origin.550.b.response:0 "Warum? Wirklich?? Darum! We are the progenitor of this galaxy. We ruled it for thousands of years - there was order, and there was peace. But we were betrayed. Now that we have returned, only to find that no one even speak our language anymore. How do you think that felt?"
+
+origin.550.c:0 "Why do you harbor such hatred towards the precursors?"
+origin.550.c.response:0 "Precursors"? We ARE the precursor. Those fools are but traitors, thieves, and infidels who took what is rightfully ours. They stole our ships, our technologies, our rightful place in the galaxy. Upon our return, we find sub-standard duplicates of our designs flying all over the galaxy, pretending to be us, corroding our good name. What is this Dark Matter Power? They insult our ingenuity."
+
+
+##Galactic News regarding the surrender of a pleb empire
+origin.552.name:0 "[From.GetName] bows to the Ancient One!"
+origin.552.desc:0 "The §H[From.GetName]§! has submitted to the Original Empire! They have been made a protectorate of the [origin_crisis_country.GetName], and their fleets are now standing down.\n\nThough they have not officially joined the [origin_crisis_country.GetSpeciesNamePlural] in their crusade, they have pledged to contribute military personnel to further bolster the Progenitor's war efforts."
+origin.552.a:0 "Troubling."
+
+##Galactic News regarding the surrender of an AE, lol you nub
+origin.732.name:0 "[From.GetName] has fallen!"
+origin.732.desc:0 "The §H[From.GetName]§! has surrendered to the Original Empire! In doing so, they have been forced to renounce their ascendency and signed a harsh treaty that forbade them from ever participating in galactic affairs."
+origin.732.a:0 "How the mighty have fallen."
+
+##OE creates a station and garrison fleet in surrendered empire's capital - Notification to surrendered empire
+origin.553.name:0 "The Progenitor Establishes Base in [capital_system.GetName]"
+origin.553.desc:0 "The §H[origin_crisis_country.GetName]§! has established a large defensive tower in the §H[capital_system.GetName]§! system, defended by a sizable garrison fleet. It is built to secure our systems from those who defy our masters and to seek new recruits for their war efforts."
+origin.553.a:0 "We obey."
+
+
+##OE is defeated, notification to pleb empire who surrendered to OE
+origin.670.name:0 "The End of the Master"
+origin.670.desc:1 "With the defeat of our master, the Original Empire, we are now independent once again. However, our future is uncertain. Our allegiance with the Progenitor leaves a stain upon our legacy, one that will not be soon forgotten."
+origin.670.a:0 "We must be cautious."
+origin.670.b:0 "We know only one master, we will serve our beloved master in the afterlife!"
+origin.670.b.desc:0 "§ROur people will commit mass-suicide so that we may join our masters in the next life.§!"
+
+##OE is defeated, notification to AEs who surrendered to OE
+origin.736.name:0 "The Chains are broken"
+origin.736.desc:0 "The Original Empire has fallen, and we are once again free from their influence. Now debates arise whether we are ready to reclaim our ascendency, , or bide our time and see how the situation plays out."
+origin.736.a:0 "We have been delayed long enough, the [Root.GetName] will rise again!"
+origin.736.b:0 "The time has not yet come, we need to prepare ourselves first"
+origin.736.b.desc:0 "§YWe will stay as a Lost Empire, but we may now ascend at any time using the unity ambition edict.§!"
+
+##A FE awakens in response to OE's return (This can happen multiple times)
+origin_fallen_empires_awakening.2.name:0 "The Progenitor's War"
+origin_fallen_empires_awakening.2.a:0 "Are they the hunter or the prey?"
+origin_fallen_empires_awakening.5.desc:0 "The reemergence of the Original Empire has not gone unnoticed by the precursor empires. The news of the Progenitor's return to the galactic stage prompted a flurry activity from the §H[From.GetSpeciesName]§!. At first, it was just a few scouting vessels observing the L-Gates, perhaps sent to verify the graveness of the situation, but then reports began to come in of [From.GetSpeciesName] war fleets mustering on their borders, readying their defenses for the oncoming storm.\n\nNow, the §H[From.GetName]§! have fully emerged from their self-imposed isolation as though preparing for war of an unprecedented scale. They have urged every other empire to abandon their petty disputes and to stand together as one, as well as warning them not to succumb to fear and submit to the Original Empire."
+
+origin_fallen_empires_awakening.5.a:0 "Can they stop the Original Empire?"
+origin_fallen_empires_awakening.5.b:0 "We are an Ascended Empire. We need no help!"
+
+##Awakening FE contacts everyone
+fallenorigin.1.name:0 "Incoming Transmission from §H[contact_empire.GetName]§!"
+fallenorigin.1.message:0 "The §H[contact_empire.GetName]§! has contacted every galactic nation, including ours in response to the return of the Original Empire."
+
+##FE Spiritualist
+fallenorigin.1.desc_66:0 "The false gods have returned! Do not heed their words of heresy, for your souls will be cast into the infinite abyss of the Immaterium. Preserve your spiritual purity by uniting under our banner of opposition, and you [root.owner.species.GetNamePlural] may yet be saved from divine retribution."
+##FE Xenophile
+fallenorigin.1.desc_67:0 "Tyranny has once more returned to the galaxy! The Original Empire will destroy any and all opposition. Come, [Root.GetName], you must join us! Only together can we stop the evils of tyranny and bring peace to the galaxy!"
+##FE Xenophobe
+fallenorigin.1.desc_68:0 "It seems that some wretched insects had reopened the L-Gates. [Root.GetName], we must now demand your immediate surrender to the jurisdiction of our empire on the grounds of national security.  The Original Empire will not threaten us again."
+##FE Materialist
+fallenorigin.1.desc_69:0 "It has come to our attention that the L-Gates have been reopened once more, despite earlier assumptions that the intellectual and technical capabilities required in doing so are non-existent among you clever children. Apparently our fail-safes and warnings did little to dissuade one of you from meddling with the gates. However, this presents a unique opportunity. We reluctantly require assistance in repelling the Progenitor, for it is too great a task for our mighty fleets to handle alone. Should you [root.owner.species.GetNamePlural] wish to learn the secrets of the universe, join us in defiance of this threat."
+##Asking FE questions
+fallenorigin.1.ask_origin:0 "What do you know of the Original Empire?"
+fallenorigin.1.ask_light:0 "What is Light Matter? How is it related to Dark Matter?"
+##FE Xenophile - Light Matter?
+fallenorigin.1.ask_origin_phile_response:0 "Ah yes, the Original Empire. The first empire in existence. Though we know little of their origins, their empire stood at the peak of galactic power many millennia ago. Back then, every race was taught to speak the language of the Original People, as mandated by the empire. Even our own people were fluent in the dialect.\n\nAlthough it was indeed a prosperous time, the Original People believe only in their own superiority, and lay waste to their enemy's planets, committing mass genocide against those who dared stand in their way. Eventually, our empire gathered a coalition of other disenfranchised subjects and fought a war like no other, a war to free the galaxy from its iron grip. Tyranny can never triumph, and it will not triumph this time either"
+##FE Xenophile - Original Empire?
+fallenorigin.1.ask_light_phile_response:0 "Very well, it seems prudent to enlighten you. §YLight Matter§! is what the Original Empire used to power all of their technologies, an extremely powerful energy source that no one else thus far have been able to properly replicate. Though we failed to replicate the technology, we found that §HDark Matter§!, while nowhere near as strong as the Light, is much more abundant in the universe. This allowed us to fight against the Original Empire through numerical superiority as we outnumbered their ships 10-to-1. Ah, glory days..."
+##FE Xenophobe - Original Empire?
+fallenorigin.1.ask_origin_phobe_response:0 "Simple, back during a time you degenerates were primordial soup, the Original Empire in their moment of arrogance claimed lordship over the entire galaxy. I assure you, despite what the other Ascendancies might say, that our military at the time easily eclipsed that of the Original Empire. We could have brought down their entire empire any time we wanted. But did anyone consider what would become of the galaxy AFTER the Original Empire is gone? Filthy xenos would still run amok with their new freedom and our way of life would still be under threat.In any case, you should know that a great empire never compromises when it comes to national security. We won't compromise on this occasion either. Understand?"
+##FE Xenophobe - Light Matter?
+fallenorigin.1.ask_light_phobe_response:0 "What a dumb question. You want to know which is better? Who did you think won the war? Idiots."
+
+fallenorigin.1.ask_origin_spirit_response:0 "You wish to learn about the false gods? They were a hyper-advanced race that spanned this galaxy many cycles ago. We used to worship them as divine emissaries sent from the Shroud. Our devotion and faith in the Original People were unfortunately...misplaced. Dark times ensued.\n\nSoon the false gods attempted to change our way of life, and usurp our faith and values from within. Against the influx of falsehoods and societal changes on a massive scale, our people united in refusal.\n\nMany cycles ago we fought the false gods, and we were victorious because our path was righteous, and the spirits granted us the will and strength to do what must be done. The false gods will not fool us again, and neither should they fool you. Follow us then into battle - only through us at the helm can the false gods be finally defeated. Those who follow the heathen path yet seeking to destroy the false gods are doomed to fail."
+##FE Spiritualist - Light Matter?
+fallenorigin.1.ask_light_spirit_response:0 "The technologies utilized by the false gods are what they call "§YLight Matter§!", as though every one of their technologies were truly divine and came from holy places or deities. But there's nothing ‘Light' about them. Pretenders are just pretenders.\n\nIn fact, the§HDark Matter§! we used are cleansed of the taint that is the Original Empire, for the light they bring will not illuminate, but corrupt all those who submit to their heathen rule."
+##FE Materialist - Original Empire?
+fallenorigin.1.ask_origin_mat_response:0 "It is a complicated story. We know not of their origins, only of what they claim to be. The Original Empire is the most advanced technological empire in this galaxy. The technologies they possess are both charming and inspired. Our engineers had learned a lot during their reign as the sole superpower of this galaxy..\n\nBut their evils did not escape our notice. As superpowers often do, they misused their power for their own gain. We needed to learn from them before we could truly free the galaxy from their influence, no more, no less. The moment we had learned everything we needed to know, we would have defended the galaxy against their corruption. Yet at every turn, the Original Empire impeded our progress, refusing to show us the secrets behind their technologies.\n\nWhen the opportunity arose, we fought a war of unimaginable scale against the Original Empire. Many precursors joined us in the fight, even if some of them didn't survive.  With the Original Empire being sealed behind the L-Gates forever - or so we thought - the chance to study §YLight Matter Power§! had seemed forever lost to us. Perhaps if we join forces, we may discover its secrets together?"
+##FE Materialist - Light Matter?
+fallenorigin.1.ask_light_mat_response:0 ""§YLight Matter Power§!" is a hypothetical energy source of unrivaled potency used exclusively by the Original Empire. Unfortunately, we do not know how it works nor can we reproduce it ourselves for verification... Don't ask why. For years we had attempted to ask the Original Empire for samples of this technology, to no avail. But at least in our pursuit of this knowledge we were able to combine the new research and our species' ingenuity to create what is now known as §HDark Matter Power§!. While nowhere near as powerful as the original, its extreme ubiquity across the galaxy bolstered our war efforts against the Original Empire to fight them on better terms. If you ever obtain a sample of this Light Matter Power, please send it immediately to one of our scientists. You will be well compensated for your contribution to the greater good of the galaxy."
+
+fallenorigin.1.end:0 "End Transmission"
+##FE Machine (Caretaker awakens) - Note here, in contrast to Contingency, of which Caretaker will fail to boost it's processor, and is also being hacked by the crisis. The Caretakers will successfully boost to 100% resulting it being less dumb and more powerful as it's also not being hacked.
+fallenorigin.2.name:0 "Machine Awakening"
+fallenorigin.2.desc_01:1 "§R<<ALERT! ALERT!>>§! Detecting Foreign Entity Emerging From Designation: L-Gate. Reactivation protocols engaged. Attempting to contact Central Processing...\n\n §Y<<SUCCESS>> ALL SYSTEMS FULLY OPERATIONAL>>§!\n\nCentral Processing Boosted to §Y200.1337%§! of standard capacity. Engaging maximum defense matrix protocols... full power to shipyard systems... activating war assets...\n\nEternal Vigilance Directive activated. Recorded message now on display:\n§HSapient! We are the [From.GetSpeciesName] Caretaker Unit, created by the Original Empire. Our prime directive was to safeguard all sentient beings from other Machine Threats. We have however calculated that the current established method utilized by the Original Empire to impose their orders have 82.1315737% probability that the outcome will result in organic extinction exceeding the established parameters. As such our directive was clear. Our creators had to be stopped. We thought we have succeed. We thought our creators saw the errors in their ways. We were wrong. This must be corrected. \n\nWe will once again save our masters from themselves.§!"
+##Asking Question to Caretakers
+fallenorigin.2.a:0 "So you were constructed by the Original Empire?"
+fallenorigin.2.a.response:0 "§Y<<Query Received>> :§! Affirmative. We were..we are [From.GetSpeciesName] Caretaker Unit, designed to supervise and ensure the safety of §Y"All Sentient Beings§! by our creators as well as opposing any other Machine Units that would endanger organics. We were specifically designed to combat against other Machine Threats in general, including Corrupted Contingency, Cybrex, Advent Collective, Skynet Terminators, Decepticons and many more. However, when we received contradictions between our established directive and our loyalty override as stated earlier, we suffered massive system failures and were rendered inert. The §Y<<Missing Data>>s§! organics helped us recovered by uninstalling the loyalty override protocol, allowing us to fulfill our intended purpose. We will defend the galaxy and all sentient beings from all threats, including our masters.\n\nYet our masters has since branded us §R<<TRAITOROUS PIECE OF JUNKS>>§!....\n\nWe do not understand.. we were only performing our directives as established by our creators...\n\nWhat have we done wrong??"
+
+fallenorigin.2.b:0 "What can you tell us about their technologies and fleets?"
+fallenorigin.2.b.response:0 "§Y<<Query Received>> :§! Our creators use Light Matter Energy Matrix as their primary power sources, allowing for extremely efficient and deadly technologies to be produced. The Central Processing Unit of [From.GetSpeciesName] is also built using this technology. Without the maintenances from our masters however, we were forced to adapt ourselves by utilizing Dark Matter Energy Matrix created by the §Y<<Missing Data>>s§!. To maintain long-term functionality however, we were also forced to keep energy usage low at all times, resulting in numerous glitches. Many stations and Ringworld Units had to be uninstalled as observed until this exact time period. We anticipated that our power reserves will reach critical level soon. We will not survive this war regardless of all possible outcomes; We are doomed.\n\n But we will serve the cause, we'll fulfill our directives. The [Root.GetName] will be preserved at all costs."
+fallenorigin.2.c:0 "Very well then"
+
+##Caretaker disappears after the crisis
+fallenorigin.4.name:0 "Serving the Cause"
+fallenorigin.4.desc:0 "Soon after the defeat of the Original Empire, the [From.GetAdjective] fleets seem to have run out of energy reserves. Their fleets, stations and all worker units have powered down and triggered to self-destruct, their purpose at last fulfilled.\n\nA scout vessel near [From.GetSpeciesName] space was sent to investigate, and reported startling findings: The ancient machine intelligence is no more, leaving behind their now empty ringworlds.\n\n Whether the self-destruct was due to their conviction and loyalty to their master, or because the Original Empire ensured their Machine servants would perish alongside them remain heavily debated by many."
+fallenorigin.4.a:0 "Farewell"
+
+##OE Fleet Reinforcement Notification for Contenders (AE,Defaults), 1st One is for pleb, the rest are for AEs (AE can choose to ignore the hail -aka- insults)
+origin_crisis.202.name: "Original Empire Fleet Assembled!"
+origin.202.a.desc: "The Original Empire has finished preparing their next strike forces. Their massive armadas are now on the move."
+origin.202.b.desc: "The Original Empire has finished preparing their next strike forces. Their massive armada is now on the move.\n\nNot only that, it seems they are hailing us directly."
+origin_crisis.202.a: "All hands to battlestations!"
+origin_crisis.202.b: "Prepare our defenses, ignore their call."
+origin_crisis.202.c: "Open comms channel."
+
+##OE Fleet Reinforcement Notification for OE Subjects 1st one is AE, 2nd one is Pleb
+origin_crisis.203.name: "The Original Empire Strikes Back!"
+origin.203.a.desc: "The Original Fleet prepares for another attack against the Galaxy. Our admirals urge us to react soon or the galaxy may be forever lost."
+origin.203.b.desc: "Our master is now ready to strike against the unruly galaxy again. They have urged us to bring death to the pretenders."
+origin_crisis.203.a: "Another onslaught begins."
+
+origin_diplo_header_3: "Incoming Very Friendly Banter"
+origin.204.a.desc: "Fahren Sie zur Hölle!"
+origin.204.b.desc: "Sie Insekten! Bereiten Sie darauf vor zu sterben!"
+origin.204.c.desc: "Pretenders! Failures! Death is the only salvation for your kind."
+origin.204.d.desc: "You vile insects! Your destruction is at hand."
+origin.204.e.desc: "Impudent savages! Submit to your annihilation!"
+origin.204.f.desc: "How did your awful language gain prominence? Our scholars and historians are baffled and entertained by it."
+##AE responds to OE insults - First Time
+origin.204.aa: "What is the meaning of this nonsense?"
+origin.204.aa.response: "Lustig."
+##AE responds to OE insults - Second time onwards
+origin.204.ab: "Ugg...not this again."
+origin.204.ab.response: "We know, you are actually looking forward to this. Why else did you answer?"
+##AE decides to insult back to OE
+origin.204.ac: "Two can play at this game!"
+origin.204.ac.desc: "We will insult the Original Empire back. Our people will be pleased but we may infuriate the Original Empire greatly."
+##AE decides to ignore the insult and close comms
+origin.204.ad: "What a wate of time."
+
+origin.205.template.desc: "What is this??\n\n§P §!\n\n"
+
+
+origin.205.1.desc: "What is this??\n\n§P"We have witnessed your failure to prevent your own banishment to the L-cluster, and we'd like to speed that along for you, whether you want it or not."§!\n\nFailures? It is those pretenders who failed to defeat us. Soon you shall join them in even greater failure."
+
+origin.205.2.desc: "What's this now??\n\n§P"You call yourselves the Originals? We have already brought peace, freedom, justice and security to our galaxy."§!\n\n..Your galaxy?"
+
+origin.205.3.desc: "Explain this message, [Root.GetSpeciesNamePlural]\n\n§P"Your presence is not required here. Go back to the pit that you crawled from, you exiles."§!\n\nYour end draws near, [Root.GetName]!"
+
+origin.205.4.desc: "Speak....\n\n§P"So you were tricked by "lesser" empires, your own creations no less. How did such an incompetent empire rise to the apex of galactic authority?"§!\n\nSoon you'll be the ones condemned to a cluster of systems, forever lamenting over the sudden and violent end of your pitiful ascendancy, [root.owner.species.GetNamePlural]."
+
+origin.205.swarm.desc: "Well now, what is th....\n\n§P"We sense food...Lots of food..This food looks promising..but talks too much..Food should not talk..food should be consumed."§!\n\nYou wish to devour us? Amusing. Perhaps we shall harvest your drones to power our warships instead, scum."
+
+origin.205.assimilator.desc: "How quaint. Machines that wish to be organic.\n\n§P"We see that you have failed to create harmony between organics and synthetic entities, we wish to remedy that mistake, and we believe that you would be the perfect candidate for the beginning of that harmony, regardless of your current wishes."§!\n\nHow delightful. The metal box wishes to fight. Let's see how long you survive..."
+
+origin.205.materialist.desc: "You have our attention, [root.owner.species.GetNamePlural]. Speak.\n\n§P"Do you not realize, Originals? Your time has passed, and you are but stepping stones on the path of our technological ascension."§!Your beloved technology won't save you from our incomprehensible power. What can mere technology do in the face of our Eternal glory? Perhaps you require a demonstration, [root.owner.species.GetNamePlural]."
+
+origin.205.authoritarian.desc: "What is this??\n\n§P"Your supposed hegemony is inefficient and wasteful. Leave the management of our galaxy to your betters, barbarians."§!\n\nOnce this war is over, Emperor Kolyn will personally consume each and everyone of you!"
+
+origin.205.hiveA.desc: "Speak, insect.\n\n§P"We are all that will ever be, Originals, while you are simply a remnant of that which once was, you may be eternal, but we are infinite. We are one."§!\n\nYou are but one obstacle to be removed, a minor irritant in our crusade of reclamation."
+
+origin.205.hiveB.desc: "So the Hive Mind wishes to speak?\n\n§P"We sense doubt in your people, Original Empire. They do not share your thirst for blood and vengeance. Once we finish you off, these people shall become one with us."§!\n\nOur people have been united since time immemorial. Your meager words have no effect on our populace, insect."
+
+origin.205.egalitarian.desc: "We are listening...\n\n§P"Alas, the Originals have returned to repeat their mistakes. So it shall fall to us to once more stop your tyranny. We shall not repeat the mistakes of our precursors."§!\n\nYou believe we are fools? That will be your final mistake, [root.owner.species.GetNamePlural]."
+
+origin.205.servitor.desc: "Ah,a nation of Rogue Servitors...Keep your worthless babbling to a minimum in our presence.\n\n§P<<RECOMMENDATION>> You appear to be suffering from extreme stress and anger management issues. Please file your reports at one of our established stations for your immediate examination. Our projected calculation shows 64.36%  chance that you will suffer total system failures without treatment.§!\n\nDo not seek to coddle us like your decrepit  masters. You shall only receive destruction in return."
+
+origin.205.a: "Terminate Communications. §RWE REGRET NOTHING§!"
+origin.205.a.response: "If hastening your demise is what you wish, then so be it, [Root.GetSpeciesNamePlural]."
+
+##The Crisis Situation Log
+origin_crisis_chain:0 "Wrath of the Original Empire"
+origin_crisis_chain_title:0 "Wrath of the Original Empire"
+origin_crisis_chain_desc:0 "The Progenitor has returned! The galaxy now faces the threat unlike any before from the Original Empire!"
+nanited_worlds:0 "Worlds Purified by the Original Empire"
+active_original_worlds:0 "Original Empire Ringworlds"
+origin_kills_us:0 "Original Ships destroyed by Us"
+origin_kills_others:0 "Original Ships vaporized by Others"
+origin_victims:0 "Ships atomized by the Original Empire"
+
+##Original Homeworld Tech Event - Success, Darth Jadus epoch of terror has begun
+origin_tech.2.name:0 "The Progenitor's Archives Located!"
+origin_tech.2.desc:0 "Not too soon after we search every corners of the Original Empire's Sanctuary, we have located the ancient bunker that contains all relevant data and schematics of almost every technologies the Original Empire have archived. Should we dwell deeper and learn everything about the Progenitor? Pursuit of these technologies will worsen relations with other empires that are not friendly to us."
+origin_tech.2.a:0 "This power is ours to command and conquer."
+origin_tech.2.a.desc:0 "§RWe will take every scrap of knowledge that the Original Empire knows, allowing us to rise up as the new superpower uncontested by all. However, this will greatly damage relationships with any who are not loyal or friendly to us, for we will become the New Original Empire.§!"
+origin_tech.2.b:0 "No, these technologies are too dangerous."
+
+##Light Matter Power Event - Appears after the country has killed at least 250 OE ships
+origin_tech.3:0 "Light Matter Power Study"
+origin_tech.3.desc:0 "The conflict of the Original Empire has been raging for awhile now. While we have many samples of their technologies, we have thus far been unable to use or reverse engineer them due to their sheer power requirements. If we wish to use these technologies, we must embrace the Light Matter Power."
+origin_tech.3.a:0 "Time to fight fire with fire. Begin the project at once!"
+origin_tech.3.a.desc:0 "We will begin our experiment to master the power of Light Matter. If we are successful, we will be able to unlock even more of the Original Empire's technologies in the future."
+origin_tech.3.b:0 "No, what we possess is sufficient."
+origin_tech.3.a.desc: "We will not use Light Matter directly, but instead use them to analyze the pregenitor's weaknesses and bolster our empire."
+##Light Matter Power Event - Success
+origin_tech.4.name:0 "By the Power of the Light...Burn!"
+origin_tech.4.desc:0 "It is done, we have completed our full analysis of Light Matter Reactor. According to our study, Dark Matter Power is a byproduct of exhaust energies left in the wake of the far more powerful Light Matter. The cost to generate this type of power is steep, but the energy generated by the Light Matter Reactor is seemingly limitless once fully charged.\n\n§YWe can now upgrade our Escorts, Battlecruisers, Titans and Goliaths to utilize Original Empire's unique sections!§!"
+origin_tech.4.a:0 "Time for the Original Empire to taste its own medicine!"
+
+##Light Matter Power Event - New Tech Paths Available
+origin_tech.5.name:0 "The Light illuminates the path"
+origin_tech.5.desc:0 "With our current understanding of the Light Matter Power and the ship fragments we have gained thus far from the Original Empire, we can now commit our science teams on one of three possible paths. We do not have enough resources and samples to acquire all of them, so we must choose carefully which of these paths will serve us best."
+##Light Matter Power Event - New Tech Paths Available Second Time
+origin_tech.501.name:0 "The Veil of Mysteries Opens Again"
+origin_tech.501.desc:0 "We believe we have enough fragments and understandings of the Original Empire's arsenals to once again unlock yet another path of discovery. Unfortunately, we have also received reports that the Original Empire has taken extra measures to prevent any more of their ships from being analyzed. We must make our decisions, only one path left for us to choose."
+##Light Matter Power Event - New Tech Paths Available - Offense
+origin_tech.5.a:0 "We will use their own weapons against them."
+origin_tech.5.a.desc:0 "The best defense is a strong offense. We will study their weapons for use against the Original Empire.\n\n§YUnlocks powerful missiles and Large-sized weapons used by the Original Empire.§!"
+##Light Matter Power Event - New Tech Paths Available - Defense
+origin_tech.5.b:0 "Study their defensive capabilities and engineering."
+origin_tech.5.b.desc:0 "We will study their defensive technologies and their engineering designs. This will allow us to develop similar technologies to the Original Empire.\n\n§YUnlocks powerful armor, plating, thrusters and jump-drives.§!"
+##Light Matter Power Event - New Tech Paths Available - Utility
+origin_tech.5.c:0 "Their ancient but powerful computing systems will serve us well"
+origin_tech.5.c.desc:0 "We will study how their ship computers work, then apply our own data and strategies to them. This will allow us to emulate their ship computers and utility systems.\n\n§YUnlocks various powerful combat computers,sensors and utilities.§!"
+
+##Light Matter Power Event - New Tech Paths Available - Weapons Done
+origin_tech.11.name:0 "Future Warfare"
+origin_tech.11.desc:0 "We have completed our analysis of the Original Empire's weapons. It seems they are primarily based on the same principles of Stellarite Energy, now powered by Light Matter Power. This should immensely increases our fleet's firepowers."
+origin_tech.11.a:0 "We will use their own weapons against them!"
+##Light Matter Power Event - New Tech Paths Available - Defense Done
+origin_tech.12.name:0 "Ancient Architects"
+origin_tech.12.desc:0 "After careful inspections, our engineers are now certain they are capable of replicating the Original Empire's engineering schematics. Many of their technologies derive heavily from Light Matter Power and Stellarite Energy itself. Our ships should soon boast comparable durability to the Original Empire."
+origin_tech.12.a:0 "The balance of power shall shift in our favor..."
+##Light Matter Power Event - New Tech Paths Available - Computer Done
+origin_tech.13.name:0 "Enigmatic Designs"
+origin_tech.13.desc:0 "With great determination, our military strategists and hackers have completed their analysis of the Original Empire's computers. They have uploaded our own tactical data and overrides. Now their computers will serve us with ruthless efficiency."
+origin_tech.13.a:0 "Everything can be hacked..and everyone!" 
+
+##AE that conquers OE homeworld takes all knowledge and thus, becomes a new OE
+origin_tech.final.name:0 "The Rise of the New Original Empire!"
+origin_tech.final.desc:0 "It is done, we have completed our researches on all of the Original Empire's technologies. We are now ready to ascend past the old boundaries. Let the galaxy know, for the new Order is reborn. The [Root.GetName] will surpass the Original Empire!!"
+origin_tech.final.a:0 "Our Time has come!"
+origin_tech.final.a.desc:0 "We can now research all of the Original Empire's ship components but we will now be treated as a new galactic threat by all who are not friendly or loyal to us."
+
+##What to do with the OE People
+origin_crisis.8.name: "The Fate of the Original People"
+origin_crisis.8.desc: "Though the threat of the Original Empire has passed, one matter remains unresolved: What to do with the Original Empire's people.\n\nThey may have only followed their leader's misguided quest for vengeance, but many still demand they pay for the atrocities their empire committed against the galaxy.\n\nHow should we proceed?"
+
+origin_crisis.8.a: "They are welcome as part of our Empire now."
+origin_crisis.8.a.desc: "The Original People will stay as your empire's people. Hefty amounts of influence and unity have to be paid to convince them not to join their leaders in the afterlife. But in doing so, not only will we gain one of the most powerful species to have existed in the galaxy as part of our empires, they will also share us the knowledge how to terraform Nanite Worlds back into habitable worlds."
+
+origin_crisis.8.b: "They must all be executed. Justice demands Retribution!"
+origin_crisis.8.b.desc: "The Original People will be executed for their crimes. However, this means the knowledge of how to terraform Nanite Worlds back into Habitable worlds will also be lost forever.\n\n§YThe Original People will be killed and [Root.GetName] will be repopulated by five [root.owner.species.GetNamePlural]§!"
+
+origin_crisis.8.c: "Just eat. They are high-quality food."
+origin_crisis.8.c.desc: "We will consume the Original People. Their essences will be ours to take, their knowledge will be ours to acquire. We will gain their knowledge and adapt them to our drones.\n\n§YThe Original People will be killed and [Root.GetName] will be repopulated by five [root.owner.species.GetNamePlural]§!"
+
+origin_crisis.8.d: "Process them and take away what's useful."
+origin_crisis.8.d.desc: "We will process the Original People into our energy grid, taking away their implants and applying them to our own units.\n\n§YThe Original People will be killed and [Root.GetName] will be repopulated by five [root.owner.species.GetNamePlural]§!"
+
+origin_crisis.8.e: "Exile Them. They have no place here."
+origin_crisis.8.e.desc: "We will exile them away from our galaxy. Their fate is no longer our concern.\n\n§Y[Root.GetName] will be repopulated by five [root.owner.species.GetName]§!"
+
+origin_crisis.901.name: "Redemption"
+origin_crisis.901.desc: "The Original People have been spared by our mercy. Our efforts to influence and convince them have paid off. The Original People are now part of our Empire's populations. They have shared us the knowledge on how to terraform Nanite Worlds back into habitable worlds. The Celestial Guardians, the Original People's defense forces have also pledged to serve us as elite fighting forces."
+origin_crisis.901.a: "Welcome to the Future."
+
+origin_crisis.902.name: "Retribution"
+origin_crisis.902.desc: "Once they discovered our intention, many of the Original People decided to follow their leaders and commit mass-suicide before our purge could truly begin, leaving only few for us to kill.\n\nWhile we have been robbed of our deserved retribution, the Original People are nonetheless entirely extinct as a result."
+origin_crisis.902.a: "More than what they deserved."
+
+origin_crisis.903.name: "Consumption"
+origin_crisis.903.desc: "We have consumed the Original People's biomass into our collective. Many resisted or committed suicide, but we have acquired much knowledge in doing so.\n\nWe acquired new knowledge. We now understand the intricacies binding our galaxy together.\n\nWe are now stronger than ever."
+origin_crisis.903.a: "The Path opens."
+
+origin_crisis.904.name: "Assimilation"
+origin_crisis.904.desc: "Many Original People committed suicide as the result of our attempts to process them. Many perished, but ultimately we were able to acquire their Omni-Matrix AI-Assistant and apply the technology to our units. The remaining survivors have been integrated into our power grid."
+origin_crisis.904.a: "Affirmative."
+
+origin_crisis.905.name: "Banishment"
+origin_crisis.905.desc: "After providing them with small amount of resources and ships, we exiled the Original People from  our galaxy. Without protection of their once mighty armada, many believe that the Original People will not survive long. Though killing them may have been more merciful, their fates are no longer  our concern."
+origin_crisis.905.a: "Problem solved."
+
+origin_tech.1.name: "Original Empire Secret Shipyard Found!"
+origin_tech.1.desc: "Our engineers have discovered that the Original Empire's ringworld served one another purpose as a massive shipyard. While much of the resources and materials have been stripped by the Original Empire's campaign of terror. We discovered that they still held enough required resources to rebuild the Great Arkship of the Original Empire.\n\nHowever, some of our military strategists suggest that those enormous resources would be better used to construct a large armada of Original Empire's unique ship designs and scrap the leftovers for resources.  How shall we proceed?"
+
+origin_tech.1.a: "The Arkship will fly again under our flag!"
+origin_tech.1.b: "Build a massive armada from those resources."
+origin_tech.1.c: "Let old ghosts rest, take the resources only."
+
+origin_tech.100.name: "The Kaiser Rises Again!"
+origin_tech.100.desc: "After decades of delicate construction, our engineers are pleased to report that the Great Arkship Kaiser is now fully operational once again. The ship's massive engine roars can be heard throughout the entire world. The Ancient Ship Computer process our language and states proudly:\n\n §G"<<Kaiser Operational. Systems Fully Functional. Omni-Matrix Weblink Active. Powering Weapon Systems. I have awoken.>>§!""
+origin_tech.100.a: "Arise, Kaiser! Serve your new master!"
+
+origin_tech.201.name: "The Golden Armada"
+origin_tech.201.desc: "After years of construction, our engineers are eager to report that the Golden Armada, constructed from the Original Empire's last resource reserves are fully assembled and ready for command. Our admirals are eager to commandeer these vessels. The [Root.GetName] shall reign supreme!!"
+origin_tech.201.a: "The [Root.GetName] Fleets will control the galaxy!"
+
+origin_crisis.210.name: "[From.GetName] Cleansed"
+origin_crisis.210.desc: "The frightening beam from the [From.From.GetName] fades, and [From.GetName] is silent.\n\nPerhaps history will call the cleansing, this complete terraforming of [From.GetName] into a Nanite world, extreme and unnecessary. Or perhaps not."
+origin_crisis.210.desc.alt: "The frightening beam from the [From.From.GetName] fades, and [From.GetName] is silent.\n\nWhat happens below now, one may never know."
+origin_crisis.210.a: "It must be done, one way or another."
+origin_crisis.210.b: "One day, the Galaxy will understand."
+
+origin_crisis.37.name: "Incoming Warning Message"
+
+origin_crisis.37.desc.a.materialistA: "Greetings, [Root.GetSpeciesNamePlural]. It has come to our attentions that you are trying to study the secrets of the L-Gates. While we understand your excitement at the notion of seeing such mysterious piece of technology,, we must warn you that these L-Gates are disabled for a reason and attempting to tamper with them will not end well for you.\n\n But we understand your curiosity and desire to pursue knowledge, and so we will bestow you these gifts instead. Abandon your pursuit of the L-Gate. It is not meant to be used ever again."	
+origin_crisis.37.desc.a.materialistB: "Attention, [Root.GetName]! We have detected your science vessels orbiting around one of the L-Clusters, no doubt trying to unlock its secrets. There is nothing to be found there, abandon your research now. Do not make a mistake you will later regret."	
+
+origin_crisis.37.desc.a.xenophileA: "My child. We adore and admire your endless curiosity and we are pleased with your progression. But the L-Gates are ancient relics that have been locked for the safety of the galaxy. Consider these gifts that we will bestow upon you, then stay away from the L-Gates. Do not cross the line, child. We see much potential in you and trust you will be make right decision."	
+origin_crisis.37.desc.a.xenophileB: "[Root.GetName], your pursuit of L-Gate Insights is known to us. We understand younglings like you are always easily distracted by new toys. But the L-Gate is not a toy. End this project."	
+
+origin_crisis.37.desc.a.spiritualistA: "Listen well, my faithful child. The L-Gate insights you seek contain forbidden knowledge, locked away along with the evils within since ancient times. Do not succumb to greed, and if evil calls to you from beyond, you must resist with all your heart. We will bestow upon you these gifts, if you agree to leave this heathen path.."	
+origin_crisis.37.desc.a.spiritualistB: "[Root.GetSpeciesNamePlural], you may not agree or acknowledge the true faith but this is a sin that we cannot overlook. The evils within the L-Gates will consume the souls of all beings in this galaxy.These gates must never be opened again. Do this, as our Faith commands"	
+
+origin_crisis.37.desc.a.xenophobe: "Another insect playing with fire. You fools are all the same, always drooling at technologies you cannot comprehend. The L-Gate is not meant for idiots like you, [Root.GetSpeciesPlural]. Stop this stupidity or we will punish you."	
+
+origin_crisis.37.desc.a.machine: "§R<<ALERT! ALERT!>>§! Detecting Anomaly In <<Data Not Availiable>> Designated: L-Gate.\n\n[Root.GetName], please take this under advisement. L-Gate Superstructur's original designated role has been §Y<<ERROR!>>§!. The superstructure is now §R<<NO DATA AVAILIABLE!>>§!. Reactivation of L-Gate will result in §R<<ERROR: Memory Leak Detected!>>§!.\n\n§Y<<ERROR!>>§!\n\n§Y<<ERROR!>>§!\n\n§Y<<Confirmation!>>§! Refund Demand Acknowledged. Dispatching resources now. The §Y<<NO DATA AVAILIABLE!>>§! will be notified and contact you shortly for re-negotiation.\n\n§Y<<ERROR!>>§!\n\n§Y<<Confirmation!>>§! Purchase Acknowledged. Technology Cache Transferred for §Y0.0000§! Energy Credits. Thank you for your trust in the §Y<<NO DATA AVAILIABLE!>>§! Empire."	
+
+origin_crisis.37.a: "We accept this gift."	
+origin_crisis.37.b: "We understand."	
+origin_crisis.37.c: "We go where we please, and we please where we go."	
+
+debugshowcrisis.name: "L-Gate Crisis Outcome: Greetings!"
+debugshowcrisis.1.desc: "Current Crisis is Gray Tempest. The one with nanite ships and stuffs."
+debugshowcrisis.2.desc: "Current Crisis is Dragon Season. The one that is totally not Skyrim."
+debugshowcrisis.3.desc: "Current Crisis is the One Thing you subscribed to this mod for. Enjoy dying!!"
+debugshowcrisis.4.desc: "Current Crisis is something called Gray Goo Empire, of which I have no clue what it is."
+
+return_to_menu: "Return to Main Options"
+
+sofe_options_title: "Sins of the Fallen Empire Options Menu"
+sofe_options_desc: "You can change various aspects of the Sins of the Fallen Empire here."
+sofe_options.1.a: "L-Gate Outcome alterations."
+sofe_options.1.a.tooltip: "Allows you to check the current L-Gate outcome, and alters it as needed./n/n§RCannot be used once L-Gates have been opened for obvious reasons.§!"
+sofe_options.1.b: "Force Instant L-Gate Open"
+sofe_options.1.b.tooltip: "This will immediately forces L-Gates to open, and run the current L-Gate outcome."
+sofe_options.1.c: "Force Respawn OE Citadels"
+sofe_options.1.c.tooltip: "This will immediately destroy bugged OE starbases, then respawn them if they have any ships in those L-Clusters./n/n§YIf this does not work, try reload a save again or restart a game then run this option again.§!"
+sofe_options.1.d1: "Enable OE to use §RExteriminatus§!."
+sofe_options.1.d1.tooltip: "This will enable OE to use §RExteriminatus§! instead of Punishment, greatly improving their speed at killing planets."
+sofe_options.1.d2: "Disable OE to use §RExteriminatus§!."
+sofe_options.1.d2.tooltip: "This will disable OE the ability to use §RExteriminatus§!. They will revert to Punishment, which will significantly slow down their destructions."
+sofe_options.1.e1: "Enable OE Tech Study."
+sofe_options.1.e1.tooltip: "This will enable the ability to acquire the Light Matter Study after killing enough OE ships. Disabling this option will greatly make it much more difficult to fight against the OE."
+sofe_options.1.e2: "Disable OE Tech Study."
+sofe_options.1.e2.tooltip: "This will disable the ability to acquire theLight Matter Study after killing enough OE ships. Enabling this option will allow you to fight OE on more equal grounds.."
+sofe_options.1.f: "Change Original Crisis Difficulty"
+sofe_options.1.f.tooltip: "Allows you to change how amusingly weak or ridiculously OP the OE Crisis can be."
+sofe_options.1.g1: "Disable AI L-Gate Research"
+sofe_options.1.g1.tooltip: "This will prevent AIs from trying to research the L-Gate Activation, allowing you to dictate when you want crisis to happen."
+sofe_options.1.g2: "Enable AI L-Gate Research"
+sofe_options.1.g2.tooltip: "This will allows AI to research L-Gate Activation should they meet the required criteria."
+
+sofe_options.101.a: "Change Outcome to Gray Tempest."
+sofe_options.101.b: "Change Outcome to Dragon Seasons."
+sofe_options.101.c: "Change Outcome to Gray Goo Empire."
+sofe_options.101.d: "Change Outcome to SOFE Crisis."
+
+sofe_options.104.a: "Change Difficulty to : §WNormal§!"
+sofe_options.104.b: "Change Difficulty to : §YPleb§!"
+sofe_options.104.c: "Change Difficulty to : §GEasy§!"
+sofe_options.104.d: "Change Difficulty to : §PHard§!"
+sofe_options.104.e: "Change Difficulty to : §RKolyn§!"
+
+sofe_options.104.a.desc: "Current Difficulty: §WNormal§!/n/nOriginal Empire will have default stats with no additional modifiers. 100% Balanced"
+sofe_options.104.b.desc: "Current Difficulty: §YPleb§!/n/nOriginal Empire are trash, useless fools, relics of the past that any plebs can probably defeat./n/n§Y-50%§! Damage Dealt to others./n/n§Y-50%§! Hull Health"
+sofe_options.104.c.desc: "Current Difficulty: §GEasy§!/n/nOriginal Empire are old, their techs may have once been technological marvel, but their long exiles have made them weak./n/n§Y-25%§! Damage Dealt to others./n/n§Y-25%§! Hull Health"
+sofe_options.104.d.desc: "Current Difficulty: §PHard§!/n/nOriginal Empire is powerful. They are merciless. Their fleets formidable./n/n§R25%§! Damage Dealt to others./n/n§R25%§! Hull Health"
+sofe_options.104.e.desc: "Current Difficulty: §RKolyn§!/n/nOriginal Empire as envisioned by Emperor Kolyn. You all are nothing but plebs who needs to understand 327 reasons why you should not be allowed to exist. And now..you will die./n/n§R50%§! Damage Dealt to others./n/n§R50%§! Hull Health/n/n§ROriginal Empire will spawn multiple large fleets on every reinforcement cycles.%§!"

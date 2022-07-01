@@ -1,0 +1,57 @@
+﻿l_russian:
+
+ pc_midas:0 "Мир Мидаса"
+ pc_midas_desc:0 "Сверкающий мир с раскалённой золотой поверхностью, где свободно течёт жидкое золото."
+
+ must_be_habitable:2 "Цель является §Yобитаемым§! классом планет."
+
+ FLEETORDER_DESTROY_PLANET_WITH_PLANET_KILLER_MOLTEN:0 "Приготовиться зажечь планетарное ядро $PLANET|Y$!"
+ FLEETORDER_DESTROY_PLANET_WITH_PLANET_KILLER_BARREN:0 "Приготовиться к глобальному загрязнению поверхности $PLANET|Y$!"
+ FLEETORDER_DESTROY_PLANET_WITH_PLANET_KILLER_TOXIC:0 "Приготовиться к токсификации атмосферы $PLANET|Y$!"
+ FLEETORDER_DESTROY_PLANET_WITH_PLANET_KILLER_MIDAS:0 "Приготовиться к трансмутации поверхности $PLANET|Y$"
+ FLEETORDER_DESTROY_PLANET_WITH_PLANET_KILLER_SHROUDED:0 "Приготовиться к поглощению поверхности $PLANET|Y$"
+
+ PLANET_KILLER_MOLTEN:0 "Зажигатель ядра"
+ PLANET_KILLER_MOLTEN_ACTION:0 "Зажжённое ядро"
+ PLANET_KILLER_MOLTEN_DESC:0 "Сие процесс - совершенно не похож на тот, что будет использоваться для раскола планеты. Направленная подача тепловой энергии перегревает атмосферу и, разбушевав ядро ​​планеты, приводит к катастрофическим тектоническим событиям, превращающие мир в негостеприимную расплавленную породу, бурлящую ежеминутно."
+
+ PLANET_KILLER_BARREN:0 "Разрушитель магнитосферы"
+ PLANET_KILLER_BARREN_ACTION:0 "Разрушенная магнитосфера"
+ PLANET_KILLER_BARREN_DESC:0 "Магнитосферы - это одна из ключевых вещей, которая нужна планете для поддержания на ней жизни. Разрушая ее, планета может лишиться как атмосферы, так и всей жидкости на ней, от чего её поверхность станет бесплодной и негостеприимной на протяжении тысячелетий, пока кому-то не взбредёт в голову снова её озеленить с помощью терраформинга."
+
+ PLANET_KILLER_TOXIC:0 "Атмосферный токсификатор"
+ PLANET_KILLER_TOXIC_ACTION:0 "Токсифицировать мир"
+ PLANET_KILLER_TOXIC_DESC:0 "Обитаемые миры - так хорошо были сбалансированы в века своего создания.. Капелька токсичных химикатов, щепотка неразлагаемых материалов и целый планетоид мануфакторного мусора - могут легко нарушить этот хрупкий баланс и сделать мир негостеприимным для всех его нынешних обитателей."
+
+ PLANET_KILLER_COMPRESSION:0 "Уплотнитель миров"
+ PLANET_KILLER_COMPRESSION_ACTION:0 "Уплотнённый мир"
+ PLANET_KILLER_COMPRESSION_DESC:0 "Использование достижений в нашем понимании Вселенной может позволить нам сжимать планетные тела в более мелкие и компактные формы. Кто нибудь хочет получить маленькую пони из целой планеты?"
+
+ PLANET_KILLER_STELLAR_COMPRESSION:0 "Звёздный уплотнитель миров"
+ PLANET_KILLER_STELLAR_COMPRESSION_ACTION:0 "Уплотнённый мир"
+ PLANET_KILLER_STELLAR_COMPRESSION_DESC:0 "Направленная подача тепловой энергии перегревает атмосферу и, возбудив ядро планеты, вызывает катастрофические тектонические события. Затем раздается последний и сравнительно крошечный сотрясающий всё и вся - удар, что раскрывает внутреннюю суть данной планеты."
+
+ PLANET_KILLER_MIDAS:0 "Золотой трансмутатор"
+ PLANET_KILLER_MIDAS_ACTION:0 "Поглощённый мир"
+ PLANET_KILLER_MIDAS_DESC:0 "Как по волшебству, целый мир можно превратить в драгоценные металлы, однако никакой магии здесь нет. Только наука. Прибрежные реки из золота весьма легко собирать нашими экстракторами."
+
+ PLANET_KILLER_SHROUDED:0 "Разрыватель реальности"
+ PLANET_KILLER_SHROUDED_ACTION:0 "Поглощённый мир"
+ PLANET_KILLER_SHROUDED_DESC:0 "Покров - весьма хаотичное место, наполненное непостижимыми ужасами. Наши сильнейшие псионики могут открывать небольшие разрывы реальности по всей планете, подвергая саму землю и её жителей диким кошмарам, скрывающимся за тонким барьером материального мира."
+
+ tech_pk_molten:1 "Зажжённое ядро"
+ tech_pk_molten_desc:0 "$PLANET_KILLER_MOLTEN_DESC$"
+ tech_pk_barren:0 "Нарушенная магнитосфера"
+ tech_pk_barren_desc:0 "$PLANET_KILLER_BARREN_DESC$"
+ tech_pk_toxic:0 "Всепроникающий яд"
+ tech_pk_toxic_desc:0 "$PLANET_KILLER_TOXIC_DESC$"
+ tech_pk_midas:0 "Золотая трансмутация"
+ tech_pk_midas_desc:0 "$PLANET_KILLER_MIDAS_DESC$"
+ tech_pk_shrouded:0 "Поглощённый мир"
+ tech_pk_shrouded_desc:0 "$PLANET_KILLER_SHROUDED_DESC$"
+
+ MESSAGE_DESC_FOR_PLANET_KILLER_MOLTEN:0 "был вулканизирован"
+ MESSAGE_DESC_FOR_PLANET_KILLER_BARREN:0 "был оголён от магнитосферы"
+ MESSAGE_DESC_FOR_PLANET_KILLER_TOXIC:0 "был токсифицирован"
+ MESSAGE_DESC_FOR_PLANET_KILLER_MIDAS:0 "был трансформирован в ценные металлы"
+ MESSAGE_DESC_FOR_PLANET_KILLER_SHROUDED:0 "был поглощён покровом"

@@ -1,0 +1,83 @@
+﻿l_russian:
+
+ #### In this file localisation for ####
+ # Crystal beast event chain
+ # EGO
+ # Not specified
+ #######################################
+
+ #######################################
+ #### Crystal beast event chain
+ #######################################
+ GPM_CRYSTALINE_BEASTS_RESEARCH:0 "Обустройство лагеря"
+ GPM_CRYSTALINE_BEASTS_RESEARCH_DESC:0 "Исследователям на [from.GetName] нужно создать передовой исследовательский лагерь, так как изучение таинственной кристальной пещеры может занять недели, а то и месяцы."
+ GPM_CRYSTALIZATION_RESEARCH:0 "Исследование кристаллизации растений"
+ GPM_CRYSTALIZATION_RESEARCH_DESC:0 "Наши исследователи привлекли дополнительных ученых и создали полноценную исследовательскую базу. Процесс анализа кристаллической фауны и флоры вокруг пещеры может начаться."
+
+ #######################################
+ #### EGO
+ #######################################
+ EGO_THE_FIRST_VISIT:0 "Первый визит"
+ EGO_THE_FIRST_VISIT_DESC:0 "Первым делом стоит посетить расплавленный мир. Возможно, это может объяснить количество мусора."
+ EGO_THE_SECOND_VISIT:0 "Второй визит"
+ EGO_THE_SECOND_VISIT_DESC:0 "Стоит сейчас исследовать похожую на идеальный мир планету, покрытую густой растительностью. Будем надеяться, что там мы найдём больше ответов."
+
+ #######################################
+ #### Not specified
+ #######################################
+ GPM_COLONY_SHIP_3:0 "Не совсем металлолом"
+ GPM_COLONY_SHIP_3_DESC:0 "Выясните, можно ли разобрать на металл разбившиеся корабли."
+ GPM_COLONY_SHIP_4:0 "Слишком хорошо, чтобы быть правдой"
+ GPM_COLONY_SHIP_4_DESC:0 "Ваши научные и инженерные команды попытаются разобрать на металлолом как можно больше кораблей, используя части близлежащих разрушенных кораблей."
+ gpm_colony_ship_event_chain_title:0 "Металлолом"
+ gpm_colony_ship_event_chain_desc:0 "Этот мир покрыт древними разбившимися кораблями неизвестной природы и происхождения, готовыми к разбору на металл."
+
+ GPM_HUNT_KILL_BOTS:0 "Уничтожить роботов-убийц"
+ GPM_HUNT_KILL_BOTS_DESC:0 "Элитная команда из специализированной на действиях против ИИ пехоты скрытно высадится на планету и уничтожит всех роботов до единого."
+
+ GPM_DISCOVERY_EXPEDITION:0 "Наш научный специалист возглавит обширную и потенциально опасную научную экспедицию в надежде совершить захватывающие открытия или же раскрыть интересные загадки."
+
+ GPM_DISCOVERY_TERRAFORM_1:0 "Экспедиция по наблюдению за сейсмической активностью"
+ GPM_DISCOVERY_TERRAFORM_1_DESC:0 "$GPM_DISCOVERY_EXPEDITION$"
+ GPM_DISCOVERY_TERRAFORM_2:0 "Экспедиция по сбору образцов почвы"
+ GPM_DISCOVERY_TERRAFORM_2_DESC:0 "$GPM_DISCOVERY_EXPEDITION$"
+ GPM_DISCOVERY_TERRAFORM_3:0 "Экспедиция по бурению ядра"
+ GPM_DISCOVERY_TERRAFORM_3_DESC:0 "$GPM_DISCOVERY_EXPEDITION$"
+ GPM_DISCOVERY_GAIA:0 "Экспедиция по изучению природы"
+ GPM_DISCOVERY_GAIA_DESC:0 "$GPM_DISCOVERY_EXPEDITION$"
+ GPM_DISCOVERY_HOLY_PLANET:0 "Экспедиция на странный мир"
+ GPM_DISCOVERY_HOLY_PLANET_DESC:0 "$GPM_DISCOVERY_EXPEDITION$"
+ GPM_DISCOVERY_FLOATING_ISLANDS:0 "Экспедиция на парящий остров"
+ GPM_DISCOVERY_FLOATING_ISLANDS_DESC:0 "$GPM_DISCOVERY_EXPEDITION$"
+ GPM_DISCOVERY_BATTLEFIELD:0 "Экспедиция на древнее поле боя"
+ GPM_DISCOVERY_BATTLEFIELD_DESC:0 "$GPM_DISCOVERY_EXPEDITION$"
+ GPM_DISCOVERY_SHIP_GRAVEYARD:0 "Экспедиция по сбору металлолома с кладбища кораблей"
+ GPM_DISCOVERY_SHIP_GRAVEYARD_DESC:0 "$GPM_DISCOVERY_EXPEDITION$"
+ GPM_DISCOVERY_ARTIFICIAL_WATER:0 "Экспедиция по сбору искусственной воды"
+ GPM_DISCOVERY_ARTIFICIAL_WATER_DESC:0 "$GPM_DISCOVERY_EXPEDITION$"
+ GPM_DISCOVERY_PLEASURE_PALACE:0 "«Экспедиция» в дворец удовольствий"
+ GPM_DISCOVERY_PLEASURE_PALACE_DESC:0 "$GPM_DISCOVERY_EXPEDITION$"
+ GPM_DISCOVERY_ANCIENT_TEMPLE:0 "Археологическая экспедиция в древний храм"
+ GPM_DISCOVERY_ANCIENT_TEMPLE_DESC:0 "$GPM_DISCOVERY_EXPEDITION$"
+ GPM_DISCOVERY_CRYSTAL_MOON_PALACE:0 "Археологическая экспедиция в лунный дворец"
+ GPM_DISCOVERY_CRYSTAL_MOON_PALACE_DESC:0 "$GPM_DISCOVERY_EXPEDITION$"
+ GPM_DISCOVERY_PLASMOID_LIFE:0 "Экспедиция по наблюдению за плазменной формой жизни"
+ GPM_DISCOVERY_PLASMOID_LIFE_DESC:0 "$GPM_DISCOVERY_EXPEDITION$"
+ GPM_DISCOVERY_TEMPLE_ANCIENT_ONE:0 "Экспедиция в странный храм"
+ GPM_DISCOVERY_TEMPLE_ANCIENT_ONE_DESC:0 "$GPM_DISCOVERY_EXPEDITION$"
+ GPM_DISCOVERY_PROTO_FOREST:0 "Научная экспедиция в протолес"
+ GPM_DISCOVERY_PROTO_FOREST_DESC:0 "$GPM_DISCOVERY_EXPEDITION$"
+ GPM_DISCOVERY_HIVE_WORLD:0 "Археологическая экспедиция в мир-улей"
+ GPM_DISCOVERY_HIVE_WORLD_DESC:0 "$GPM_DISCOVERY_EXPEDITION$"
+ GPM_DISCOVERY_ARACHNAPHOBIA:0 "Экспедиция по наблюдению за гигантскими пауками"
+ GPM_DISCOVERY_ARACHNAPHOBIA_DESC:0 "$GPM_DISCOVERY_EXPEDITION$"
+ GPM_DISCOVERY_GIANT_WORM:0 "Экспедиция по наблюдению за гигантским червём"
+ GPM_DISCOVERY_GIANT_WORM_DESC:0 "$GPM_DISCOVERY_EXPEDITION$"
+ GPM_DISCOVERY_ARTIFICIAL_CORE:0 "Экспедиция к искусственному ядру"
+ GPM_DISCOVERY_ARTIFICIAL_CORE_DESC:0 "$GPM_DISCOVERY_EXPEDITION$"
+ GPM_DISCOVERY_SURFACE_OF_BONES:0 "Экспедиция по каталогизации костей"
+ GPM_DISCOVERY_SURFACE_OF_BONES_DESC:0 "$GPM_DISCOVERY_EXPEDITION$"
+ GPM_DISCOVERY_ALIEN_EGGS:0 "Экспедиция по сбору инопланетных яиц"
+ GPM_DISCOVERY_ALIEN_EGGS_DESC:0 "$GPM_DISCOVERY_EXPEDITION$"
+ GPM_DISCOVERY_MUSHROOM_FORESTS:0 "Экспедиция в грибной лес"
+ GPM_DISCOVERY_MUSHROOM_FORESTS_DESC:0 "$GPM_DISCOVERY_EXPEDITION$"

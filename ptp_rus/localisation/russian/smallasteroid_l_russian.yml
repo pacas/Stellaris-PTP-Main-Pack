@@ -1,0 +1,46 @@
+﻿l_russian:
+ 
+ ####################################
+ # Extra Planet Classes
+ ####################################
+ 
+  habitable_environment:0 "Пригодная для жилья окружающая среда"
+  habitable_environment_desc:0 "Эта планета или планетоид имеет подходящую среду обитания, что значительно облегчает колонизацию."
+  asteroid_rich:0 "Богатый минералами астероид"
+  asteroid_rich_desc:0 "Этот астероид содержит множество ценных месторождений полезных ископаемых."
+  pc_habitable_asteroid:0 "Астероид"
+  pc_habitable_asteroid_desc:0 "Большой астероид, который можно колонизировать."
+  pc_luna:0 "Луна"
+  pc_luna_desc:0 "Наш маленький спутник-компаньон."
+  trait_pc_luna_preference:0 "Предпочтительный тип: Луна"
+  trait_pc_luna_preference_desc:0 "§LКлиматическое предпочтение определенное на генетическом уровне эонами эволюции или умелой манипуляцией.§!\n"
+  pc_barren_cold_habitable:0 "Обитаемая холодная бесплодная планета"
+  pc_barren_cold_habitable_desc:0 "Холодная бесплодная планета, которую можно колонизировать."
+  trait_pc_barren_cold_habitable:0 "Предпочтительный тип: Холодная бесплодная Планета"
+  trait_pc_barren_cold_habitable_desc:0 "§LКлиматическое предпочтение определенное на генетическом уровне эонами эволюции или умелой манипуляцией.§!\n"
+  belt_lowg_lab:0 "Лаборатория в условиях низкой гравитации"
+  belt_lowg_lab_desc:0 "Астероиды, с их очень низкой гравитацией, являются прекрасным местом для научных лабораторий любых типов, свободные от постоянного присутствия планетарной гравитации. Несмотря на то, что такой объект не дешевый в эксплуатации, он сможет обеспечить значительный научный прирост для нашей цивилизации."
+  sol_building_life_support_system:0 "Здание жизнеобеспечения"
+  sol_building_life_support_system_desc: "Здание жизнеобеспечения."
+  belt_navel_hub:0 "Корабельный ангар"
+  belt_navel_hub_desc:0 "Нужно место для парковки вашего корабля? Вот оно."
+  belt_security_hub:0 "Частная Станция Охраны"
+  belt_security_hub_desc:0 "Частная охранная компания будет охранять вашу колонию."
+  
+  belt_maintanance_building:0 "Здание обслуживания"
+  belt_maintanance_building_desc:0 "В этом здании работают специалисты, которые будут ремонтировать системы жизнеобеспечения планеты."
+  belt_solar_panel:0 "Солнечные панели"
+  belt_solar_panel_desc: "Солнечная панель будет производить энергию и предоставит работу техникам."
+ 
+  mod_job_maintanance_add:0 "Техническое обслуживание"
+  job_maintanance:0 "Техник"
+  job_maintanance_desc:0 "£job_maintanance£ $job_maintanance$ превращает £energy£§Y$energy$§! в £engineering£ §Y$engineering_research$§! и увеличивают §YПриспособленность§! на §G3§!%"
+  job_maintanance_effect_desc:0 "£job_maintanance£ $job_maintanance$ превращает £energy£§Y$energy$§! в £engineering£ §Y$engineering_research$§! и увеличивают §YПриспособленность§! на §G3§!%"
+  job_maintanance_plural:0 "Техники"
+ 
+  mod_job_maintanance_drone_add:0 "Техническое обслуживание"
+  job_maintanance_drone:0 "Дрон-техник"
+  job_maintanance_drone_desc:0 "£job_maintanance_drone£ $job_maintanance_drone$ превращает £energy£§Y$energy$§! в £engineering£ §Y$engineering_research$§! и увеличивает §YПриспособленность§! на §G3§!%"
+  job_maintanance_drone_effect_desc:0 "£job_maintanance_drone£ $job_maintanance_drone$ превращает £energy£§Y$energy$§! into £engineering£ §Y$engineering_research$§! и увеличивает  §YПриспособленность§! на §G3§!%"
+  job_maintanance_drone_plural:0 "Дроны-техники"
+  

@@ -1,0 +1,111 @@
+﻿l_russian:
+
+### RUSSIAN LOCALIZATION
+
+########################################
+###        Missiles : normal         ###
+########################################
+
+NHSC_MISSILE_6: "Ракеты "Джокер""
+NHSC_MISSILE_6_DESC: "Мощные и маневренные ракеты."
+
+NHSC_MISSILE_7: "Призрачная Ракета"
+NHSC_MISSILE_7_DESC: "Смерть приходит без предупреждения."
+
+########################################
+###        Missiles : swarmer        ###
+########################################
+
+NHSC_SWARMER_MISSILES_3: "Ракеты "Тайфун""
+NHSC_SWARMER_MISSILES_3_DESC: "Следующее поколение ракетного роя, подавляющее вражеские системы ПКО своим числом."
+
+NHSC_SWARMER_MISSILES_4: "Ракеты "Ураган""
+NHSC_SWARMER_MISSILES_4_DESC: "Ракетный обстрел" "Макросса", ставший реальностью."
+
+########################################
+###        Missiles : torpedo        ###
+########################################
+
+NHSC_TORPEDO_4: "Опустошающая торпеда"
+NHSC_TORPEDO_4_DESC: "Новое поколение торпед, способных нанести беспрецедентно высокий урон."
+
+NHSC_TORPEDO_5: "Торпеда "Уничтожитель"
+NHSC_TORPEDO_5_DESC: "Мощнейшая из представимых традиционных торпед."
+
+NHSC_CORROSIVE_WARHEAD: "Коррозионная торпеда"
+NHSC_CORROSIVE_WARHEAD_DESC: "Ужасающее орудие, способное буквально разорвать в клочья сам пространственно-временной континуум."
+
+########################################
+###        Missiles : plasma         ###
+########################################
+
+NHSC_PLASMA_MISSILE_1: "Плазменные ракеты"
+NHSC_PLASMA_MISSILE_1_DESC: "Сгусток плазмы, ведущий цель подобно ракете."
+SMALL_NHSC_PLASMA_MISSILE_1: "Малая $NHSC_PLASMA_MISSILE_1$"
+SMALL_NHSC_PLASMA_MISSILE_1_DESC: "$NHSC_PLASMA_MISSILE_1_DESC$"
+MEDIUM_NHSC_PLASMA_MISSILE_1: "Средняя $NHSC_PLASMA_MISSILE_1$"
+MEDIUM_NHSC_PLASMA_MISSILE_1_DESC: "$NHSC_PLASMA_MISSILE_1_DESC$"
+LARGE_NHSC_PLASMA_MISSILE_1: "Большая $NHSC_PLASMA_MISSILE_1$"
+LARGE_NHSC_PLASMA_MISSILE_1_DESC: "$NHSC_PLASMA_MISSILE_1_DESC$"
+
+NHSC_PLASMA_MISSILE_2: "Улучшенные плазменные ракеты"
+NHSC_PLASMA_MISSILE_2_DESC: "Улучшенная версия плазменных ракет, делающая их более быстрыми, опасными и маневренными."
+SMALL_NHSC_PLASMA_MISSILE_2: "Малая $NHSC_PLASMA_MISSILE_2$"
+SMALL_NHSC_PLASMA_MISSILE_2_DESC: "$NHSC_PLASMA_MISSILE_2_DESC$"
+MEDIUM_NHSC_PLASMA_MISSILE_2: "Средняя $NHSC_PLASMA_MISSILE_2$"
+MEDIUM_NHSC_PLASMA_MISSILE_2_DESC: "$NHSC_PLASMA_MISSILE_2_DESC$"
+LARGE_NHSC_PLASMA_MISSILE_2: "Большая $NHSC_PLASMA_MISSILE_2$"
+LARGE_NHSC_PLASMA_MISSILE_2_DESC: "$NHSC_PLASMA_MISSILE_2_DESC$"
+
+NHSC_PLASMA_MISSILE_3: "Зажигательная ракета"
+NHSC_PLASMA_MISSILE_3_DESC: "Обращает врагов в пепел."
+SMALL_NHSC_PLASMA_MISSILE_3: "Малая $NHSC_PLASMA_MISSILE_3$"
+SMALL_NHSC_PLASMA_MISSILE_3_DESC: "$NHSC_PLASMA_MISSILE_3_DESC$"
+MEDIUM_NHSC_PLASMA_MISSILE_3: "Средняя $NHSC_PLASMA_MISSILE_3$"
+MEDIUM_NHSC_PLASMA_MISSILE_3_DESC: "$NHSC_PLASMA_MISSILE_3_DESC$"
+LARGE_NHSC_PLASMA_MISSILE_3: "Большая $NHSC_PLASMA_MISSILE_3$"
+LARGE_NHSC_PLASMA_MISSILE_3_DESC: "$NHSC_PLASMA_MISSILE_3_DESC$"
+
+########################################
+###        Missiles : x-slot         ###
+########################################
+
+NHSC_XMISSILE_1: "Боеголовка с экзотической материей"
+NHSC_XMISSILE_1_DESC: "Особая боеголовка, способная доставить взрывчатую смесь экзотических частиц до поражаемой цели."
+
+NHSC_XMISSILE_2: "Боеголовка со странной материей"
+NHSC_XMISSILE_2_DESC: "Улучшенная версия боеголовки с экзотической материей, несущая в себе ещё более разрушительную боевую часть."
+
+NHSC_XMISSILE_3: "Пусковая установка отражающих боеголовок"
+NHSC_XMISSILE_3_DESC: "Ещё более мощные увеличенные ракеты, способные поражать даже самые стойкие цели."
+
+NHSC_XMISSILE_3_TITANIC: "$NHSC_XMISSILE_3$"
+NHSC_XMISSILE_3_TITANIC_DESC: "$NHSC_XMISSILE_3_DESC$"
+NHSC_XMISSILE_3_JUGGERNAUT: "$NHSC_XMISSILE_3$ ($juggernaut$)"
+NHSC_XMISSILE_3_JUGGERNAUT_DESC: "$NHSC_XMISSILE_3_DESC$"
+
+########################################
+###    Overwrites Swarm Missiles     ###
+########################################
+
+NHSC_SCOURGE_MISSILE_1: "$nhsc_tech_scourge_missile_1$"
+NHSC_SCOURGE_MISSILE_1_DESC: "Начинка ракет-плетей состоит из многих биохимических соединений, используемых Роем в межзвездных боях, что неожиданно оказалось эффективным против даже самых крепких военных кораблей."
+LARGE_NHSC_SCOURGE_MISSILE_1: "$nhsc_tech_scourge_missile_1$"
+LARGE_NHSC_SCOURGE_MISSILE_1_DESC: "$NHSC_SCOURGE_MISSILE_1_DESC$"
+
+NHSC_SPACEPORT_SCOURGE_MISSILE: "Ракеты-плети космопорта"
+NHSC_SPACEPORT_SCOURGE_MISSILE_DESC: "$NHSC_SCOURGE_MISSILE_1_DESC$"
+SMALL_NHSC_SPACEPORT_SCOURGE_MISSILE: "Малые $NHSC_SPACEPORT_SCOURGE_MISSILE$"
+SMALL_NHSC_SPACEPORT_SCOURGE_MISSILE_DESC: "$NHSC_SCOURGE_MISSILE_1_DESC$"
+MEDIUM_NHSC_SPACEPORT_SCOURGE_MISSILE: "Средние $NHSC_SPACEPORT_SCOURGE_MISSILE$"
+MEDIUM_NHSC_SPACEPORT_SCOURGE_MISSILE_DESC: "$NHSC_SCOURGE_MISSILE_1_DESC$"
+LARGE_NHSC_SPACEPORT_SCOURGE_MISSILE: "Большие $NHSC_SPACEPORT_SCOURGE_MISSILE$"
+LARGE_NHSC_SPACEPORT_SCOURGE_MISSILE_DESC: "$NHSC_SCOURGE_MISSILE_1_DESC$"
+
+NHSC_SCOURGE_PROJECTILE_WEAPON: "Кислотный взрыв плетей"
+NHSC_SCOURGE_PROJECTILE_WEAPON_DESC: "Заключенные в баллистические капсулы, высококоррозионные органические вещества, использованные при орбитальной бомбардировке Роя, могут быть использованы в качестве корабельных боеприпасов."
+MEDIUM_NHSC_SCOURGE_PROJECTILE_WEAPON: "$NHSC_SCOURGE_PROJECTILE_WEAPON$"
+MEDIUM_NHSC_SCOURGE_PROJECTILE_WEAPON_DESC: "$NHSC_SCOURGE_PROJECTILE_WEAPON_DESC$"
+SMALL_NHSC_SCOURGE_PROJECTILE_WEAPON: "$NHSC_SCOURGE_PROJECTILE_WEAPON$"
+SMALL_NHSC_SCOURGE_PROJECTILE_WEAPON_DESC: "$NHSC_SCOURGE_PROJECTILE_WEAPON_DESC$"
+

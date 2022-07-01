@@ -1,0 +1,249 @@
+﻿l_russian:
+  #Amenities Jobs:
+  
+  mod_job_do_gardener_add:0 "$job_gardener$"
+  job_do_gardener:0 "Садовник"
+  job_gardener:0 "Садовник"
+  job_do_gardener_desc:0 "Растения прекрасны, не так ли?"
+  job_do_gardener_effect_desc:0 "£job_gardener£ $job_gardener_plural$ производят £food£ §Y$food$§!, £unity£ §Y$unity$§! и £amenities£ §Y$amenities$§!"
+  job_do_gardener_plural:0 "Садовники"
+  job_gardener_plural:0 "Садовники"
+  
+  mod_job_do_archaeologist_add:0 "$do_archaeologist$"
+  job_do_archaeologist:0 "Археолог"
+  do_archaeologist:0 "Археолог"
+  job_do_archaeologist_desc:0 ""
+  job_do_archaeologist_effect_desc:0 "£do_archaeologist£ $do_archaeologist_plural$ извлекают £minor_artifacts£ §Y$minor_artifacts$§! за £consumer_goods£ §Y$consumer_goods$§!"
+  job_do_archaeologist_plural:0 "Археологи"
+  do_archaeologist_plural:0 "Археологи"
+  
+  mod_job_do_archaeologist_drone_add:0 "$do_archaeologist_drone$"
+  job_do_archaeologist_drone:0 "Археологический дрон"
+  do_archaeologist_drone:0 "Археологический дрон"
+  job_do_archaeologist_drone_desc:0 ""
+  job_do_archaeologist_drone_effect_desc:0 "£do_archaeologist_drone£ $do_archaeologist_drone_plural$ извлекают £minor_artifacts£ §Y$minor_artifacts$§! за £minerals£ §Y$minerals$§!"
+  job_do_archaeologist_drone_plural:0 "Археологические дроны"
+  do_archaeologist_drone_plural:0 "Археологические дроны"
+  
+  #Energy Jobs:
+  
+  mod_job_wind_turbine_technician_add:0 "$job_wind_turbine_technician$"
+  job_wind_turbine_technician:0 "Техник ветряных турбин"
+  job_wind_turbine_technician_desc:0 "£job_wind_turbine_technician£ $job_wind_turbine_technician_plural$ производят £energy£ §Y$energy$§!"
+  job_wind_turbine_technician_effect_desc:0 "£job_wind_turbine_technician£ $job_wind_turbine_technician_plural$ производят £energy£ §Y$energy$§!"
+  job_wind_turbine_technician_plural:0 "Техники ветряных турбин"
+  
+  mod_job_geothermal_technician_add:0 "$job_geothermal_technician$"
+  job_geothermal_technician:0 "Техник геотермальной электростанции"
+  job_geothermal_technician_desc:0 "£job_geothermal_technician£ $job_geothermal_technician_plural$ производят £energy£ §Y$energy$§! и £minerals£ §Y$minerals$§!"
+  job_geothermal_technician_effect_desc:0 "£job_geothermal_technician£ $job_geothermal_technician_plural$ производят £energy£ §Y$energy$§! и £minerals£ §Y$minerals$§!"
+  job_geothermal_technician_plural:0 "Техники геотермальной электростанции"
+  
+  mod_job_solar_technician_add:0 "$job_solar_technician$"
+  job_solar_technician:0 "Техник солнечной электростанции"
+  job_solar_technician_desc:0 "£job_solar_technician£ $job_solar_technician_plural$ производят £energy£ §Y$energy$§!"
+  job_solar_technician_effect_desc:0 "£job_solar_technician£ $job_solar_technician_plural$ производят £energy£ §Y$energy$§!"
+  job_solar_technician_plural:0 "Техники солнечной электростанции"
+  
+  mod_job_tidal_technician_add:0 "$job_tidal_technician$"
+  job_tidal_technician:0 "Техник приливной электростанции"
+  job_tidal_technician_desc:0 "£job_tidal_technician£ $job_tidal_technician_plural$ производят £energy£ §Y$energy$§!"
+  job_tidal_technician_effect_desc:0 "£job_tidal_technician£ $job_tidal_technician_plural$ производят £energy£ §Y$energy$§!"
+  job_tidal_technician_plural:0 "Техник приливной электростанции"
+  
+  mod_job_wind_turbine_drone_add:0 "$job_wind_turbine_technician$"
+  job_wind_turbine_drone:0 "Дрон ветряных турбин"
+  job_wind_turbine_drone_desc:0 "£job_wind_turbine_technician£ $job_wind_turbine_technician_plural$ производят £energy£ §Y$energy$§!"
+  job_wind_turbine_drone_effect_desc:0 "£job_wind_turbine_technician£ $job_wind_turbine_technician_plural$ производят £energy£ §Y$energy$§!"
+  job_wind_turbine_drone_plural:0 "Дроны ветряных турбин"
+  
+  mod_job_geothermal_drone_add:0 "$job_geothermal_technician$"
+  job_geothermal_drone:0 "Дрон геотермальной электростанции"
+  job_geothermal_drone_desc:0 "£job_geothermal_technician£ $job_geothermal_technician_plural$ производят £energy£ §Y$energy$§! и £minerals£ §Y$minerals$§!"
+  job_geothermal_drone_effect_desc:0 "£job_geothermal_technician£ $job_geothermal_technician_plural$ производят £energy£ §Y$energy$§! и £minerals£ §Y$minerals$§!"
+  job_geothermal_drone_plural:0 "Дроны геотермальной электростанции"
+  
+  mod_job_solar_drone_add:0 "$job_solar_drone$"
+  job_solar_drone:0 "Дрон солнечной электростанции"
+  job_solar_drone_desc:0 "£job_solar_technician£ $job_solar_drone_plural$ производят £energy£ §Y$energy$§!"
+  job_solar_drone_effect_desc:0 "£job_solar_drone£ $job_solar_drone_plural$ производят £energy£ §Y$energy$§!"
+  job_solar_drone_plural:0 "Дроны солнечной электростанции"
+  
+  mod_job_tidal_technician_drone_add:0 "$job_tidal_technician_drone$"
+  job_tidal_technician_drone:0 "Дрон приливной электростанции"
+  job_tidal_technician_drone_desc:0 "£job_tidal_technician_technician£ $job_tidal_technician_drone_plural$ производят £energy£ §Y$energy$§!"
+  job_tidal_technician_drone_effect_desc:0 "£job_tidal_technician_drone£ $job_tidal_technician_drone_plural$ производят £energy£ §Y$energy$§!"
+  job_tidal_technician_drone_plural:0 "Дроны приливной электростанции"
+  
+  #Farming Jobs:
+  
+  mod_job_farm_worker_add:0 "$job_farm_worker$"
+  job_farm_worker:0 "Фермер"
+  job_farm_worker_desc:0 "Работники фермы делают тяжелую работу для эффективного производства пищи."
+  job_farm_worker_effect_desc:0 "£job_farm_worker£ $job_farm_worker_plural$ производят £food£ §Y$food$§!"
+  job_farm_worker_plural:0 "Фермеры"
+  
+  mod_job_nature_farmer_add:0 "$job_nature_farmer$"
+  job_nature_farmer:0 "Природный фермер"
+  job_nature_farmer_desc:0 "Пища может быть легко собрана в дикой природе и она полезна для здоровья."
+  job_nature_farmer_effect_desc:0 "£job_nature_farmer£ $job_nature_farmer_plural$ производят £food£ §Y$food$§! и £unity£ §Y$unity$§!"
+  job_nature_farmer_plural:0 "Природные фермеры"
+  
+  mod_job_aquatic_farmer_add:0 "$job_aquatic_farmer$"
+  job_aquatic_farmer:0 "Аквафермер"
+  job_aquatic_farmer_desc:0 "Вся подводная экосистема в вашем распоряжении."
+  job_aquatic_farmer_effect_desc:0 "£job_aquatic_farmer£ $job_aquatic_farmer_plural$ производят £food£ §Y$food$§!"
+  job_aquatic_farmer_plural:0 "Аквафермеры"
+  
+  mod_job_agri_drone_technician_add:0 "$job_agri_drone_technician$"
+  job_agri_drone_technician:0 "Дрон-фермер"
+  job_agri_drone_technician_desc:0 "Дрон-фермер поддерживает системы капельного орошения для повышения эффективности."
+  job_agri_drone_technician_effect_desc:0 "£job_agri_drone_technician£ $job_agri_drone_technician_plural$ производят £food£ §Y$food$§!"
+  job_agri_drone_technician_plural:0 "Дрон-фермеры"
+  
+  mod_job_aquatic_agri_drone_add:0 "$job_automatic_agri_drone$"
+  job_aquatic_agri_drone:0 "Дрон-аквафермер"
+  job_aquatic_agri_drone_desc:0 "Природные подводные фермы"
+  job_aquatic_agri_drone_effect_desc:0 "£job_aquatic_agri_drone£ $job_aquatic_agri_drone_plural$ производят £food£ §Y$food$§!"
+  job_aquatic_agri_drone_plural:0 "Дрон-аквафермеры"
+  
+  mod_job_ecosystem_researcher_add:0 "$job_ecosystem_researcher$"
+  job_ecosystem_researcher:0 "Исследователь экосистем"
+  job_ecosystem_researcher_desc:0 "Исследователи экосистемы собирают образцы грибов для науки и потребления."
+  job_ecosystem_researcher_effect_dec:0 "$job_ecosystem_researcher$ $job_ecosystem_researcher_plural$ производят £food£ §Y$food$§!, £society_research£ §Y$society_research$§!, £physics_research£ §Y$physics_research$§! и увеличивают производство продуктов питания на 20%"
+  job_ecosystem_researcher_plural:0 "Исследователи экосистем"
+  
+  mod_job_biolumen_researcher_add:0 "$job_biolumen_researcher$"
+  job_biolumen_researcher:0 "Исследователь биолюминесценции"
+  job_biolumen_researcher_desc:0 "Исследователи биолюминесценции собирают образцы биолюминесцентных грибов для науки и потребления."
+  job_biolumen_researcher_effect_dec:0 "$biolumen_researcher$ $biolumen_researcher_plural$ производят £food£ §Y$food$§!, £physics_research£ §Y$physics_research$§! и увеличивают производство продуктов питания на 20%"
+  job_biolumen_researcher_plural:0 "Исследователи биолюминесценции"
+  
+  mod_job_technoorganic_researcher_add:0 "$job_technoorganic_researcher$"
+  job_technoorganic_researcher:0 "Техноорганический исследователь"
+  job_technoorganic_researcher_desc:0 "Техноорганические исследователи собирают образцы грибов для науки и потребления."
+  job_technoorganic_researcher_effect_dec:0 "$job_technoorganic_researcher$ $job_technoorganic_researcher_plural$ производят £food£ §Y$food$§!, £engineering_research£ §Y$engineering_research$§! и увеличивают производство продуктов питания на 20%"
+  job_technoorganic_researcher_plural:0 "Техноорганические исследователь"
+  
+  #Military Jobs:
+  
+  mod_job_pilot_add:0 "$job_pilot$"
+  job_pilot:0 "Пилот"
+  job_pilot_desc:0 "£job_pilot£ $job_pilot_plural$ могут летать на космических кораблях, так что ваша §Yвместительность флота§! увеличивается."
+  job_pilot_effect_desc:0 "£job_pilot£ $job_pilot_plural$ могут летать на космических кораблях, так что ваша §Yвместительность флота§! увеличивается."
+  job_pilot_plural:0 "Пилоты"
+  
+  mod_job_officer_add:0 "$job_officer$"
+  job_officer:0 "Офицер-инструктор"
+  job_officer_desc:0 "Офицеры-инструкоры будут обучать ваших жителей военной тактике и рекрутировать в планетарные войска."
+  job_officer_effect_desc:0 "Офицеры-инструкоры будут обучать ваших жителей военной тактике и рекрутировать в планетарные войска."
+  job_officer_plural:0 "Офицеры-инструкоры"
+  
+  mod_job_pilot_drone_add:0 "$job_pilot_drone$"
+  job_pilot_drone:0 "Дрон-пилот"
+  job_pilot_drone_desc:0 "£job_pilot_drone£ $job_pilot_drone_plural$ могут летать на космических кораблях, так что ваша §Yвместительность флота§! увеличивается."
+  job_pilot_drone_effect_desc:0 "£job_pilot_drone£ $job_pilot_drone_plural$ могут летать на космических кораблях, так что ваша §Yвместительность флота§! увеличивается."
+  job_pilot_drone_plural:0 "Дроны-пилоты"
+  
+  mob_job_officer_drone_add:0 "$job_officer_drone$"
+  job_officer_drone:0 "Дрон-офицер-инструктор"
+  job_officer_drone_desc:0 "Дроны-офицеры-инструкторы будут обучать ваших жителей военной тактике и рекрутировать в планетарные войска."
+  job_officer_drone_effect_desc:0 "Дроны-офицеры-инструкторы будут обучать ваших жителей военной тактике и рекрутировать в планетарные войска."
+  job_officer_drone_plural:0 "Дроны-офицеры-инструкторы"
+  
+  #Mining Jobs:
+  
+  mod_job_asteroid_miner_add:0 "$asteroid_miner$"
+  job_asteroid_miner:0 "Шахтёр на поясе астероидов"
+  job_asteroid_miner_desc:0 "Отправляйтесь в космос, отправляйтесь на астероиды и выполняйте тяжелую работу."
+  job_asteroid_miner_effect_desc:0 "£asteroid_miner£ $asteroid_miner_plural$ производят £minerals£ §Y$minerals$§! за £energy£ §Y$energy$§!"
+  job_asteroid_miner_plural:0 "Шахтёры на поясе астероидов"
+  
+  mod_job_asteroid_mining_drone_add:0 "$asteroid_mining_drone$"
+  job_asteroid_mining_drone:0 "Дрон-шахтёр на поясе астероидов"
+  job_asteroid_mining_drone_desc:0 "Отправляйтесь в космос, отправляйтесь на астероиды и выполняйте тяжелую работу."
+  job_asteroid_mining_drone_effect_desc:0 "£asteroid_mining_drone£ $asteroid_mining_drone_plural$ производят £minerals£ §Y$minerals$§! за £energy£ §Y$energy$§!"
+  job_asteroid_mining_drone_plural:0 "Дроны-шахтёры на поясе астероидов"
+  
+  #Regular Jobs:
+  
+  mod_job_clone_scientist_add:0 "$job_clone_scientist$"
+  job_clone_scientist:0 "Клон-учёный"
+  job_clone_scientist_desc:0 "Клонирование может стать мощным механизмом, если у вас есть экономика, чтобы поддерживать всех этих людей."
+  job_clone_scientist_effect_desc:0 "£job_clone_scientist£ $job_clone_scientist_plural$ увеличивают скорость роста поселений и производят £society£ §Y$society_research$§!"
+  job_clone_scientist_plural:0 "Клон-учёный"
+  
+  mod_job_do_logistic_worker_add:0 "$job_do_logistic_worker$"
+  job_do_logistic_worker:0 "Логистик"
+  job_do_logistic_worker_desc:0 "Работники логистики несут ответственность за транспортировку сырьевых ресурсов вашей планеты."
+  job_do_logistic_worker_effect_desc:0 "£job_do_logistic_worker£ $job_do_logistic_worker_plural$ увеличивают торговую стоимость и производительность труда на 10%."
+  job_do_logistic_worker_plural:0 "Логистики"
+  
+  #Researcher Jobs:
+  
+  mod_job_do_park_ranger_add:0 "$job_do_park_ranger$"
+  job_do_park_ranger:0 "Рейнджер"
+  job_do_park_ranger_desc:0 "£job_do_park_ranger£ $job_do_park_ranger_plural$ заботятся о заповедниках и производят £society£ §Y$society_research$§! и £unity£ §Y$unity$§!"
+  job_do_park_ranger_effect_desc:0 "£job_do_park_ranger£ $job_do_park_ranger_plural$ заботятся о заповедниках и производят £society£ §Y$society_research$§! и £unity£ §Y$unity$§!"
+  job_do_park_ranger_plural:0 "Рейнджеры"
+  
+  mod_job_do_engineer_add:0 "$job_do_engineer$"
+  job_do_engineer:0 "Инженер"
+  job_do_engineer_desc:0 "£job_do_engineer£ $job_do_engineer_plural$ создают прототипы и производят £engineering£ §Y$engineering_research$§! и £consumer_goods£ §Y$consumer_goods$§!"
+  job_do_engineer_effect_desc:0 "£job_do_engineer£ $job_do_engineer_plural$ создают прототипы и производят £engineering£ §Y$engineering_research$§! и £consumer_goods£ §Y$consumer_goods$§!"
+  job_do_engineer_plural:0 "Инженеры"
+  
+  mod_job_do_physicist_add:0 "$job_do_physicist$"
+  job_do_physicist:0 "Физик"
+  job_do_physicist_desc:0 "£job_do_physicist£ $job_do_physicist_plural$ придумывают невероятные теории и производят £physics£ §Y$physics_research$§!"
+  job_do_physicist_effect_desc:0 "£job_do_physicist£ $job_do_physicist_plural$ придумывают невероятные теории и производят £physics£ §Y$physics_research$§!"
+  job_do_physicist_plural:0 "Физики"
+  
+  mod_job_do_teacher_add:0 "$job_do_teacher$"
+  job_do_teacher:0 "Преподаватель"
+  job_do_teacher_desc:0 "Преподаватели учат ваших специалистов совершенствовать свою работу."
+  job_do_teacher_effect_desc:0 "£job_do_teacher£ $job_do_teacher_plural$ упорно трудятся, чтобы увеличить £planet_jobs_specialist_produces_mult£ §Y$planet_jobs_specialist_produces_mult$§!"
+  job_do_teacher_plural:0 "Преподаватели"
+
+  mod_job_nature_research_add:0 "$job_nature_research$"
+  job_nature_research:0 "Исследователь природы"
+  job_nature_research_desc:0 "£job_nature_research£ $job_nature_research_plural$ заботятся о заповедниках и производят £society£ §Y$society_research$§!"
+  job_nature_research_effect_desc:0 "£job_nature_research_drone£ $job_nature_research_plural$ заботятся о заповедниках и производят £society£ §Y$society_research$§!"
+  job_nature_research_plural:0 "Исследователи природы"
+  
+  mod_job_nature_research_drone_add:0 "$job_nature_research_drone$"
+  job_nature_research_drone:0 "Дрон-исследователь природы"
+  job_nature_research_drone_desc:0 "£job_nature_research_drone£ $job_nature_research_drone_plural$ заботятся о заповедниках и производят £society£ §Y$society_research$§!"
+  job_nature_research_drone_effect_desc:0 "£job_nature_research_drone£ $job_nature_research_drone_plural$ заботятся о заповедниках и производят £society£ §Y$society_research$§!"
+  job_nature_research_drone_plural:0 "Дроны-исследователи природы"
+  
+  mod_job_nature_development_drone_add:0 "$job_nature_development_drone$"
+  job_nature_development_drone:0 "Дрон-разработчик природы"
+  job_nature_development_drone_desc:0 "£job_nature_development_drone£ $job_nature_development_drone_plural$ заботятся о заповедниках и взаимодействуют с растительной жизнью, чтобы произвести £society£ §Y$society_research$§ и £food£ §Y$food$§!"
+  job_nature_development_drone_effect_desc:0 "£job_nature_development_drone£ $job_nature_development_drone_plural$ заботятся о заповедниках и взаимодействуют с растительной жизнью, чтобы произвести £society£ §Y$society_research$§ и £food£ §Y$food$§!"
+  job_nature_development_drone_plural:0 "Дроны-разработчики природы"
+  
+  mod_job_engineering_drone_add:0 "$job_engineering_drone$"
+  job_engineering_drone:0 "Дрон-инженер"
+  job_engineering_drone_desc:0 "£job_engineering_drone£ $job_engineering_drone_plural$ создают прототипы и производят £engineering£ §Y$engineering_research$§!"
+  job_engineering_drone_effect_desc:0 "£job_engineering_drone£ $job_engineering_drone_plural$ создают прототипы и производят £engineering£ §Y$engineering_research$§!"
+  job_engineering_drone_plural:0 "Дроны-инженеры"
+  
+  mod_job_crafting_drone_add:0 "$job_crafting_drone$"
+  job_crafting_drone:0 "Дрон-инженер"
+  job_crafting_drone_desc:0 "£job_crafting_drone£ $job_crafting_drone_plural$ создают прототипы и производят £engineering£ §Y$engineering_research$§!"
+  job_crafting_drone_effect_desc:0 "£job_crafting_drone£ $job_crafting_drone_plural$ создают прототипы и производят £engineering£ §Y$engineering_research$§!"
+  job_crafting_drone_plural:0 "Дроны-инженеры"
+  
+  mod_job_physics_drone_add:0 "$job_physics_drone$"
+  job_physics_drone:0 "Дрон-физик"
+  job_physics_drone_desc:0 "£job_physics_drone£ $job_physics_drone_plural$ придумывают невероятные теории и производят £physics£ §Y$physics_research$§!"
+  job_physics_drone_effect_desc:0 "£job_physics_drone£ $job_physics_drone_plural$ придумывают невероятные теории и производят £physics£ §Y$physics_research$§!"
+  job_physics_drone_plural:0 "Дроны-физики"
+  
+  mod_job_experimental_drone_add:0 "$job_experimental_drone$"
+  job_experimental_drone:0 "Дрон-экспериментатор"
+  job_experimental_drone_desc:0 "£job_experimental_drone£ $job_experimental_drone_plural$ экспериментируют и производят £physics£ §Y$physics_research$§!"
+  job_experimental_drone_effect_desc:0 "£job_experimental_drone£ $job_experimental_drone_plural$ экспериментируют и производят £physics£ §Y$physics_research$§!"
+  job_experimental_drone_plural:0 "Дроны-экспериментаторы"
+  

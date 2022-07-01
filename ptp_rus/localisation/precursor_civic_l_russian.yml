@@ -1,0 +1,20 @@
+﻿l_russian:
+  edict_select_precursor:0 "Выбор предтеч"
+  edict_select_precursor_desc:0 "Выберите, какие предтечи были в вашем мире."
+
+  precursor_selection.0.name:0 "Выбор предтеч"
+  precursor_selection.0.desc:0 "Выберите, какие предтечи были в вашем мире."
+  precursor_selection.0.a:0 "Вультаум"
+  precursor_selection.0.b:0 "Юуты"
+  precursor_selection.0.c:0 "Первая лига"
+  precursor_selection.0.d:0 "Ирассианцы"
+  precursor_selection.0.e:0 "Сайбрекс"
+  precursor_selection.0.f:0 "Баол"
+  precursor_selection.0.g:0 "Зрони"
+  precursor_selection.0.h:0 "Отмена"
+  precursor_selection.0.i:0 "Активировать ВСЕХ предтеч"
+  precursor_selection.0.j:0 "Отключить предтеч"
+
+  precursor_selection.10.name:0 "Зрони появились"
+  precursor_selection.10.desc:0 "Раскопки Зрони появились в системе [zronispawnplanet.GetName]"
+  precursor_selection.10.a:0 "Ок"

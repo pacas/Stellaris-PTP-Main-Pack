@@ -1,0 +1,67 @@
+﻿l_russian:
+
+### RUSSIAN LOCALIZATION
+
+########################################
+###   Enigmatic Energy Discharger    ###
+########################################
+
+NHSC_ENIGMATIC_CANNON: "Загадочный излучатель энергии"
+NHSC_ENIGMATIC_CANNON_DESC: "Мощное орудие, использующее загадочную технологию."
+
+########################################
+###      Enigmatic Energy Lash       ###
+########################################
+
+NHSC_ENIGMATIC_LASH: "Загадочная энергетическая плеть"
+NHSC_ENIGMATIC_LASH_DESC: "Излучатель энергетических разрядов, созданный с использованием загадочной технологии."
+
+########################################
+###   Enigmatic Energy Autocannon    ###
+########################################
+
+NHSC_ENIGMATIC_AUTOCANNON: "Загадочная энергетическая автопушка"
+NHSC_ENIGMATIC_AUTOCANNON_DESC: "Скорострельное энергетическое орудие, созданное с использованием загадочной технологии."
+
+########################################
+###      Enigmatic Energy Lance      ###
+########################################
+
+NHSC_ENIGMATIC_LANCE: "Загадочное энергетическое копьё"
+NHSC_ENIGMATIC_LANCE_DESC: "Корпускулярное копьё, разработанное с применением загадочной технологии."
+NHSC_ENIGMATIC_LANCE_TITANIC: "$NHSC_ENIGMATIC_LANCE$"
+NHSC_ENIGMATIC_LANCE_TITANIC_DESC: "$NHSC_ENIGMATIC_LANCE_DESC$"
+NHSC_ENIGMATIC_LANCE_JUGGERNAUT: "$NHSC_ENIGMATIC_LANCE$ ($juggernaut$)"
+NHSC_ENIGMATIC_LANCE_JUGGERNAUT_DESC: "$NHSC_ENIGMATIC_LANCE_DESC$"
+
+########################################
+###      Extradimensional Spike      ###
+########################################
+
+NHSC_EXTRADIMENSIONAL_PD: "Экстрамерный шип"
+NHSC_EXTRADIMENSIONAL_PD_DESC: "Орудие, использующее те же принципы, что и Межпространственный ужас. Атакует противника сквозь портал."
+
+########################################
+###        Tiyanki Beam Cannon       ###
+########################################
+
+NHSC_TIYANKI_CANNON: "Лучевая пушка тиянки"
+NHSC_TIYANKI_CANNON_DESC: "Энергетическое копье, разработанное на основе биологического оружия, которое использует Матриарх Тиянки."
+NHSC_TIYANKI_CANNON_TITANIC: "$NHSC_TIYANKI_CANNON$"
+NHSC_TIYANKI_CANNON_TITANIC_DESC: "$NHSC_TIYANKI_CANNON_DESC$"
+NHSC_TIYANKI_CANNON_JUGGERNAUT: "$NHSC_TIYANKI_CANNON$ ($juggernaut$)"
+NHSC_TIYANKI_CANNON_JUGGERNAUT_DESC: "$NHSC_TIYANKI_CANNON_DESC$"
+
+########################################
+###        Junk Mines Launcher       ###
+########################################
+
+NHSC_JUNK_MINE_LAUNCHER: "Пусковая установка добывающих дронов"
+NHSC_JUNK_MINE_LAUNCHER_DESC: "Оружие, основанное на вооружении добывающих дронов. В качестве снарядов используются простые и дешевые мины, созданные из металлолома и хлама."
+
+########################################
+###        Voidspawn Missile         ###
+########################################
+
+NHSC_VOIDSPAWN_MISSILE: "Ракета порождения пустоты"
+NHSC_VOIDSPAWN_MISSILE_DESC: "Полуорганический снаряд, основанный на принципе плевка детеныша Порождения пустоты.

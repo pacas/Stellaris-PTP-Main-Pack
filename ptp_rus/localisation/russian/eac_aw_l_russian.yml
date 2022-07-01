@@ -1,0 +1,41 @@
+﻿l_russian:
+
+###################
+# Decisions
+###################
+ decision_eac_scattergun_prioity_on:0 "Таргетирование транспортных кораблей включено."
+ decision_eac_scattergun_prioity_on_desc:0 "Устанавливает приоритет для катушечной зенитки на таргетинг транспортных кораблей, когда они находятся на орбите."
+ decision_eac_scattergun_prioity_off:0 "Таргетирование транспортных кораблей выключено."
+ decision_eac_scattergun_prioity_off_desc:0 "Возвращает катушечную зенитку в обычный режим стрельбы (без предпочтений по типу флота)."
+
+ planet_eac_scattergun_transport_targeting:0 "Таргетирование транспортных кораблей включено."
+ planet_eac_scattergun_transport_targeting_tooltip:0 "Батарея сначала будет выцеливать транспортные корабли."
+ planet_eac_scattergun_transport_targeting_desc:0 "Катушечная и рельсовая зенитка настроены так, чтобы определять приоритеты нацеливания на транспортные суда, когда они находятся на орбите."
+ 
+ ###################
+ # Messages
+ ###################
+ EAC_MESSAGE_SHIP_UNDER_FIRE_PLANETARY_CANNON:0 "Флот под планетарной атакой"
+ EAC_MESSAGE_SHIP_UNDER_FIRE_PLANETARY_CANNON_DESC:0 "Корабль $SHIP|H$§! §Win fleet§! $FLEET|H$§! находится под огнем планетарного орудия на $PLANET|H$§!."
+
+ EAC_MESSAGE_SHIP_DESTROYED_PLANETARY_CANNON:0 "Корабль уничтожен планетарным орудием"
+ EAC_MESSAGE_SHIP_DESTROYED_PLANETARY_CANNON_DESC:0 "Корабль $SHIP|H$§! §Win fleet§! $FLEET|H$§! уничтожен планетарным орудием на $PLANET|H$§!."
+ 
+ EAC_MESSAGE_PLANETARY_CANNON_OPERATIONAL:0 "Планетарное орудие функционирует"
+ EAC_MESSAGE_PLANETARY_CANNON_OPERATIONAL_DESC:0 "Планетарное орудие на $PLANET|H$§! снова работает. Флот $FLEET|H$§! уязвим."
+ 
+ job_eac_military_technician_energy:0 "Техник энергоорудия"
+ job_eac_military_technician_energy_plural:0 "Техники энергоорудия"
+ job_eac_military_technician_energy_desc:0 "Планетарные пушки требуют квалифицированной рабочей силы для управления оборудованием и контроля операций."
+ job_eac_military_technician_energy_effect_desc:0 "£job_eac_military_technician_energy£ $job_eac_military_technician_energy_plural$ производят £physics£ §Y$physics_research$§!"
+ mod_job_eac_military_technician_energy_add:0 "Деятельность: $job_eac_military_technician_energy$"
+ mod_job_eac_military_technician_energy_per_pop:0 "§G+1§! $job_eac_military_technician_energy$ как вид деятельности для $VALUE$ поселений"
+ mod_job_eac_military_technician_energy_per_pop_short:0 "\n§G+1§! £mod_job_eac_military_technician_energy_add£ за $VALUE$ £pop£"
+
+ job_eac_military_technician_kinetic:0 "Техник кинетического орудия"
+ job_eac_military_technician_kinetic_plural:0 "Техники кинетического орудия"
+ job_eac_military_technician_kinetic_desc:0 "Планетарные пушки требуют квалифицированной рабочей силы для управления оборудованием и контроля операций."
+ job_eac_military_technician_kinetic_effect_desc:0 "£job_eac_military_technician_kinetic£ $job_eac_military_technician_kinetic_plural$ производят £engineering£ §Y$engineering_research$§!"
+ mod_job_eac_military_technician_kinetic_add:0 "Деятельность: $job_eac_military_technician_kinetic$ Jobs"
+ mod_job_eac_military_technician_kinetic_per_pop:0 "§G+1§! $job_eac_military_technician_kinetic$ как вид деятельности для $VALUE$ поселений"
+ mod_job_eac_military_technician_kinetic_per_pop_short:0 "\n§G+1§! £mod_job_eac_military_technician_kinetic_add£ за $VALUE$ £pop£"

@@ -1,0 +1,22 @@
+﻿l_russian:
+
+####################################
+# Species Classes
+####################################
+
+EANG:0 "Ангел"
+EANG_desc:1 "Вид не влияет на вашу Империю, но ангельские виды могут считать других ангелов менее чуждыми, чем другие виды."
+EANG_plural:0 "Ангелы"
+EANG_insult_01:0 "зверь"
+EANG_insult_plural_01:0 "звери"
+EANG_compliment_01:0 "ангел"
+EANG_compliment_plural_01:0 "ангелы"
+EANG_spawn:0 "девушка"
+EANG_spawn_plural:0 "девушки"
+EANG_sound_01:0 "рычать"
+EANG_sound_02:0 "ворчание"
+EANG_sound_03:0 "болтать"
+EANG_sound_04:0 "выть"
+EANG_sound_05:0 "ныть"
+EANG_organ:0 "желудок"
+EANG_mouth:0 "рот"

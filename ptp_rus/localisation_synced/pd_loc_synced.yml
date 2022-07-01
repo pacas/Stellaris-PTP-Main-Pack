@@ -1,0 +1,13 @@
+﻿l_russian:
+ buildable_robot_pop_2_gardeners: "Садовники"
+ buildable_robot_pop_2_gardeners_desc: "Дроиды-слуги давно умершей расы."
+ NAME_Mushroom: "Грибы"
+ NAME_Mushroom_Monsters:0 "Космические существа"
+ d_eludium_deposit:0 "Элюдий"
+ d_crystal_deposit:0 "Кристаллы"
+ d_tiyankifossils_deposit:0 "Ископаемые"
+ engineered_environment:0 "Терраформировано"
+ engineered_environment_desc:0 "Эта планета была терраформирована."
+ NAME_Defense_Flotilla: "Автоматический флот защиты"
+ NAME_Robo_Army: "Автоматические устройства защитны"
+ NAME_Defense_Initiative: "Автоматическая система защиты"                                            

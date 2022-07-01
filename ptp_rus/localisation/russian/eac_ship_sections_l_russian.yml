@@ -1,0 +1,45 @@
+﻿l_russian:
+ ####################################
+ # Alpha Naming Convention - WILL LIKELY BE CHANGED IF SECTIONS ARE REDESIGNED
+ #
+ # Mid sections have a flavor-name fitting to number of weapon/utility slots followed by the key-word "Core"
+ # Front sections have a flavor-name followed by the key-word "Breaker"
+ # Rear sections have a flavor-name followed by the key-word "Bulwark"
+ #
+ ####################################
+ 
+ EAC_TITAN_BOW:0 "Нос титана-носителя"
+ EAC_TITAN_MID:0 "Корпус титана-носителя"
+ EAC_TITAN_STERN:0 "Корма титана-носителя"
+
+ EAC_TITAN_BOW_2XL:0 "Носовые орудия титана"
+ EAC_TITAN_BOW_1XL_4G:0 "Носовые ракетницы титана"
+ EAC_TITAN_MID_1L_4G_4P:0 "Палубные ракетницы титана I"
+ EAC_TITAN_MID_6G_2S:0 "Палубные ракетницы титана II"
+ EAC_TITAN_MID_2L_2M_4S:0 "Сбалансированная палуба титана"
+ EAC_TITAN_MID_2H_2M_2S_2P:0 "Ангарная палуба титана"
+ EAC_TITAN_STERN_2G_4P:0 "Кормовые ракетницы титана"
+ EAC_TITAN_STERN_8S:0 "Корма титана «Стрелок»"
+
+ ####################################
+ # Battleship
+ ####################################
+ EAC_BATTLESHIP_BOW_AC:1 "Нос улучшенного носителя"
+ EAC_BATTLESHIP_MID_AC:1 "Корпус улучшенного носителя"
+ EAC_BATTLESHIP_STERN_AC:1 "Корма улучшенного носителя"
+
+ ####################################
+ # Cruiser
+ ####################################
+ EAC_CRUISER_BOW_G2:1 "Носовые ракетницы"
+ EAC_CRUISER_MID_G3:1 "Палубные ракетницы"
+
+ EAC_CRUISER_BOW_S1:0 "Нос лёгкого носителя"
+ EAC_CRUISER_MID_S2:0 "Корпус лёгкого носителя"
+ EAC_CRUISER_STERN_P2:0 "Корма лёгкого носителя"
+
+ ####################################
+ # Destroyer
+ ####################################
+ EAC_DESTROYER_BOW_H1:0 "Нос быстрого реагирования"
+ EAC_CORVETTE_MID_M2P1:0 "Улучшенный ракетный корпус"

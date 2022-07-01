@@ -1,0 +1,15 @@
+﻿l_russian:
+
+ ####### UI
+
+ ss_hunters_ui_test_button_clicked: "§YOh Hello, looks like you clicked the button!§!"
+ ss_hunters_ui_title_loc: "Biomass Options"
+ ss_hunters_ui_desc_loc: "Spend your biomass here."
+ ss_hunters_ui_test_button: "Test Button"
+ hunter_test_button_clicked_loc: "\n§RYou already clicked the button!§!"
+ hunter_test_button_loc: "\n§GClick to do the thing§!"
+
+
+ abyssalsecrets.1.name:0 "Communications"
+ abyssalsecrets.1.desc:0 "[Root.GetSpeciesNamePlural]\n\nWe have noticed your profane bending of spacetime in those arcane laboratories of yours. \n\nIf you wish to avoid certain doom and perhaps the destruction of your entire quadrant, you must cease your research in those laboratories at once. We want you to delomish all your §YQuantanium Laboratories§! immediately.\n\nConsider this your first and final warning."
+ abyssalsecrets.1.a:0 "End Communications."

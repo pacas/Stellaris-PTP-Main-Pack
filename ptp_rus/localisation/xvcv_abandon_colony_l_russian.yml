@@ -1,0 +1,15 @@
+﻿l_russian:
+
+### decisions
+xvcv_abandon_colony_decision:0 "Покинуть колонию"
+xvcv_abandon_colony_decision_desc:0 "Эта колония будет уничтожена."
+xvcv_abandon_colony_decision_effects:0 "£planet£ Колония будет уничтожена и каждое £pops£ поселение здесь будет уничтожено."
+
+### events
+xvcv_abandon_colony.1.name:0 "Покинуть [Root.GetName]"
+xvcv_abandon_colony.1.desc:0 "[Root.GetName] будет заброшена и каждое поселение здесь будет уничтожено. Вы уверены?"
+xvcv_abandon_colony.1.a:0 "Да"
+xvcv_abandon_colony.1.b:0 "Да, но не уничтожать £pop£ население."
+xvcv_abandon_colony.1.c:0 "Да, и превратите мир в опустошённый."
+xvcv_abandon_colony.1.d:0 "Да, и расколите планету заодно!"
+xvcv_abandon_colony.close_window:0 "Нет, я передумал."

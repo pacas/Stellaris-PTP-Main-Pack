@@ -1,0 +1,86 @@
+﻿l_russian:
+
+ plantoid: "Плантоид"
+ trait_plantoid: "$plantoid$"
+ trait_plantoid_desc:0 "§LЭтот вид умеет осуществлять процесс фотосинтеза и потребляет энергию, а не пищу. Представители этого вида могут производить энергию прямо из солнечного света§!\n"
+
+ trait_carnivorous_plant: "Плотоядное растение"
+ trait_carnivorous_plant_desc: "§LЭтот вид растёт в геометрической прогрессии на устойчивой диете из белка. Несмотря на то, что он способен осуществлять процесс фотосинтеза, производимой энергии недостаточно, чтобы поддерживать функционирование этих организмов только на солнечном свете. Поскольку этот вид не может сам производить пищу, ему потребуются другие источники средств к существованию ...§!"
+
+ trait_lush: "Пышный"
+ trait_lush_desc: "§LЭтот плантоид имеет много особенно много слоёв хлорофилла и может поглощать больше прямой энергии солнечного света.§!"
+
+ mod_planet_farmers_energy_produces_mult: "£energy£ §YЭнергия§! от £job_farmer£ $job_farmer_plural$"
+
+ TRAIT_PLANTOID_EFFECT: "Потребляет £energy£ §Yэнергию§! вместо £food£ §Yпищи§!\nПлантоиды-£job_farmer£ $job_farmer_plural$ производят £energy£ §Yэнергию§! вместо £food£ §Yпищи§!"
+
+ TRAIT_CARNIVOROUS_PLANTOID_EFFECT: "Потребляют как £energy£ §Yэнергию§!, так и £food£ §Yпищу§!\n§RТребуют поселений иных рас для прозводства £food£ §Yпищи§! §! \nБудут §Yесть случайные поселения§! других видов, если они не являются §Yскотом§!\nДругие виды будут считаться £job_livestock£ §Yскотом§! независимо от этик. \nНе относится к литоидам или другим плантоидам. \n\n$MOD_POP_GROWTH_SPEED$: §G+15%§! \n§Y$MOD_ARMY_DAMAGE_MULT$§!: §G+20%§!"
+
+ species_not_meaty: "$TRIGGER_FAIL$Плотоядным растениям нужно нечто более... мясистое."
+
+ tech_eco_simulation_plantoid:0 "$tech_eco_simulation$ плантоидов"
+ tech_eco_simulation_plantoid_desc:0 "$tech_eco_simulation$_desc"
+ tech_gene_crops_plantoid:0 "$tech_gene_crops$ плантоидов"
+ tech_gene_crops_plantoid_desc:0 "$tech_gene_crops_desc$"
+ tech_nano_vitality_crops_plantoid:0 "$tech_nano_vitality_crops$ плантоидов"
+ tech_nano_vitality_crops_plantoid_desc:0 "$tech_nano_vitality_crops_desc$"
+
+
+#### EVENTS ####
+
+ hungry_plants_attack.title: "Атаки на [Root.Planet.GetName]"
+ hungry_plants_attack.desc: "Ряд исчезновений был связан с местными §Yплотоядными [carnivorous_plant.GetSpeciesNamePlural]§!. После расследования сотен сообщений о пропавших без вести и появления нового кулинарного деликатеса на чёрном рынке, известном как «свиньи», департамент силовиков сообщил, что отряд изгоев-плантоидов похищал население, отправлял их на подпольные бойни для разделки и позже продавал как мясо. Литоиды и плантоиды, кажется, не заинтересовали этих бандитов, поскольку они являются недостаточно мясистыми. Остальная часть местного населения живёт в страхе, а многие боятся покидать свои дома. Они требуют немедленных действий для обеспечения их безопасности. \n\nЭто вряд ли будет последним подобным инцидентом, так как пока существует плотоядное население, то спрос на мясо не упадёт. Опрошенные [carnivorous_plant.GetSpeciesName] заявили, что это просто естественный круговорот жизни. Они также предложили, чтобы планетарное правительство содержало часть населения в виде £job_livestock£ §Yскота§!, чтобы больше не требовались услуги чёрного рынка."
+
+ gotta_eat: "Растениям нужно есть"
+ prosecute_plants: "Привлеките к ответственности этих преступников"
+ eat_dont_bother_me: "Фейковые новости"
+ eat_dont_bother_me.tooltip: "§YУведомления§! о нападениях плотоядных растений по всей нашей империи будут скрыты. Планетарное решение §Y$prosecute_plantoids$§! будет доступно по-прежнему."
+
+ hungry_plants_starve.title: "Голодающие плантоиды"
+ hungry_plants_starve.desc: "Без адекватного источника белка местное население §Yплоядных [carnivorous_plant.GetSpeciesName]§! страдает от массового недоедания. Смерть и болезни широко распространены, и многие из плантоидов слишком слабы, чтобы работать. Врачи сообщают, что для физиологии [carnivorous_plant.Species.GetAdj] просто нет иных замен белка. Немного £job_livestock£ §Yскота§! на планете обеспечат здоровье популяции [carnivorous_plant.GetSpeciesName]."
+
+ gotta_starve: "Пусть едят пирожные"
+ lift_resitrictions: "Отменить ограничения на диету"
+ starve_dont_bother_me: "Фейковые новости"
+ starve_dont_bother_me.tooltip: "§YУведомления§! о голоде среди плотоядных растениях по всей нашей империи будут скрыты. Планетарное решение §Y$deregulate_carnivores$§! будет доступно по-прежнему."
+
+ scared_of_carnivores: "Страх быть съеденным"
+ scared: "Каждое поселение на [Root.Planet.GetName], отличное от плантоидов и литоидов, получит модификатор §Y$scared_of_carnivores$§!, дающий следующий эффект на §Y20 месяцев§!: \n$MOD_POP_HAPPINESS$ §R-30%§!"
+
+ hungry_carnivore: "Тоска по свежему мясу"
+ hungry: "Каждое плотоядное поселение на [Root.Planet.GetName] получит модификатор §Y$hungry_carnivore$§!, дающий следующие эффекты на §Y20 месяцев§!: \n$MOD_POP_HAPPINESS$ §R-10%§! \n$mod_planet_jobs_produces_mult$: §R-10%§!"
+
+ prosecute_plantoids: "Запретить охоту на население"
+ prosecute_plantoids_desc: "Сделать приобретение, владение и продажу «свиней» - эвфемизма для использования поселений в качестве источника пищи - преступлением. Население будет защищено от нападений, однако популяция плотоядных растений будет страдать от недоедания, если на планете не будет £job_livestock£ §Yскота§!."
+ safe: "Население защищено от возможных нападений, однако плотоядные растения скоро будут страдать от недоедания, если на [Root.Planet.GetName] не будет £job_livestock£ §Yскота§!."
+
+ pm_prosecute_plants: "Охота на население запрещена"
+ pm_prosecute_plants_desc: "Приобретение, владение и продажа «свиней» - эвфемизма для использования поселений в качестве источника пищи - преступление. Население будет защищено от нападений, однако популяция плотоядных растений страдает от недоедания, если на планете нет £job_livestock£ §Yскота§!."
+
+ deregulate_carnivores: "Снять ограничения на охоту"
+ deregulate_carnivores_desc: "Позволяет охотиться на население ради мяса. Плотоядные растения будут чувствовать себя значительно здоровее. Однако другие поселения время от времени могут быть съедены."
+
+ decision_planet_food_boost_plantoid: "Удобрение почв"
+ decision_planet_food_boost_plantoid_desc: "Процесс укрепления и оздоровления верхнего слоя почвы ускорит рост и обеспечит население достаточным количеством продуктов питания."
+
+ tr_harmony_plantoid_adopt:0 "$tr_harmony_adopt$"
+ tr_harmony_plantoid_adopt_desc:0 "$tradition_harmony_desc$\n\n$tr_harmony_plantoid_adopt_effect$\n\n$tr_harmony_finish_effect$"
+ tr_harmony_plantoid_adopt_effect:0 "§E$TRADITIONS_ADOPT$:§!\n§Y$planet_pops_organics_energy_upkeep_mult$§! снижено §G10%§!."
+
+ tr_synchronicity_plantoid_adopt:0 "$tr_synchronicity_hive_adopt$"
+ tr_synchronicity_plantoid_adopt_desc:0 "$tradition_synchronicity_desc$\n\n$tr_synchronicity_plantoid_adopt_effect$\n\n$tr_synchronicity_finish_effect$"
+ tr_synchronicity_plantoid_adopt_effect:0 "$tr_harmony_plantoid_adopt_effect$"
+
+ planet_pops_organics_energy_upkeep_mult: "£pop£ £energy£ потребление энергии поселениями"
+
+ purge_fertilizer: "Удобрение"
+ purge_fertilizer_tooltip: "Население готовится стать удобрением для почвы, чтобы дать начало новой жизни."
+ purge_fertilizer_tooltip_delayed:1 "§LОни скоро завершат круговорот жизни.§!"
+
+ civic_hive_devouring_swarm_plantoid: "Удушающая лоза"
+ civic_tooltip_devouring_swarm_plantoid_effects: "Нельзя вступать в §Yдипломатические отношения§! с другими империями!\nНедоступен §Yгалактический рынок§!\n§Y«Голод»§! является поводом к войне с другими империями\n§YПоселения чужаков§! всегда будут идти на удобрения. \n§Y$society_research$§! £society£ и £mod_pop_growth_speed£ $MOD_POP_GROWTH_SPEED$ даются за геноцид £pop£ поселений чужаков\n§Y$MOD_SHIP_HITPOINTS_MULT$§! повышено на §G25%§!\n§Y$MOD_SHIP_HULL_REGEN_ADD_PERC$§! и §Y$MOD_SHIP_ARMOR_REGEN_ADD_PERC$§! повышены на §G+0.5%§!\n§Y$MOD_COUNTRY_STARBASE_INFLUENCE_COST_MULT$§! снижен на §G50%§!\n§Y$MOD_ARMY_DAMAGE_MULT$§! повышен на §G+40%§!\n§Y$mod_category_biology_research_speed_mult$§! повышен на §G+20%§!\n§Y$MOD_STARBASE_SHIP_BUILD_COST_MULT$§! снижена на §G-25%§!\n§Y$MOD_COUNTRY_NAVAL_CAP_MULT$§! повышена на §G+33%§!\n"
+
+
+ trait_livestock: "Скот"
+ trait_livestock_desc:0 "§LЭтот вид был одомашнен и позже разводился в качестве источника пищи на протяжении многих тысячелетий. Они имеют весьма ограниченный интеллект, а также не могут говорить и не использовать инструменты. Они просто стоят и смотрят на тебя осуждающе.§!\n"
+ TRAIT_LIFESTOCK_EFFECT: "Могут лишь приносить пищу в качестве £job_livestock£ §Yскота§!. Не могут выполнять другие виды работ. М-у-у-у."

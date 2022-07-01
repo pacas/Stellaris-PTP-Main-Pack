@@ -1,0 +1,20 @@
+﻿l_russian:
+
+  # Ship Tech 
+  eac_aw_tech_advanced_carrier:0 "Продвинутые конструкции корабля-носителя"
+  eac_aw_tech_advanced_carrier_desc:0 "Добавляет новые штурмовые корабельные секции.\n"
+  
+  EAC_AW_TECH_UNLOCK_BATTLESHIP_ADVANCED_CARRIER_TITLE:0 "§HРасширенные конструкции корабля-носителя§!"
+  EAC_AW_TECH_UNLOCK_BATTLESHIP_ADVANCED_CARRIER_DESC:0 "Эта технология разблокирует планировку корабля-носителя для линкоров.\n"
+  
+  eac_aw_tech_missile_cruiser:0 "Ракетный дизайн крейсеров"
+  eac_aw_tech_missile_cruiser_desc:0 "Добавляет больше ракетных/торпедных корабельных секций.\n"
+
+  EAC_AW_TECH_UNLOCK_MISSILE_CRUISER_TITLE:0 "§HТип секций:§! Крейсерные ракетные секции"
+  EAC_AW_TECH_UNLOCK_MISSILE_CRUISER_DESC:0 "Эта технология разблокирует тяжелые ракетные секции для крейсеров."
+
+  eac_aw_tech_light_carrier:0 "Облегченные секции носителя для крейсера"
+  eac_aw_tech_light_carrier_desc:0 "Добавляет новые ангарные секции для крейсеров.\n"
+ 
+  EAC_AW_TECH_UNLOCK_LIGHT_CARRIER_TITLE:0 "§HТип секций:§! Облегченные секции носителя для крейсера"
+  EAC_AW_TECH_UNLOCK_LIGHT_CARRIER_DESC:0 "Эта технология открывает дизайн легкого носителя для крейсеров.\n"

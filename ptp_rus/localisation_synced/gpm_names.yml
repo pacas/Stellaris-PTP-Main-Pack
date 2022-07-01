@@ -1,0 +1,96 @@
+﻿l_default:
+ NAME_gpm_ego:0 "Живая планета"
+ NAME_gpm_ego_ship:0 "Идеальный мир"
+ NAME_Rogue_Traders:0 "Контрабандисты"
+ NAME_Rogue_Trader_Faction:0 "Контрабандисты"
+ NAME_Rogue_Trader:0 "Контрабандист"
+ NAME_Rogue_Den:0 "Аванпост онтрабандистов"
+ gpm_ego:0 "Идеальный мир"
+ NAME_Guilli:0 "Г'уил-ли"
+ NAME_docile_arachnid:0 "Покорный паук"
+ NAME_docile_arachnid_ship:0 "Послушный паук"
+ NAME_docile_arachnid_fleet:0 "Покорные пауки"
+ NAME_wild_xenomorph:0 "Покорный паук"
+ NAME_wild_xenomorph_ship:0 "Послушный паук"
+ NAME_wild_xenomorph_fleet:0 "Покорные пауки"
+ NAME_xenomorph:0 "Ксеноморфы"
+ NAME_xenomorph_ship:0 "Носитель Ксеноморфов"
+ NAME_xenomorph_fleet:0 "Хищные Ксеноморфы"
+ NAME_venerable_dreadnaught:0 "Древний дредноут"
+ NAME_venerable_dreadnaught_ship:0 "Древний дредноут"
+ NAME_venerable_dreadnaught_fleet:0 "Древний дредноут"
+ NAME_daughter_of_the_stars:0 "Дочь Звёзд"
+ NAME_primitive_world_name_1:0 "Тюрьма"
+ NAME_primitive_world_name_2:0 "Каприка"
+ NAME_primitive_world_name_3:0 "Новая Каприка"
+ NAME_primitive_world_name_4:0 "Титан"
+ NAME_primitive_world_name_5:0 "Рич"
+ NAME_primitive_world_name_6:0 "Анзем"
+ NAME_primitive_world_name_7:0 "Трон"
+ NAME_Fen_Habbanis_IIIa:0 "Фен Хаббанис IIIa"
+ 
+ NAME_GPM_Large_Crystal_Entity_Blue_Elite:0 "Синяя Кристальная Сущность"
+ NAME_GPM_Large_Crystal_Entity_Green_Elite:0 "Зелёная Кристальная Сущность"
+ NAME_GPM_Large_Crystal_Entity_Yellow_Elite:0 "Жёлтая Кристальная Сущность"
+ NAME_GPM_Large_Crystal_Entity_Red_Elite:0 "Красная Кристальная Сущность"
+ 
+ 
+ # manufactorium ship
+ NAME_manufactorium_fleet:0 "Корабль-Мануфакториум"
+ NAME_gpm_manufactorium_ship:0 "Изготовитель"
+ NAME_manufactorium_ship_name:0 ""
+ 
+ 
+ 
+ 
+ # precursor ship
+ NAME_precursor_fleet:0 "Корабль предтеч"
+ NAME_gpm_precursor_ship:0 "Несущий войну"
+ NAME_precursor_ship_name:0 ""
+ 
+ 
+ # War names 
+ gpm_war_of_time:0 "Войны во времени"
+ gpm_war_of_the_xenos:0 "Война за королеву Ксеносов"
+ gpm_war_of_the_machine:0 "Война за ядро Машин"
+ gpm_war_of_knowledge:0 "Война знаний"
+ gpm_war_of_power:0 "Война за власть"
+ gpm_war_of_the_sphere:0 "Квантовые войны"
+ gpm_war_of_the_architect:0 "Войны создателей"
+ gpm_war_of_the_stc:0 "Война за НТК"
+ gpm_war_of_the_codex:0 "Война за кодекс"
+ gpm_war_of_the_soul:0 "Война за душу"
+ gpm_war_of_the_queen:0 "Война стражей"
+ gpm_war_of_the_fallen:0 "Война угасших"
+ 
+ gpm_war_of_the_dragon:0 "Война дракона"
+ gpm_war_of_the_throne:0 "Война за Трон"
+ gpm_war_of_the_worm:0 "Война за Червя"
+ gpm_war_of_the_rubricator:0 "Войны за Рубрикатор"
+ gpm_war_of_the_galaxy:0 "Война за Миниатюрную Галактику"
+ gpm_war_of_the_omnicodex:0 "Войны за Омникодекс"
+ gpm_war_of_the_surveyor:0 "Войны за Топограф"
+ gpm_war_of_the_ancient_sword:0 "Война за меч Воина"
+ gpm_war_of_the_severed_head:0 "Война за Священную голову"
+ gpm_war_of_the_prethoryn_queen:0 "Война за Королеву Преторин"
+ gpm_war_of_the_unbidden_warlock:0 "Война за Колдуна"
+ gpm_war_of_the_contingency_core:0 "Война за Ядро"
+ gpm_war_of_the_zro_crystal:0 "Войны за Зро"
+ gpm_war_of_the_last_baol:0 "Война за последнего Баол"
+ gpm_war_of_the_defragmentor:0 "Войны дефрагментаторов"
+ gpm_war_of_the_reality_perforator:0 "Войны за реальность"
+ gpm_war_of_the_pox_sample:0 "Войны с оспой"
+ gpm_war_of_the_cryo_core:0 "Крио-войны"
+ gpm_war_of_the_war_forge:0 "Кузнечная война"
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 

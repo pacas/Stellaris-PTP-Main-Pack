@@ -1,0 +1,205 @@
+﻿l_russian:
+
+ ####################################################
+ ####################################################
+ #####                                          #####
+ #####   Planetary Development  Notification    #####
+ #####                                          #####
+ #####    localisations                         #####
+ #####                                          #####
+ ####################################################
+ ####################################################
+
+ ##################
+ ###  Massages  ###
+ ##################
+
+ MESSAGE_PdnMessageScantyHousing1_TITLE:0 "Нет свободного жилья"
+ MESSAGE_PdnMessageScantyHousing2_TITLE:0 "Перенаселение"		## Ref. OUTLINER_PLANET_OVERCROWDING_PRESENT
+ MESSAGE_PdnMessageScantyJobs1_TITLE:0 "Нет доступных видов деятельности"        # legacy: Few Available Job Offers
+ MESSAGE_PdnMessageScantyJobs2_TITLE:0 "Безработица из-за нехватки рабочих мест"		## Ref. RESETTLE_LIST_JOBS_LONG
+ MESSAGE_PdnMessageUnemployment_TITLE:0 "Безработица из-за несоответствия рабочих мест"		## Ref. OUTLINER_PLANET_UNEMPLOYMENT_PRESENT
+ MESSAGE_PdnMessageScantyAmenities1Regular_TITLE:0 "Малое объём доступных благ"
+ MESSAGE_PdnMessageScantyAmenities2Regular_TITLE:0 "Недостаточный объём благ"
+ MESSAGE_PdnMessageScantyAmenities1Gestalt_TITLE:1 "$MESSAGE_PdnMessageScantyAmenities1Regular_TITLE$"
+ MESSAGE_PdnMessageScantyAmenities2Gestalt_TITLE:1 "$MESSAGE_PdnMessageScantyAmenities2Regular_TITLE$"
+ MESSAGE_PdnMessageScantySanctuary1_TITLE:0 "Нет доступных святилищ"
+ MESSAGE_PdnMessageScantySanctuary2_TITLE:0 "Святилища переполнены"
+ MESSAGE_PdnMessageUpgradableCapital_TITLE:0 "Улучшение столицы доступно"		## Ref. OUTLINER_PLANET_UPGRADE_AVAILABLE
+ MESSAGE_PdnMessageNewBuilding_TITLE:0 "Слот для строительства доступен"
+ MESSAGE_PdnMessageClearableBlockers1_TITLE:0 "Остались нерасчищенные блокираторы"
+ MESSAGE_PdnMessageClearableBlockers2_TITLE:0 "Блокаторы препятствуют использованию"
+ MESSAGE_PdnMessageFoodBoostExpired_TITLE:1 "$MESSAGE_PdnMessageDecisionExpired_TITLE$"
+ MESSAGE_PdnMessageLuxuriesBoostExpired_TITLE:1 "$MESSAGE_PdnMessageDecisionExpired_TITLE$"
+ MESSAGE_PdnMessageDecisionExpired_TITLE:0 "Решение утратило силу"
+
+ PdnMessageScantyHousing1_desc:0 "В скором будущем планета $PLANET|Y$ испытает недостаток £housing£ §Yжилья§!."
+ PdnMessageScantyHousing2_desc:0 "На планете $PLANET|Y$ в настоящее время недостаточно £housing£ §Yжилья§! для всего населения £pop£."
+ PdnMessageScantyJobs1_desc:0 "На планете $PLANET|Y$ ожидается нехватка доступных видов деятельности £job£ в скором будущем. Часть населения станет безработным."        # Only few £job£ job offers are remaining on $PLANET|Y$. Some pops are going to be unemployed in the near future because of scanty job offers.
+ PdnMessageScantyJobs2_desc:0 "На планете $PLANET|Y$ есть £unemployment£ §Yбезработное население§! из-за недостатка £job£ §Yвидов деятельности§! для них."
+ PdnMessageUnemployment_desc:0 "На планете $PLANET|Y$ есть £unemployment£ §Yбезработное население§!, для которого есть подходящие виды деятельности."        ## Ref. OUTLINER_PLANET_UNEMPLOYMENT_PRESENT_DESC
+ PdnMessageScantyAmenities1Regular_desc:0 "В скором будущем планета $PLANET|Y$ испытает недостаток £amenities£ §Yблаг§!."
+ PdnMessageScantyAmenities2Regular_desc:0 "На планете $PLANET|Y$ в настоящее время недостаточно £amenities£ §Yблаг§! для всего населения £pop£."
+ PdnMessageScantyAmenities1Gestalt_desc:0 "В скором будущем планета $PLANET|Y$ испытает недостаток £amenities_no_happiness£ §Yблаг§!."
+ PdnMessageScantyAmenities2Gestalt_desc:0 "На планете $PLANET|Y$ в настоящее время недостаточно £amenities_no_happiness£ §Yблаг§! для всего населения £pop£."
+ PdnMessageScantySanctuary1_desc:0 "Органические святилища на $PLANET|Y$ полностью заполнены £job_bio_trophy£ биотрофеями. Некоторые из них будут выставлены на улицу."
+ PdnMessageScantySanctuary2_desc:0 "На $PLANET|Y$ недостаточно органических святилищ и некоторые £job_bio_trophy£ биотрофен не вмещаются."
+ PdnMessageUpgradableCapital_desc:0 "£building£ §YСтоличное здание§! на $PLANET|Y$ может быть улучшено."        ## Ref. OUTLINER_PLANET_UPGRADE_AVAILABLE_DESC
+ PdnMessageNewBuilding_desc:0 "£building£ §YСлот для строительства§! на $PLANET|Y$ разблокирован."
+ PdnMessageClearableBlockers1_desc:0 "На планете $PLANET|Y$ есть готовый для расчистки £blocker£ §Yблокиратор§!, который помешает нам в полной мере использовать её ресурсы в ближайшем будущем."
+ PdnMessageClearableBlockers2_desc:0 "На планете $PLANET|Y$ есть готовый для расчистки £blocker£ §Yблокиратор§!, который мешает нам в полной мере использовать её ресурсы."		## Ref. OUTLINER_PLANET_BLOCKER_AVAILABLE_DESC
+ PdnMessageFoodBoostExpired_desc:0 "Решение $decision_planet_food_boost$ на $PLANET|Y$ истекло."
+ PdnMessageLuxuriesBoostExpired_desc:0 "Решение $decision_planet_luxuries_boost$ на $PLANET|Y$ истекло."
+ PdnMessageDecisionExpired_desc:0 "Решение $PLANET|Y$ истекло."
+ PdnMessageUpgradableCapital_desc:0 "£building£ §YСтоличное здание§! на $PLANET|Y$ может быть улучшено."        ## Ref. OUTLINER_PLANET_UPGRADE_AVAILABLE_DESC
+
+
+ ######################################
+ ###  Edicts, Decisions, Modifiers  ###
+ ######################################
+
+ ### Edicts
+ edict_PdnEdictOpenMenu:0 "Изменить условия появлений уведомлений"
+ edict_PdnEdictOpenMenu_desc:0 "Вы сможете заставить замолчать надоедливого советника или потребовать его уведомлять вас чаще."
+ PdnEdictOpenMenuEffect:0 "Откройте меню для изменения условий уведомлений о планетарном развитии."
+ PdnTextMenuOpenedNow:0 "§RМеню этих указов теперь открыто.§!"
+
+ ### Decisions
+ PdnDecisionsDisableInThisPlanet:0 "Отключить появление уведомлений о развитии"
+ PdnDecisionsDisableInThisPlanet_desc:0 "Вы достаточно развили эту колонию и больше не нуждаетесь в уведомлениях."
+ PdnDecisionsEnableInThisPlanet:0 "Включить появление уведомлений о развитии"
+ PdnDecisionsEnableInThisPlanet_desc:0 "Снова включить уведомления о развитии для этой колонии."
+
+ ### Modifiers
+ PdnModifierDisableNotification:0 "Уведомления о планетарном развитии не отображаются"
+ PdnModifierDisableNotification_desc:0 "У вас нет схемы развития для этой колонии."
+ PdnModifierDisableNotificationEffect:0 "Уведомления о планетарном развитии отключены для этой колонии."
+
+
+ #########################
+ ###  Events for Menu  ###
+ #########################
+
+ PdnTextSeparator.name:1 "----------------------------------------------------------------"        ## '-' x64
+ PdnTextSeparator.tooltip:0 "Это лишь разделитель, не надо сюда нажимать."
+ PdnTextEnable:0 "§GВключить§!"
+ PdnTextDisable:0 "§RОтключить§!"
+
+ PdnEvent.1000.name:1 "$edict_PdnEdictOpenMenu$"
+ PdnEvent.1000.desc:0 "Вы можете изменить условия появления уведомлений для планетарного развития.\n§HТекущие§! критерии уведомлений приведены ниже, и вы можете изменить их нажатием. Тем не менее, все уведомления отключены до 2205 года, игнорируя критерии. Кстати, дополнительная информация по каждой опции находится во всплывающих подсказках для каждого пункта."
+
+ PdnEvent.1000x1.name:0 "§RНет уведомлений§!"
+ PdnEvent.1000x2.name:0 "§HПоздние уведомления§!"
+ PdnEvent.1000x3.name:0 "§YУведомления о нехватке§!"
+ PdnEvent.1000x4.name:0 "§GРанние уведомления§!"
+ PdnEvent.1000w1.name:1 "$PdnTextDisable$"
+ PdnEvent.1000w2.name:0 "§YОграниченные уведомления§!"
+ PdnEvent.1000w3.name:1 "N/A"
+ PdnEvent.1000w4.name:0 "§GПолные уведомления§!"
+
+ PdnEvent.1000a0.name:0 "Недостаточно £housing£ $PLANET_HOUSING_TITLE$"
+ PdnEvent.1000b0.name:0 "Недостаточно £job£ видов деятельности"
+ PdnEvent.1000c0.name:0 "Неподходящие £job£ виды деятельности"
+ PdnEvent.1000d0.name:0 "Недостаточно £amenities£ $PLANET_AMENITIES_TITLE$"
+ PdnEvent.1000e0.name:0 "£building£ £upgrade£ Доступно улучшение столицы"
+ PdnEvent.1000f0.name:0 "Первый £building£ слот для строительства"
+ PdnEvent.1000g0.name:0 "£blocker£ $BLOCKER_DEPOSITS$"
+ PdnEvent.1000h0.name:0 "£blocker£ $BLOCKER_DEPOSITS$"
+ PdnEvent.1000i0.name:0 "Expiry of Decision"
+ PdnEvent.1000p0.name:0 "Уведомление о колонии с контролем численности населения"
+ PdnEvent.1000q0.name:0 "Уведомление о планетарном развитии колонии, если у империи мало £minerals£ $minerals$"
+ PdnEvent.1000y.name:0 "Тестовое уведомление"
+ PdnEvent.1000z.name:0 "§GВыйти из меню§!"
+
+ PdnEvent.1000ax.tooltip:0 "$PdnEvent.1000x4.name$: \nВы получите уведомление, если свободное £housing£ жильё в колонии равно §Y0 или меньше§!.\n\n$PdnEvent.1000x3.name$: \nВы получите уведомление, если свободное £housing£  жильё в колонии §Yниже 0§!.\n\n$PdnEvent.1000x1.name$: \nВы НЕ получите никаких уведомлений."
+ PdnEvent.1000bx.tooltip:0 "$PdnEvent.1000x4.name$: \nВы получите уведомление, если в колонии не будет доступных £job£ видов деятельности (даже если НЕТ безработного населения).\n\n$PdnEvent.1000x3.name$: \nВы получите уведомление, если в колонии будет £unemployment£ безработное население из-за нехватки £job£ видов деятельности.\n\n$PdnEvent.1000x1.name$: \nВы НЕ получите никаких уведомлений."
+ #Legacy: PdnEvent.1000bx.tooltip:0 "$PdnEvent.1000x4.name$: \nWill receive notification if available £job£ job offers in the colony is §Y2 or less§!.\n\n$PdnEvent.1000x3.name$: \nWill receive notification if there are £unemployment£ unemployed pops in the colony because of lack of enough £job£ jobs.\n\n$PdnEvent.1000x1.name$: \nWill NOT receive any notification."
+ PdnEvent.1000cx.tooltip:0 "$PdnTextEnable$: \nВы получите уведомление, если в колонии будет £unemployment£ безработное население при наличии свободных видов деятельности.\nК примеру, есть как £unemployment£ безработные специалисты, так и безработные £job£ рабочие.\n\n$PdnTextDisable$: \nВы НЕ получите никаких уведомлений для вышеуказанного случая."
+ PdnEvent.1000dx.tooltip:0 "$PdnEvent.1000x4.name$: \nВы получите уведомление, если объём £amenities£ благ в колонии будет §Y0 или меньше§!.\n\n$PdnEvent.1000x3.name$: \nВы получите уведомление, если объём £amenities£ благ в колонии будет §Yменьше 0§!.\n\n$PdnEvent.1000x1.name$: \nВы НЕ получите никаких уведомлений."
+ PdnEvent.1000ex.tooltip:0 "$PdnTextEnable$: \nВы получите уведомление, если столичное здании колонии может быть улучшено.\n§RЭто уведомление НЕ будет работать корректно, если условие улучшения столичных зданий будет изменено другим модом.§!\n\n$PdnTextDisable$: \nВы НЕ получите никаких уведомлений для вышеуказанного случая."
+ PdnEvent.1000fx.tooltip:0 "$Event.1000w4.name$: \nВы получите уведомление, если если на планете будет свободный слот для строительства.\n\n$PdnEvent.1000w2.name$: \nВы получите уведомление, если будут выполнены все следующие условия: \n(1) количество населения на планете достигло 5, и первый слот для здания разблокирован\n(2) империя может построить любой тип здания, ускоряющее рост населения или его сборку(*)\n\n$PdnTextDisable$: \nВы НЕ получите никаких уведомлений для вышеуказанного случая.\n\n\n* В частности, для следующих зданий: \n- $building_clinic$\n- $building_robot_assembly_plant$\n- $building_spawning_pool$\n- $building_machine_assembly_plant$"
+ PdnEvent.1000gx.tooltip:0 "$PdnEvent.1000x4.name$: \nВы получите уведомление, если в колонии есть любой £blocker£ нерасчищенный блокиратор и число £district£ доступных районов §Y3§! или меньше.\n\n$PdnEvent.1000x3.name$: \nВы получите уведомление, если в колонии есть любой £blocker£ блокиратор и все остальные доступные £district£ районы были построены.\n\n$PdnEvent.1000x1.name$: \nВы НЕ получите никаких уведомлений.\n\n§HВнимание!: это уведомление будет игнорировать наличие технологии для расчистки блокираторов.§!"
+ PdnEvent.1000hx.tooltip:0 "$PdnEvent.1000x4.name$: \nВы получите уведомление, если в колонии есть любой £blocker£ нерасчищенный блокиратор и число £district£ доступных районов §Y3§! или меньше.\n\n$PdnEvent.1000x3.name$: \nВы получите уведомление, если в колонии есть любой £blocker£ блокиратор и все остальные доступные £district£ районы были построены.\n\n$PdnEvent.1000x1.name$: \nВы НЕ получите никаких уведомлений.\n\n§HВнимание!: это уведомление будет игнорировать наличие технологии для расчистки блокираторов.§!"
+ PdnEvent.1000ix.tooltip:0 "$PdnEvent.1000w4.name$: \nВы получите уведомление, если любое решение не из модов (*) истекло.\n\n$PdnEvent.1000w2.name$: \nВы получите уведомление, если решения $decision_planet_food_boost$ или $decision_planet_luxuries_boost$ истекли.\n\n$PdnEvent.1000w1.name$: \nВы НЕ получите никаких уведомлений.\n\n\n(*) Конкретные решения: \n- $decision_planet_food_boost$\n- $decision_planet_luxuries_boost$\n- $decision_expel_population$\n- $decision_tissue_growth_stimulants$\n- $decision_explosive_fungifoam_housing$\n- $decision_machine_oracle$\n- $decision_divine_algorithm$\n- $decision_museum_exhibits$\n- $decision_manager_awards$\n- $decision_sanctuary_exhibits$\n- $decision_artifact_relays_hivemind$\n- $decision_artifact_relays_machine$"
+ PdnEvent.1000px.tooltip:0 "$PdnTextEnable$: \nNo effect.\n\n$PdnTextDisable$: \nВсе уведомления будут отключены в колонии с принятым решением ''$decision_discourage_growth$'', ''$decision_enact_population_control$'', ''$decision_enact_robot_assembly_control$'' and/or ''$decision_enact_population_control_gestalt$''."
+ PdnEvent.1000qx.tooltip:0 "$PdnTextEnable$: \nНет эффекта.\n\n$PdnTextDisable$: \nВсе уведомления будут отключены, если запасы минералов меньше £minerals£ §Y500§!. Тем не менее, уведомление о блокираторах будет отключено, если запас энергии меньше £energy£ §Y1000§!."
+ PdnEvent.1000yx.tooltip:0 "Получите все включенные уведомления немедленно для тестирования."
+ PdnEvent.1000zx.tooltip:1 ""
+
+
+
+ PdnEvent.1000a1.name:1 "$PdnEvent.1000a0.name$: $PdnEvent.1000x1.name$"
+ PdnEvent.1000a2.name:1 "$PdnEvent.1000a0.name$: $PdnEvent.1000x2.name$"
+ PdnEvent.1000a3.name:1 "$PdnEvent.1000a0.name$: $PdnEvent.1000x3.name$"
+ PdnEvent.1000a4.name:1 "$PdnEvent.1000a0.name$: $PdnEvent.1000x4.name$"
+ PdnEvent.1000b1.name:1 "$PdnEvent.1000b0.name$: $PdnEvent.1000x1.name$"
+ PdnEvent.1000b2.name:1 "$PdnEvent.1000b0.name$: $PdnEvent.1000x2.name$"
+ PdnEvent.1000b3.name:1 "$PdnEvent.1000b0.name$: $PdnEvent.1000x3.name$"
+ PdnEvent.1000b4.name:1 "$PdnEvent.1000b0.name$: $PdnEvent.1000x4.name$"
+ PdnEvent.1000c1.name:1 "$PdnEvent.1000c0.name$: $PdnTextDisable$"
+ PdnEvent.1000c2.name:1 "$PdnEvent.1000c0.name$: $PdnTextEnable$"
+ PdnEvent.1000d1.name:1 "$PdnEvent.1000d0.name$: $PdnEvent.1000x1.name$"
+ PdnEvent.1000d2.name:1 "$PdnEvent.1000d0.name$: $PdnEvent.1000x2.name$"
+ PdnEvent.1000d3.name:1 "$PdnEvent.1000d0.name$: $PdnEvent.1000x3.name$"
+ PdnEvent.1000d4.name:1 "$PdnEvent.1000d0.name$: $PdnEvent.1000x4.name$"
+ PdnEvent.1000e1.name:1 "$PdnEvent.1000e0.name$: $PdnEvent.1000x1.name$"
+ PdnEvent.1000e2.name:1 "$PdnEvent.1000e0.name$: $PdnEvent.1000x2.name$"
+ PdnEvent.1000e3.name:1 "$PdnEvent.1000e0.name$: $PdnEvent.1000x3.name$"
+ PdnEvent.1000e4.name:1 "$PdnEvent.1000e0.name$: $PdnEvent.1000x4.name$"
+ PdnEvent.1000e1.name:1 "$PdnEvent.1000e0.name$: $PdnTextDisable$"
+ PdnEvent.1000e2.name:1 "$PdnEvent.1000e0.name$: $PdnTextEnable$"
+ PdnEvent.1000f1.name:1 "$PdnEvent.1000f0.name$: $PdnEvent.1000w1.name$"
+ PdnEvent.1000f2.name:1 "$PdnEvent.1000f0.name$: $PdnEvent.1000w2.name$"
+ PdnEvent.1000f3.name:1 "$PdnEvent.1000f0.name$: $PdnEvent.1000w3.name$"
+ PdnEvent.1000f4.name:1 "$PdnEvent.1000f0.name$: $PdnEvent.1000w4.name$"
+ PdnEvent.1000g1.name:1 "$PdnEvent.1000g0.name$: $PdnEvent.1000x1.name$"
+ PdnEvent.1000g2.name:1 "$PdnEvent.1000g0.name$: $PdnEvent.1000x2.name$"
+ PdnEvent.1000g3.name:1 "$PdnEvent.1000g0.name$: $PdnEvent.1000x3.name$"
+ PdnEvent.1000g4.name:1 "$PdnEvent.1000g0.name$: $PdnEvent.1000x4.name$"
+ PdnEvent.1000i1.name:1 "$PdnEvent.1000i0.name$: $PdnEvent.1000w1.name$"
+ PdnEvent.1000i2.name:1 "$PdnEvent.1000i0.name$: $PdnEvent.1000w2.name$"
+ PdnEvent.1000i3.name:1 "$PdnEvent.1000i0.name$: $PdnEvent.1000w3.name$"
+ PdnEvent.1000i4.name:1 "$PdnEvent.1000i0.name$: $PdnEvent.1000w4.name$"
+ PdnEvent.1000p1.name:1 "$PdnEvent.1000p0.name$: $PdnTextDisable$"
+ PdnEvent.1000p2.name:1 "$PdnEvent.1000p0.name$: $PdnTextEnable$"
+ PdnEvent.1000q1.name:1 "$PdnEvent.1000q0.name$: $PdnTextDisable$"
+ PdnEvent.1000q2.name:1 "$PdnEvent.1000q0.name$: $PdnTextEnable$"
+
+ PdnEvent.1000a1.tooltip:1 "$PdnEvent.1000ax.tooltip$"
+ PdnEvent.1000a2.tooltip:1 "$PdnEvent.1000ax.tooltip$"
+ PdnEvent.1000a3.tooltip:1 "$PdnEvent.1000ax.tooltip$"
+ PdnEvent.1000a4.tooltip:1 "$PdnEvent.1000ax.tooltip$"
+ PdnEvent.1000b1.tooltip:1 "$PdnEvent.1000bx.tooltip$"
+ PdnEvent.1000b2.tooltip:1 "$PdnEvent.1000bx.tooltip$"
+ PdnEvent.1000b3.tooltip:1 "$PdnEvent.1000bx.tooltip$"
+ PdnEvent.1000b4.tooltip:1 "$PdnEvent.1000bx.tooltip$"
+ PdnEvent.1000c1.tooltip:1 "$PdnEvent.1000cx.tooltip$"
+ PdnEvent.1000c2.tooltip:1 "$PdnEvent.1000cx.tooltip$"
+ PdnEvent.1000d1.tooltip:1 "$PdnEvent.1000dx.tooltip$"
+ PdnEvent.1000d2.tooltip:1 "$PdnEvent.1000dx.tooltip$"
+ PdnEvent.1000d3.tooltip:1 "$PdnEvent.1000dx.tooltip$"
+ PdnEvent.1000d4.tooltip:1 "$PdnEvent.1000dx.tooltip$"
+ PdnEvent.1000e1.tooltip:1 "$PdnEvent.1000ex.tooltip$"
+ PdnEvent.1000e2.tooltip:1 "$PdnEvent.1000ex.tooltip$"
+ PdnEvent.1000e3.tooltip:1 "$PdnEvent.1000ex.tooltip$"
+ PdnEvent.1000e4.tooltip:1 "$PdnEvent.1000ex.tooltip$"
+ PdnEvent.1000f1.tooltip:1 "$PdnEvent.1000fx.tooltip$"
+ PdnEvent.1000f2.tooltip:1 "$PdnEvent.1000fx.tooltip$"
+ PdnEvent.1000g1.tooltip:1 "$PdnEvent.1000gx.tooltip$"
+ PdnEvent.1000g2.tooltip:1 "$PdnEvent.1000gx.tooltip$"
+ PdnEvent.1000g3.tooltip:1 "$PdnEvent.1000gx.tooltip$"
+ PdnEvent.1000g4.tooltip:1 "$PdnEvent.1000gx.tooltip$"
+ PdnEvent.1000h1.tooltip:1 "$PdnEvent.1000hx.tooltip$"
+ PdnEvent.1000h2.tooltip:1 "$PdnEvent.1000hx.tooltip$"
+ PdnEvent.1000h3.tooltip:1 "$PdnEvent.1000hx.tooltip$"
+ PdnEvent.1000h4.tooltip:1 "$PdnEvent.1000hx.tooltip$"
+ PdnEvent.1000i1.tooltip:1 "$PdnEvent.1000fx.tooltip$"
+ PdnEvent.1000i2.tooltip:1 "$PdnEvent.1000fx.tooltip$"
+ PdnEvent.1000i3.tooltip:1 "$PdnEvent.1000fx.tooltip$"
+ PdnEvent.1000i4.tooltip:1 "$PdnEvent.1000fx.tooltip$"
+ PdnEvent.1000p1.tooltip:1 "$PdnEvent.1000px.tooltip$"
+ PdnEvent.1000p2.tooltip:1 "$PdnEvent.1000px.tooltip$"
+ PdnEvent.1000q1.tooltip:1 "$PdnEvent.1000qx.tooltip$"
+ PdnEvent.1000q2.tooltip:1 "$PdnEvent.1000qx.tooltip$"
+ PdnEvent.1000y.tooltip:1 "$PdnEvent.1000yx.tooltip$"
+ PdnEvent.1000z.tooltip:1 "$PdnEvent.1000zx.tooltip$"

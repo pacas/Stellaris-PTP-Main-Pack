@@ -1,0 +1,87 @@
+﻿l_russian:
+
+  # Jobs
+ job_vbp_vault_overseer:0 "Смотритель убежища"
+ job_vbp_vault_overseer_plural:0 "Смотрители убежища"
+ job_vbp_vault_overseer_desc:0 "Эти граждане несут ответственность за огромные бункеры. Они будут следить за последними бункерами, которые пережили ядерную катастрофу, пока условия на поверхности не улучшатся."
+ mod_job_vbp_vault_overseer_add:0 "$job_vbp_vault_overseer$"
+
+ job_vbp_vault_dweller:0 "Житель убежища"
+ job_vbp_vault_dweller_plural:0 "Жители убежища"
+ job_vbp_vault_dweller_desc:0 "Жители гражданских убежищ. Несколько счастливчиков, которые всё ещё имеют некое подобие цивилизации несмотря на то, что их мир пережил ядерную катастрофу."
+ mod_job_vbp_vault_dweller_add:0 "$job_vbp_vault_dweller$"
+
+ job_vbp_vault_custodian:0 "Хранитель убежища"
+ job_vbp_vault_custodian_plural:0 "Хранители убежища"
+ job_vbp_vault_custodian_desc:0 "Это рfбочий класс убежища. Несмотря на то? что они надёжно скрыты под поверхностью, им всё ещё нужно работать, чтобы убежище не погибло."
+ mod_job_vbp_vault_custodian_add:0 "$job_vbp_vault_custodian$"
+
+ job_vbp_government_reminders:0 "Остаток правительства"
+ job_vbp_government_reminders_plural:0 "Остатки правительства"
+ job_vbp_government_reminders_desc:0 "Мировые лидеры, пережившие апокалипсис в отдаленных местах, и те, кто претендует на роль их преемников. Мало кто признает их авторитет в дивном новом мире"
+ mod_job_vbp_government_reminders_add:0 "$job_vbp_government_reminders$"
+
+ job_vbp_nuclear_survivor:0 "Выживший в пустоши"
+ job_vbp_nuclear_survivor_plural:0 "Выжившие в пустоши"
+ job_vbp_nuclear_survivor_desc:0 "Это обитатели различних племён, деревень и городов, которые постоянно борятся за своё выживание в атомной пустоши."
+ mod_job_vbp_nuclear_survivor_add:0 "$job_vbp_nuclear_survivor$а"
+
+ job_vbp_wasteland_ruler:0 "Лидер пустошей"
+ job_vbp_wasteland_ruler_plural:0 "Лидеры пустошей"
+ job_vbp_wasteland_ruler_desc:0 "Вожди и лидеры культов, мэры и президенты, короли и полевые командиры. Те, кто руководит более организованными обществами на пустоши."
+ mod_job_vbp_wasteland_ruler_add:0 "$job_vbp_wasteland_ruler$"
+
+ job_vbp_caravaneer:0 "Караванщик"
+ job_vbp_caravaneer_plural:0 "Караванщики"
+ job_vbp_caravaneer_desc:0 "Торговцы, постоянно скитающиеся с места на место и продающие всё, что можно продать."
+ mod_job_vbp_caravaneer_add:0 "$job_vbp_caravaneer$"
+
+ job_vbp_wasteland_raider:0 "Рейдер"
+ job_vbp_wasteland_raider_plural:0 "Рейдеры"
+ job_vbp_wasteland_raider_desc:0 "Предприниматели, которые предпочли бы взять то, что им не принадлежит, чем сделать что-то своё."
+ mod_job_vbp_wasteland_raider_add:0 "$job_vbp_wasteland_raider$"
+
+ job_vbp_militia:0 "Воин пустошей"
+ job_vbp_militia_plural:0 Воины пустошей"
+ job_vbp_militia_desc:0 "Вооруженные выжившие, которые взяли на себя ответственность по защите своих общин от беззаконных пустошей."
+ mod_job_vbp_militia_add:0 "$job_vbp_militia$"
+
+ # BUILDINGS
+ building_vbp_wasteland_towns:0 "Города пустошей"
+ building_vbp_wasteland_towns_desc:0 "Трущобы и занятые руины - постапокалиптические жилища бывают разных форм и размеров."
+ building_vbp_vaults:0 "Подземные убежища"
+ building_vbp_vaults_desc:0 "Огромные бункеры, предназначенные для спасения большого количества мирных жителей."
+ building_vbp_government_bunkers:0 "Бункеры правительства"
+ building_vbp_government_bunkers_desc:0 "Секретные базы, спрятанные в отдаленных местах, где мировые лидеры могут пережить худшее и планировать свои дальнейшие действия, когда мир вокруг них горит."
+ building_vbp_raiding_villages:0 "Рейдерские базы"
+ building_vbp_raiding_villages_desc:0 "Укрытия и крепости, где между их атаками отдыхают рейдеры и бандиты. Стены со вкусом украшены телами несчастных жертв."
+
+ d_vbp_glowing_sea:0 "Светящееся море"
+ d_vbp_glowing_sea_desc:0 "Особенно неприятное место, наполненное особенно неприятным излучением."
+
+ # EVENTS
+ civic_vbp_tomb_1:0 "Мир падальщиков"
+ civic_vbp_tomb_2:0 "Рухнувшая цивилизация"
+ civic_vbp_tomb_1_desc:0 ""
+ civic_vbp_tomb_2_desc:0 ""
+
+ gov_vbp_tomb:0 "Постапокалиптическое общество"
+ gov_vbp_tomb_desc:0 "Некогда относительно развитая цивилизация предкосмической эры, которая рухнула после катастрофического ядерного обмена и превратилась в основном в враждующие племена и города-государства."
+
+ vbp_tomb_primitives:0 "Постапокалиптическая эра"
+ vbp_tomb_primitives_desc:0 "Вместо обычного устойчивого продвижения к космическому полету эта цивилизация вступила в ядерную войну между своими многочисленными национальными государствами.\n\nНесмотря на то, что они чудом избежали полного исчезновения, они превратились в разъединенные и нестабильные племена и города, едва выжившие среди руин, усеянных на поверхности негостеприимной планеты."
+
+ vbp_tomb.3.name:0 "Встреча с [From.Owner.GetName]"
+ vbp_tomb.3.desc:0 "[Root.GetName] столкнулся с примитивной цивилизацией, цепляющейся за выживание на негостеприимной поверхности [From.GetName] в системе [From.Solar_System.GetName].\n\nОчевидно, местные участвовали в ядерной войне некоторое время назад и едва избежали полного уничтожения.\n\nНам следует построить §YНаблюдательный пост§! на орбите этой планеты для более досконального изучения."
+
+ vbp_tomb.41.name:0 "Из пепла"
+ vbp_tomb.41.desc:0 "Наш наблюдательный пост на [From.Capital_Scope.GetName] сообщает, что местные, которые ранее боролись за выживание, вернули большую часть своего утраченного технологического потенциала. Несмотря на суровый климат и опасные уровни радиации, новые сообщества процветают и расширяются, и [From.GetName] больше нельзя классифицировать как «постапокалиптический мир»."
+ vbp_tomb.41.a:0 "Для них это хорошо."
+ vbp_tomb.41.b:0 "Да когда же они вымрут?"
+
+ mission_vbp_tomb_technological_enlightenment:0 "$mission_technological_enlightenment_0$"
+ mission_vbp_tomb_technological_enlightenment_desc:0 "$mission_technological_enlightenment_0_desc$"
+
+ vbp_wasteland_militia:0 "Ополченцы пустошей"
+ vbp_wasteland_militia_desc:0 "Различные банды и прочие выжившие, которые объеденились для противостояния внешней угрозе."
+ vbp_wasteland_militia_plural:0 "Ополченцы пустошей"

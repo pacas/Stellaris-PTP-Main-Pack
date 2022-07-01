@@ -1,0 +1,98 @@
+ELVEN = {
+	elven_name_1 = {
+		name = "Моричи"
+		plural = "Моричины"
+		home_planet = "Гарлас Агеа"
+		home_system = "Гарлас Агеа"
+		name_list = "ELVEN2"
+	}
+	
+	elven_name_2 = {
+		name = "Альтмер"
+		plural = "Альтмеры"
+		home_planet = "Алинор"
+		home_system = "Етон Нир"
+		name_list = "ELVEN3"
+	}
+	
+	elven_name_3 = {
+		name = "Браннил"
+		plural = "Браннилы"
+		home_planet = "Аретх"
+		home_system = "Аретхор"
+		name_list = "ELVEN2"
+	}
+	
+	elven_name_4 = {
+		name = "Ианис"
+		plural = "Ианисы"
+		home_planet = "Инвен Алориа"
+		home_system = "Инвен"
+		name_list = "ELVEN3"
+	}
+	
+	elven_name_5 = {
+		name = "Боичи"
+		plural = "Боичины"
+		home_planet = "Арентхиа"
+		home_system = "Йффри"
+		name_list = "ELVEN2"
+	}
+	
+	elven_name_6 = {
+		name = "Салач"
+		plural = "Салачи"
+		home_planet = "Артаем"
+		home_system = "Цепорах"
+		name_list = "ELVEN3"
+	}
+
+	elven_name_7 = {
+		name = "Ломелас"
+		plural = "Ломеласы"
+		home_planet = "Целани"
+		home_system = "Тиоритх"
+		name_list = "ELVEN2"
+	}
+	
+	elven_name_8 = {
+		name = Ситхрандир
+		plural = Ситхрандиры
+		home_planet = Елдариа
+		home_system = "Анил Гал"
+		name_list = "ELVEN3"
+	}
+	
+	elven_name_9 = {
+		name = Саранд
+		plural = Саранды
+		home_planet = "Сарас Лир"
+		home_system = "Тор Галинде"
+		name_list = "ELVEN2"
+	}
+	
+	elven_name_10 = {
+		name = Геаратх
+		plural = Геаратхи
+		home_planet = Фаладрис
+		home_system = Елиндор
+		name_list = "ELVEN3"
+	}
+	
+	elven_name_11 = {
+		name = Тхоронаитх
+		plural = Тхоронаитхи
+		home_planet = Исгадрис
+		home_system = Имратас
+		name_list = "ELVEN3"
+	}
+	
+	## NOTE: Switch to ELVEN5 when possible!
+	elven_name_12 = {
+		name = Нолдор
+		plural = Нолдоры
+		home_planet = Имбладрис
+		home_system = Ириадос
+		name_list = "ELVEN4"
+	}	
+}

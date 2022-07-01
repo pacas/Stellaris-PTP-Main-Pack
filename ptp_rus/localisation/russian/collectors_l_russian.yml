@@ -1,0 +1,32 @@
+﻿l_russian:
+  # Country Type
+  mod_planet_state: "$COUNTRY_PLANET_STATE"
+  COUNTRY_PLANET_STATE: "Планета-государство"
+  COUNTRY_PLANET_STATE: "Планета-государство"
+
+  CAN_TAKE_HOSTILE_ACTION_PLANET_STATE: "Мы можем предпринять враждебные действия против планеты-государства в пределах наших границ."
+  # Ships
+  collector_station: "Станция планеты-государства"
+  collector_station_plural: "Станция планеты-государства"
+  # Buildings
+  building_collectors_vault: "Хранилище сокровищ"
+  building_collectors_vault_desc: "Тщательно охраняемое хранилище, которое также позволяет богачам щеголять своим тщеславием."
+
+  # Static Modifiers
+  planet_lost_autonomy: "Утраченная автономия"
+  planet_lost_autonomy_desc: "Ранее эта планета-государство была независимой. Её хорошо помнят об этом и ждущим подходящего момента, чтобы снова вернуть её обратно."
+
+  leader_trait_ruler_arcane_holder:0 "Владелец §P$r_arcane_rune$§!"
+  leader_trait_ruler_arcane_holder_desc:0 ""
+  leader_trait_ruler_illusion_holder:0 "Владелец §Y$r_illusion_rune$§!"
+  leader_trait_ruler_illusion_holder_desc:0 ""
+  leader_trait_ruler_mighty_holder:0 "Владелец §M$r_damage_rune$§!"
+  leader_trait_ruler_mighty_holder_desc:0 ""
+  leader_trait_ruler_invisibility_holder:0 "Владелец §W$r_invisibility_rune$§!"
+  leader_trait_ruler_invisibility_holder_desc:0 ""
+  leader_trait_ruler_regeneration_holder:0 "Владелец §G$r_regeneration_rune$§!"
+  leader_trait_ruler_regeneration_holder_desc:0 ""
+  leader_trait_ruler_haste_holder:0 "Владелец §R$r_haste_rune$§!"
+  leader_trait_ruler_haste_holder_desc:0 ""
+
+

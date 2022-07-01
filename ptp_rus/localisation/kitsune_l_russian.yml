@@ -1,0 +1,22 @@
+﻿l_russian:
+
+####################################
+# Species Classes
+####################################
+
+EKITS:0 "Кицунэ"
+EKITS_desc:1 "Вид не влияет на вашу Империю, но другие кицунэ могут считать ваших кицунэ менее чуждыми, чем другие виды."
+EKITS_plural:0 "Кицунэ"
+EKITS_insult_01:0 "зверь"
+EKITS_insult_plural_01:0 "звери"
+EKITS_compliment_01:0 "ангел"
+EKITS_compliment_plural_01:0 "ангелы"
+EKITS_spawn:0 "дева"
+EKITS_spawn_plural:0 "дева"
+EKITS_sound_01:0 "рычать"
+EKITS_sound_02:0 "ворчать"
+EKITS_sound_03:0 "тявкать"
+EKITS_sound_04:0 "выть"
+EKITS_sound_05:0 "ныть"
+EKITS_organ:0 "живот"
+EKITS_mouth:0 "рот"

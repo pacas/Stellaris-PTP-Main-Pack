@@ -1,0 +1,29 @@
+﻿l_russian:
+
+ ###################
+ # Station Defense
+ ###################
+ shipsize_eac_military_station_heavy_small_upkeep_mult:0 "Тяжелая $shipsize_military_station_small_upkeep_mult$"
+ shipsize_eac_military_station_heavy_small_build_cost_mult:0 "Тяжелая $shipsize_military_station_small_build_cost_mult$"
+ shipsize_eac_military_station_heavy_small_construction_speed_mult:0 "Скорость строительства тяжелой орудийной платформы"
+ mod_shipsize_eac_military_station_heavy_small_hull_add:0 "Обшивка тяжелой орудийной платформы"
+ eac_military_station_heavy_small_plural:0 "Тяжелые орудийные платформы"
+ eac_military_station_heavy_small:0 "Тяжелая орудийная платформа"
+ EAC_PLATFORM_FISSION_REACTOR:0 "$PLATFORM_FISSION_REACTOR$"
+ EAC_PLATFORM_FUSION_REACTOR:0 "$PLATFORM_FUSION_REACTOR$"
+ EAC_PLATFORM_COLD_FUSION_REACTOR:0 "$PLATFORM_COLD_FUSION_REACTOR$"
+ EAC_PLATFORM_ANTIMATTER_REACTOR:0 "$PLATFORM_ANTIMATTER_REACTOR$"
+ EAC_PLATFORM_ZERO_POINT_REACTOR:0 "$PLATFORM_ZERO_POINT_REACTOR$"
+ EAC_PLATFORM_DARK_MATTER_REACTOR:0 "$PLATFORM_DARK_MATTER_REACTOR$"
+ EAC_STARBASE_FISSION_REACTOR:0 "$STARBASE_FISSION_REACTOR$"
+ EAC_STARBASE_FUSION_REACTOR:0 "$STARBASE_FUSION_REACTOR$"
+ EAC_STARBASE_COLD_FUSION_REACTOR:0 "$STARBASE_COLD_FUSION_REACTOR$"
+ EAC_STARBASE_ANTIMATTER_REACTOR:0 "$STARBASE_ANTIMATTER_REACTOR$"
+ EAC_STARBASE_ZERO_POINT_REACTOR:0 "$STARBASE_ZERO_POINT_REACTOR$"
+ EAC_STARBASE_DARK_MATTER_REACTOR:0 "$STARBASE_DARK_MATTER_REACTOR$"
+ sm_eac_gun_battery:0 "Тяжелая огневая батарея"
+ sm_eac_gun_battery_desc:0 "Добавляет четыре больших, два средних орудийных слота и 2 орудия точечной обороны на космическую базу."
+ sm_eac_missile_battery:0 "Тяжелая торпедная батарея"
+ sm_eac_missile_battery_desc:0 "Добавляет шесть торпедных и два малых орудийных слота на космическую базу."
+ sm_eac_hangar_bay:0 "Тяжелый ангарный отсек"
+ sm_eac_hangar_bay_desc:0 "Добавляет восемь ангаров для штурмовиков и два малых орудийных слота на космическую базу."

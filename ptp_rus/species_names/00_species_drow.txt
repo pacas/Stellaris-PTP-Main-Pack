@@ -1,0 +1,129 @@
+DROW = {
+	drow_name_1 = {
+		name = "Киввиир"
+		plural = "Киввиири"
+		home_planet = "Ишманти Делмах"
+		home_system = "Ишманти"
+		name_list = "DROW1"
+	}
+	
+	drow_name_2 = {
+		name = "Силинрул"
+		plural = "Силинрули"
+		home_planet = "Кашагон Делмах"
+		home_system = "Кашагон"
+		name_list = "DROW2"
+	}
+	
+	drow_name_3 = {
+		name = "Дротиир"
+		plural = "Дротиири"
+		home_planet = "Сисаротх Делмах"
+		home_system = "Сисаротх"
+		name_list = "DROW1"
+	}
+	
+	drow_name_4 = {
+		name = "Таляарии"
+		plural = "Таляарии"
+		home_planet = "Армор Лир"
+		home_system = "Кселерон"
+		name_list = "DROW2"
+	}
+	
+	drow_name_5 = {
+		name = "Кьюннессаар"
+		plural = "Кьюннессаари"
+		home_planet = "Зхенну Делмах"
+		home_system = "Кайорл'урн"
+		name_list = "DROW1"
+	}
+	
+	drow_name_6 = {
+		name = "Сурилиир"
+		plural = "Сурилиири"
+		home_planet = "Драла Сол"
+		home_system = "Драла"
+		name_list = "DROW2"
+	}
+	
+	drow_name_7 = {
+		name = "Малар"
+		plural = "Малари"
+		home_planet = "Вхаррус"
+		home_system = "Малар Тор"
+		name_list = "DROW1"
+	}
+	
+	drow_name_8 = {
+		name = "Фашкаар"
+		plural = "Фашкаари"
+		home_planet = "Торриал"
+		home_system = "Итами"
+		name_list = "DROW2"
+	}
+
+	drow_name_9 = {
+		name = "Дуерган"
+		plural = "Дуергани"
+		home_planet = "Край'стона"
+		home_system = "Хар'олен"
+		name_list = "DROW1"
+	}
+	
+	drow_name_10 = {
+		name = "Флорисс"
+		plural = "Флорисси"
+		home_planet = "Зер'татх"
+		home_system = "Келлиатх"
+		name_list = "DROW2"
+	}
+	
+	drow_name_11 = {
+		name = "Конамор"
+		plural = "Конамори"
+		home_planet = "Серисонор"
+		home_system = "Серисо"
+		name_list = "DROW1"
+	}
+	
+	drow_name_12 = {
+		name = "Чубасс"
+		plural = "Чубасси"
+		home_planet = "Бех'латор"
+		home_system = "Кхлуариар"
+		name_list = "DROW2"
+	}
+	
+	drow_name_13 = {
+		name = "Кератхиир"
+		plural = "Кератхиири"
+		home_planet = "Линтх'ел"
+		home_system = "Кагхлех"
+		name_list = "DROW1"
+	}
+	
+	drow_name_14 = {
+		name = "Фаерирр"
+		plural = "Фаерирри"
+		home_planet = "Фаеларрин"
+		home_system = "Фаеларриа"
+		name_list = "DROW2"
+	}
+	
+	drow_name_15 = {
+		name = "Кайориас"
+		plural = "Кайориасы"
+		home_planet = "Маелтхар"
+		home_system = "Тагник'зур"
+		name_list = "DROW1"
+	}
+	
+	drow_name_16 = {
+		name = "Калкс"
+		plural = "Калкси"
+		home_planet = "Лисси'леа"
+		home_system = "Илхар"
+		name_list = "DROW2"
+	}
+}

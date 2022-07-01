@@ -1,0 +1,34 @@
+﻿l_russian:
+
+ shared_window_title: "Совокупное обновление"
+ shared_window_desc: "§WA Complex Newsfeed§!\n\nВсем привет! Это новостная лента, рассказывающая о моих самых больших модах. Я буду продолжать работать над ними, и, поскольку я знаю, что вы любите патчноуты, я буду радовать вас новой информацией через это потрясающее новое окно!\nВы можете выбрать мод, о котором хотите прочитать, в правой вкладке. Информация о них и номер версии будут обновляться, пока вы будете обновлять сам мод :)\n\nВсё это сделано благодаря тем, кто поддерживает меня на Patreon, так что если вы хотите помочь, пожалуйста, не стесняйтесь сделать это §Whttps://patreon.com/hivemods§!!\n\n\nПожалуйста, сообщайте о любых ошибках и предложениях в Steam, Twitter или Reddit.\n\nНаслаждайтесь игрой и до следующего раза!"
+ shared_window_name: "О моде"
+
+ fq_version_base: "[Root.GetFQVersion]"
+ story_version_base: "[Root.GetSTORYVersion]"
+ potv_version_base: "[Root.GetPOTVVersion]"
+
+ fq_name_base: "[Root.GetFQName]"
+ story_name_base: "[Root.GetSTORYName]"
+ potv_name_base: "[Root.GetPOTVName]"
+
+ fq_desc_base: "[Root.GetFQDesc]"
+ story_desc_base: "[Root.GetSTORYDesc]"
+ potv_desc_base: "[Root.GetPOTVDesc]"
+
+
+
+
+ fq_version_ni: "Forgotten Queens: §RНе установлен§!"
+ story_version_ni: "Nyblax and the Collector: §RНе установлен§!"
+ potv_version_ni: "Pantheons of the Void: §RНе установлен§!"
+
+
+ fq_name_ni: "Forgotten Queens"
+ story_name_ni: "Nyblax and the Collector"
+ potv_name_ni: "Pantheons of the Void"
+
+ fq_desc_ni: "Forgotten Queens это мод, который добавляет гражданские модели, путь вознесения, происхождение и прочий контент для коллективных разумов.\n\nВы можете загрузить его здесь:\n§Bhttps://steamcommunity.com/sharedfiles/filedetails/?id=1715190550§!"
+ story_desc_ni: "The Nyblax and the Collector это сюжетное дополнение, добавляющее реликвии, кризис середины игры и 6 новых мест раскопок.\n\nВы можете загрузить его здесь:\n§Bhttps://steamcommunity.com/sharedfiles/filedetails/?id=1878601358§!"
+ potv_desc_ni: "Pantheons of the Void это мод, который добавляет новую религиозную систему, пользовательский интерфейс для неё и уникальный игровой процесс.\n\nВы можете загрузить его здесь:\n§Bhttps://steamcommunity.com/sharedfiles/filedetails/?id=1913588422§!"
+

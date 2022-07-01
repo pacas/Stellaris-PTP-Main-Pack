@@ -1,0 +1,8 @@
+﻿l_russian:
+
+ # Localization source for the expressions like "last_created_fleet = { set_name = "NAME_Raider_Scouts" }" (used in events).
+ NAME_Alliance_Armada:0 "Армада альянса"
+ NAME_Main_Battle_Fleet:0 "Основной военный флот"
+ NAME_Raider_Scouts:0 "Разведчики рейдеров"
+ NAME_Raider_Vanguard:0 "Авангард рейдеров"
+ NAME_Rebel_Alliance_of_Concerned_Empires:0 "Альянс обеспокоенных империй"

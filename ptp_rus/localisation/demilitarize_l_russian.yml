@@ -1,0 +1,8 @@
+﻿l_russian:
+
+ casus_belli_cb_demilitarize:0 "Демилитаризация"
+ war_goal_wg_demilitarize:0 "Демилитаризация"
+ war_goal_wg_demilitarize_desc:0 "Война ведется для сдерживания воинственных тенденций врага."
+ wg_demilitarize_accept:0 "§Y[From.GetName]§! демилитаризована, что уменьшает их §Y$MOD_COUNTRY_NAVAL_CAP_MULT$§! на §R-50%§! на §Y20§! лет.\n§Y[Root.GetName]§! получает §G+100§! £influence£\n"
+ dm_demilitarized:0 "Демилитаризованы"
+ dm_demilitarized_desc:0 "§LМы были демилитаризованы другой империей.§!"

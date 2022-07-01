@@ -1,0 +1,51 @@
+﻿l_russian:
+
+pc_dormant:0 "Зарождающийся мир"
+pc_dormant_desc:0 "Примитивные усилия по терраформированию сгустили атмосферу этого мира настолько, что на его поверхности появилась жидкая вода. Однако уровень кислорода и давление на поверхности остаются низкими, и органические поселенцы всё ещё должны носить дыхательное оборудование вне зданий колонии."
+pc_dormant_adj:0 "зарождающийся"
+pc_dormant_cold:0 "$pc_dormant$"
+pc_dormant_cold_desc:0 "$pc_dormant_desc$"
+pc_dormant_cold_adj:0 "зарождающийся"
+pc_dormant_frozen:0 "$pc_dormant$"
+pc_dormant_frozen_desc:0 "Primitive terraforming efforts have thickened this $pc_frozen$'s atmosphere enough to support liquid water on its surface. Oxygen levels and surface pressures remain low, however, and organic settlers must still wear breathing equipment outside the colony buildings."
+pc_dormant_frozen_adj:0 "зарождающийся"
+pc_dormant_toxic:0 "$pc_dormant$"
+pc_dormant_toxic_desc:0 "Примитивные усилия по терраформированию истончили атмосферу этого токсичного мира настолько, что на его поверхности появилась жидкая вода. Давление на поверхности остается высоким, а уровень кислорода низким, поэтому органические поселенцы всё ещё должны носить скафандры и дыхательное оборудование вне зданий колонии."
+pc_dormant_toxic_adj:0 "зарождающийся"
+
+mod_pc_dormant_habitability:0 "Приспособленность к зарождающемуся миру"
+mod_pc_dormant_cold_habitability:0 "Приспособленность к зарождающемуся миру"
+mod_pc_dormant_toxic_habitability:0 "Приспособленность к зарождающемуся миру"
+mod_pc_dormant_frozen_habitability:0 "Приспособленность к зарождающемуся миру"
+
+trait_pc_dormant_preference:0 "Предпочтение - зарождающийся мир"
+trait_pc_dormant_preference_desc:1 "$trait_pc_arctic_preference_desc$"
+trait_pc_dormant_cold_preference:0 "Предпочтение - зарождающийся мир"
+trait_pc_dormant_cold_preference_desc:1 "$trait_pc_arctic_preference_desc$"
+trait_pc_dormant_toxic_preference:0 "Предпочтение - зарождающийся мир"
+trait_pc_dormant_toxic_preference_desc:1 "$trait_pc_arctic_preference_desc$"
+trait_pc_dormant_frozen_preference:0 "Предпочтение - зарождающийся мир"
+trait_pc_dormant_frozen_preference_desc:1 "$trait_pc_arctic_preference_desc$"
+
+mzilli_settled_dormant:0 "Незавершенное терраформирование"
+mzilli_settled_dormant_desc:0 "В настоящее время колонизация [This.GetPlanetMoon] ограничена куполообразными или подземными городами. Завершение процесса терраформирования или превращение планеты в $pc_city$ снимет этот модификатор."
+
+origin_interplanetary_expansion:0 "Межпланетная экспансия"
+origin_interplanetary_expansion_desc:0 "Эта цивилизация веками агрессивно колонизировала и терраформировала свою звёздную систему. Не потому что это было легко, а потому что это было трудно."
+origin_tooltip_interplanetary_expansion_effects:0 "- Начало с дополнительным зарождающимся миром в родной системе.\n- Начало с технологией §Y$tech_hydroponics$§!\n- Начало с опцией исследований §Y$tech_terrestrial_sculpting$§!"
+
+origin_backup_planet:0 "Запасная колония"
+origin_backup_planet_desc:0 "Родная планета этой цивилизации была уничтожена катаклизмом очень давно, но не раньше, чем они колонизировали и частично терраформировали соседнюю планету в своей звёздной системе. Эта бывшая колония пока является единственной надеждой на выживание."
+origin_tooltip_backup_planet_effects:0 "- §RПРЕДУПРЕЖДЕНИЕ: сложное происхождение§!\n- Начальная планета - §Y$pc_dormant$§! с очень малым пространством под §Yсельскохозяйственные районы§!.\n- Звёздная система содержит безжизненную родную планету и ни одного другого зарождающегося мира.\n- Начало с технологией §Y$tech_hydroponics$§!\n- Начало с опцией исследований §Y$tech_terrestrial_sculpting$§!"
+
+d_helium_3:0 "Месторождение Гелия-3"
+d_helium_3_desc:0 "Этот участок реголита богат Гелием-3, мощным топливом для термоядерных реакторов."
+
+no_dormant_worlds:0 "Звёздная система не содержит зарождающихся миров."
+
+mzilli_settled_dormant_food:0 "Примитивная гидропоника"
+mzilli_settled_dormant_food_desc:0 "После уничтожения родного мира этой бывшей колонии колонисты были вынуждены ускорить график терраформирования. Завершение процесса терраформирования или превращение [This.GetPlanetMoon] в $pc_city$ снимет этот модификатор."
+
+mzilli_settled_mars_initializer_NAME:0 "Солнечная система (Марс)"
+mzilli_settled_mars_initializer_DESC:0 "Система, смоделированная по образцу Солнечной системы Земли, с соседними звездами, но с Марсом в качестве начальной планеты, а не Земли. Предназначена для использования с происхождением §Y$origin_backup_planet$§!, но работает и сама по себе.\n\n$system_initializer_DESC$"
+START_SCREEN_PART_ONE_BACKUP_PLANET:0 "Когда §H[GetHomeWorldName]§! был уничтожен несколько десятилетий назад, большая часть вида [GetSpeciesName] погибла вместе с ним. Единственными выжившими были колонисты §Y[Capital.GetName]§!, которые трудились, чтобы сделать [Capital.GetPlanetMoon] вторым домом для нашего вида. Нет нужды говорить, что проект терраформирования был ускорен, и вскоре [Capital.GetName] стала самоподдерживающейся."

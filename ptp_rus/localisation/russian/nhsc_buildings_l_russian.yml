@@ -1,0 +1,118 @@
+﻿l_russian:
+
+### RUSSIAN LOCALIZATION
+
+nhsc_building_centralresearchbureau: "Центральное исследовательское бюро"
+nhsc_building_centralresearchbureau_desc: "Место, где величайшие умы нашей империи могут работать сообща и продвигать науку вперёд."
+
+nhsc_building_culture_nexus: "Культурный центр"
+nhsc_building_culture_nexus_desc: "Место, где граждане нашей империи могут узнать больше о галактике и культурах народов, её населяющих."
+nhsc_building_cerebral_node: "Церебральный узел"
+nhsc_building_cerebral_node_desc: "Большой мозговой узел, который постоянно размышляет о путях дальнейшего развития улья."
+job_esc_mind_walker_effect_desc: "£job_esc_mind_walker£ $job_esc_mind_walker_plural$ объединяет улей, производя £unity£ §Y$unity$§!."
+nhsc_building_network_regulator: "Сетевой регулятор"
+nhsc_building_network_regulator_desc: "Специализированный узел обработки, перенаправляющий информацию между управляемыми машинами, значительно повышая их эффективность."
+job_esc_network_curator_effect_desc: "£job_esc_network_curator£ $job_esc_network_curator_plural$ управляет потоком данных внутри машинного разума, производя £unity£ §Y$unity$§!."
+
+nhsc_building_materials_laboratory: "Лаборатория продвинутых материалов"
+nhsc_building_materials_laboratory_desc: "Большая лаборатория, ведущая исследования новых материалов как для специальных проектов, так и для повседневного использования."
+
+nhsc_building_technology_institute: "Технологический институт"
+nhsc_building_technology_institute_desc: "Большой научный комплекс, предназначенный для развития технологий нашей империи."
+
+nhsc_building_enigmatic_tower: "Загадочный сборщик энергии"
+nhsc_building_enigmatic_tower_desc: "Высокое наземное сооружение, которое абсорбирует выделяемую загадочными энергоядрами энергию."
+
+nhsc_building_stellar_energy_tower: "Башня звёздной энергии"
+nhsc_building_stellar_energy_tower_desc: "Массивная башня, преобразующая лёгкие химические элементы в чистую энергию подобно миниатюрному солнцу."
+
+nhsc_building_quantum_node: "Узел квантовых вычислений"
+nhsc_building_quantum_node_desc: "Специализированная вычислительная сеть, созданная по архитектуре процессоров Машины Бесконечности."
+job_esc_infinity_thinker_effect_desc: "£job_esc_infinity_thinker£ $job_esc_infinity_thinker_plural$ перерабатывают £consumer_goods£ §Y$consumer_goods$§! в £physics£ £society£ £engineering£ §YОчки Исследований§! для новых технологий."
+job_esc_infinity_thinker_drone_effect_desc: "£job_esc_infinity_thinker_drone£ $job_esc_infinity_thinker_drone_plural$ перерабатывают £minerals£ §Y$minerals$§! в £physics£ £society£ £engineering£ §YОчки Исследований§! for new technologies."
+job_esc_infinity_thinker_unit_effect_desc: "£job_esc_infinity_thinker_unit£ $job_esc_infinity_thinker_unit_plural$ перерабатывают £minerals£ §Y$minerals$§! в £physics£ £society£ £engineering£ §YОчки Исследований§! for new technologies."
+
+nhsc_building_watcher: "Страж вечности"
+nhsc_building_watcher_desc: "Массивный комплекс, способный изменять саму реальность и позволяющий свободно смотреть в прошлое, настоящее и будущее."
+
+nhsc_building_reprocessing_plant: "Перерабатывающий завод"
+nhsc_building_reprocessing_plant_desc: "Это передовое прдеприятие по переработке может произвести немало ценных ресурсов из бесполезного мусора."
+job_esc_reprocessor_effect_desc: "£job_esc_reprocessor£ $job_esc_reprocessor_plural$ перерабатывают £minerals£ §Y$minerals$§! и £energy£ §Y$energy$§! в £consumer_goods£ §Y$consumer_goods$§! и £alloys£ §Y$alloys$§!."
+job_esc_reprocessor_drone_effect_desc: "£job_esc_reprocessor_drone£ $job_esc_reprocessor_drone_plural$ перерабатывают £minerals£ §Y$minerals$§! и £food£ §Y$food$§! в £alloys£ §Y$alloys$§!."
+job_esc_reprocessor_unit_effect_desc: "£job_esc_reprocessor_unit£ $job_esc_reprocessor_unit_plural$ перерабатывают £minerals£ §Y$minerals$§! и £energy£ §Y$energy$§! в £alloys£ §Y$alloys$§!."
+
+nhsc_building_zro_distillery: "Зро-дистиллятор"
+nhsc_building_zro_distillery_desc: "На этом передовом предприятии просеиваются буквально горы сырья ради добычи крошечных кристаллов зро-пыли."
+job_esc_zro_distiller_effect_desc: "£job_esc_zro_distiller£ $job_esc_zro_distiller_plural$ производят £sr_zro£ $sr_zro$ из сырых материалов."
+job_esc_zro_distiller_drone_effect_desc: "£job_esc_zro_distiller_drone£ $job_esc_zro_distiller_drone_plural$ производят £sr_zro£ $sr_zro$ из сырых материалов."
+
+nhsc_building_dark_matter_facility: "Предприятие по добыче темной материи"
+nhsc_building_dark_matter_facility_desc: "Огромный комплекс гравитационных прессов, которые изгибают саму ткань пространства-времени для получения дорогостоящей темной материи."
+job_esc_dark_matter_shaper_effect_desc: "£job_esc_dark_matter_shaper£ $job_esc_dark_matter_shaper_plural$ перерабатывают £energy£ §Y$energy$§! и £consumer_goods£ §Y$consumer_goods$§! в £sr_dark_matter£ §Y$sr_dark_matter$§! и £physics_research£ §Y$physics_research$§!"
+job_esc_dark_matter_shaper_drone_effect_desc: "£job_esc_dark_matter_shaper_drone£ $job_esc_dark_matter_shaper_drone_plural$ перерабатывают £energy£ §Y$energy$§!, £minerals£ §Y$minerals$§! и £food£ §Y$food$§! в £sr_dark_matter£ §Y$sr_dark_matter$§! и £physics_research£ §Y$physics_research$§!"
+job_esc_dark_matter_shaper_unit_effect_desc: "£job_esc_dark_matter_shaper_drone£ $job_esc_dark_matter_shaper_drone_plural$ перерабатывают £energy£ §Y$energy$§! и £minerals£ §Y$minerals$§! в £sr_dark_matter£ §Y$sr_dark_matter$§! и £physics_research£ §Y$physics_research$§!"
+
+nhsc_building_magmaminer_1: "Мантиевая добывающая установка"
+nhsc_building_magmaminer_1_desc: "Мегаструктура для добычи ресурсов, направленная на ядро планеты. Требует неисчислимого количества рабочих и производит огромное колличестов ресурсов.\n\n§RВНИМАНИЕ: Строительство этого объекта на не расплавленном мире навсегда сократит доступное колличество районов на 5.§!"
+nhsc_building_magmaminer_2: "Улучшенная мантиевая добывающая установка"
+nhsc_building_magmaminer_2_desc: "Еще более огромная и более эффективная установка для извлечения ценных ресурсов из ядра планеты."
+job_esc_planetary_core_miner_effect_desc: "£job_esc_planetary_core_miner£ $job_esc_planetary_core_miner_plural$ производят большое колличество £minerals£ §Y$minerals$§! посредством добычи их из мантии и ядра планеты."
+job_esc_planetary_core_miner_drone_effect_desc: "£job_esc_planetary_core_miner_drone£ $job_esc_planetary_core_miner_drone_plural$ производят большое количество £minerals£ §Y$minerals$§! посредством добычи их из мантии и ядра планеты."
+job_esc_planetary_core_miner_unit_effect_desc: "£job_esc_planetary_core_miner_unit£ $job_esc_planetary_core_miner_unit_plural$ производят большое количество £minerals£ §Y$minerals$§! посредством добычи их из мантии и ядра планеты."
+
+### special resource production buildings
+
+nhsc_building_nanite_foundry: "Нанитовый завод"
+nhsc_building_nanite_foundry_desc: "Огромный комплекс зданий, специализирующийся на разведении нанитов."
+job_esc_nanite_breeder_effect_desc: "£job_esc_nanite_breeder£ $job_esc_nanite_breeder_plural$ перерабатывают £consumer_goods£ §Y$consumer_goods$§! и £alloys£ §Y$alloys$§! в £nanites£ §Y$nanites$§!."
+job_esc_nanite_breeder_drone_effect_desc: "£job_esc_nanite_breeder_drone£ $job_esc_nanite_breeder_drone_plural$ перерабатывают £food£ §Y$food$§! и £alloys£ §Y$alloys$§! в £nanites£ §Y$nanites$§!."
+job_esc_nanite_breeder_unit_effect_desc: "£job_esc_nanite_breeder_unit£ $job_esc_nanite_breeder_unit_plural$ перерабатывают £energy£ §Y$energy$§! и £alloys£ §Y$alloys$§! в £nanites£ §Y$nanites$§!."
+
+building_esc_crystal_farm_1: "Кристаллическая ферма"
+building_esc_crystal_farm_1_desc: "Обширные участки земли, предназначенные для выращивания полуорганической кристаллической материи."
+building_esc_crystal_farm_2: "Улучшенная кристаллическая ферма"
+building_esc_crystal_farm_2_desc: "Более эффективная ферма по выращиванию полуорганической кристаллической материи."
+job_esc_crystal_farmer_effect_desc: "£job_esc_crystal_farmer£ $job_esc_crystal_farmer_plural$ перерабатывают £consumer_goods£ §Y$consumer_goods$§! и £minerals£ §Y$minerals$§! в £esc_living_crystal£ §Y$esc_living_crystal$§! и £alloys£ §Y$alloys$§!."
+job_esc_crystal_farmer_drone_effect_desc: "£job_esc_crystal_farmer_drone£ $job_esc_crystal_farmer_drone_plural$ перерабатывают £food£ §Y$food$§! и £minerals£ §Y$minerals$§! в £esc_living_crystal£ §Y$esc_living_crystal$§! и £alloys£ §Y$alloys$§!."
+job_esc_crystal_farmer_unit_effect_desc: "£job_esc_crystal_farmer_unit£ $job_esc_crystal_farmer_unit_plural$ перерабатывают £energy£ §Y$energy$§! и £minerals£ §Y$minerals$§! в £esc_living_crystal£ §Y$esc_living_crystal$§! и £alloys£ §Y$alloys$§!."
+
+nhsc_building_psionic_containment: "Псионический накопитель"
+nhsc_building_psionic_containment_desc: "Инфраструктурный комплекс по сбору псионической энергии, вырабатываемой населением этого мира."
+job_esc_channeller_effect_desc: "£job_esc_channeller£ $job_esc_channeller_plural$ перерабатывают £energy£ §Y$energy$§! и £food£ §Y$food$§! в £esc_psionic_charge£ §Y$esc_psionic_charge$§!."
+job_esc_channeller_drone_effect_desc: "£job_esc_channeller_drone£ $job_esc_channeller_drone_plural$ перерабатывают £energy£ §Y$energy$§! и £food£ §Y$food$§! в £esc_psionic_charge£ §Y$esc_psionic_charge$§!."
+
+nhsc_building_graviton_condenser: "Гравитонный конденсатор"
+nhsc_building_graviton_condenser_desc: "Специализированное строение, собирающее гравитоны."
+job_esc_gravity_manipulator_effect_desc: "£job_esc_gravity_manipulator£ $job_esc_gravity_manipulator_plural$ перерабатывают £energy£ §Y$energy$§! и £consumer_goods£ §Y$consumer_goods$§! в £esc_gravitic_anomaly£ §Y$esc_gravitic_anomaly$§!."
+job_esc_gravity_manipulator_drone_effect_desc: "£job_esc_gravity_manipulator_drone£ $job_esc_gravity_manipulator_drone_plural$ перерабатывают £energy£ §Y$energy$§! и £food£ §Y$food$§! в £esc_gravitic_anomaly£ §Y$esc_gravitic_anomaly$§!."
+job_esc_gravity_manipulator_unit_effect_desc: "£job_esc_gravity_manipulator_unit£ $job_esc_gravity_manipulator_unit_plural$ перерабатывают £energy£ §Y$energy$§! в £esc_gravitic_anomaly£ §Y$esc_gravitic_anomaly$§!."
+
+nhsc_building_dimensional_breach: "Пространственный разлом"
+nhsc_building_dimensional_breach_desc: "Специализированные установки с массивными генераторами поля, которые способны деформировать саму ткань реальности."
+job_esc_dimension_warper_effect_desc: "£job_esc_dimension_warper£ $job_esc_dimension_warper_plural$ перерабатывают £energy£ §Y$energy$§! и £consumer_goods£ §Y$consumer_goods$§! в £esc_transdimensional_vortex£ §Y$esc_transdimensional_vortex$§!."
+job_esc_dimension_warper_drone_effect_desc: "£job_esc_dimension_warper_drone£ $job_esc_dimension_warper_drone_plural$ перерабатывают £energy£ §Y$energy$§! и £food£ §Y$food$§! в £esc_transdimensional_vortex£ §Y$esc_transdimensional_vortex$§!."
+job_esc_dimension_warper_unit_effect_desc: "£job_esc_dimension_warper_unit£ $job_esc_dimension_warper_unit_plural$ перерабатывают £energy£ §Y$energy$§! в £esc_transdimensional_vortex£ §Y$esc_transdimensional_vortex$§!."
+
+nhsc_building_enigmatic_coil: "Загадочная энергокатушка"
+nhsc_building_enigmatic_coil_desc: "Массивные генераторы, собирающие и усиливающие энергию, похожую на ту, что используется для Загадочной Крепости."
+job_esc_enigma_reader_effect_desc: "£job_esc_enigma_reader£ $job_esc_enigma_reader_plural$ перерабатывают £energy£ §Y$energy$§! и £consumer_goods£ §Y$consumer_goods$§! в £esc_enigmatic_energy£ §Y$esc_enigmatic_energy$§!."
+job_esc_enigma_reader_drone_effect_desc: "£job_esc_enigma_reader_drone£ $job_esc_enigma_reader_drone_plural$ перерабатывают £energy£ §Y$energy$§! и £food£ §Y$food$§! в £esc_enigmatic_energy£ §Y$esc_enigmatic_energy$§!."
+job_esc_enigma_reader_unit_effect_desc: "£job_esc_enigma_reader_unit£ $job_esc_enigma_reader_unit_plural$ перерабатывают £energy£ §Y$energy$§! into £esc_enigmatic_energy£ §Y$esc_enigmatic_energy$§!."
+
+nhsc_building_dragon_hatchery: "Драконий инкубатор"
+nhsc_building_dragon_hatchery_desc: "Специализированная установка для клонирования, построенная с явной целью клонирования могущественного Эфирного дракона."
+nhsc_building_dragon_hatchery_queued: "Драконий инкубатор в очереди"
+
+### Fallen Empire Buildings
+
+nhsc_building_nanite_containment: "Комплекс по накоплению нанитов"
+nhsc_building_nanite_containment_desc: "Огромный комплекс, вмещающий большое количество самовоспроизводящихся нанитов, изначально созданный давно умершей чрезвычайно развитой цивилизацией."
+
+nhsc_building_psi_energy_spire: "Псионный энергошпиль"
+nhsc_building_psi_energy_spire_desc: "Массивная установка, способная управлять необъятными энергиями материального мира, а также энергией, извлекаемой из-за Покрова."
+
+nhsc_building_localized_gravity_fault: "Локализованный гравитационный парадокс"
+nhsc_building_localized_gravity_fault_desc: "Давным-давно эксперимент, проведенный в этом месте, пробил дыру в пространственно-временном континууме. С тех пор этот возникший парадокс сдерживался и использовался для выкачивания большого колличества ресурсов из других измерений."
+
+nhsc_building_crystalline_manufacture: "Кристаллическая фабрика"
+nhsc_building_crystalline_manufacture_desc: "Производство, построенное с использованием давно утерянных технологий, с помощью которых были ассимилированы живые кристаллы для получения почти неограниченного доступа к редким и ценным ресурсам."

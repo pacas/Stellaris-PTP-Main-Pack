@@ -1,0 +1,281 @@
+﻿l_russian:
+  #Housing Districts:
+  
+  district_suburban_city:0 "Пригородный жилой район"
+  mod_district_suburban_city_max:0 "Пригородный жилой район"
+  district_suburban_city_plural:0 "Пригородный жилой район"
+  district_suburban_city_desc:0 ""
+  
+  district_slums:0 "Трущобы"
+  mod_district_slums_max:0 "Трущобы"
+  district_slums_plural:0 "Трущобы"
+  district_slums_desc:0 ""
+  
+  district_shelters:0 "Убежища"
+  mod_district_shelters_max:0 "Убежища"
+  district_shelters_plural:0 "Убежища"
+  district_shelters_desc:0 ""
+  
+  district_underground_city:0 "Подземный город"
+  mod_district_underground_city_max:0 "Подземный город"
+  district_underground_city_plural:0 "Подземный город"
+  district_underground_city_desc:0 ""
+  
+  district_rw_ascended_housing:0 "Вознесённый жилой район"
+  mod_district_rw_ascended_housing_max:0 "Вознесённый жилой район"
+  district_rw_ascended_housing_plural:0 "Вознесённый жилой район"
+  district_rw_ascended_housing_desc:0 "Этот район использует восстановленную гравитационную технологию предтеч, чтобы строить невероятно высокое и вместительное жилье."
+  
+  #Energy Districts:
+  
+  district_wind_turbines:0 "Ветрянная электростанция"
+  mod_district_wind_turbines_max:0 "Ветрянная электростанция"
+  district_wind_turbines_plural:0 "Ветряные электростанции"
+  district_wind_turbines_desc:0 "Сильные ветра на этой части планеты могут быть эффективно преобразованы в энергию."
+  
+  district_geothermal_generator:0 "Геотермальная электростанция"
+  mod_district_geothermal_generator_max:0 "Геотермальная электростанция"
+  district_geothermal_generator_plural:0 "Геотермальные электростанции"
+  district_geothermal_generator_desc:0 "Геотермальная электростанция использует природную геотермальную энергию планеты и преобразует её в энергию."
+  
+  district_solar_generator:0 "Солнечная электростанция"
+  mod_district_solar_generator_max:0 "Солнечная электростанция"
+  district_solar_generator_plural:0 "Солнечные электростанции"
+  district_solar_generator_desc:0 "Большие плоские равнины и чистое небо делают эту область идеальной для солнечных батарей с высокой выходной мощностью и простым уровнем обслуживания."
+  
+  district_tidal_generator:0 "Приливная электростанция"
+  mod_district_tidal_generator_max:0 "Приливная электростанция"
+  district_tidal_generator_plural:0 "Приливные электростанции"
+  district_tidal_generator_desc:0 "Приливные электростанции, установленные в океане, используют планетарную силу приливов и отливов для производства энергии."
+  
+  #Mining Districts:
+  
+  district_cheap_mining:0 "Дешёвые шахты"
+  mod_district_cheap_mining_max:0 "Дешёвые шахты"
+  district_cheap_mining_plural:0 "Дешёвые шахты"
+  district_cheap_mining_desc:0 "Правила техники безопасности и счастье работников являются вторичными по отношению к высокой добыче полезных ископаемых в этих шахтах."
+  
+  district_secure_mining:0 "Шахты повышенной безопасности"
+  mod_district_secure_mining_max:0 "Шахты повышенной безопасности"
+  district_secure_mining_plural:0 "Шахты повышенной безопасности"
+  district_secure_mining_desc:0 "Кто думал, что шахта будет таким приятным рабочим местом?"
+  
+  district_surface_mining:0 "Поверхностные месторождения"
+  mod_district_surface_mining_max:0 "Поверхностные месторождения"
+  district_surface_mining_plural:0 "Поверхностные месторождения"
+  district_surface_mining_desc:0 "Собирать камень за камнем..."
+  
+  district_asteroid_belt_mining:0 "Станция добычи на поясе астероидов"
+  mod_district_asteroid_belt_mining_max:0 "Станции добычи на поясе астероидов"
+  district_asteroid_belt_mining_plural:0 "Станции добычи на поясе астероидов"
+  district_asteroid_belt_mining_desc:0 ""
+  
+  district_rw_asteroid_belt_mining:0 "Станция добычи на поясе астероидов"
+  mod_district_rw_asteroid_belt_mining_max:0 "Станции добычи на поясе астероидов"
+  district_rw_asteroid_belt_mining_plural:0 "Станции добычи на поясе астероидов"
+  district_rw_asteroid_belt_mining_desc:0 ""
+  
+  #Farming Districts:
+  
+  district_hydroponic_bay:0 "Гидропонный комплекс"
+  mod_district_hydroponic_bay_max:0 "Гидропонный комплекс"
+  district_hydroponic_bay_plural:0 "Гидропонные комплексы"
+  district_hydroponic_bay_desc:0 "Гидропоника требует энергии, но производит еду на не очень гостеприимных планетах."
+  
+  district_nature_farms:0 "Природная ферма"
+  mod_district_nature_farms_max:0 "Природная ферма"
+  district_nature_farms_plural:0 "Природные фермы"
+  district_nature_farms_desc:0 "Отправляйтесь в дикую природу добывать то, что даёт нам природа."
+  
+  district_efficient_farms:0 "Эффективная ферма"
+  mod_district_efficient_farms_max:0 "Эффективная ферма"
+  district_efficient_farms_plural:0 "Эффективные фермы"
+  district_efficient_farms_desc:0 "Местные эффективные фермы используют больше работников для производства пищи."
+  
+  district_ocean_farms:0 "Океаническая ферма"
+  mod_district_ocean_farms_max:0 "Океаническая ферма"
+  district_ocean_farms_plural:0 "Океанические фермы"
+  district_ocean_farms_desc:0 "Океанические фермы используют водоросли для производства здоровой пищи."
+  
+  district_exotic_farms:0 "Экзотическая ферма"
+  mod_district_exotic_farms_max:0 "Экзотическая ферма"
+  district_exotic_farms_plural:0 "Экзотические фермы"
+  district_exotic_farms_desc:0 ""
+  
+  #Primary Districts:
+  
+  district_nature_reserve:0 "Природный заповедник"
+  mod_district_nature_reserve_max:0 "Природный заповедник"
+  district_nature_reserve_plural:0 "Природные заповедники"
+  district_nature_reserve_desc:0 "Участок естественной планетарной среды, свободной от промышленной деятельности, поддерживаемый и охраняемый рейнджерами."
+  
+  district_research_complex:0 "Исследовательский комплекс"
+  mod_district_research_complex_max:0 "Исследовательский комплекс"
+  district_research_complex_plural:0 "Исследовательские комплексы"
+  district_research_complex_desc:0 "Физические исследовательские комплексы принесут новаторские (иногда буквально) исследования в вашу империю."
+  
+  district_tourism:0 "Туристический район"
+  mod_district_tourism_max:0 "Туристический район"
+  district_tourism_plural:0 "Туристические районы"
+  district_tourism_desc:0 "Место отдыха номер один в Галактике!"
+  
+  district_chemistry_industry:0 "Химическая промышленность"
+  mod_district_chemistry_industry_max:0 "Химическая промышленность"
+  district_chemistry_industry_plural:0 "Химическая промышленность"
+  district_chemistry_industry_desc:0 "Это может быть не так уж хорошо для окружающей среды, но вы всегда можете просто колонизировать другую планету."
+  
+  district_gas_refinery:0 "Газоперерабатывающий завод"
+  mod_district_gas_refinery_max:0 "Газоперерабатывающий завод"
+  district_gas_refinery_plural:0 "Газоперерабатывающий завод"
+  district_gas_refinery_desc:0 "Следы нахождения экзотических газов можно обнаружить в залежах планеты. Этот район предназначен для извлечения и переработки их в полезные материалы."
+  
+  district_crystal_mines:0 "Кристальные шахты"
+  mod_district_crystal_mines_max:0 "Кристальные шахты"
+  district_crystal_mines_plural:0 "Кристальные шахты"
+  district_crystal_mines_desc:0 "Редкие кристаллы могут быть найдены в коре этой планеты. Для того, чтобы добыть их на такой глубине, требуется предприятие размером с целый район."
+  
+  district_ocean_housing:0 "Океанический жилой район"
+  mod_district_ocean_housing_max:0 "Океанический жилой район"
+  district_ocean_housing_plural:0 "Океанический жилой район"
+  district_ocean_housing_desc:0 "Эти районы - гигантские здания, плавающие в океане."
+  
+  district_ecogardens:0 "Экосад"
+  mod_district_ecogardens_max:0 "Экосад"
+  district_ecogardens_plural:0 "Экосады"
+  district_ecogardens_desc:0 "Здесь собрана самая красивая флора и фауна этого мира, чтобы создать идеальную гармонию жизни."
+  
+  district_gardens:0 "Сад"
+  mod_district_gardens_max:0 "Сад"
+  district_gardens_plural:0 "Сады"
+  district_gardens_desc:0 "Здесь собрана прекрасная флора и фауна этого мира, чтобы создать идеальную гармонию жизни."
+  
+  district_ascended_housing:0 "Вознесённый жилой район"
+  mod_district_ascended_housing_max:0 "Вознесённый жилой район"
+  district_ascended_housing_plural:0 "Вознесённые жилые районы"
+  district_ascended_housing_desc:0 "Этот район использует восстановленную гравитационную технологию предтеч, чтобы строить невероятно высокое и вместительное жилье."
+  
+  district_cloning_facility:0 "Фабрика клонирования"
+  mod_district_cloning_facility_max:0 "Фабрика клонирования"
+  district_cloning_facility_plural:0 "Фабрики клонирования"
+  district_cloning_facility_desc:0 ""
+  
+  district_robot_assembly:0 "Сборочный цех роботов"
+  mod_district_robot_assembly_max:0 "Сборочный цех роботов"
+  district_robot_assembly_plural:0 "Сборочные цеха роботов"
+  district_robot_assembly_desc:0 ""
+  
+  district_drone_lab:0 "Лаборатория дронов"
+  mod_district_drone_lab_max:0 "Лаборатория дронов"
+  district_drone_lab_plural:0 "Лаборатории дронов"
+  district_drone_lab_desc:0 ""
+  
+  district_archeology:0 "Археологический район"
+  mod_district_archeology_max:0 "Археологический район"
+  district_archeology_plural:0 "Археологические районы"
+  district_archeology_desc:0 ""
+  
+  district_rw_universal:0 "Универсальный район"
+  mod_district_rw_universal_max:0 "Универсальный район"
+  district_rw_universal_plural:0 "Универсальные районы"
+  district_rw_universal_desc:0 ""
+  
+  #Secondary Districts (Tier 1):
+  
+  district_local_stores:0 "Район местной торговли"
+  mod_district_local_stores_max:0 "Районы местной торговли"
+  district_local_stores_plural:0 "Районы местной торговли"
+  district_local_stores_desc:0 "Магазин вашего дружелюбного соседа."
+  
+  district_spaceport:0 "Космодром"
+  mod_district_spaceport_max:0 "Космодром"
+  district_spaceport_plural:0 "Космодромы"
+  district_spaceport_desc:0 "Космодром расширяет торговлю, и пилоты, работающие там, увеличат вашу вместительность флота."
+  
+  district_workshops:0 "Мастерская"
+  mod_district_workshops_max:0 "Мастерская"
+  district_workshops_plural:0 "Мастерские"
+  district_workshops_desc:0 "Инженеры инженерят инженерные штуки здесь."
+  
+  district_local_industry:0 "Сплаволитейный район"
+  mod_district_local_industry_max:0 "Сплаволитейный район"
+  district_local_industry_plural:0 "Сплаволитейные районы"
+  district_local_industry_desc:0 "Местные предприятия производят ограниченное количество сплавов."
+  
+  district_production_hub:0 "Производственный центр"
+  mod_district_production_hub_max:0 "Производственный центр"
+  district_production_hub_plural:0 "Производственный центр"
+  district_production_hub_desc:0 "Производственный центр производит все, что требуется вашим поселениям. (Бесплатная доставка по всей Галактике !!!)"
+  
+  district_academy:0 "Академия"
+  mod_district_academy_max:0 "Академия"
+  district_academy_plural:0 "Академии"
+  district_academy_desc:0 ""
+  
+  district_university:0 "Университет"
+  mod_district_university_max:0 "Университет"
+  district_university_plural:0 "Университеты"
+  district_university_desc:0 ""
+  
+  district_logistics_hub:0 "Центр логистики"
+  mod_district_logistics_hub_max:0 "Центр логистики"
+  district_logistics_hub_plural:0 "Центры логистики"
+  district_logistics_hub_desc:0 ""
+  
+  #Secondary Districts (Tier 2):
+  
+  district_commerce:0 "Торговый район §R(Уровень 2)§!"
+  mod_district_commerce_max:0 "Торговый район §R(Уровень 2)§!"
+  district_commerce_plural:0 "Торговые районы §R(Уровень 2)§!"
+  district_commerce_desc:0 "Да начнется торговля!"
+  
+  district_workshops_t2:0 "Мастерская §R(Уровень 2)§!"
+  mod_district_workshops_t2_max:0 "Мастерская §R(Уровень 2)§!"
+  district_workshops_t2_plural:0 "Мастерские §R(Уровень 2)§!"
+  district_workshops_t2_desc:0 "Инженеры инженерят инженерные штуки здесь."
+  
+  district_university_t2:0 "Университет §R(Уровень 2)§!"
+  mod_district_university_t2_max:0 "Университет §R(Уровень 2)§!"
+  district_university_t2_plural:0 "Университеты §R(Уровень 2)§!"
+  district_university_t2_desc:0 ""
+  
+  district_industry:0 "Сплаволитейный район §R(Уровень 2)§!"
+  mod_district_industry_max:0 "Сплаволитейный район §R(Уровень 2)§!"
+  district_industry_plural:0 "Сплаволитейный район §R(Уровень 2)§!"
+  district_industry_desc:0 "Сплаволитейный район производит большое количество сплавов."
+  
+  district_civilian_industry:0 "Производственный центр §R(Уровень 2)§!"
+  mod_district_civilian_industry_max:0 "Производственный центр §R(Tier II)§!"
+  district_civilian_industry_plural:0 "Производственныу центры §R(Tier II)§!"
+  district_civilian_industry_desc:0 "Производственный центр производит все, что требуется вашим поселениям. (Бесплатная доставка по всей Галактике !!!)!!)"
+
+  district_spaceport_t2:0 "Космопорт §R(Уровень 2)§!"
+  mod_district_spaceport_t2_max:0 "Космопорт §R(Уровень 2)§!"
+  district_spaceport_t2_plural:0 "Космопорты §R(Уровень 2)§!"
+  district_spaceport_t2_desc:0 "Космопорт расширяет торговлю, и пилоты, работающие там, увеличат вашу вместительность флота."
+  
+  district_academy_t2:0 "Академия §R(Уровень 2)§!"
+  mod_district_academy_t2_max:0 "Академия §R(Уровень 2)§!"
+  district_academy_t2_plural:0 "Академии §R(Уровень 2)§!"
+  district_academy_t2_desc:0 ""
+  
+  district_logistics_hub_t2:0 "Логистический центр §R(Уровень 2)§!"
+  mod_district_logistics_hub_t2_max:0 "Логистический центр §R(Уровень 2)§!"
+  district_logistics_hub_t2_plural:0 "Логистические центры §R(Уровень 2)§!"
+  district_logistics_hub_t2_desc:0 ""
+  
+  # Mod Districts:
+  
+  district_dyson_spaceport:0 "Космопорт"
+  mod_district_dyson_spaceport_max:0 "Космопорт"
+  district_dyson_spaceport_plural:0 "Космопорт"
+  district_dyson_spaceport_desc:0 "Космопорт расширяет торговлю, и пилоты, работающие там, увеличат вашу вместительность флота."
+  
+  district_tibanna_gas_mines:0 "Планетарная скважина газа Тибанна"
+  mod_district_tibanna_gas_mines_max:0 "Планетарная скважина газа Тибанна"
+  district_tibanna_gas_mines_plural:0 "Планетарная скважина газа Тибанна"
+  district_tibanna_gas_mines_desc:0 "Планетарные скважины газа Тибанна позволяют специализированным шахтерам бурить под земной корой и разрабатывать там газовые карманы. Но они не так эффективны как добывающие станции на газовых гигантах."
+  
+  district_kyber_crystal_mines:0 "Планетарная шахта кайбер-кристалов"
+  mod_district_kyber_crystal_mines_max:0 "Планетарная шахта кайбер-кристалов"
+  district_kyber_crystal_mines_plural:0 "Планетарные шахты кайбер-кристалов"
+  district_kyber_crystal_mines_desc:0 "Планетарные шахты кайбер-кристалов позволяют собирать чрезвычайно ценные кибер-кристаллы, которые используются в современных типах оружия. Но они не так эффективны как добывающие станции на звёздах."

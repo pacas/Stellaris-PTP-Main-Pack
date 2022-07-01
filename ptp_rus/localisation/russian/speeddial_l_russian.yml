@@ -1,0 +1,71 @@
+﻿l_russian:
+ speeddial_button_contact_tooltip:0 "Связаться с §HАнклавом§!"
+ speeddial_button_contact_tooltip:0 "Связаться с"
+ speeddial_button_contact_wbc_tooltip:0 "будет набран."
+ speeddial_button_contact_trader_tooltip:0 "Связаться с §HГильдией торговцев§!"
+ speeddial_button_contact_artist_tooltip:0 "Связаться с §HТруппой мастеров§!"
+ speeddial_button_contact_curator_tooltip:0 "Связаться с §HКураторами§!"
+ speeddial_button_contact_shroud_tooltip:0 "Войти в §MПокров§!"
+ speeddial_button_contact_caravaneer_tooltip:0 "Связаться с §HКараванщиками§!"
+
+ speeddial_button_contact_traders_xc_tooltip:0 " §H$leviathans.100.name$§!"
+ speeddial_button_contact_traders_rce_tooltip:0 "Связаться с §H$leviathans.103.name$§!"
+ speeddial_button_contact_traders_mmg_tooltip:0 "Связаться с §H$leviathans.104.name$§!"
+
+ speeddial_button_allow_blank_tooltip:0 ""
+ speeddial_button_newline:0 " \n"
+ speeddial_button_allow_shroud_wmw:0 "Мы должны подождать"
+ speeddial_button_allow_shroud_brisa:0 "пока не получим доступ в §MПокров§! опять."
+
+ speeddial_button_allow_shroud_tooltip:0 "Необходимо подождать, прежде чем мы снова сможем связаться с Покровом вновь."
+ speeddial_button_allow_shroud_3600_tooltip:0 "$speeddial_button_allow_shroud_wmw$ §H10 лет§! $speeddial_button_allow_shroud_brisa$"
+ speeddial_button_allow_shroud_1800_tooltip:0 "$speeddial_button_allow_shroud_wmw$ §H5 лет§! $speeddial_button_allow_shroud_brisa$"
+ speeddial_button_allow_shroud_1440_tooltip:0 "$speeddial_button_allow_shroud_wmw$ §H4 года§! $speeddial_button_allow_shroud_brisa$"
+ speeddial_button_allow_shroud_1080_tooltip:0 "$speeddial_button_allow_shroud_wmw$ §H3 года§! $speeddial_button_allow_shroud_brisa$"
+ speeddial_button_allow_shroud_720_tooltip:0 "$speeddial_button_allow_shroud_wmw$ §H2 года§! $speeddial_button_allow_shroud_brisa$"
+ speeddial_button_allow_shroud_360_tooltip:0 "$speeddial_button_allow_shroud_wmw$ §H1 год§! $speeddial_button_allow_shroud_brisa$"
+ speeddial_button_allow_shroud_180_tooltip:0 "$speeddial_button_allow_shroud_wmw$ §H6 месяцев§! $speeddial_button_allow_shroud_brisa$"
+ speeddial_button_allow_shroud_150_tooltip:0 "$speeddial_button_allow_shroud_wmw$ §H5 месяцев§! $speeddial_button_allow_shroud_brisa$"
+ speeddial_button_allow_shroud_120_tooltip:0 "$speeddial_button_allow_shroud_wmw$ §H4 месяца§! $speeddial_button_allow_shroud_brisa$"
+ speeddial_button_allow_shroud_90_tooltip:0 "$speeddial_button_allow_shroud_wmw$ §H3 месяца§! $speeddial_button_allow_shroud_brisa$"
+ speeddial_button_allow_shroud_60_tooltip:0 "$speeddial_button_allow_shroud_wmw$ §H2 месяца§! $speeddial_button_allow_shroud_brisa$"
+ speeddial_button_allow_shroud_30_tooltip:0 "$speeddial_button_allow_shroud_wmw$ §H1 месяц§! $speeddial_button_allow_shroud_brisa$"
+
+ speeddial_button_open_options_tooltip:0 "Нажмите. чтобы изменить режим SpeedDial.\n\nТекущий режим:\n"
+ speeddial_button_open_options_tooltip_end:0 "\n§YКлассический:§! Кнопки вызывают случайный доступный анклав.\n\n§YРасширенный:§! Можно вызывать конкретный анклав.\n\n§YФиксированный:§! Кнопка будет вызывать последний вызванный в расширенном меню анклав."
+ speeddial_button_open_options_tooltip_classic:0 ">§GКлассический§!\n  §RРасширенный (Классический)§!\n  §RРасширенный (Фиксированный)§!\n  §RФиксированный§!"
+ speeddial_button_open_options_tooltip_extended:0 "  §RКлассический§!\n>§GРасширенный (Классический)§!\n  §RРасширенный (Фиксированный)§!\n  §RФиксированный§!"
+ speeddial_button_open_options_tooltip_extended_fixed:0 "  §RКлассический§!\n  §RРасширенный (Классический)§!\n>§GРасширенный (Фиксированный)§!\n  §RФиксированный§!"
+ speeddial_button_open_options_tooltip_fixed:0 "  §RКлассический§!\n  §RРасширенный (Классический)§!\n  §RРасширенный (Фиксированный)§!\n>§GФиксированный§!"
+
+ speeddial.4.name:0 "§R*ВАЖНО*§! SpeedDial - таймер входа в Покров"
+ speeddial.4.desc:0 "Это уведомление появляется только потому, что вы прорвали Пелену, и либо SpeedDial был обновлен, либо вы только что загрузили этот мод. Это уведомление не появится в других обстоятельствах.\n\nПри наведении курсора на кнопку Покрова будет показана подсказка, показывающая приблизительное время до возможности повторного посещения Покрова. Из-за кода (который не должен конфликтовать с другими модами и будущими обновлениями), существует раздражающая ошибка. Если вы в настоящее время не можете войти в Покров, но включите этот мод, то таймер не будет работать должным обраом.\n\n Пожалуйста обратите внимание: \n\n §HТаймер будет работать в следующий раз, когда вы войдете в Покров §!\n\n§RТОЛЬКО ЕСЛИ§!\n\n§HНе будете входить в Покров в течение месяца после получения этой возможности§!.\n\n После этого, таймер будет правильно сброшен, и ошибка будет устранена!"
+
+ speeddial_button_contact_marauder_tooltip:0 "Связаться с §HМародёрами§!"
+ speeddial_button_contact_marauder_1_tooltip:0 "Связаться с §HМародёрами§!"
+ speeddial_button_contact_marauder_2_tooltip:0 "Связаться с §HМародёрами§!"
+ speeddial_button_contact_marauder_3_tooltip:0 "Связаться с §HМародёрами§!"
+
+ ########
+ # mods #
+ ########
+
+ # merc enclave
+ speeddial_button_contact_merc_tooltip:0 "Соединить с §HАнклавом наемников§!"
+
+ # human fallen empires
+ speeddial_button_contact_hfe_tooltip:0 "Соединить с §H[human_fallen_empires_thoth.GetName]§!"
+
+ speeddial_button_contact_hfe_pirate_tooltip:0 "Соединить с §HПиратами§!"
+
+ speeddial_button_contact_hfe_deepvoid_tooltip:0 "Стыковка"
+ speeddial_button_allow_hfe_deepvoid_tooltip:0 "Мы должны находиться в системе с дружественной планетой."
+
+# new enclaves
+
+ speeddial_button_contact_nehive_tooltip:0 "Связаться с §GВсеобъемлющим ульем§!"
+ speeddial_button_contact_nemachine_tooltip:0 "Связаться с §RПервыми машинами§!"
+ speeddial_button_contact_neshroud_tooltip:0 "Связаться с §MДетьми Покрова§!"
+
+# xenonion
+ speeddial_button_contact_xenonews_tooltip:0 "Связаться с §EНовостями Ксенониона§!"

@@ -1,0 +1,172 @@
+﻿l_russian:
+
+ bwm_ANCIENT_PRIMARY_WEAPON:0 "Древняя супергравитонная пушка"
+ bwm_ANCIENT_SECONDARY_WEAPON:0 "Древняя гравитонная пушка"
+
+ bwm_ANCIENT_SPACEPORT_WEAPON:0 "Древняя гравитонная пушка"
+
+ bwm_ANCIENT_PRIMARY_STATION_WEAPON:0 "Древняя гравитонная пушка"
+ bwm_ANCIENT_CRUISER_WEAPON:0 "Древняя гравитонная пушка"
+
+ bwm_ANCIENT_TORPEDO:0 "Древняя коррозийная торпеда"
+
+ bwm_ANCIENT_ESCORT_WEAPON:0 "Древняя фотонная пушка Т-III"
+ bwm_ANCIENT_LARGE_WEAPON:0 "Древняя фотонная пушка Т-III"
+ bwm_ANCIENT_LARGE_STATION_WEAPON:0 "Древняя фотонная пушка Т-III"
+
+ bwm_ANCIENT_MEDIUM_WEAPON:0 "Древняя фотонная пушка Т-II"
+ bwm_ANCIENT_SMALL_WEAPON:0 "Древняя фотонная пушка Т-I"
+ bwm_ANCIENT_PD:0 "Древний оборонительный комплекс"
+
+ bwm_ANCIENT_DRONE_HANGAR:0 "Древний ангар дронов"
+
+ bwm_ANCIENT_WEAPON_AURA:0 "Древнее поле-ингибитор"
+
+ bwm_ANCIENT_NOVA_AURA:0 "Древний излучатель гравитонов Т-I"
+ bwm_ANCIENT_NOVA_CHARGED_AURA:0 "Древний излучатель гравитонов Т-II"
+ bwm_ANCIENT_NOVA_MAX_AURA:0 "Древний излучатель гравитонов Т-III"
+
+ bwm_ancient_combat_drone:0 "Боевой дрон"
+ bwm_ancient_combat_drone_plural:0 "Боевые дроны"
+ bwm_ancient_combat_drone_key:0 "Ядро боевых дронов"
+
+ bwm_ancient_control_drone:0 "Дрон-контролёр"
+ bwm_ancient_control_drone_plural:0 "Дроны-контролёры"
+ bwm_ancient_control_drone_key:0 "Ядро дронов-контролёров"
+
+ bwm_ancient_escort:0 "Фрегат"
+ bwm_ancient_escort_plural:0 "Фрегаты"
+ bwm_ancient_escort_key:0 "Ядро фрегатов"
+
+ bwm_ancient_cruiser:0 "Ударный крейсер"
+ bwm_ancient_cruiser_plural:0 "Ударные крейсеры"
+ bwm_ancient_cruiser_key:0 "Ядро ударных крейсеров"
+
+ bwm_ancient_nova:0 "Сингулярность"
+ bwm_ancient_nova_plural:0 "Сингулярности"
+ bwm_ancient_nova_key:0 "Ядро сингулярности"
+
+ bwm_ancient_nova_charged:0 "Сингулярность"
+ bwm_ancient_nova_charged_plural:0 "Сингулярности"
+ bwm_ancient_nova_charged_key:0 "Ядро сингулярности"
+
+ bwm_ancient_weapon:0 "Небесное копье"
+ bwm_ancient_weapon_plural:0 "Небесные копья"
+ bwm_ancient_weapon_key:0 "Ядро небесного копья"
+
+ bwm_ancient_large_military_station:0 "Цитадель"
+ bwm_ancient_large_military_station_plural:0 "Цитадели"
+ bwm_ancient_large_military_station_key:0 "Ядро цитадели"
+
+ bwm_ancient_small_military_station:0 "Ретранслятор"
+ bwm_ancient_small_military_station_plural:0 "Ретрансляторы"
+ bwm_ancient_small_military_station_key:0 "Ядро ретрансляторов"
+
+ bwm_ancient_weapon_planet_debuff:0 "Помехи от вспышки сверхновой"
+ bwm_ancient_weapon_planet_debuff_desc:0 "Эти побочные эффекты вызваны последствиями использования одной из мощных орудийных систем Гунгира."
+
+ bwm_ancient_fleet_headquarter:0 "Штаб флота"
+ bwm_ancient_fleet_headquarter_DESC:0 "Это огромный узел занимается оптимизацией операций флота и сокращает объём бюрократических операций, что ведёт к значительному повышению эффективности флота."
+ bwm_ancient_fleet_headquarter_MEGASTRUCTURE_DETAILS:0 ""
+
+ tech_bwm_ancient_weapon:0 "Схема корабля - Рагнарёк"
+ tech_bwm_ancient_weapon_desc:0 "Детальные схемы древнего оружия, когда-то использовавшегося в войне против сил рассвета."
+
+ requires_no_existing_ancient_weapon:0 "$TRIGGER_FAIL$Нельзя построить больше одного Рагнарёк, Небесного копья Гунгнира."
+
+ bwm_ancient.6:0 "Протоколы аварийного ремонта"
+ bwm_ancient.6.desc:0 "-Производительность вспомогательного реактора критическая-"
+ bwm_ancient.6.a:0 "Повысить производство наноматериалов на 200 процентов."
+
+ #Ragnarok Construction Platform
+
+ bwm_ancient_weapon_project_00:0 "Место сборки древнего оружия"
+ bwm_ancient_weapon_project_00_DESC:0 "Эта строительная станция служит местом сборки древнего оружия под названием '$bwm_ancient_weapon_project_25$'."
+ bwm_ancient_weapon_project_00_MEGASTRUCTURE_DETAILS:0 "Схема легендарного оружия §Y$bwm_ancient_weapon_project_25$§!."
+
+ #Ragnarok Core
+
+ bwm_ancient_weapon_project_01:0 "Частично завершённое древнее оружие"
+ bwm_ancient_weapon_project_01_DESC:0 "$bwm_ancient_weapon_project_25$ - Стадия завершения: §Y1/25§!"
+
+ #Ragnarok Structure
+
+ bwm_ancient_weapon_project_02:0 "Частично завершённое древнее оружие"
+ bwm_ancient_weapon_project_02_DESC:0 "$bwm_ancient_weapon_project_25$ - Стадия завершения: §Y2/25§!"
+
+ bwm_ancient_weapon_project_03:0 "Частично завершённое древнее оружие"
+ bwm_ancient_weapon_project_03_DESC:0 "$bwm_ancient_weapon_project_25$ - Стадия завершения: §Y3/25§!"
+
+ bwm_ancient_weapon_project_04:0 "Частично завершённое древнее оружие"
+ bwm_ancient_weapon_project_04_DESC:0 "$bwm_ancient_weapon_project_25$ - Стадия завершения: §Y4/25§!"
+
+ bwm_ancient_weapon_project_05:0 "Частично завершённое древнее оружие"
+ bwm_ancient_weapon_project_05_DESC:0 "$bwm_ancient_weapon_project_25$ - Стадия завершения: §Y5/25§!"
+
+ bwm_ancient_weapon_project_06:0 "Частично завершённое древнее оружие"
+ bwm_ancient_weapon_project_06_DESC:0 "$bwm_ancient_weapon_project_25$ - Стадия завершения: §Y6/25§!"
+
+ bwm_ancient_weapon_project_07:0 "Частично завершённое древнее оружие"
+ bwm_ancient_weapon_project_07_DESC:0 "$bwm_ancient_weapon_project_25$ - Стадия завершения: §Y7/25§!"
+
+ #Ragnarok Mount
+
+ bwm_ancient_weapon_project_08:0 "Частично завершённое древнее оружие"
+ bwm_ancient_weapon_project_08_DESC:0 "$bwm_ancient_weapon_project_25$ - Стадия завершения: §Y8/25§!"
+
+ bwm_ancient_weapon_project_09:0 "Частично завершённое древнее оружие"
+ bwm_ancient_weapon_project_09_DESC:0 "$bwm_ancient_weapon_project_25$ - Стадия завершения: §Y9/25§!"
+
+ bwm_ancient_weapon_project_10:0 "Частично завершённое древнее оружие"
+ bwm_ancient_weapon_project_10_DESC:0 "$bwm_ancient_weapon_project_25$ - Стадия завершения: §Y10/25§!"
+
+ bwm_ancient_weapon_project_11:0 "Частично завершённое древнее оружие"
+ bwm_ancient_weapon_project_11_DESC:0 "$bwm_ancient_weapon_project_25$ - Стадия завершения: §Y11/25§!"
+
+ bwm_ancient_weapon_project_12:0 "Частично завершённое древнее оружие"
+ bwm_ancient_weapon_project_12_DESC:0 "$bwm_ancient_weapon_project_25$ - Стадия завершения: §Y12/25§!"
+
+ bwm_ancient_weapon_project_13:0 "Частично завершённое древнее оружие"
+ bwm_ancient_weapon_project_13_DESC:0 "$bwm_ancient_weapon_project_25$ - Стадия завершения: §Y13/25§!"
+
+ #Ragnarok S Funnel
+
+ bwm_ancient_weapon_project_14:0 "Частично завершённое древнее оружие"
+ bwm_ancient_weapon_project_14_DESC:0 "$bwm_ancient_weapon_project_25$ - Стадия завершения: §Y14/25§!"
+
+ bwm_ancient_weapon_project_15:0 "Частично завершённое древнее оружие"
+ bwm_ancient_weapon_project_15_DESC:0 "$bwm_ancient_weapon_project_25$ - Стадия завершения: §Y15/25§!"
+
+ bwm_ancient_weapon_project_16:0 "Частично завершённое древнее оружие"
+ bwm_ancient_weapon_project_16_DESC:0 "$bwm_ancient_weapon_project_25$ - Стадия завершения: §Y16/25§!"
+
+ #Ragnarok L Funnel
+
+ bwm_ancient_weapon_project_17:0 "Частично завершённое древнее оружие"
+ bwm_ancient_weapon_project_17_DESC:0 "$bwm_ancient_weapon_project_25$ - Стадия завершения: §Y17/25§!"
+
+ bwm_ancient_weapon_project_18:0 "Частично завершённое древнее оружие"
+ bwm_ancient_weapon_project_18_DESC:0 "$bwm_ancient_weapon_project_25$ - Стадия завершения: §Y18/25§!"
+
+ bwm_ancient_weapon_project_19:0 "Частично завершённое древнее оружие"
+ bwm_ancient_weapon_project_19_DESC:0 "$bwm_ancient_weapon_project_25$ - Стадия завершения: §Y19/25§!"
+
+ #Ragnarok Reactor
+
+ bwm_ancient_weapon_project_20:0 "Частично завершённое древнее оружие"
+ bwm_ancient_weapon_project_20_DESC:0 "$bwm_ancient_weapon_project_25$ - Стадия завершения: §Y20/25§!"
+
+ bwm_ancient_weapon_project_21:0 "Частично завершённое древнее оружие"
+ bwm_ancient_weapon_project_21_DESC:0 "$bwm_ancient_weapon_project_25$ - Стадия завершения: §Y21/25§!"
+
+ bwm_ancient_weapon_project_22:0 "Частично завершённое древнее оружие"
+ bwm_ancient_weapon_project_22_DESC:0 "$bwm_ancient_weapon_project_25$ - Стадия завершения: §Y22/25§!"
+
+ bwm_ancient_weapon_project_23:0 "Частично завершённое древнее оружие"
+ bwm_ancient_weapon_project_23_DESC:0 "$bwm_ancient_weapon_project_25$ - Стадия завершения: §Y23/25§!"
+
+ bwm_ancient_weapon_project_24:0 "Частично завершённое древнее оружие"
+ bwm_ancient_weapon_project_24_DESC:0 "$bwm_ancient_weapon_project_25$ - Стадия завершения:  §Y24/25§!"
+
+ bwm_ancient_weapon_project_25:0 "Рагнарёк, Небесное копье Гунгнир"
+ bwm_ancient_weapon_project_25_DESC:0 "Стадия завершения: §Y25/25§!\n\nПолностью функциональная копия древнего оружия, которое помогло победить Избранников Рассвета."

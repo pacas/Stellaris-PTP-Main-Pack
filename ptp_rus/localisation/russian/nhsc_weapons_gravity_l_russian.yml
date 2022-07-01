@@ -1,0 +1,86 @@
+﻿l_russian:
+
+### RUSSIAN LOCALIZATION
+
+########################################
+### Gravitational Anomaly Projector  ###
+########################################
+
+NHSC_SINGULARITY_CANNON_1: "Проектор гравитационных аномалий"
+NHSC_SINGULARITY_CANNON_1_DESC: "Это орудие генерирует произвольные гравитационные волны, поражающие любые цели в радиусе действия."
+SMALL_NHSC_SINGULARITY_CANNON_1: "Малый $NHSC_SINGULARITY_CANNON_1$"
+SMALL_NHSC_SINGULARITY_CANNON_1_DESC: "$NHSC_SINGULARITY_CANNON_1_DESC$"
+MEDIUM_NHSC_SINGULARITY_CANNON_1: "Средний $NHSC_SINGULARITY_CANNON_1$"
+MEDIUM_NHSC_SINGULARITY_CANNON_1_DESC: "$NHSC_SINGULARITY_CANNON_1_DESC$"
+LARGE_NHSC_SINGULARITY_CANNON_1: "Большой $NHSC_SINGULARITY_CANNON_1$"
+LARGE_NHSC_SINGULARITY_CANNON_1_DESC: "$NHSC_SINGULARITY_CANNON_1_DESC$"
+
+########################################
+###    Spatial Distortion Cannon     ###
+########################################
+
+NHSC_SINGULARITY_CANNON_2: "Проектор пространственных искажений"
+NHSC_SINGULARITY_CANNON_2_DESC: "Улучшенная, более мощная версия проектора гравитационных аномалий."
+SMALL_NHSC_SINGULARITY_CANNON_2: "Малый $NHSC_SINGULARITY_CANNON_2$"
+SMALL_NHSC_SINGULARITY_CANNON_2_DESC: "$NHSC_SINGULARITY_CANNON_2_DESC$"
+MEDIUM_NHSC_SINGULARITY_CANNON_2: "Средний $NHSC_SINGULARITY_CANNON_2$"
+MEDIUM_NHSC_SINGULARITY_CANNON_2_DESC: "$NHSC_SINGULARITY_CANNON_2_DESC$"
+LARGE_NHSC_SINGULARITY_CANNON_2: "Большой $NHSC_SINGULARITY_CANNON_2$"
+LARGE_NHSC_SINGULARITY_CANNON_2_DESC: "$NHSC_SINGULARITY_CANNON_2_DESC$"
+
+########################################
+###     Microsingularity Cannon      ###
+########################################
+
+NHSC_SINGULARITY_CANNON_3: "Микросингулярностное орудие"
+NHSC_SINGULARITY_CANNON_3_DESC: "Это орудие стреляет миниатюрными нестабильными пространственными сингулярностями, способными с лёгкостью уничтожить практически любые цели."
+SMALL_NHSC_SINGULARITY_CANNON_3: "Малое $NHSC_SINGULARITY_CANNON_3$"
+SMALL_NHSC_SINGULARITY_CANNON_3_DESC: "$NHSC_SINGULARITY_CANNON_3_DESC$"
+MEDIUM_NHSC_SINGULARITY_CANNON_3: "Среднее $NHSC_SINGULARITY_CANNON_3$"
+MEDIUM_NHSC_SINGULARITY_CANNON_3_DESC: "$NHSC_SINGULARITY_CANNON_3_DESC$"
+LARGE_NHSC_SINGULARITY_CANNON_3: "Большое $NHSC_SINGULARITY_CANNON_3$"
+LARGE_NHSC_SINGULARITY_CANNON_3_DESC: "$NHSC_SINGULARITY_CANNON_3_DESC$"
+
+########################################
+###    Spatial Distortion Warhead    ###
+########################################
+
+NHSC_GRAVITY_TORPS_1: "Боеголовка пространственных искажений"
+NHSC_GRAVITY_TORPS_1_DESC: "Торпеда, способная испускать мощные гравитационные волны, разрывающие межатомные связи любого вещества в зоне поражения."
+
+########################################
+###     Microsingularity Warhead     ###
+########################################
+
+NHSC_GRAVITY_TORPS_2: "Микросингулярностная боеголовка"
+NHSC_GRAVITY_TORPS_2_DESC: "Детонация этой боеголовки создает маленькую и очень неустойчивую чёрную дыру, способную поглотить любой корабль, которому не повезёт оказаться поблизости до её рассеивания."
+
+########################################
+###       Super-Graviton Cannon      ###
+########################################
+
+NHSC_GRAVITON_LANCE_1: "Гравитонная пушка"
+NHSC_GRAVITON_LANCE_1_DESC: "Корпускулярное орудие, способное сжать пространственно-временной континуум на линии своего огня и буквально разорвать тем самым всё, чему не повезёт на ней оказаться."
+
+########################################
+###   Focused Super-Graviton Cannon  ###
+########################################
+
+NHSC_GRAVITON_LANCE_2: "Сфокусированная гравитонная пушка"
+NHSC_GRAVITON_LANCE_2_DESC: "Улучшенная версия гравитонной пушки."
+
+########################################
+###   Titanic Super-Graviton Cannon  ###
+########################################
+
+NHSC_GRAVITON_LANCE_TITANIC: "Титаническая гравитонная пушка"
+NHSC_GRAVITON_LANCE_TITANIC_DESC: "Сильно увеличенная версия гравитонной пушки, предназначенная для самых больших кораблей в нашем флоте."
+NHSC_GRAVITON_LANCE_JUGGERNAUT: "$NHSC_GRAVITON_LANCE_1$ ($juggernaut$)"
+NHSC_GRAVITON_LANCE_JUGGERNAUT_DESC: "$NHSC_GRAVITON_LANCE_TITANIC_DESC$"
+
+########################################
+###        Singularity Bombers       ###
+########################################
+
+NHSC_GRAVITY_BOMBERS: "Сингулярностные бомбардировщики"
+NHSC_GRAVITY_BOMBERS_DESC: "Бомбадировщики, вооружённые гравитационным оружием."

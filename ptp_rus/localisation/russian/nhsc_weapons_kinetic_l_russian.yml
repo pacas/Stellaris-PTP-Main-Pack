@@ -1,0 +1,164 @@
+﻿l_russian:
+
+### RUSSIAN LOCALIZATION
+
+########################################
+###       Advanced Gauss Cannon      ###
+########################################
+
+NHSC_MASS_DRIVER_6: "Улучшенная гаусс-система"
+NHSC_MASS_DRIVER_6_DESC: "Улучшенный вариант гаусс-системы, являющийся более точным и разрушительным."
+SMALL_NHSC_MASS_DRIVER_6: "Малая $NHSC_MASS_DRIVER_6$"
+SMALL_NHSC_MASS_DRIVER_6_DESC: "$NHSC_MASS_DRIVER_6_DESC$"
+MEDIUM_NHSC_MASS_DRIVER_6: "Средняя $NHSC_MASS_DRIVER_6$"
+MEDIUM_NHSC_MASS_DRIVER_6_DESC: "$NHSC_MASS_DRIVER_6_DESC$"
+LARGE_NHSC_MASS_DRIVER_6: "Большая $NHSC_MASS_DRIVER_6$"
+LARGE_NHSC_MASS_DRIVER_6_DESC: "$NHSC_MASS_DRIVER_6_DESC$"
+
+########################################
+###           Strike Cannon          ###
+########################################
+
+NHSC_MASS_DRIVER_7: "Ударная пушка"
+NHSC_MASS_DRIVER_7_DESC: "Компактный, но смертоносный магнитный ускоритель."
+SMALL_NHSC_MASS_DRIVER_7: "Малая $NHSC_MASS_DRIVER_7$"
+SMALL_NHSC_MASS_DRIVER_7_DESC: "$NHSC_MASS_DRIVER_7_DESC$"
+MEDIUM_NHSC_MASS_DRIVER_7: "Средняя $NHSC_MASS_DRIVER_7$"
+MEDIUM_NHSC_MASS_DRIVER_7_DESC: "$NHSC_MASS_DRIVER_7_DESC$"
+LARGE_NHSC_MASS_DRIVER_7: "Большая $NHSC_MASS_DRIVER_7$"
+LARGE_NHSC_MASS_DRIVER_7_DESC: "$NHSC_MASS_DRIVER_7_DESC$"
+
+########################################
+###   Improved Stormfire Autocannon  ###
+########################################
+
+NHSC_AUTOCANNON_4: "Улучшенная бронебойная автопушка"
+NHSC_AUTOCANNON_4_DESC: "Улучшенная версия проверенной временем бронебойной автопушки, обладающая более прочной конструкцией и меньшей скоростью перезарядки."
+MEDIUM_NHSC_AUTOCANNON_4: "Large $NHSC_AUTOCANNON_4$"
+MEDIUM_NHSC_AUTOCANNON_4_DESC: "$NHSC_AUTOCANNON_4_DESC$"
+LARGE_NHSC_AUTOCANNON_4: "Extra-large $NHSC_AUTOCANNON_4$"
+LARGE_NHSC_AUTOCANNON_4_DESC: "$NHSC_AUTOCANNON_4_DESC$"
+
+########################################
+###       Shredder Autocannon        ###
+########################################
+
+NHSC_AUTOCANNON_5: "Автопушка-шредер"
+NHSC_AUTOCANNON_5_DESC: "Автопушка, буквально разрывающая врагов вклочья своим пулевым градом."
+MEDIUM_NHSC_AUTOCANNON_5: "Large $NHSC_AUTOCANNON_5$"
+MEDIUM_NHSC_AUTOCANNON_5_DESC: "$NHSC_AUTOCANNON_5_DESC$"
+LARGE_NHSC_AUTOCANNON_5: "Extra-large $NHSC_AUTOCANNON_5$"
+LARGE_NHSC_AUTOCANNON_5_DESC: "$NHSC_AUTOCANNON_5_DESC$"
+
+########################################
+###    Improved Kinetic Artillery    ###
+########################################
+
+NHSC_ARTILLERY_3: "Улучшенная кинетическая артиллерия"
+NHSC_ARTILLERY_3_DESC: "Улучшенная версия кинетической артиллерии: более точная и мощная."
+
+########################################
+###       Skypiercer Artillery       ###
+########################################
+
+NHSC_ARTILLERY_4: "Артиллерия "Пронзатель небес""
+NHSC_ARTILLERY_4_DESC: "Артиллерийское орудие, пронзающее врагов и небеса своими мощными снарядами."
+
+########################################
+###       Improved Giga-Cannon       ###
+########################################
+
+NHSC_MASS_ACCELERATOR_3: "Улучшенная гига-пушка"
+NHSC_MASS_ACCELERATOR_3_DESC: "Новое поколение гига-пушек, обладающих ещё большей огневой мощью и точностью."
+
+########################################
+###         The Grand Cannon         ###
+########################################
+
+NHSC_MASS_ACCELERATOR_4: "Большая пушка"
+NHSC_MASS_ACCELERATOR_4_DESC: "Наилучшее из дальнобойных кинетических орудий!"
+
+########################################
+###    Magnetohydrodynamic Cannon    ###
+########################################
+
+NHSC_MHD_CANNON: "Магнитогидродинамическое орудие"
+NHSC_MHD_CANNON_DESC: "Мощное орудие, способное разогнать поток расплавленного металла до релятивистских скоростей."
+NHSC_MHD_CANNON_JUGGERNAUT: "$NHSC_MHD_CANNON$ ($juggernaut$)"
+NHSC_MHD_CANNON_JUGGERNAUT_DESC: "$NHSC_MHD_CANNON_DESC$"
+
+########################################
+###      Improved Flak Artillery     ###
+########################################
+
+NHSC_FLAK_CANNON_4: "Улучшенная тяжёлая зенитная артиллерия"
+NHSC_FLAK_CANNON_4_DESC: "Следующее поколение зенитных систем, точное и мощное как никогда прежде."
+
+########################################
+###        Ironcloud Defender        ###
+########################################
+
+NHSC_FLAK_CANNON_5: "Зенитная артиллерия "Железное облако""
+NHSC_FLAK_CANNON_5_DESC: "Лучшая зенитная система из возможных, ничто не пройдёт мимо неё."
+
+########################################
+###      Protector Point-Defense     ###
+########################################
+
+NHSC_POINT_DEFENSE_4: "Система ПКО "Покровитель""
+NHSC_POINT_DEFENSE_4_DESC: "Улучшенная версия системы ПКО "Защитник", наделённая более эффективными алгоритмами наведения и более мощными орудиями."
+
+########################################
+###    Iron Curtain Point Defense    ###
+########################################
+
+NHSC_POINT_DEFENSE_5: "Система ПКО "Железный занавес""
+NHSC_POINT_DEFENSE_5_DESC: "Лучшая система ПКО из возможных."
+
+########################################
+###       Hailstorm Autocannon       ###
+########################################
+
+NHSC_AUTOCANNON_X_1: "Автопушка "Шквал""
+NHSC_AUTOCANNON_X_1_DESC: "Гигантская автопушка, которая может поливать действительно ошеломляющим количеством дакки."
+
+########################################
+###       Firestorm Autocannon       ###
+########################################
+
+NHSC_AUTOCANNON_X_2: "Автопушка "Огненный шторм""
+NHSC_AUTOCANNON_X_2_DESC: "Улучшенная версия автопушки "Шквал",которая способна выдавать еще больше дакки."
+
+########################################
+###        Tempest Autocannon        ###
+########################################
+
+NHSC_AUTOCANNON_T: "Автопушка "Ураган""
+NHSC_AUTOCANNON_T_DESC: "Поистине титаническая автопушка с беспрецедентной даккой. Пусть наши враги трепещат перед вами."
+NHSC_AUTOCANNON_J: "$NHSC_AUTOCANNON_T$ ($juggernaut$)"
+NHSC_AUTOCANNON_J_DESC: "$NHSC_AUTOCANNON_T_DESC$"
+
+########################################
+###       Juggernaut Artillery       ###
+########################################
+
+NHSC_JUGGERNAUT_ARTILLERY_1: "Артиллерия джаггернаута"
+NHSC_JUGGERNAUT_ARTILLERY_1_DESC: "Кинетическая артиллерийская пушка, разработанная специально для джаггернаута."
+NHSC_JUGGERNAUT_ARTILLERY_2: "Улучшенная $NHSC_JUGGERNAUT_ARTILLERY_1$"
+NHSC_JUGGERNAUT_ARTILLERY_2_DESC: "Улучшенная версия $NHSC_JUGGERNAUT_ARTILLERY_1$, способной наносить ещё больше ущерба."
+
+########################################
+###       Juggernaut PD System       ###
+########################################
+
+NHSC_JUGGERNAUT_POINT_DEFENSE_1: "Система точечной обороны джаггернаута"
+NHSC_JUGGERNAUT_POINT_DEFENSE_1_DESC: "Система точечной обороны, разработанная специально для джаггернаута."
+NHSC_JUGGERNAUT_POINT_DEFENSE_2: "Улучшенная $NHSC_JUGGERNAUT_POINT_DEFENSE_1$"
+NHSC_JUGGERNAUT_POINT_DEFENSE_2_DESC: "Улучшенная версия $NHSC_JUGGERNAUT_POINT_DEFENSE_1$ с продвинутыми алгоритмами наведения и более мощными орудиями."
+
+########################################
+###         Asteroid Thrower         ###
+########################################
+
+NHSC_ASTEROID_THROWER: "Пускатель астероидов"
+NHSC_ASTEROID_THROWER_DESC: "Очень упрощенное оружие для космического боя, которое сводится к бросанию большого камня в противника. Тем не менее, оно удивительно эффективно, потому что брошенный камень - БОЛЬШОЙ."

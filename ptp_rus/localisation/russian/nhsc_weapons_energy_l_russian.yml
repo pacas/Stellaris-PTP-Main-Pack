@@ -1,0 +1,286 @@
+﻿l_russian:
+
+### RUSSIAN LOCALIZATION
+
+########################################
+###       Advanced Combat Laser      ###
+########################################
+
+NHSC_LASER_6: "Улучшенный боевой лазер"
+NHSC_LASER_6_DESC: "Следующее поколение боевых лазеров, обладающее значительно увеличенной эффективностью."
+SMALL_NHSC_LASER_6: "Малый $NHSC_LASER_6$"
+SMALL_NHSC_LASER_6_DESC: "$NHSC_LASER_6_DESC$"
+MEDIUM_NHSC_LASER_6: "Средний $NHSC_LASER_6$"
+MEDIUM_NHSC_LASER_6_DESC: "$NHSC_LASER_6_DESC$"
+LARGE_NHSC_LASER_6: "Большой $NHSC_LASER_6$"
+LARGE_NHSC_LASER_6_DESC: "$NHSC_LASER_6_DESC$"
+
+########################################
+###            Aurora Laser          ###
+########################################
+
+NHSC_LASER_7: "Лазер "Аврора""
+NHSC_LASER_7_DESC: "Прекрасный как звезда, смертоносный как адское пламя."
+SMALL_NHSC_LASER_7: "Малый $NHSC_LASER_7$"
+SMALL_NHSC_LASER_7_DESC: "$NHSC_LASER_7_DESC$"
+MEDIUM_NHSC_LASER_7: "Средний $NHSC_LASER_7$"
+MEDIUM_NHSC_LASER_7_DESC: "$NHSC_LASER_7_DESC$"
+LARGE_NHSC_LASER_7: "Большой $NHSC_LASER_7$"
+LARGE_NHSC_LASER_7_DESC: "$NHSC_LASER_7_DESC$"
+
+########################################
+###        Tachyon Disruptor         ###
+########################################
+
+NHSC_DISRUPTOR_4: "Тахионный дезинтегратор"
+NHSC_DISRUPTOR_4_DESC: "Следующее поколение дезинтеграторов, использующих тахионы для нанесения повреждений как броне, так и щитам."
+SMALL_NHSC_DISRUPTOR_4: "Малый $NHSC_DISRUPTOR_4$"
+SMALL_NHSC_DISRUPTOR_4_DESC: "$NHSC_DISRUPTOR_4_DESC$"
+MEDIUM_NHSC_DISRUPTOR_4: "Средний $NHSC_DISRUPTOR_4$"
+MEDIUM_NHSC_DISRUPTOR_4_DESC: "$NHSC_DISRUPTOR_4_DESC$"
+LARGE_NHSC_DISRUPTOR_4: "Большой $NHSC_DISRUPTOR_4$"
+LARGE_NHSC_DISRUPTOR_4_DESC: "$NHSC_DISRUPTOR_4_DESC$"
+
+########################################
+###         Disruptor Lance          ###
+########################################
+
+NHSC_DISRUPTOR_5: "Дезинтегрирующее копьё"
+NHSC_DISRUPTOR_5_DESC: "Луч дезинтегратора, сфокусированный в мощный копьеподобный пучок."
+SMALL_NHSC_DISRUPTOR_5: "Малое $NHSC_DISRUPTOR_5$"
+SMALL_NHSC_DISRUPTOR_5_DESC: "$NHSC_DISRUPTOR_5_DESC$"
+MEDIUM_NHSC_DISRUPTOR_5: "Среднее $NHSC_DISRUPTOR_5$"
+MEDIUM_NHSC_DISRUPTOR_5_DESC: "$NHSC_DISRUPTOR_5_DESC$"
+LARGE_NHSC_DISRUPTOR_5: "Большое $NHSC_DISRUPTOR_5$"
+LARGE_NHSC_DISRUPTOR_5_DESC: "$NHSC_DISRUPTOR_5_DESC$"
+
+########################################
+###      Advanced Plasma Cannon      ###
+########################################
+
+NHSC_PLASMA_4: "Улучшенная плазменная пушка"
+NHSC_PLASMA_4_DESC: "Улучшенная плазменная пушка, способная формировать более стабильные кластеры плазмы и, как следствие, наносить больше урона своим целям."
+SMALL_NHSC_PLASMA_4: "Малая $NHSC_PLASMA_4$"
+SMALL_NHSC_PLASMA_4_DESC: "$NHSC_PLASMA_4_DESC$"
+MEDIUM_NHSC_PLASMA_4: "Средняя $NHSC_PLASMA_4$"
+MEDIUM_NHSC_PLASMA_4_DESC: "$NHSC_PLASMA_4_DESC$"
+LARGE_NHSC_PLASMA_4: "Большая $NHSC_PLASMA_4$"
+LARGE_NHSC_PLASMA_4_DESC: "$NHSC_PLASMA_4_DESC$"
+
+########################################
+###        Dragonbreath Cannon       ###
+########################################
+
+NHSC_PLASMA_5: "Орудие "Дыхание дракона""
+NHSC_PLASMA_5_DESC: "Орудие, пучки плазмы которого столь же горячи, сколь пламя мифических драконов."
+SMALL_NHSC_PLASMA_5: "Малое $NHSC_PLASMA_5$"
+SMALL_NHSC_PLASMA_5_DESC: "$NHSC_PLASMA_5_DESC$"
+MEDIUM_NHSC_PLASMA_5: "Среднее $NHSC_PLASMA_5$"
+MEDIUM_NHSC_PLASMA_5_DESC: "$NHSC_PLASMA_5_DESC$"
+LARGE_NHSC_PLASMA_5: "Большое $NHSC_PLASMA_5$"
+LARGE_NHSC_PLASMA_5_DESC: "$NHSC_PLASMA_5_DESC$"
+
+########################################
+###        Antimatter Launcher       ###
+########################################
+
+NHSC_ENERGY_TORPEDO_3: "Пусковая установка антиматерии"
+NHSC_ENERGY_TORPEDO_3_DESC: "Новое поколение энергетических пусковых установок, полагающееся на мощь реакции аннигиляции материи-антиматерии."
+
+########################################
+###        Dark Matter Launcher      ###
+########################################
+
+NHSC_ENERGY_TORPEDO_4: "Пусковая установка на тёмной материи"
+NHSC_ENERGY_TORPEDO_4_DESC: "Энергетический снаряд, уничтожающий свою цель энергией распада тёмной материи."
+
+########################################
+###     Lightstorm Point Defense     ###
+########################################
+
+NHSC_LIGHTSTORM_PD: "Система ПКО "Гроза""
+NHSC_LIGHTSTORM_PD_DESC: "Чрезвычайно эффективная лазерная система ПКО."
+
+########################################
+###      Improved Tachyon Lance      ###
+########################################
+
+NHSC_PARTICLE_LANCE_3: "Улучшенное тахионное копьё"
+NHSC_PARTICLE_LANCE_3_DESC: "Следующее поколение тахионного копья, оснащённое улучшенным фокусирующим массивом."
+
+########################################
+###    Hypercharged Tachyon Lance    ###
+########################################
+
+NHSC_PARTICLE_LANCE_4: "Усиленное тахионное копьё"
+NHSC_PARTICLE_LANCE_4_DESC: "Усилив накопительные кольца излучателей корпускулярных копий, мы можем повысить наносимый урон орудий."
+
+########################################
+###       Light of Destruction       ###
+########################################
+
+NHSC_PARTICLE_LANCE_TITANIC: "«Свет разрушения»"
+NHSC_PARTICLE_LANCE_TITANIC_DESC: "Лучшее корпускулярное копьё из возможных."
+NHSC_PARTICLE_LANCE_JUGGERNAUT: "$NHSC_PARTICLE_LANCE_TITANIC$ ($juggernaut$)"
+NHSC_PARTICLE_LANCE_JUGGERNAUT_DESC: "$NHSC_PARTICLE_LANCE_TITANIC_DESC$"
+
+########################################
+###         Lightning Cannon         ###
+########################################
+
+NHSC_ARC_EMITTER_3: "Молниевая пушка"
+NHSC_ARC_EMITTER_3_DESC: "Улучшенная версия дугового излучателя, генерирующая мощные электрические разряды."
+
+########################################
+###            Arc Cannon            ###
+########################################
+
+NHSC_ARC_EMITTER_4: "Дуговое орудие"
+NHSC_ARC_EMITTER_4_DESC: "Более мощная версия молниевой пушки, способной поражать даже самые устойчивые цели."
+
+########################################
+###          Divine Thunder          ###
+########################################
+
+NHSC_ARC_EMITTER_TITANIC: "«Божественный гром»"
+NHSC_ARC_EMITTER_TITANIC_DESC: "Отголоски Небесных Штормов, обрушивающиеся на наших врагов беспощадной силой."
+NHSC_ARC_EMITTER_JUGGERNAUT: "$NHSC_ARC_EMITTER_TITANIC$ ($juggernaut$)"
+NHSC_ARC_EMITTER_JUGGERNAUT_DESC: "$NHSC_ARC_EMITTER_TITANIC_DESC$"
+
+########################################
+###          Wave-Motion Gun         ###
+########################################
+
+NHSC_WAVEMOTIONGUN_1: "Волновое орудие"
+NHSC_WAVEMOTIONGUN_1_DESC: "Использование специализированных выхлопных шахт позволяет временно перенаправить тягу двигателя и преобразовать её в смертоносное копьё, способное уничтожить всё, чему не повезло оказаться на его пути."
+
+NHSC_WAVEMOTIONGUN_2: "Пространственно-волновое орудие"
+NHSC_WAVEMOTIONGUN_2_DESC: "Улучшенная версия волнового орудия, оснащённая более эффективной системой фокусировки, увеличивающей точность и урон."
+
+NHSC_WAVEMOTIONGUN_3: "Титаническое пространственно-волновое орудие"
+NHSC_WAVEMOTIONGUN_3_DESC: "Увеличенная версия пространственно-волнового орудия."
+NHSC_WAVEMOTIONGUN_JUGGERNAUT: "Juggernaut $NHSC_WAVEMOTIONGUN_2$ ($juggernaut$)"
+NHSC_WAVEMOTIONGUN_JUGGERNAUT_DESC: "$NHSC_WAVEMOTIONGUN_3_DESC$"
+
+########################################
+###        Arc-en-Ciel Cannon        ###
+########################################
+
+NHSC_ARC_EN_CIEL: "Орудие «Арк-эн-Сиэл»"
+NHSC_ARC_EN_CIEL_DESC: "Ужасающее орудие, способное запечатать свою цель в пространственном кармане и заставить последний схлопнуться, уничтожив все следы её существования."
+NHSC_ARC_EN_CIEL_TITANIC: "$NHSC_ARC_EN_CIEL$"
+NHSC_ARC_EN_CIEL_TITANIC_DESC: "$NHSC_ARC_EN_CIEL_DESC$"
+NHSC_ARC_EN_CIEL_JUGGERNAUT: "$NHSC_ARC_EN_CIEL$ ($juggernaut$)"
+NHSC_ARC_EN_CIEL_JUGGERNAUT_DESC: "$NHSC_ARC_EN_CIEL_DESC$"
+
+########################################
+###       Chrono-Vortex Cannon       ###
+########################################
+
+NHSC_CHRONO_CANNON: "Генератор хроно-воронок"
+NHSC_CHRONO_CANNON_DESC: "Это устрашающее орудие буквально разрывает на части вражеские корабли, создавая области нестабильности в пространственно-временном континууме."
+SMALL_NHSC_CHRONO_CANNON: "Малый $NHSC_CHRONO_CANNON$"
+SMALL_NHSC_CHRONO_CANNON_DESC: "$NHSC_CHRONO_CANNON_DESC$"
+MEDIUM_NHSC_CHRONO_CANNON: "Средний $NHSC_CHRONO_CANNON$"
+MEDIUM_NHSC_CHRONO_CANNON_DESC: "$NHSC_CHRONO_CANNON_DESC$"
+LARGE_NHSC_CHRONO_CANNON: "Большой $NHSC_CHRONO_CANNON$"
+LARGE_NHSC_CHRONO_CANNON_DESC: "$NHSC_CHRONO_CANNON_DESC$"
+
+########################################
+###    Amplified Cloud lightning     ###
+########################################
+
+NHSC_CLOUD_LIGHTNING_2: "Усиленная облачная молния"
+NHSC_CLOUD_LIGHTNING_2_DESC: "Усовершенствованная версия естественного оружия войд-облаков, способное нанести значительный урон даже самым сильным вражеским кораблям."
+
+########################################
+###      Thunderstorm Generator      ###
+########################################
+
+NHSC_CLOUD_LIGHTNING_3: "Грозовой генератор"
+NHSC_CLOUD_LIGHTNING_3_DESC: "Разрушительная молния, разрывающая корабли наших врагов на части."
+
+########################################
+###           Plasma Cutter          ###
+########################################
+
+NHSC_MINING_LASER_2: "Плазменный резак"
+NHSC_MINING_LASER_2_DESC: "Продвинутое оружие, буквально разрезающее корпуса кораблей, создаваемое на основе технологии горнодобывающих дронов."
+SMALL_NHSC_MINING_LASER_2: "Малый $NHSC_MINING_LASER_2$"
+SMALL_NHSC_MINING_LASER_2_DESC: "$NHSC_MINING_LASER_2_DESC$"
+MEDIUM_NHSC_MINING_LASER_2: "Средний $NHSC_MINING_LASER_2$"
+MEDIUM_NHSC_MINING_LASER_2_DESC: "$NHSC_MINING_LASER_2_DESC$"
+
+########################################
+###      Advanced Plasma Cutter      ###
+########################################
+
+NHSC_MINING_LASER_3: "Улучшенный плазменный резак"
+NHSC_MINING_LASER_3_DESC: "Усовершенствованная версия $nhsc_tech_mining_laser_2$, с увеличенной дальностью, мощностью и точностью."
+SMALL_NHSC_MINING_LASER_3: "Малый $NHSC_MINING_LASER_3$"
+SMALL_NHSC_MINING_LASER_3_DESC: "$NHSC_MINING_LASER_3_DESC$"
+MEDIUM_NHSC_MINING_LASER_3: "Средний $NHSC_MINING_LASER_3$"
+MEDIUM_NHSC_MINING_LASER_3_DESC: "$NHSC_MINING_LASER_3_DESC$"
+
+########################################
+###        Matter Annihilator        ###
+########################################
+
+NHSC_EXTRADIMENSIONAL_WEAPON_2: "Аннигилятор материи"
+NHSC_EXTRADIMENSIONAL_WEAPON_2_DESC: "Улучшенная, более мощная версия трофейного дезинтегратора материи из другого измерения."
+SMALL_NHSC_EXTRADIMENSIONAL_WEAPON_2: "Малый $NHSC_EXTRADIMENSIONAL_WEAPON_2$"
+SMALL_NHSC_EXTRADIMENSIONAL_WEAPON_2_DESC: "$NHSC_EXTRADIMENSIONAL_WEAPON_2_DESC$"
+MEDIUM_NHSC_EXTRADIMENSIONAL_WEAPON_2: "Средний $NHSC_EXTRADIMENSIONAL_WEAPON_2$"
+MEDIUM_NHSC_EXTRADIMENSIONAL_WEAPON_2_DESC: "$NHSC_EXTRADIMENSIONAL_WEAPON_2_DESC$"
+LARGE_NHSC_EXTRADIMENSIONAL_WEAPON_2: "Большой $NHSC_EXTRADIMENSIONAL_WEAPON_2$"
+LARGE_NHSC_EXTRADIMENSIONAL_WEAPON_2_DESC: "$NHSC_EXTRADIMENSIONAL_WEAPON_2_DESC$"
+NHSC_EXTRADIMENSIONAL_WEAPON_2_X: "Огромный $NHSC_EXTRADIMENSIONAL_WEAPON_2$"
+NHSC_EXTRADIMENSIONAL_WEAPON_2_X_DESC: "Увеличенная версия $NHSC_EXTRADIMENSIONAL_WEAPON_2$, способного причинять ещё больше ущерба."
+NHSC_EXTRADIMENSIONAL_WEAPON_2_T: "Титанический $NHSC_EXTRADIMENSIONAL_WEAPON_2$"
+NHSC_EXTRADIMENSIONAL_WEAPON_2_T_DESC: "Титаническая версия $NHSC_EXTRADIMENSIONAL_WEAPON_2$, для самых больших и мощных кораблей нашего флота."
+NHSC_EXTRADIMENSIONAL_WEAPON_2_J: "$NHSC_EXTRADIMENSIONAL_WEAPON_2$ джаггернаута"
+NHSC_EXTRADIMENSIONAL_WEAPON_2_J_DESC: "Версия $NHSC_EXTRADIMENSIONAL_WEAPON_2$ для джаггернаутов - самых крупных и мощных кораблей в нашем флоте."
+
+########################################
+###          Reality Eraser          ###
+########################################
+
+NHSC_EXTRADIMENSIONAL_WEAPON_3: "Стиратель реальности"
+NHSC_EXTRADIMENSIONAL_WEAPON_3_DESC: "Усиленная нулевой энергией пустоты версия $NHSC_EXTRADIMENSIONAL_WEAPON_2$, способная стереть даже саму реальность.."
+SMALL_NHSC_EXTRADIMENSIONAL_WEAPON_3: "Малый $NHSC_EXTRADIMENSIONAL_WEAPON_3$"
+SMALL_NHSC_EXTRADIMENSIONAL_WEAPON_3_DESC: "$NHSC_EXTRADIMENSIONAL_WEAPON_3_DESC$"
+MEDIUM_NHSC_EXTRADIMENSIONAL_WEAPON_3: "Средний $NHSC_EXTRADIMENSIONAL_WEAPON_3$"
+MEDIUM_NHSC_EXTRADIMENSIONAL_WEAPON_3_DESC: "$NHSC_EXTRADIMENSIONAL_WEAPON_3_DESC$"
+LARGE_NHSC_EXTRADIMENSIONAL_WEAPON_3: "Большой $NHSC_EXTRADIMENSIONAL_WEAPON_3$"
+LARGE_NHSC_EXTRADIMENSIONAL_WEAPON_3_DESC: "$NHSC_EXTRADIMENSIONAL_WEAPON_3_DESC$"
+NHSC_EXTRADIMENSIONAL_WEAPON_3_X: "Огромный $NHSC_EXTRADIMENSIONAL_WEAPON_3$"
+NHSC_EXTRADIMENSIONAL_WEAPON_3_X_DESC: "Увеличенная версия $NHSC_EXTRADIMENSIONAL_WEAPON_3$, это большая угроза для любого корабля, который осмеливается противостоять нашим флотам."
+NHSC_EXTRADIMENSIONAL_WEAPON_3_T: "Титанический $NHSC_EXTRADIMENSIONAL_WEAPON_3$"
+NHSC_EXTRADIMENSIONAL_WEAPON_3_T_DESC: "Невероятно продвинутая версия $NHSC_EXTRADIMENSIONAL_WEAPON_3$, чья мощность практически не ограничена."
+NHSC_EXTRADIMENSIONAL_WEAPON_3_J: "$NHSC_EXTRADIMENSIONAL_WEAPON_3$ ($juggernaut$)"
+NHSC_EXTRADIMENSIONAL_WEAPON_3_J_DESC: "Невероятно продвинутая версия $NHSC_EXTRADIMENSIONAL_WEAPON_3$, чья мощность практически не ограничена."
+
+########################################
+###      Juggernaut Beam Cannon      ###
+########################################
+
+NHSC_JUGGERNAUT_BEAM_CANNON_1: "Лучевая пушка джаггернаута"
+NHSC_JUGGERNAUT_BEAM_CANNON_1_DESC: "Убийственно мощная лучевая пушка, разработанная специально для джаггернаутов."
+NHSC_JUGGERNAUT_BEAM_CANNON_2: "Улучшенная $NHSC_JUGGERNAUT_BEAM_CANNON_1$"
+NHSC_JUGGERNAUT_BEAM_CANNON_2_DESC: "Улучшенная версия $NHSC_JUGGERNAUT_BEAM_CANNON_1$, которая стала ещё более мощной и опасной."
+
+########################################
+###    Overwrites Extradimensional   ###
+########################################
+
+NHSC_EXTRADIMENSIONAL_1: "Дезинтегратор материи"
+NHSC_EXTRADIMENSIONAL_1_DESC: "Происходящие из другого измерения, основные технологии дезинтегратора материи изменяют несколько физических законов, приводя к разрушительным результатам."
+SMALL_NHSC_ED_WEAPON: "Малый $NHSC_EXTRADIMENSIONAL_1$"
+SMALL_NHSC_ED_WEAPON_DESC: "$NHSC_EXTRADIMENSIONAL_1_DESC$"
+MEDIUM_NHSC_ED_WEAPON: "Средний $NHSC_EXTRADIMENSIONAL_1$"
+MEDIUM_NHSC_ED_WEAPON_DESC: "$NHSC_EXTRADIMENSIONAL_1_DESC$"
+LARGE_NHSC_ED_WEAPON: "Большой $NHSC_EXTRADIMENSIONAL_1$"
+LARGE_NHSC_ED_WEAPON_DESC: "$NHSC_EXTRADIMENSIONAL_1_DESC$"
+
+MEDIUM_NHSC_PROBE_LIGHTNING: "Неопознанный излучатель энергии"
+MEDIUM_NHSC_PROBE_LIGHTNING_DESC: "Необычная форма оружия, этот излучатель энергии очень похож по функциям на другое энергетическое оружие, но работает с частотой и в пределах спектра, никогда ранее не использовавшихся в качестве оружия."

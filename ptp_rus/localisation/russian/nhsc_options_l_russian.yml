@@ -1,0 +1,313 @@
+﻿l_russian:
+
+### RUSSIAN LOCALIZATION
+
+esc_option.exit: "Покинуть меню"
+esc_option.back: "Назад"
+esc_no_hide_disabled_components: "\n\n§HЗаметка§!: Уже исследованные компоненты останутся доступными, даже если их технологии будут отключены."
+esc_no_disable_buildings: "\n\n§HЗаметка§!: Уже построенные здания не будут отключены или снесены."
+esc_other_cat_dependants: "\n\n§RПредупреждение§!: Некоторым технологиям из разных категорий нужны конкретно эти технологии для открытия, так что они тоже станут §Rнедоступными§!."
+
+########################################
+###        Options Menu : MAIN       ###
+########################################
+
+esc_options_title: "Меню настройки Extra Ship Components 3.0"
+esc_options_title_desc: "Это меню позволяет настроить мод \"§YExtra Ship Components 3.0§!\"."
+
+esc_options.1.weapons: "Настроить оружейные компоненты"
+esc_options.1.weapons.tooltip: "Перейти в меню настройки оружейных компонентов."
+
+esc_options.1.utilities: "Настроить вспомогательные компоненты"
+esc_options.1.utilities.tooltip: "Перейти в меню настройки вспомогательных компонентов."
+
+esc_options.1.special: "Настроить технологии левиафанов"
+esc_options.1.special.tooltip: "Перейти в меню настройки технологий левиафанов."
+
+esc_options.1.buildings: "Настроить здания"
+esc_options.1.buildings.tooltip: "Перейти в меню настройки зданий."
+
+esc_options.1.ai_boost.easy_scaling: "Настроить усиление ИИ (текущее: §GЛегкое - скалирование§!)"
+esc_options.1.ai_boost.easy_scaling.tooltip: "Перейти в меню настройки усиления ИИ"
+esc_options.1.ai_boost.easy_static: "Настроить усиление ИИ (текущее: §GЛегкое - статичное§!)"
+esc_options.1.ai_boost.easy_static.tooltip: "Перейти в меню настройки усиления ИИ"
+
+esc_options.1.ai_boost.moderate_scaling: "Настроить усиление ИИ (текущее: §EСреднее - скалирование§!)"
+esc_options.1.ai_boost.moderate_scaling.tooltip: "Перейти в меню настройки усиления ИИ"
+esc_options.1.ai_boost.moderate_static: "Настроить усиление ИИ (текущее: §EСреднее - статичное§!)"
+esc_options.1.ai_boost.moderate_static.tooltip: "Перейти в меню настройки усиления ИИ"
+
+esc_options.1.ai_boost.challenging_scaling: "Настроить усиление ИИ (текущее: §BВызов - скалирование§!)"
+esc_options.1.ai_boost.challenging_scaling.tooltip: "Перейти в меню настройки усиления ИИ"
+esc_options.1.ai_boost.challenging_static: "Настроить усиление ИИ (текущее: §BВызов - статичное§!)"
+esc_options.1.ai_boost.challenging_static.tooltip: "Перейти в меню настройки усиления ИИ"
+
+esc_options.1.ai_boost.disabled: "Настроить усиление ИИ (текущее: §Rотключено§!)"
+esc_options.1.ai_boost.disabled.tooltip: "Перейти в меню настройки усиления ИИ"
+
+esc_option.1.crisis.a: "Провоцируемые вторжения незваных §Gвключены§!"
+esc_option.1.crisis.a.tooltip: "Нажмите сюда, чтобы §Rотключить§! вторжения незваных, которые провоцирует исследование опасных технологий из мода \"§YExtra Ship Components 3.0§!\"."
+esc_option.1.crisis.b: "Провоцируемые вторжения незваных §Rотключены§!"
+esc_option.1.crisis.b.tooltip: "Нажмите сюда, чтобы §Rвключить§! вторжения незваных, которые провоцирует исследование опасных технологий из мода \"§YExtra Ship Components 3.0§!\". Этот кризис не блокирует появление Контингенции или Преторианцев и не сам блокируется ими."
+
+esc_option.1.repeated_unbidden.b: "Повторные вторжения незваных §Rотключены§!"
+esc_option.1.repeated_unbidden.b.tooltip: "Нажмите сюда, чтобы §Rвключить§! повторные вторжения незваных."
+esc_option.1.repeated_unbidden.a: "Повторные вторжения незваных §Gвключены§!"
+esc_option.1.repeated_unbidden.a.tooltip: "Нажмите сюда, чтобы §Rотключить§! повторные вторжения незваных."
+
+########################################
+###      Options Menu : WEAPONS      ###
+########################################
+
+esc_options_weapons_title: "$esc_options_title$"
+esc_options_weapons_title_desc: "Это меню позволяет настраивать оружие из мода \"§YExtra Ship Components 3.0§!\". Обратите внимание, что оружие левиафанов настраивается через меню специальных технологий."
+
+esc_option.2.vanilla.a: "Улучшения оружия из оригинальной игры §Gвключены§!"
+esc_option.2.vanilla.a.tooltip: "Нажмите сюда, чтобы §Rотключить§! исследование улучшений оружия из оригинальной игры. $esc_no_hide_disabled_components$ $esc_other_cat_dependants$"
+esc_option.2.vanilla.b: "Улучшения оружия из оригинальной игры §Rотключены§!"
+esc_option.2.vanilla.b.tooltip: "Нажмите сюда, чтобы §Rвключить§! исследование улучшений оружия из оригинальной игры."
+
+esc_option.2.crystal.a: "Кристаллическое оружие §Gвключено§!"
+esc_option.2.crystal.a.tooltip: "Нажмите сюда, чтобы §Rотключить§! исследование кристаллического оружия. $esc_no_hide_disabled_components$ $esc_no_disable_buildings$"
+esc_option.2.crystal.b: "Кристаллическое оружие §Rотключено§!"
+esc_option.2.crystal.b.tooltip: "Нажмите сюда, чтобы §Rвключить§! исследование кристаллического оружия."
+
+esc_option.2.gravity.a: "Гравитационное оружие §Gвключено§!"
+esc_option.2.gravity.a.tooltip: "Нажмите сюда, чтобы §Rотключить§! исследование гравитационного оружия. $esc_no_hide_disabled_components$ $esc_no_disable_buildings$"
+esc_option.2.gravity.b: "Гравитационное оружие §Rотключено§!"
+esc_option.2.gravity.b.tooltip: "Нажмите сюда, чтобы §Rвключить§! исследование гравитационного оружия."
+
+esc_option.2.nanite.a: "Нанитные компоненты §Gвключены§!"
+esc_option.2.nanite.a.tooltip: "Нажмите сюда, чтобы §Rотключить§! исследование нанитных компонентов. $esc_no_hide_disabled_components$ $esc_no_disable_buildings$ $esc_other_cat_dependants$"
+esc_option.2.nanite.b: "Нанитные компоненты §Rотключены§!"
+esc_option.2.nanite.b.tooltip: "Нажмите сюда, чтобы §Rвключить§! исследование нанитных компонентов."
+
+esc_option.2.psionic.a: "Псионические компоненты §Gвключены§!"
+esc_option.2.psionic.a.tooltip: "Нажмите сюда, чтобы §Rотключить§! исследование псионических компонентов. $esc_no_hide_disabled_components$ $esc_no_disable_buildings$ $esc_other_cat_dependants$"
+esc_option.2.psionic.b: "Псионические компоненты §Rотключены§!"
+esc_option.2.psionic.b.tooltip: "Нажмите сюда, чтобы §Rвключить§! исследование псионических компонентов."
+
+esc_option.2.plasmamissile.a: "Плазменные ракеты §Gвключены§!"
+esc_option.2.plasmamissile.a.tooltip: "Нажмите сюда, чтобы §Rотключить§! исследование плазменных ракет. $esc_no_hide_disabled_components$"
+esc_option.2.plasmamissile.b: "Плазменные ракеты §Rотключены§!"
+esc_option.2.plasmamissile.b.tooltip: "Нажмите сюда, чтобы §Rвключить§! исследование плазменных ракет."
+
+esc_option.2.xmissiles.a: "Экстра-крупные ракеты §Gвключены§!"
+esc_option.2.xmissiles.a.tooltip: "Нажмите сюда, чтобы §Rотключить§! исследование экстра-крупных ракет. $esc_no_hide_disabled_components$"
+esc_option.2.xmissiles.b: "Экстра-крупные ракеты §Rотключены§!"
+esc_option.2.xmissiles.b.tooltip: "Нажмите сюда, чтобы §Rвключить§! исследование экстра-крупных ракет."
+
+esc_option.2.xautocannons.a: "Экстра-крупные автопушки §Gвключены§!"
+esc_option.2.xautocannons.a.tooltip: "Нажмите сюда, чтобы §Rотключить§! исследование экстра-крупных автопушек. $esc_no_hide_disabled_components$"
+esc_option.2.xautocannons.b: "Экстра-крупные автопушки §Rотключены§!"
+esc_option.2.xautocannons.b.tooltip: "Нажмите сюда, чтобы §Rвключить§! исследование экстра-крупных автопушек."
+
+esc_option.2.juggernaut.a: "Оружие джаггернаута §Gвключены§!"
+esc_option.2.juggernaut.a.tooltip: "Нажмите сюда, чтобы §Rотключить§! исследование оружия джаггернаута. $esc_no_hide_disabled_components$"
+esc_option.2.juggernaut.b: "Оружие джаггернаута §Rотключены§!"
+esc_option.2.juggernaut.b.tooltip: "Нажмите сюда, чтобы §Rвключить§! исследование оружия джаггернаута."
+
+esc_option.2.wavemotion.a: "Волновые пушки §Gвключены§!"
+esc_option.2.wavemotion.a.tooltip: "Нажмите сюда, чтобы §Rотключить§! исследование волновых пушек. $esc_no_hide_disabled_components$"
+esc_option.2.wavemotion.b: "Волновые пушки §Rотключены§!"
+esc_option.2.wavemotion.b.tooltip: "Нажмите сюда, чтобы §Rвключить§! исследование волновых пушек."
+
+esc_option.2.chrono.a: "Хроно-пространственные компоненты §Gвключены§!"
+esc_option.2.chrono.a.tooltip: "Нажмите сюда, чтобы §Rотключить§! исследование хроно-пространственных компонентов. $esc_no_hide_disabled_components$ $esc_no_disable_buildings$"
+esc_option.2.chrono.b: "Хроно-пространственные компоненты §Rотключены§!"
+esc_option.2.chrono.b.tooltip: "Нажмите сюда, чтобы §Rвключить§! исследование хроно-пространственных компонентов."
+
+esc_option.2.crafts.a: "Продвинутые штурмовики §Gвключены§!"
+esc_option.2.crafts.a.tooltip: "Нажмите сюда, чтобы §Rотключить§! исследование продвинутых штурмовиков. $esc_no_hide_disabled_components$"
+esc_option.2.crafts.b: "Продвинутые штурмовики §Rотключены§!"
+esc_option.2.crafts.b.tooltip: "Нажмите сюда, чтобы §Rвключить§! исследование продвинутых штурмовиков."
+
+esc_option.2.crisis.a: "Улучшенное оружие кризисов §Gвключено§!"
+esc_option.2.crisis.a.tooltip: "Нажмите сюда, чтобы §Rотключить§! исследование улучшенного оружия кризисов. $esc_no_hide_disabled_components$"
+esc_option.2.crisis.b: "Улучшенное оружие кризисов §Rотключено§!"
+esc_option.2.crisis.b.tooltip: "Нажмите сюда, чтобы §Rвключить§! исследование улучшенного оружия кризисов."
+
+########################################
+###      Options Menu : UTILITIES    ###
+########################################
+
+esc_options_utilities_title: "$esc_options_title$"
+esc_options_utilities_title_desc: "Это меню позволяет настраивать вспомогательные компоненты из мода \"§YExtra Ship Components 3.0§!\". Обратите внимание, что вспомогательные компоненты левиафанов настраивается через меню специальных технологий."
+
+esc_option.3.armor.a: "Компоненты брони §Gвключены§!"
+esc_option.3.armor.a.tooltip: "Нажмите сюда, чтобы §Rотключить§! исследование компонентов брони. $esc_no_hide_disabled_components$"
+esc_option.3.armor.b: "Компоненты брони §Rотключены§!"
+esc_option.3.armor.b.tooltip: "Нажмите сюда, чтобы §Rвключить§! исследование компонентов брони."
+
+esc_option.3.shield.a: "Компоненты щитов §Gвключены§!"
+esc_option.3.shield.a.tooltip: "Нажмите сюда, чтобы §Rотключить§! исследование компонентов щитов. $esc_no_hide_disabled_components$"
+esc_option.3.shield.b: "Компоненты щитов §Rотключены§!"
+esc_option.3.shield.b.tooltip: "Нажмите сюда, чтобы §Rвключить§! исследование компонентов щитов."
+
+esc_option.3.reactor.a: "Компоненты реакторов §Gвключены§!"
+esc_option.3.reactor.a.tooltip: "Нажмите сюда, чтобы §Rотключить§! исследование продвинутых реакторов. $esc_no_hide_disabled_components$ $esc_other_cat_dependants$"
+esc_option.3.reactor.b: "Компоненты реакторов §Rотключены§!"
+esc_option.3.reactor.b.tooltip: "Нажмите сюда, чтобы §Rвключить§! исследование продвинутых реакторов."
+
+esc_option.3.sensor.a: "Компоненты сенсоров §Gвключены§!"
+esc_option.3.sensor.a.tooltip: "Нажмите сюда, чтобы §Rотключить§! исследование компонентов сенсоров. $esc_no_hide_disabled_components$ $esc_other_cat_dependants$"
+esc_option.3.sensor.b: "Компоненты сенсоров §Rотключены§!"
+esc_option.3.sensor.b.tooltip: "Нажмите сюда, чтобы §Rвключить§! исследование компонентов сенсоров."
+
+esc_option.3.thrusters.a: "Компоненты двигателей §Gвключены§!"
+esc_option.3.thrusters.a.tooltip: "Нажмите сюда, чтобы §Rотключить§! исследование компонентов двигателей. $esc_no_hide_disabled_components$ $esc_other_cat_dependants$"
+esc_option.3.thrusters.b: "Компоненты двигателей §Rотключены§!"
+esc_option.3.thrusters.b.tooltip: "Нажмите сюда, чтобы §Rвключить§! исследование компонентов двигателей."
+
+esc_option.3.ftl.a: "Продвинутые пси-двигатели §Gвключены§!"
+esc_option.3.ftl.a.tooltip: "Нажмите сюда, чтобы §Rотключить§! исследование продвинутых пси-двигателей. $esc_no_hide_disabled_components$"
+esc_option.3.ftl.b: "Продвинутые пси-двигатели §Rотключены§!"
+esc_option.3.ftl.b.tooltip: "Нажмите сюда, чтобы §Rвключить§! исследование продвинутых пси-двигателей."
+
+esc_option.3.aux.a: "Дополнительные компоненты §Gвключены§!"
+esc_option.3.aux.a.tooltip: "Нажмите сюда, чтобы §Rотключить§! исследование дополнительных компонентов. $esc_no_hide_disabled_components$"
+esc_option.3.aux.b: "Дополнительные компоненты §Rотключены§!"
+esc_option.3.aux.b.tooltip: "Нажмите сюда, чтобы §Rвключить§! исследование дополнительных компонентов."
+
+########################################
+###      Options Menu : SPECIAL      ###
+########################################
+
+esc_options_special_title: "$esc_options_title$"
+esc_options_special_title_desc: "Это меню позволяет настраивать компоненты и здания, добавлемых модом \"§YExtra Ship Components 3.0§!\", которые можно получить от левиафанов."
+
+esc_option.4.fortress.a: "Технологии загадочной крепости §Gвключены§!"
+esc_option.4.fortress.a.tooltip: "Нажмите сюда, чтобы §Rотключить§! исследование технологий загадочной крепости. $esc_no_hide_disabled_components$ $esc_no_disable_buildings$"
+esc_option.4.fortress.b: "Технологии загадочной крепости §Rотключены§!"
+esc_option.4.fortress.b.tooltip: "Нажмите сюда, чтобы §Rвключить§! исследование технологий загадочной крепости."
+
+esc_option.4.dragon.a: "Технологии эфирного дракона §Gвключены§!"
+esc_option.4.dragon.a.tooltip: "Нажмите сюда, чтобы §Rотключить§! исследование технологий эфирного дракона. $esc_no_hide_disabled_components$"
+esc_option.4.dragon.b: "Технологии эфирного дракона §Rотключены§!"
+esc_option.4.dragon.b.tooltip: "Нажмите сюда, чтобы §Rвключить§! исследование технологий эфирного дракона."
+
+esc_option.4.dreadnought.a: "Технологии автоматизированного дредноута §Gвключены§!"
+esc_option.4.dreadnought.a.tooltip: "Нажмите сюда, чтобы §Rотключить§! исследование технологий автоматизированного дредноута. $esc_no_hide_disabled_components$"
+esc_option.4.dreadnought.b: "Технологии автоматизированного дредноута §Rотключены§!"
+esc_option.4.dreadnought.b.tooltip: "Нажмите сюда, чтобы §Rвключить§! исследование технологий автоматизированного дредноута."
+
+esc_option.4.wraith.a: "Технологии спектра §Gвключены§!"
+esc_option.4.wraith.a.tooltip: "Нажмите сюда, чтобы §Rотключить§! исследование технологий спектра. $esc_no_hide_disabled_components$"
+esc_option.4.wraith.b: "Технологии спектра §Rотключены§!"
+esc_option.4.wraith.b.tooltip: "Нажмите сюда, чтобы §Rвключить§! исследование технологий спектра."
+
+esc_option.4.stellarite.a: "Технологии пожирателя звёзд §Gвключены§!"
+esc_option.4.stellarite.a.tooltip: "Нажмите сюда, чтобы §Rотключить§! исследование технологий пожирателя звёзд. $esc_no_hide_disabled_components$ $esc_no_disable_buildings$"
+esc_option.4.stellarite.b: "Технологии пожирателя звёзд §Rотключены§!"
+esc_option.4.stellarite.b.tooltip: "Нажмите сюда, чтобы §Rвключить§! исследование технологий пожирателя звёзд."
+
+esc_option.4.technosphere.a: "Технологии техносферы §Gвключены§!"
+esc_option.4.technosphere.a.tooltip: "Нажмите сюда, чтобы §Rотключить§! исследование технологий техносферы. $esc_no_disable_buildings$"
+esc_option.4.technosphere.b: "Технологии техносферы §Rотключены§!"
+esc_option.4.technosphere.b.tooltip: "Нажмите сюда, чтобы §Rвключить§! исследование технологий техносферы."
+
+esc_option.4.horror.a: "Технологии межпространственного ужаса §Gвключены§!"
+esc_option.4.horror.a.tooltip: "Нажмите сюда, чтобы §Rотключить§! исследование технологий межпространственного ужаса. $esc_no_hide_disabled_components$"
+esc_option.4.horror.b: "Технологии межпространственного ужаса §Rотключены§!"
+esc_option.4.horror.b.tooltip: "Нажмите сюда, чтобы §Rвключить§! исследование технологий межпространственного ужаса."
+
+esc_option.4.scrapper.a: "Технологии бота-мусорщика §Gвключены§!"
+esc_option.4.scrapper.a.tooltip: "Нажмите сюда, чтобы §Rотключить§! исследование технологий бота-мусорщика. $esc_no_hide_disabled_components$ $esc_no_disable_buildings$"
+esc_option.4.scrapper.b: "Технологии бота-мусорщика §Rотключены§!"
+esc_option.4.scrapper.b.tooltip: "Нажмите сюда, чтобы §Rвключить§! исследование технологий бота-мусорщика."
+
+esc_option.4.matriarch.a: "Технологии матриарха тиянок §Gвключены§!"
+esc_option.4.matriarch.a.tooltip: "Нажмите сюда, чтобы §Rотключить§! исследование технологий матриарха тиянок. $esc_no_hide_disabled_components$"
+esc_option.4.matriarch.b: "Технологии матриарха тиянок §Rотключены§!"
+esc_option.4.matriarch.b.tooltip: "Нажмите сюда, чтобы §Rвключить§! исследование технологий матриарха тиянок."
+
+esc_option.4.voidspawn.a: "Технологии порождения пустоты §Gвключены§!"
+esc_option.4.voidspawn.a.tooltip: "Нажмите сюда, чтобы §Rотключить§! исследование технологий порождения пустоты. $esc_no_hide_disabled_components$"
+esc_option.4.voidspawn.b: "Технологии порождения пустоты §Rотключены§!"
+esc_option.4.voidspawn.b.tooltip: "Нажмите сюда, чтобы §Rвключить§! исследование технологий порождения пустоты."
+
+########################################
+###     Options Menu : BUILDINGS     ###
+########################################
+
+esc_options_buildings_title: "$esc_options_title$"
+esc_options_buildings_title_desc: "Это меню позволяет настраивать здания из мода \"§YExtra Ship Components 3.0§!\". Обратите внимание, что здания, которые производят специальные ресурсы, настраиваются с помощью соответствующих вариантов доступности технологий оружия или левиафанов."
+
+esc_option.5.bureau.a: "Центральное научно-исследовательское бюро §Gвключено§!"
+esc_option.5.bureau.a.tooltip: "Нажмите сюда, чтобы §Rотключить§! здание центральное научно-исследовательское бюро. $esc_no_disable_buildings$"
+esc_option.5.bureau.b: "Центральное научно-исследовательское бюро §Rотключено§!"
+esc_option.5.bureau.b.tooltip: "Нажмите сюда, чтобы §Rвключить§! здание центральное научно-исследовательское бюро."
+
+esc_option.5.tech_institute.a: "Технологический институт §Gвключено§!"
+esc_option.5.tech_institute.a.tooltip: "Нажмите сюда, чтобы §Rотключить§! здание технологический институт. $esc_no_disable_buildings$"
+esc_option.5.tech_institute.b: "Технологический институт §Rотключено§!"
+esc_option.5.tech_institute.b.tooltip: "Нажмите сюда, чтобы §Rвключить§! здание технологический институт."
+
+esc_option.5.cult_nexus.a: "Культурный центр §Gвключён§!"
+esc_option.5.cult_nexus.a.tooltip: "Нажмите сюда, чтобы §Rотключить§! здание культурный центр. $esc_no_disable_buildings$"
+esc_option.5.cult_nexus.b: "Культурный центр §Rотключён§!"
+esc_option.5.cult_nexus.b.tooltip: "Нажмите сюда, чтобы §Rвключить§! здание культурный центр."
+
+esc_option.5.mat_laboratory.a: "Лаборатория продвинутых материалов §Gвключена§!"
+esc_option.5.mat_laboratory.a.tooltip: "Нажмите сюда, чтобы §Rотключить§! здание лаборатория продвинутых материалов. $esc_no_disable_buildings$"
+esc_option.5.mat_laboratory.b: "Лаборатория продвинутых материалов §Rотключена§!"
+esc_option.5.mat_laboratory.b.tooltip: "Нажмите сюда, чтобы §Rвключить§! здание лаборатория продвинутых материалов."
+
+esc_option.5.watcher.a: "Страж вечности §Gвключён§!"
+esc_option.5.watcher.a.tooltip: "Нажмите сюда, чтобы §Rотключить§! здание страж вечности. $esc_no_disable_buildings$"
+esc_option.5.watcher.b: "Страж вечности §Rотключён§!"
+esc_option.5.watcher.b.tooltip: "Нажмите сюда, чтобы §Rвключить§! здание страж вечности."
+
+esc_option.5.dark_matter.a: "Предприятие по добыче темной материи §Gвключено§!"
+esc_option.5.dark_matter.a.tooltip: "Нажмите сюда, чтобы §Rотключить§! предприятие по добыче темной материи. $esc_no_disable_buildings$"
+esc_option.5.dark_matter.b: "Предприятие по добыче темной материи §Rотключено§!"
+esc_option.5.dark_matter.b.tooltip: "Нажмите сюда, чтобы §Rвключить§! предприятие по добыче темной материи."
+
+esc_option.5.zro_dist.a: "Зро-дистиллятор §Gвключён§!"
+esc_option.5.zro_dist.a.tooltip: "Нажмите сюда, чтобы §Rотключить§! здание зро-дистиллятор. $esc_no_disable_buildings$"
+esc_option.5.zro_dist.b: "Зро-дистиллятор §Rотключён§!"
+esc_option.5.zro_dist.b.tooltip: "Нажмите сюда, чтобы §Rвключить§! здание зро-дистиллятор."
+
+esc_option.5.mantle_miner.a: "Мантиевая добывающая установка §Gвключена§!"
+esc_option.5.mantle_miner.a.tooltip: "Нажмите сюда, чтобы §Rотключить§! здание мантиевая добывающая установка. $esc_no_disable_buildings$"
+esc_option.5.mantle_miner.b: "Мантиевая добывающая установка §Rотключена§!"
+esc_option.5.mantle_miner.b.tooltip: "Нажмите сюда, чтобы §Rвключить§! здание мантиевая добывающая установка."
+
+########################################
+###     Options Menu : AI BOOST      ###
+########################################
+
+esc_special_resources_icons: "£nanites£ £esc_living_crystal£ £esc_psionic_charge£ £esc_gravitic_anomaly£ £esc_enigmatic_energy£ £esc_transdimensional_vortex£"
+
+esc_options_ai_boost_title: "$esc_options_title$"
+esc_options_ai_boost_title_desc: "Это меню позволяет настроить усиление ИИ, предоставляемое модом \"§YExtra Ship Components 3.0§!\"."
+
+esc_option.6.resources.a: "$esc_special_resources_icons$ Увеличение получаемых ИИ специальных ресурсов §Gвключено§!"
+esc_option.6.resources.a.tooltip: "Нажмите для §Rотключения§! увеличения получаемых ИИ специальных ресурсов.\nИИ больше не будет получать бесплатные специальные ресурсы."
+esc_option.6.resources.b: "$esc_special_resources_icons$ Увеличение получаемых ИИ специальных ресурсов §Rотключено§!"
+esc_option.6.resources.b.tooltip: "Нажмите для §Gвключения§! увеличения получаемых ИИ специальных ресурсов.\nИИ получит бесплатные специальные ресурсы, если у него есть необходимые технологии для их использования."
+
+esc_option.6.ai_easy_scaling: "Установить бонус к скорости исследований для ИИ на §GЛегкое - скалирование§!"
+esc_option.6.ai_easy_scaling.tooltip: "ИИ получит скалируемый бонус к скорости исследований:\n+§G10§!% в ранней игре\n+§G25§!% в середине игры\n+§G50§!% к концу игры."
+esc_option.6.ai_easy_static: "Установить бонус к скорости исследований для ИИ на §GЛегкое - статичное§!"
+esc_option.6.ai_easy_static.tooltip: "ИИ получит бонус на +§G25§!% к скорости исследований на всю игру."
+
+esc_option.6.ai_moderate_scaling: "Установить бонус к скорости исследований для ИИ на §EСреднее - скалирование§!"
+esc_option.6.ai_moderate_scaling.tooltip: "ИИ получит скалируемый бонус к скорости исследований:\n+§G25§!% в ранней игре\n+§G50§!% в середине игры\n+§G100§!% к концу игры."
+esc_option.6.ai_moderate_static: "Установить бонус к скорости исследований для ИИ на §EСреднее - статичное§!"
+esc_option.6.ai_moderate_static.tooltip: "ИИ получит бонус на +§G50§!% к скорости исследований на всю игру."
+
+esc_option.6.ai_challenging_scaling: "Установить бонус к скорости исследований для ИИ на §BВызов - скалирование§!"
+esc_option.6.ai_challenging_scaling.tooltip: "ИИ получит скалируемый бонус к скорости исследований:\n+§G50§!% в ранней игре\n+§G100§!% в середине игры\n+§G150§!% к концу игры."
+esc_option.6.ai_challenging_static: "Установить бонус к скорости исследований для ИИ на §BВызов - статичное§!"
+esc_option.6.ai_challenging_static.tooltip: "ИИ получит бонус на +§G100§!% к скорости исследований на всю игру."
+
+esc_option.6.ai_boost_disabled: "Установить бонус к скорости исследований для ИИ на §Rdisabled§!"
+esc_option.6.ai_boost_disabled.tooltip: "ИИ не получит никаких бонусов к скорости исследований."
+
+ESC_AI_research_boost_easy_scaling: "Бонус к скорости исследований для ИИ: Легкое - скалирование"
+ESC_AI_research_boost_easy_static: "Бонус к скорости исследований для ИИ: Легкое - статичное"
+ESC_AI_research_boost_moderate_scaling: "Бонус к скорости исследований для ИИ: Среднее - скалирование"
+ESC_AI_research_boost_moderate_static: "Бонус к скорости исследований для ИИ: Среднее - статичное"
+ESC_AI_research_boost_challenging_scaling: "Бонус к скорости исследований для ИИ: Вызов - скалирование"
+ESC_AI_research_boost_challenging_static: "Бонус к скорости исследований для ИИ: Вызов - статичное"

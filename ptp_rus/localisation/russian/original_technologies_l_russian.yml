@@ -1,0 +1,226 @@
+﻿l_russian:
+ 
+ 
+ tech_original_technologies_1:0 "Здания Исходной империи"
+ tech_original_technologies_1_desc:0 "Когда-то Исходная империя создала самые передовые автоматизированные производства в галактике, используя загадочные и малопонятные технологии, разработанные за 10000 лет цивилизации.\n\n§HЭта технология принадлежала Исходной империи.§!"
+
+ ORIGINAL_PEOPLE_BUILDINGS:0 "Здания Исходной империи"
+ ORIGINAL_PEOPLE_BUILDINGS_DESC:0 "Когда-то Исходная империя создала самые передовые автоматизированные производства в галактике, используя загадочные и малопонятные технологии, разработанные за 10000 лет цивилизации. Наши ученые предлагают немедленно восстановить эти технологии."
+ 
+ tech_original_technologies_2:0 "Технология Исходных 2"
+ tech_original_technologies_2_desc:0 "Placeholder."
+
+ tech_original_technologies_3:0 "Секции судов Исходных"
+ tech_original_technologies_3_desc:0 "Исходная империя имела множество продвинутых кораблей в своей имперской армаде, более мощной, чем любая, что галактика когда-либо видела.\n\n§HЭта технология принадлежала Исходной империи.§!"
+
+ tech_original_empire_sun_generator:0 "Солнечный генератор"
+ tech_original_empire_sun_generator_desc:0 "Солнечный генератор Исходной империи обеспечивал энергией бесчисленные планеты, создавая в своем реакторе мини-солнца для облегчения синтеза тёмной материи. Хотя его эксплуатация потенциально опасна, тем не менее, не было зарегистрировано ни одного серьезного инцидента.\n\n§HЭта технология принадлежала Исходной империи.§!"
+ tech_original_empire_star_forge:0 "Звёздная кузня"
+ tech_original_empire_star_forge_desc:0 "Звездная кузница использует силу звезды для производства практически безграничных сплавов с огромной скоростью.\n\n§HЭта технология принадлежала Исходной империи.§!"
+ tech_original_empire_cornucopia:0 "Золотой рог изобилия"
+ tech_original_empire_cornucopia_desc:0 "Золотой рог изобилия использует очень загадочные технологии и дает любые виды пищи по одному лишь желанию.\n\n§HЭта технология принадлежала Исходной империи.§!"
+ tech_original_empire_pleasure_palace:0 "Дворец удовольствий"
+ tech_original_empire_pleasure_palace_desc:0 "Дворец удовольствий Исходной империи предлагает изысканные формы развлечений для всех, кто их ищет. Попав в него, большинству будет трудно его покинуть.\n\n§HЭта технология принадлежала Исходной империи.§!"
+ tech_original_empire_siphoner:0 "Сифон бесконечности"
+ tech_original_empire_siphoner_desc:0 "Сифон бесконечности - это машина, предназначенная для выкачивания ресурсов из всех известных измерений одновременно.\n\n§HЭта технология принадлежала Исходной империи.§!"
+ tech_original_empire_eternal_archive:0 "Вечный архив"
+ tech_original_empire_eternal_archive_desc:0 "В Вечном архиве будут вечно храниться знания, содержащие мудрость и опыт тысячелетних цивилизаций в различные эпохи галактической истории.\n\n§HЭта технология принадлежала Исходной империи.§!"
+ tech_original_empire_star_forts:0 "Звёздный форт"
+ tech_original_empire_star_forts_desc:0 "Звёздные форты, развернутые Исходной империей, были легендарны по своим оборонительным возможностям, часто заставляя врагов использовать против них оружие, разрушающее планеты.\n\n§HЭта технология принадлежала Исходной империи.§!"
+ 
+ building_original_empire_sun_generator:0 "$tech_original_empire_sun_generator$"
+ building_original_empire_sun_generator_desc:0 "$tech_original_empire_sun_generator_desc$"
+ building_original_empire_star_forge:0 "$tech_original_empire_star_forge$"
+ building_original_empire_star_forge_desc:0 "$tech_original_empire_star_forge_desc$"
+ building_original_empire_cornucopia:0 "$tech_original_empire_cornucopia$"
+ building_original_empire_cornucopia_desc:0 "$tech_original_empire_cornucopia_desc$"
+ building_original_empire_pleasure_palace:0 "$tech_original_empire_pleasure_palace$"
+ building_original_empire_pleasure_palace_desc:0 "$tech_original_empire_pleasure_palace_desc$"
+ building_original_empire_siphoner:0 "$tech_original_empire_siphoner$"
+ building_original_empire_siphoner_desc:0 "$tech_original_empire_siphoner_desc$"
+ building_original_empire_eternal_archive:0 "$tech_original_empire_eternal_archive$"
+ building_original_empire_eternal_archive_desc:0 "$tech_original_empire_eternal_archive_desc$"
+ building_original_empire_star_forts:0 "$tech_original_empire_star_forts$"
+ building_original_empire_star_forts_desc:0 "$tech_original_empire_star_forts$"
+ 
+ tech_divine_judgement:0 "Божественное суждение"
+ tech_divine_judgement_desc:0 "Оружие света, чтобы удерживать силы зла в узде.\n\n§HЭта технология принадлежала Исходной империи.§!"
+ 
+ DIVINE_JUDGEMENT:0 "$tech_divine_judgement$"
+ DIVINE_JUDGEMENT_DESC:0 "$tech_divine_judgement_desc$"
+ 
+ tech_light_of_salvation:0 "Свет спасения"
+ tech_light_of_salvation_desc:0 "Свет спасения ярко светит тем, кто в нём нуждается.\n\n§HЭта технология принадлежала Исходной империи.§!"
+ 
+ LIGHT_OF_SALVATION:0 "$tech_light_of_salvation$"
+ LIGHT_OF_SALVATION_DESC:0 "$tech_light_of_salvation_desc$"
+ 
+ tech_light_of_arya:0 "Свет Арии"
+ tech_light_of_arya_desc:0 "Это оружие оставалось лучём света во тьме, постигшей Исходную империю.\n\n§HЭта технология принадлежала Исходной империи.§!"
+ 
+ LIGHT_OF_ARYA:0 "$tech_light_of_arya$"
+ LIGHT_OF_ARYA_DESC:0 "$tech_light_of_arya_desc$"
+ 
+ tech_blessed_sling:0 "Благословенная праща"
+ tech_blessed_sling_desc:0 "Благословенная праща выпускает огненную плазму, близкую к температуре звезд.\n\n§HЭта технология принадлежала Исходной империи.§!"
+ 
+ BLESSED_SLING:0 "$tech_blessed_sling$"
+ BLESSED_SLING_DESC:0 "$tech_blessed_sling_desc$"
+ 
+ BLESSED_SLING_S:0 "$tech_blessed_sling$"
+ BLESSED_SLING_S_DESC:0 "$tech_blessed_sling_desc$"
+ 
+ tech_deliverer_strike_craft:0 "Несущие спасение"
+ tech_deliverer_strike_craft_desc:0 "Эти высокотехнологичные штурмовики использовались Исходной империей во время Великого Крестового Похода.\n\n§HЭта технология принадлежала Исходной империи.§!"
+ 
+ DELIVERER_STRIKE_CRAFT:0 "$tech_deliverer_strike_craft$"
+ DELIVERER_STRIKE_CRAFT_DESC:0 "$tech_deliverer_strike_craft_desc$"
+ 
+ tech_holy_thunder:0 "Святой гром"
+ tech_holy_thunder_desc:0 "Святой гром сбивает все приближающиеся ракеты и штурмовики полной мощью Исходной империи.\n\n§HЭта технология принадлежала Исходной империи.§!"
+
+ tech_original_empire_missile:0 "Стрелы праведности"
+ tech_original_empire_missile_desc:0 "Стрелы праведности — ракеты, состоящие из чистой энергии, из-за чего они не имеют корпуса, и на них не может нацелиться ни одна известная система точечной обороны.\n\n§HЭта технология принадлежала Исходной империи.§!"
+
+ ORIGINAL_EMPIRE_MISSILE:0 "$tech_original_empire_missile$"
+ ORIGINAL_EMPIRE_MISSILE_DESC:0 "$tech_original_empire_missile_desc$"
+ 
+ HOLY_THUNDER:0 "$tech_holy_thunder$"
+ HOLY_THUNDER_DESC:0 "$tech_holy_thunder_desc$"
+
+ ORIGINAL_EMPIRE_POWER_CORE:0 "Реактор Исходной империи"
+ ORIGINAL_EMPIRE_POWER_CORE_DESC:0 "Ядро этого реактора пронизано различными технологиями Исходной империи.\n\n§HЭта технология принадлежала Исходной империи.§!"
+ 
+ tech_original_empire_power_core:0 "Реактор Исходной империи"
+ tech_original_empire_power_core_desc:0 "Ядро этого реактора пронизано различными технологиями Исходной империи.\n\n§HЭта технология принадлежала Исходной империи.§!"
+ 
+ FE_ESCORT_ORIGINAL_EMPIRE_REACTOR:0 "Реактор Исходной империи"
+ FE_ESCORT_ORIGINAL_EMPIRE_REACTOR_DESC:0 "Ядро этого реактора пронизано различными технологиями Исходной империи.\n\n§HЭта технология принадлежала Исходной империи.§!"
+ FE_BATTLECRUISER_ORIGINAL_EMPIRE_REACTOR:0 "Реактор Исходной империи"
+ FE_BATTLECRUISER_ORIGINAL_EMPIRE_REACTOR_DESC:0 "Ядро этого реактора пронизано различными технологиями Исходной империи.\n\n§HЭта технология принадлежала Исходной империи.§!"
+ FE_TITAN_ORIGINAL_EMPIRE_REACTOR:0 "Реактор Исходной империи"
+ FE_TITAN_ORIGINAL_EMPIRE_REACTOR_DESC:0 "Ядро этого реактора пронизано различными технологиями Исходной империи.\n\n§HЭта технология принадлежала Исходной империи.§!"
+ FE_GOLIATH_ORIGINAL_EMPIRE_REACTOR:0 "Реактор Исходной империи"
+ FE_GOLIATH_ORIGINAL_EMPIRE_REACTOR_DESC:0 "Ядро этого реактора пронизано различными технологиями Исходной империи.\n\n§HЭта технология принадлежала Исходной империи.§!"
+ FE_STATIONS_ORIGINAL_EMPIRE_REACTOR:0 "Реактор Исходной империи"
+ FE_STATIONS_ORIGINAL_EMPIRE_REACTOR_DESC:0 "Ядро этого реактора пронизано различными технологиями Исходной империи.\n\n§HЭта технология принадлежала Исходной империи.§!"
+ FE_LARGE_STATIONS_ORIGINAL_EMPIRE_REACTOR:0 "Реактор Исходной империи"
+ FE_LARGE_STATIONS_ORIGINAL_EMPIRE_REACTOR_DESC:0 "Ядро этого реактора пронизано различными технологиями Исходной империи.\n\n§HЭта технология принадлежала Исходной империи.§!"
+ 
+ ORIGINAL_EMPIRE_SHIELD:0 "$tech_original_empire_shield$"
+ ORIGINAL_EMPIRE_SHIELD_DESC:0 "$tech_original_empire_shield_desc$"
+ MEDIUM_ORIGINAL_EMPIRE_SHIELD:0 "Medium Celestial Shield"
+ MEDIUM_ORIGINAL_EMPIRE_SHIELD_DESC:0 "$tech_original_empire_shield_desc$"
+ LARGE_ORIGINAL_EMPIRE_SHIELD:0 "Large Celestial Shield"
+ LARGE_ORIGINAL_EMPIRE_SHIELD_DESC:0 "$tech_original_empire_shield_desc$"
+ 
+ tech_original_empire_shield:0 "Небесный щит"
+ tech_original_empire_shield_desc:0 "Эти древние щиты отражают все приближающиеся снаряды образом, нарушающим все известные нам законы физики.\n\n§HЭта технология принадлежала Исходной империи.§!"
+ 
+ CELESTIAL_ARMOR:0 "$tech_celestial_armor$"
+ CELESTIAL_ARMOR_DESC:0 "$tech_celestial_armor_desc$"
+ MEDIUM_CELESTIAL_ARMOR:0 "Средний небесный щит"
+ MEDIUM_CELESTIAL_ARMOR_DESC:0 "$tech_celestial_armor_desc$"
+ LARGE_CELESTIAL_ARMOR:0 "Большой небесный щит"
+ LARGE_CELESTIAL_ARMOR_DESC:0 "$tech_celestial_armor_desc$"
+ 
+ tech_celestial_armor:0 "Небесная броня"
+ tech_celestial_armor_desc:0 "Небесная броня представляет собой величественное произведение инженерии, с точными художественными вплавлениями живого металла в богато украшенные бронированные пластины.\n\n§HЭта технология принадлежала Исходной империи.§!" 
+ 
+ CELESTIAL_PLATING:0 "$tech_celestial_plating$"
+ CELESTIAL_PLATING_DESC:0 "$tech_celestial_plating_desc$"
+ MEDIUM_CELESTIAL_PLATING:0 "Средняя небесная броня"
+ MEDIUM_CELESTIAL_PLATING_DESC:0 "$tech_celestial_plating_desc$"
+ LARGE_CELESTIAL_PLATING:0 "Большая небесная броня"
+ LARGE_CELESTIAL_PLATING_DESC:0 "$tech_celestial_plating_desc$"
+ 
+ tech_celestial_plating:0 "Небесная обшивка"
+ tech_celestial_plating_desc:0 "Небесная обшивка представляет собой величественное произведение инженерии, с точными художественными вплавлениями живого металла в богато украшенную бронированную общивку.\n\n§HЭта технология принадлежала Исходной империи.§!"  
+ 
+ ORIGINAL_EMPIRE_CHALICE:0 "$tech_original_empire_chalice$"
+ ORIGINAL_EMPIRE_CHALICE_DESC:0 "$tech_original_empire_chalice_desc$"
+ 
+ tech_original_empire_chalice:0 "Чаша"
+ tech_original_empire_chalice_desc:0 "Чашей называется автоматическая защитная система, которая оптимизирует мощность щитов, а также улучшает эффективность систем точечной обороны.\n\n§HЭта технология принадлежала Исходной империи.§!"
+ 
+ ORIGINAL_EMPIRE_CRUCIBLE:0 "$tech_original_empire_crucible$"
+ ORIGINAL_EMPIRE_CRUCIBLE_DESC:0 "$tech_original_empire_crucible_desc$"
+ 
+ tech_original_empire_crucible:0 "Горнило"
+ tech_original_empire_crucible_desc:0 "Согласно легендам, Горнило известно как разрушитель миров, с которым Исходная империя когда-то покорила бесчисленные миры.\n\n§HЭта технология принадлежала Исходной империи.§!"
+ 
+ ORIGINAL_EMPIRE_JUMP_DRIVE:0 "$tech_original_empire_jump_drive$"
+ ORIGINAL_EMPIRE_JUMP_DRIVE_DESC:0 "$tech_original_empire_jump_drive_desc$"
+ 
+ tech_original_empire_jump_drive:0 "Прыжковый двигатель Исходной империи"
+ tech_original_empire_jump_drive_desc:0 "Этот прыжковый двигатель использует технологии Исходной империи, что позволяют судам быстро «прыгать» между системами со значительно большим радиусом, чем что-либо раньше.\n\n§HЭта технология принадлежала Исходной империи.§!"
+ 
+ ORIGINAL_EMPIRE_THRUSTER:0 "$tech_original_empire_thruster$"
+ ORIGINAL_EMPIRE_THRUSTER_DESC:0 "$tech_original_empire_thruster_desc$"
+ 
+ tech_original_empire_thruster:0 "Двигатель Исходной империи"
+ tech_original_empire_thruster_desc:0 "Этот дивгатель Исходной империи, на вид отрицающий законы физики, обеспечивает куда лучшую манёвренность, чем что-либо раньше.\n\n§HЭта технология принадлежала Исходной империи.§!"
+ 
+ FE_ESCORT_SHIP_THRUSTER_3:0 "$tech_original_empire_thruster$"
+ FE_ESCORT_SHIP_THRUSTER_3_DESC:0 "$tech_original_empire_thruster_desc$"
+ FE_BATTLECRUISER_SHIP_THRUSTER_3:0 "$tech_original_empire_thruster$"
+ FE_BATTLECRUISER_SHIP_THRUSTER_3_DESC:0 "$tech_original_empire_thruster_desc$"
+ FE_TITAN_SHIP_THRUSTER_3:0 "$tech_original_empire_thruster$"
+ FE_TITAN_SHIP_THRUSTER_3_DESC:0 "$tech_original_empire_thruster_desc$"
+ FE_GOLIATH_SHIP_THRUSTER_3:0 "$tech_original_empire_thruster$"
+ FE_GOLIATH_SHIP_THRUSTER_3_DESC:0 "$tech_original_empire_thruster_desc$"
+ 
+ ORIGINAL_EMPIRE_SENSORS:0 "$tech_original_empire_sensors$"
+ ORIGINAL_EMPIRE_SENSORS_DESC:0 "$tech_original_empire_sensors_desc$"
+ 
+ tech_original_empire_sensors:0 "Сенсоры Исходной империи"
+ tech_original_empire_sensors_desc:0 "Эти сенсоры способны точно обнаружить все передвижения судов в пределах всего этого сектора галактики.\n\n§HЭта технология принадлежала Исходной империи.§!"
+
+ tech_original_empire_shield_disabler:0 "Подавитель щитов Исходной империи"
+ tech_original_empire_shield_disabler_desc:0 "Монтируемый исключительно на §HГолиафы§!, подавитель щитов Исходной империи обнуляет все вражеские щиты в пределах свого радиуса действия.\n\n§HЭта технология принадлежала Исходной империи.§!"
+ tech_original_empire_controls_jammer:0 "Генератор помех Исходной империи"
+ tech_original_empire_controls_jammer_desc:0 "Монтируемый исключительно на §HПавших Титанов§!, генератор помех Исходной империи использует загадочные технологии для отключения вражеских двигателей в пределах свого радиуса действия.\n\n§HЭта технология принадлежала Исходной империи.§!"
+ tech_original_empire_subspace_snare:0 "Гравитационный колодец Исходной империи"
+ tech_original_empire_subspace_snare_desc:0 "Монтируемый исключительно на §HПавших Титанов§!, гравитационный колодец Исходной империи захватывает гравитацией все вражеские суда в пределах свого радиуса действия, существенно уменьшая их шансы на побег.\n\n§HЭта технология принадлежала Исходной империи.§!"
+ 
+ ORIGINAL_EMPIRE_SHIELD_DISABLER:0 "§HПодавитель щитов Исходной империи§!"
+ ORIGINAL_EMPIRE_CONTROLS_JAMMER:0 "§HГенератор помех Исходной империи§!"
+ ORIGINAL_EMPIRE_SUBSPACE_SNARE:0 "§HГравитационный колодец Исходной империи§!"
+ 
+
+ original_technologies_chain_title:0 "Возвращение Исходной империи"
+ original_technologies_chain_desc:0 "На вершине своей силы Исходная империя была единственной сверхдержавой в галактике, и все цивилизации преклонялись перед её мощью.\n\nНо повторить прошлого не всегда просто, а порой необходимо отбрасывать варианты и идти на жертвы. Теперь наша очередь выбирать.\n\nПути ниже могут быть завершены в любом порядке, каждый из которых ведет к собственной отрасли технологий, особенностям и последствиям. Если активирован неподдерживаемый мод нужно помнить, что соответствующий путь можно не исследовать."
+ 
+ original_technologies_1:0 "Автоматизация индустрии"
+ original_technologies_1_DESC:0 "Используя продвинутую форму манипуляции с темной материей, технологическое мастерство предтеч позволило целым отраслям промышленности работать автономно, освободив население, позволяя прожить остаток своей жизни занимаясь самоопределением и гедонизмом.\n\nЕсли мы посвятим себя изучению того, каким образом они манипулируют тёмной материей, мы сможем воспроизвести и перестроить эти технологические чудеса для эффективной экономики."
+ original_technologies_2:0 "Социальное вознесение"
+ original_technologies_2_DESC:0 "В зените цивилизации граждан объединяет единый фанатичный идеал. Под их бурные аплодисменты наше общество изменится, открыв новые гражданские права и здания для нашего вознёсенного общества.\n\nЕсли мы имеем возможность, но ещё не открыли §HАркологический проект§!, этот проект даст нам эквивалентный эффект."
+ original_technologies_3:0 "Вопрос стиля"
+ original_technologies_3_DESC:0 "К сожалению, наши корабли и города по-прежнему выглядят так же, как в первый день, когда мы совершили наш первый космический полет, однако сейчас они не отражают сегодняшнее состояние нашей империи. Возможно, некоторые проекты, заимствованные у наших соседей-предтеч, будут неплохо служить для запугивания наших врагов и предотвращения будущих вторжений.\n\nЧертежи и технические данные для этих элегантных конструкций предтеч могут быть получены с помощью различных тайных операций, охватывающих несколько лет."
+ original_technologies_4:0 "Технологическое совершенство"
+ original_technologies_4_DESC:0 "Овладение всеми областями науки обеспечивает беспрецедентный прогресс в области шифрования, дешифрования и вычислительной мощности, что значительно увеличивает скорость наших исследований. Другие применения преобразования материи - создание редких и стратегических ресурсов искуственно."
+ original_technologies_5:0 "Амбиции власти"
+ original_technologies_5_DESC:0 "У нас должны быть галактические амбиции, соответствующие нашему статусу и мощи, которые распространяют наше влияние на все края галактики. Новые указы и кампании также обеспечат дальнейшее процветание и стабильность нашей империи.\n\nЕсли мы имеем возможность, но ещё не открыли §HКолосс§!, этот проект даст нам эквивалентный эффект."
+ original_technologies_6:0 "Инженерное превосходство"
+ original_technologies_6_DESC:0 "Совершенства можно добиться, если совершенны будут наши инженерные навыки. Это позволит нам строить масштабные проекты, которые являются настоящими чудесами Вселенной.\n\nЕсли мы имеем возможность, но ещё не открыли §HГалактические чудеса§!, этот проект даст нам эквивалентный эффект."
+ 
+ 
+ original_technologies.1001.name:0 "Технологии Исходной империи 1"
+ original_technologies.1001.desc:0 "После изучения эскортных кораблей, которые наши предтечи оставили после себя, а также добавления к исследованию данных с раскопок в бывших колониях, наши ученые смогли выяснить несколько секретов, стоящих за некоторыми технологиями. Возможно, овладение этими технологиями предоставит нам зацепки к другим технологиям Исходной империи, которые в настоящее время вне нашего понимания."
+ original_technologies.1001.a:0 "Прекрасно."
+ 
+ original_technologies.1002.name:0 "Технологии Исходной империи 2"
+ original_technologies.1002.desc:0 "После изучения линейных крейсеров, которые наши предтечи оставили после себя, а также добавления к исследованию данных с раскопок в бывших колониях, наши ученые смогли выяснить несколько секретов, стоящих за некоторыми технологиями. Возможно, овладение этими технологиями предоставит нам зацепки к другим технологиям Исходной империи, которые в настоящее время вне нашего понимания."
+ original_technologies.1002.a:0 "Хорошая работа."
+ 
+ original_technologies.1003.name:0 "Технологии Исходной империи 3"
+ original_technologies.1003.desc:0 "После изучения Падших Титанов, которые наши предтечи оставили после себя, а также добавления к исследованию данных с раскопок в бывших колониях, наши ученые смогли выяснить несколько секретов, стоящих за некоторыми технологиями. Возможно, овладение этими технологиями предоставит нам зацепки к другим технологиям Исходной империи, которые в настоящее время вне нашего понимания."
+ original_technologies.1003.a:0 "Так держать."
+ 
+ original_technologies.1004.name:0 "Технологии Исходной империи 4"
+ original_technologies.1004.desc:0 "После изучения Голиафа, который наши предтечи оставили после себя, а также добавления к исследованию данных с раскопок в бывших колониях, наши ученые смогли выяснить несколько секретов, стоящих за некоторыми технологиями. Возможно, овладение этими технологиями предоставит нам зацепки к другим технологиям Исходной империи, которые в настоящее время вне нашего понимания."
+ original_technologies.1004.a:0 "Наш флот почти готов."
+ 
+ original_technologies.1005.name:0 "Технологии Исходной империи 5"
+ original_technologies.1005.desc:0 "Долгое время таинственные свойства аур судов Императорской Армады озадачивали наших ученых. Но последние прорывы, а также контекст от других технологий Исходной империи дали нам нужные ответы. Как только эти установки будут установлены на наших кораблях, имперская армада будет вновь править галактикой!"
+ original_technologies.1005.a:0 "Имперская армада вернулась."

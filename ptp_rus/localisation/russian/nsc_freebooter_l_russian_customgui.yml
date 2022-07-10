@@ -1,14 +1,14 @@
 ﻿l_russian:
 
 ### Edicts ###
-edict_nsc_freebooter_leader_making:0 "§YКомната для тренировок Великого Хана§!"
+edict_nsc_freebooter_leader_making:0 "§YКомната для тренировок с Великим Ханом§!"
 edict_nsc_freebooter_leader_making_desc:0 "Здесь Великий Хан лично обучает наших лидеров."
 nsc_freebooter_leader_making_tooltip:0 "Откроется специальный пользовательский интерфейс для создания настраиваемого лидера."
 
 ### Technologies ###
 tech_nsc_freebooter_khan_training_improve:0 "Усовершенствованные учения Хана"
 tech_nsc_freebooter_khan_training_improve_desc:0 "Знание - это сила. Власть - это всё."
-tech_nsc_freebooter_khan_training_improve_tooltip:0 "§YВы можете выбрать ещё §G1§! черту в комнате для тренировок Великого Хана.§!"
+tech_nsc_freebooter_khan_training_improve_tooltip:0 "§YВы можете выбрать ещё §G1§! черту в комнате для тренировок с Великим Ханом.§!"
 
 ### Events ###
 #Нам не нужно добавлять описания здесь, так как они никому не будут видны
@@ -17,17 +17,17 @@ nsc_freebooter_customgui.1.desc:0 ""
 nsc_freebooter_customgui.1.a:0 ""
 
 ### Custom GUI ###
-TEXT_NSC_FREEBOOTER_LEADER_MAKING:0 "Комната для тренировок Великого Хана"
+TEXT_NSC_FREEBOOTER_LEADER_MAKING:0 "Комната для тренировок с Великим Ханом"
 NSC_FREEBOOTER_LEADER_SKILL_LEVEL_HEADER:0 "Уровни навыков лидера"
 NSC_FREEBOOTER_LEADER_GOVERNOR_TRAIT_HEADER:0 "Черты §Yгубернатора§!"
-NSC_FREEBOOTER_LEADER_SCIENTIST_TRAIT_HEADER:0 "Черты §Bученого§!"
+NSC_FREEBOOTER_LEADER_SCIENTIST_TRAIT_HEADER:0 "Черты §Bучёного§!"
 NSC_FREEBOOTER_LEADER_ADMIRAL_TRAIT_HEADER:0 "Черты §Rадмирала§!"
 NSC_FREEBOOTER_LEADER_GENERAL_TRAIT_HEADER:0 "Черты §Gгенерала§!"
 TEXT_NSC_FREEBOOTER_LEADER_MAKING_CUSTOM:0 "§YНачало обучения§!"
 TEXT_RESET_NSC_FREEBOOTER_LEADER_TRAIT_SKILL_LEVEL:0 "Сброс характеристик"
 tooltip_reset_nsc_freebooter_leader_trait:0 "Нажмите, чтобы §Yсбросить выбранные черты и уровень§!."
 
-nsc_freebooter_leader_making_should_pick_any_trait.fail:0 "£trigger_no£ Признак НЕ выбран."
+nsc_freebooter_leader_making_should_pick_any_trait.fail:0 "£trigger_no£ Черта НЕ выбрана."
 nsc_freebooter_leader_making_should_pick_any_skill_level.fail:0 "£trigger_no£ Уровень квалификации НЕ выбран."
 nsc_freebooter_leader_making_already_set_skill_level.fail:0 "£trigger_no£ Этот уровень квалификации уже выбран."
 

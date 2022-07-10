@@ -35,7 +35,7 @@
  #######################################
  #### Vanilla Missing Localisation
  #######################################
- d_infestation:0 "Зараженная зона"
+ d_infestation:0 "Заражённая зона"
  d_infestation_desc:0 "Большая территория, кишащая различными быстро растущими щупальцами и каким-то слизистым мхом. Кажется, что он поглощает всё, с чем соприкасается. "
 
  #######################################
@@ -108,39 +108,45 @@
  gpm_tb_ringworld_blocker:0 "£blocker£ Разрушенная инфраструктура"
  gpm_tb_ringworld_blocker_desc:0 "$d_tomb_world_wasteland_desc$"
 
- gpm_tb_deep_caverns:0 "Глубокая трещина"
+ gpm_tb_deep_caverns:0 "£blocker£ Глубокая трещина"
  gpm_tb_deep_caverns_desc:0 "Тонкая извивающаяся трещина, тянущаяся на многие километры и такая глубокая, что с поверхности невозможно разглядеть её дно."
 
- gpm_tb_deprecated_infrastructure:0 "Устаревшая инфраструктура"
+ gpm_tb_deprecated_infrastructure:0 "£blocker£ Устаревшая инфраструктура"
  gpm_tb_deprecated_infrastructure_desc:0 "Заброшенные здания, мосты, дороги и туннели давно покинуты и совершенно не подлежат восстановлению."
 
- gpm_tb_volatile_gasses:0 "Газообразная флора"
+ gpm_tb_volatile_gasses:0 "£blocker£ Газообразная флора"
  gpm_tb_volatile_gasses_desc:0 "Экзотическая растительность, которая испускает смертельно ядовитые газы в качестве побочного продукта их жизнедеятельности. "
 
- gpm_tb_volatile_motes:0 "Взрывающаяся флора"
+ gpm_tb_volatile_motes:0 "£blocker£ Взрывающаяся флора"
  gpm_tb_volatile_motes_desc:0 "Крайне легковоспламеняющиеся и взрывоопасные растения, которые, кажется, могут расти где угодно."
 
- gpm_tb_volatile_crystals:0 "Кристаллизующаяся флора"
+ gpm_tb_volatile_crystals:0 "£blocker£ Кристаллизующаяся флора"
  gpm_tb_volatile_crystals_desc:0 "Уникальная растительность, которая превращает почву, на которой оно растет, в кристаллы."
 
- gpm_tb_swamp_resources:0 "Липкие болота"
+ gpm_tb_swamp_resources:0 "£blocker£ Липкие болота"
  gpm_tb_swamp_resources_desc:0 "Вонючие липкие болота, покрывающие обширную территорию, и скрывающие под своей поверхностью множество воронок, заполненных водой."
 
- gpm_tb_ocean_resources:0 "Богатства океанских глубин"
- gpm_tb_ocean_resources_desc:0 "Богатые скопления минералов прямо под океанским дном."
+ gpm_tb_ocean_resources:0 "£blocker£ Богатство океанических глубин"
+ gpm_tb_ocean_resources_desc:0 "Богатые скопления минералов прямо под океаническим дном."
 
- gpm_tb_forest_resources:0 "Густые влажные леса"
+ gpm_tb_forest_resources:0 "£blocker£ Густые влажные леса"
  gpm_tb_forest_resources_desc:0 "Густой лес, скрывающий под своими корнями, драгоценные минералы и материалы."
 
- gpm_tb_automated_turrets:0 "Автоматические турели"
+ gpm_tb_automated_turrets:0 "£blocker£ Автоматические турели"
  gpm_tb_automated_turrets_desc:0 "Смертоносные автономные турели, которые стреляют во всё, что движется."
 
- gpm_tb_crystal_growth_resources:0 "Колоссальные кристаллы"
+ gpm_tb_crystal_growth_resources:0 "£blocker£ Колоссальные кристаллы"
  gpm_tb_crystal_growth_resources_desc:0 "Колоссальные кристаллы, покрывающий богатый минералами обширный район."
 
- gpm_tb_lethal_overgrowth_resources:0 "Смертельные заросли"
+ gpm_tb_lethal_overgrowth_resources:0 "£blocker£ Смертельные заросли"
  gpm_tb_lethal_overgrowth_resources_desc:0 "Заросли острой как бритва ежевики покрывают большую площадь."
 
+ gpm_tb_xenomorph_blocker_empty:1 "£blocker£ Колония ксеноморфов"
+ gpm_tb_xenomorph_blocker_empty_desc:1 "Ненасытные орды биоинженерных ужасов, состоящих всего лишь из зубов, когтей и инстинктивного желания убивать."
+ 
+ gpm_tb_automated_turrets_empty:1 "£blocker£ Автономные дуговые турели"
+ gpm_tb_automated_turrets_empty_desc:1 "Смертоносные автономные турели, которые стреляют во всё, что движется."
+ 
  #######################################
  #### Space Deposits
  #######################################
@@ -210,8 +216,8 @@
  #######################################
  #### Features Events & Relics
  #######################################
- gpm_d_floating_islands_housing:0 "Искусственные парящие острова"
- gpm_d_floating_islands_housing_desc:0 "Огромные плоские искусственно построенные парящие острова."
+ gpm_d_floating_islands_housing:0 "Искусственные парящие города"
+ gpm_d_floating_islands_housing_desc:0 "Огромные плоские искусственно созданные парящие острова, покрытые городской инфраструктурой."
 
  gpm_d_restored_infrastructure:0 "Восстановленная инфраструктура"
  gpm_d_restored_infrastructure_desc:0 "Древняя инфраструктура, которая была восстановлена в своём прежнем блеске славы."
@@ -438,23 +444,23 @@
  #######################################
  #### Features Relic and Ecu worlds
  #######################################
- gpm_d_relic_tank_factory:0 "Археологический сборщик танков"
+ gpm_d_relic_tank_factory:0 "Архаичный сборщик танков"
  gpm_d_relic_tank_factory_desc:0 "Древние сборочные платформы танков могут производить небольшие, ловкие, быстрые, но хорошо бронированные танки."
- gpm_d_relic_tank_factoryTT:0 "Разблокирует §HБатальон танков§!"
+ gpm_d_relic_tank_factoryTT:0 "Открывает §HБатальоны танков§!"
 
- gpm_d_relic_mech_factory:0 "Археологическая фабрика мехвоинов"
+ gpm_d_relic_mech_factory:0 "Архаичная фабрика мехвоинов"
  gpm_d_relic_mech_factory_desc:0 "Автономная фабрика, способная построить несколько гигантских мехов."
- gpm_d_relic_mech_factoryTT:0 "Разблокирует §HМехвоинов§!"
+ gpm_d_relic_mech_factoryTT:0 "Открывает §HМехвоинов§!"
 
- gpm_d_relic_power_armor_factory:0 "Автономная линия сборки силовой брони"
+ gpm_d_relic_power_armor_factory:0 "Архаичная линия сборки силовой брони"
  gpm_d_relic_power_armor_factory_desc:0 "Древний линия сборки силовой брони. Если вложить немного ресурсов, то она ещё раз сможет произвести партию брони."
- gpm_d_relic_power_armor_factoryTT:0 "Разблокирует §HАрмию в силовой броне§!"
+ gpm_d_relic_power_armor_factoryTT:0 "Открывает §HАрмии в силовой броне§!"
 
- gpm_d_relic_ship_factory:0 "Сломанная археологическая верфь"
+ gpm_d_relic_ship_factory:0 "Архаичная сломанная верфь"
  gpm_d_relic_ship_factory_desc:0 "Древние автономные верфи, способные производить небольшие ударные самолёты."
- gpm_d_relic_ship_factoryTT:0 "Разблокирует §HЭскадрилию истребителей§!"
+ gpm_d_relic_ship_factoryTT:0 "Открывает §HЭскадрильи истребителей§!"
 
- gpm_d_relic_reactor_factory:0 "Археологическая фабрика реакторов"
+ gpm_d_relic_reactor_factory:0 "Архаичная фабрика реакторов"
  gpm_d_relic_reactor_factory_desc:0 "Древние реакторы едва работают. Они всё ещё производят энергию, но лучше не связываться с ними."
 
  gpm_d_relic_roaming_killbots:0 "Бродячие роботы-убийцы"
@@ -478,7 +484,7 @@
  #### Features Precursor Worlds
  #######################################
  gpm_d_precursor_planetary_shield:0 "Планетарный щит предтеч"
- gpm_d_precursor_planetary_shield_desc:0 "Здесь располагается гигантский самоподдерживающийся массив щитов. Этот щит защищает всю поверхность мира. "
+ gpm_d_precursor_planetary_shield_desc:0 "Здесь располагается гигантский самоподдерживающийся массив щитов. Этот щит окутывает и защищает весь этот мир."
 
  gpm_d_precursor_capital_complex:0 "Древний мегаполис"
  gpm_d_precursor_capital_complex_desc:0 "Гигантский город предтеч с массивным сооружением в центре. Большая часть инфраструктуры, кажется, пригодна для использования."

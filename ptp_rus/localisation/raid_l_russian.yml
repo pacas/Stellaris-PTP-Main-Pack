@@ -1,5 +1,25 @@
 ﻿l_russian:
 
+# §Ywords§ = Yellow Words
+# §Rwords§ = Red Words
+# §Gwords§ = Green Words
+# §Bwords§ = Blue Words
+# §Swords§ = Orange Words
+# \n£blocker = Blocker Picture
+# \n£society = Society Picture
+# \n£engineering = Engineering Picture
+# \n£physics = Physics Picture
+# \n£energy = Energy Picture
+# \n£minerals = Minerals Picture
+
+#TEMPLATE
+#youranomalyhere_category: "Name of beginning event"
+#youranomalyhere_category_desc: "Desc of beginning event"
+#youranomalyhere.1.name: "Name of event"
+#youranomalyhere.1.desc: "Desc of event"
+#youranomalyhere.1.a: "first answer"
+#youranomalyhere.1.b: "second answer"
+
  tech_rer_raid_1: "Методы быстрого грабежа"
  tech_rer_raid_1_desc: "С улучшением сверхсветовых двигателей у нас появились более удобные способы отбирать ресурсы у врагов во время планетарных вторжений."
  tech_rer_raid_1_tooltip: "Ресурсы от рейдов: §G+50%§!"
@@ -45,28 +65,39 @@
  resolution_rer_repeal_honor_before_reason_desc: "Невозможность узнать информацию о ваших врагах может привести к краху каждой империи. Сбор информации так же важен, как и наличие горы войск. Что вы пытаетесь доказать, когда на поле боя нет чести?"
  resolution_rer_repeal_honor_before_reason_effect_success: "Отменяет все эффекты $resolution_rer_honor_before_reason$."
 
+
+
  RAID_WONT_RAID: "§EНе совершать рейды на планеты автоматически§!"
  RAID_AUTO: "§EАвтоматически совершать рейды на враждебные планеты по возможности§!"
- RAID_NO_KILL: "§EНе убивать население в процессе рейдов§!"
+ RAID_NO_KILL: "§EНе уничтожать поселения в процессе рейдов§!"
  RAID_KILL: "§EПриведет к некоторым жертвам§!"
  RAID_KILL_2: "§RПриведет к дипломатическим штрафам§!"
  RAID_GENOCIDE: "§EМожно получить дополнительные ресурсы, если геноцид разрешен§!"
- RAID_MORE_2: "Можно получить больше ресурсов от рейдов на планеты с активной политикой §Y$policy_policy_raidresource$§!."
+ #RAID_MORE_2: "Можно получить больше ресурсов от рейдов на планеты с активной политикой §Y$policy_policy_raidresource$§!."
  RAID_MORE: "Позволяет нам получать больше ресурсов от рейдов на враждебные планеты, если активна политика §Y$policy_policy_raidresource$§!."
 
- civic_tooltip_barbaric_despoilers_effects:6 "Невозможно заключать §YМиграционные договоры§!\nНевозможно создавать или вступать в §YФедерации§!\nПоявляется повод к войне '§Y$casus_belli_cb_despoliation$§!' против всех других империй\n$allow_raiding$\n$RAID_MORE_2$\nУменьшенное §YОтношение§! к империи от всех других империй"
+ #civic_tooltip_barbaric_despoilers_effects:6 "Невозможно заключать §YМиграционные договоры§!\nНевозможно создавать или вступать в §YФедерации§!\nПоявляется повод к войне '§Y$casus_belli_cb_despoliation$§!' против всех других империй\n$allow_raiding$\n$RAID_MORE_2$\nУменьшенное §YОтношение§! к империи от всех других империй"
 
  opinion_raidresources_1:0 "Совершили рейд на станцию"
  opinion_raidresources_2:0 "Совершили рейд на планету"
  opinion_raidresources_3:0 "Рейдеры"
-
+ #opinion_raid_policy:0 "Offensive Raid Policy"
+ #opinion_honor:0 "Fellow Warrior"
+ 
  raidresource_cannot_raid_tooltip:0 "§YДо истечения срока действия этого модификатора повторный рейд на эту планету совершить невозможно.§!"
+ 
  raidresource_planet_get_raided:0 "Совершён рейд"
  raidresource_planet_get_raided_desc:0 "С этой планеты недавно были вывезены все ресурсы. Новый рейд не будет иметь смысла до тех пор, пока она не восполнит потери.\n\n$raidresource_cannot_raid_tooltip$""
+ #raidresource_planet_get_raided_light:0 "$raidresource_planet_get_raided$"
+ #raidresource_planet_get_raided_light_desc:0 "$raidresource_planet_get_raided_desc$"
  raidresource_planet_get_raided_heavy:0 "$raidresource_planet_get_raided$"
  raidresource_planet_get_raided_heavy_desc:0 "$raidresource_planet_get_raided_desc$"
-
- raidresource_planet_get_raided_building_slot_lose_lv1: "Здание ограблено"
+ #raidresource_planet_get_raided_honor:0 "$raidresource_planet_get_raided$"
+ #raidresource_planet_get_raided_honor_desc:0 "This Planet was secured by a group of Armies, leaving anything resource in this planet untouched.\n\n$raidresource_cannot_raid_tooltip$"
+ #raidresource_planet_get_raided_restored:0 "Recovered Planet"
+ #raidresource_planet_get_raided_restored_desc:0 "This Planet's ecomony was restored back to their previous status.\n\n$raidresource_cannot_raid_tooltip$"
+ 
+ raidresource_planet_get_raided_building_slot_lose_lv1: "На здание совершён рейд"
  raidresource_planet_get_raided_building_slot_lose_lv1_desc: "Жестокие налеты наносят большой урон, даже зданиям."
  raidresource_planet_get_raided_building_slot_lose_lv2: "$raidresource_planet_get_raided_building_slot_lose_lv1$"
  raidresource_planet_get_raided_building_slot_lose_lv2_desc: "$raidresource_planet_get_raided_building_slot_lose_lv1_desc$"
@@ -86,22 +117,37 @@
  raidresource_planet_get_raided_building_slot_lose_lv9_desc: "$raidresource_planet_get_raided_building_slot_lose_lv1_desc$"
  raidresource_planet_get_raided_building_slot_lose_lv10: "$raidresource_planet_get_raided_building_slot_lose_lv1$"
  raidresource_planet_get_raided_building_slot_lose_lv10_desc: "$raidresource_planet_get_raided_building_slot_lose_lv1_desc$"
-
+ 
+ #edict_raidresource_planet_restore:0 "§YRestore Planet§!"
+ #edict_raidresource_planet_restore_desc:0 "Using our Influence to bring the Planet's ecomony back to their once fully status.\n\n§EOnly available when Planet being raided§!\n\n§YAfter restored, this Planet will be immuned from raid for 10 years.§!"
+ 
  policy_policy_raidresource:0 "Подход к рейдам на планеты"
  policy_policy_raidresource_desc:0 "В ходе военных действий захват вражеских планет неизбежен, и некоторые из них обладают достаточно высоким количеством ресурсов. Здесь мы можем решить, следует ли нам вывозить их в ходе рейдов, или же оставлять на местах, проявляя уважение к противнику."
+ #policy_raidresource_medium:0 "Medium"
+ #policy_raidresource_medium_name:0 "Medium"
+ #policy_raidresource_medium_desc:0 "Gain £energy  §YEnergy§! and £minerals  §YMinerals§! depends on £planetsize  Planet's Size and its development. Once raided, the Planet cannot be raided for 15 years.\n§EAutomatically raid the planet when possible§!\n\n§RThis raid might cause building collapse and casualties.§!\n§RDoing this during war will have Diplomatic Penalty.§!"
  policy_raidresource_light:0 "Обычные"
  policy_raidresource_light_name:0 "Обычные"
- policy_raidresource_light_desc:0 "Будет получено некоторое количество ресурсов, зависящее от количества £pop£ §Yнаселения§! и его £job£ §Yвидов деятельности§!. Повторный рейд на планету может быть совершён через 10 лет.\n\n$RAID_AUTO$\n\n$RAID_NO_KILL$\n"
+ policy_raidresource_light_desc:0 "Будет получено некоторое количество ресурсов, зависящее от количества £pop£ §Yпоселений§! и его £job£ §Yвидов деятельности§!. Повторный рейд на планету может быть совершён через §Y10§! лет.\n\n$RAID_AUTO$\n\n$RAID_NO_KILL$\n"
  policy_raidresource_heavy:0 "Безжалостные"
  policy_raidresource_heavy_name:0 "Безжалостные"
- policy_raidresource_heavy_desc:0 "То же, что и в обычном режиме, но с убийством £pop£ §Yнаселения§! и разрушением £building£ зданий в процессе, что приведёт к ещё большему опустошению планеты. Повторный рейд на планету может быть совершён через §Y15§! лет.\n\n$RAID_GENOCIDE$\n\n$RAID_AUTO$\n\n$RAID_KILL$\n\n$RAID_KILL_2$\n"
+ policy_raidresource_heavy_desc:0 "То же, что и в обычном режиме, но с убийством £pop£ §Yпоселений§! и разрушением £building£ зданий в процессе, что приведёт к ещё большему опустошению планеты. Повторный рейд на планету может быть совершён через §Y15§! лет.\n\n$RAID_GENOCIDE$\n\n$RAID_AUTO$\n\n$RAID_KILL$\n\n$RAID_KILL_2$\n"
  policy_raidresource_outlaw:0 "Вне закона"
  policy_raidresource_outlaw_name:0 "Вне закона"
  policy_raidresource_outlaw_desc:0 "Даже у победителей есть свои проблемы, и в рейдах нет необходимости.\n\n$RAID_WONT_RAID$\n"
  policy_raidresource_honor:0 "Благородные"
  policy_raidresource_honor_name:0 "Благородные"
- policy_raidresource_honor_desc:0 "Различные наземные сражения за славу империи. Будет получено некоторое количество £unity §Yединства§!, §Yочков исследований§! и £influence  §Yвлияния§!, зависящее от количества £pop£ §Yнаселения§!, а также уровня развития планеты. Повторный рейд на планету может быть совершён через §Y10§! лет.\n\n$RAID_AUTO$\n\n§EНе будут изыматься материальные ресурсы с вражеских планет§!\n\n$RAID_NO_KILL$\n"
+ policy_raidresource_honor_desc:0 "Различные наземные сражения за славу империи. Будет получено некоторое количество £unity §Yединства§!, §Yочков исследований§! и £influence  §Yвлияния§!, зависящее от количества £pop£ §Yпоселений§!, а также уровня развития планеты. Повторный рейд на планету может быть совершён через §Y10§! лет.\n\n$RAID_AUTO$\n\n§EНе будут изыматься материальные ресурсы с вражеских планет§!\n\n$RAID_NO_KILL$\n"
 
+ #policy_policy_raidresource_station:0 "Raiding Station Measure"
+ #policy_policy_raidresource_station_desc:0 "In addition of the Planet Raiding, we can also decided whether to raid their stations, should such a idea come into mind."
+ #policy_raidresource_station_allow:0 "Allow"
+ #policy_raidresource_station_allow_name:0 "Allow"
+ #policy_raidresource_station_allow_desc:0 "Raid one Mining Station will give us £energy  §YEnergy§! and £minerals  §YMinerals§! equal to a tenth of our monthly gain, up to 300 each.\n\nRaid one Research Station will give us §YResearch Points§! equal to a half of our monthly gain.\n\nRaid Stations will gain us £unity  §GUnity§! when we have §YBarbaric Despoilers§! civic\n\n§RDoing this will upset victim Empires.§!"
+ #policy_raidresource_station_outlaw:0 "Outlaw"
+ #policy_raidresource_station_outlaw_name:0 "Outlaw"
+ #policy_raidresource_station_outlaw_desc:0 "Won't raid Mining & Research Stations when destroying them."
+ 
  raidresource.9.name: "Планета [From.From.From.GetName] пала"
  raidresource.9.desc: "Оборона планеты §H[From.From.From.GetName]§! только что пала под яростным натиском войск империи §H[From.GetName]§!.У нас забрали эти ресурсы §H[From.GetName]§!:"
  raidresource.9.a: "Остановите их!"
@@ -129,8 +175,8 @@
  raidresource.tooltip_zro: "£sr_zro£ §G[FromFrom.raidresource_raid_mulitifier_zro]§!§H $sr_zro$§!"
  raidresource.tooltip_dark_matter: "£sr_dark_matter£ §G[FromFrom.raidresource_raid_mulitifier_dark_matter]§!§H $sr_dark_matter$§!"
  raidresource.tooltip_nanites: "£nanites£ §G[FromFrom.raidresource_raid_mulitifier_nanites]§!§H $nanites$§!"
- raidresource.tooltip_pop:0 "£pop£ §YНаселения§! погибло во время рейда на §H[FromFrom.GetName]§! - §R[FromFrom.raidresource_raid_mulitifier_losses_pop]§!."
- raidresource.tooltip_pops:0 "£pop£ §YНаселения§! погибло во время рейда на §H[FromFrom.GetName]§! - §R[FromFrom.raidresource_raid_mulitifier_losses_pop]§!."
+ raidresource.tooltip_pop:0 "£pop£ §YПоселений§! погибло во время рейда на §H[FromFrom.GetName]§! - §R[FromFrom.raidresource_raid_mulitifier_losses_pop]§!."
+ raidresource.tooltip_pops:0 "£pop£ §YПоселений§! погибло во время рейда на §H[FromFrom.GetName]§! - §R[FromFrom.raidresource_raid_mulitifier_losses_pop]§!."
  raidresource.10.a: "Награда!"
  raidresource.10.b: "Возьмите все, что вы там найдете!"
  raidresource.10.c: "Профит"
@@ -148,7 +194,7 @@
  raidresource.10.c_bs: "Профит"
  raidresource.10.a_machine: "Подтверждено"
  raidresource.10.b_machine: "Ужасно"
- raidresource.10.c_machine: "<<Обнаружено большое колличество ресурсов. Активация протоколов утилизации.>>"
+ raidresource.10.c_machine: "<<Обнаружено большое количество ресурсов. Активация протоколов утилизации.>>"
  raidresource.10.meme_machine: "01001101 01001111 01010010 01000101"
  raidresource.10.meme_hive: "Б О Л Ь Ш Е"
  raidresource.10.c_hive: "Коллектив процветает"
@@ -175,7 +221,7 @@
  raidresource.9.tooltip_zro: "£sr_zro£ §R-[FromFromFrom.raidresource_raid_mulitifier_zro]§!§H $sr_zro$§!"
  raidresource.9.tooltip_dark_matter: "£sr_dark_matter£ §R-[FromFromFrom.raidresource_raid_mulitifier_dark_matter]§!§H $sr_dark_matter$§!"
  raidresource.9.tooltip_nanites: "£nanites£ §R-[FromFromFrom.raidresource_raid_mulitifier_nanites]§!§H $nanites$§!"
- raidresource.9.tooltip_pop:0 "£pop£ §HНаселения§! погибло в этом рейде - §R[FromFromFrom.raidresource_raid_mulitifier_losses_pop]§!."
- raidresource.9.tooltip_pops:0 "£pop£ §HНаселения§! было убито в этом рейде - §R[FromFromFrom.raidresource_raid_mulitifier_losses_pop]§!."
+ raidresource.9.tooltip_pop:0 "£pop£ §HПоселений§! погибло в этом рейде - §R[FromFromFrom.raidresource_raid_mulitifier_losses_pop]§!."
+ raidresource.9.tooltip_pops:0 "£pop£ §HПоселений§! было убито в этом рейде - §R[FromFromFrom.raidresource_raid_mulitifier_losses_pop]§!."
 
  raidresource.13.desc: "Наши воины захватили §H[From.From.GetName]§!. Их смелые действия в сражениях на планете долго не будут забыты."

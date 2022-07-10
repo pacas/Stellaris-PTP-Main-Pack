@@ -1,5 +1,14 @@
 ﻿l_russian:
 
+ #For translation purposes
+ xte_always:0 "Всегда"
+ xte_sometimes:0 "Иногда"
+ xte_rulers:0 "правителей"
+ xte_governors:0 "губернаторов"
+ xte_scientists:0 "учёных"
+ xte_admirals:0 "адмиралов"
+ xte_generals:0 "генералов"
+
  # Traits
  # common/traits/xte_00_species_traits.txt
 
@@ -7,6 +16,10 @@
  trait_genetic_memory_desc:0 "§LЧлены этого вида могут наследовать информацию и полезные навыки через ДНК. Это, однако, дает им искаженное чувство самосуществования. §WВсегда§! даёт особенность §Gзнания предков§!, дающее бонусы, эквивалентные двух уровням навыка. §!\n"
  trait_stalwart:0 "Непоколебимые"
  trait_stalwart_desc:0 "§LЭтот вид проявляет аномально свирепые территориальные инстинкты. В качестве оборонительных бойцов им практически нет равных во всей галактике. §WВсегда§! создаёт §Gдоблестных§! правителей и адмиралов-§Gпаладинов§!."
+ trait_apex_predator:0 "Высшие хищники"
+ trait_apex_predator_desc:0 "§LЭтот вид является одним из самых смертоносных хищников галактики. §W$xte_always$§! создаёт §Gрешительных§! $xte_rulers$ и адмиралов-§Gприспособленцев§!.§!\n"
+ trait_apex_predator_lithoid:0 "$trait_apex_predator$"
+ trait_apex_predator_lithoid_desc:0 "$trait_apex_predator_desc$"
  trait_analytical:0 "Аналитики"
  trait_analytical_desc:0 "§LЧлены этого вида - учёные-математики, потому, предпочитают холодную логику чуждому безудержному воображению. §WВсегда§! создаёт правителей-§Gизыскателей§!, генералов-§Gпровидцев§! и учёных-§Yпервооткрывателей§!. §!\n"
  trait_theoretical:0 "Теоретики"
@@ -76,7 +89,7 @@
  trait_obstinate:0 "Упрямые"
  trait_obstinate_desc:0 "§LПредставители этого вида патологически упрямы и догматичны. §WИногда§! может давать одну из §R8§! негативных черт, каждый из которых получается случайным образом и ассоциируется с определенной этикой. §!\n"
  trait_sluggish:0 "Неповоротливые"
- trait_sluggish_desc:0 "§LПредставители этого вида - медлительные, грузные существа. §WВсегда§! создаёт §Rинертных§! адмиралов and §Rбезразличных§! учёных. §!\n"
+ trait_sluggish_desc:0 "§LПредставители этого вида - медлительные, грузные существа. §WВсегда§! создаёт §Rинертных§! адмиралов и §Rбезразличных§! учёных. §!\n"
  trait_gigantic:0 "Гигантские"
  trait_gigantic_desc:0 "§LПредставители этого вида могут вырастать до колоссальных размеров. Им требуется пропорционально большое жизненное пространство. §!\n"
  trait_gluttonous:0 "Обжоры"
@@ -96,9 +109,11 @@
  trait_ruler_ancestral_knowledge_desc:0 "Генетическая история этого лидера дает ему дополнительное мастерство."
  trait_ruler_valiant:0 "Доблестный"
  trait_ruler_valiant_desc:0 "Этот лидер непреклонен перед всеми трудностями."
+ trait_ruler_pertinacious:0 "Решительный"
+ trait_ruler_pertinacious_desc:0 "В галактике, сошедшей с ума, этот лидер обеспечит безопасность своего народа. Нравится им это или нет."
  trait_ruler_arcanist:0 "Изыскатель"
  trait_ruler_arcanist_desc:0 "Для этого лидера приоритетом является получение редких и мощных материалов."
- trait_ruler_life_weaver:0 "Ткачь жизни"
+ trait_ruler_life_weaver:0 "Ткач жизни"
  trait_ruler_life_weaver_desc:0 "Этот лидер является мастером биологии и стремится улучшить все формы жизни с помощью генетической модификации."
  trait_ruler_life_crafter:0 "Творец жизни"
  trait_ruler_life_crafter_desc:0 "Этот лидер - гениальный инженер. Машины, созданные под его руководством, не имеют себе равных."
@@ -179,6 +194,8 @@
  trait_admiral_ancestral_knowledge_desc:0 "Генетическая история этого лидера дает ему дополнительное мастерство."
  trait_admiral_paladin:0 "Паладин"
  trait_admiral_paladin_desc:0 "Этот лидер с особым рвением отгоняет вражеских захватчиков, ведя битву за битвой без отдыха и передышки."
+ trait_admiral_opportunistic:0 "Приспособленец"
+ trait_admiral_opportunistic_desc:0 "Этот лидер не стесняется использовать любую возможность, чтобы переломить ход битвы."
  trait_admiral_gendarme:0 "Жандарм"
  trait_admiral_gendarme_desc:0 "Этот лидер не проявляет милосердия к пиратам, террористам и анархистам, стоящим на пути мира и порядка."
  trait_admiral_underdog:0 "Держать строй"
@@ -207,23 +224,3 @@
  trait_general_battle_mounts_desc:0 "Этот лидер использует в бою одомашненных или прирученных животных. Однако этими модернизированными кавалерийскими подразделениями бывает довольно трудно управлять."
  trait_general_cavalier:0 "Бесцеремонный"
  trait_general_cavalier_desc:0 "Этот безрассудный лидер отказывается отступать даже перед лицом отсутствия возможности победить."
-
- # Tooltips
-
- mod_ships_rare_crystals_upkeep_mult:0 "Rare Crystals Ship Upkeep"
- mod_ships_exotic_gases_upkeep_mult:0 "Exotic Gases Ship Upkeep"
- mod_ships_volatile_motes_upkeep_mult:0 "Volatile Motes Ship Upkeep"
- mod_weapon_type_point_defense_weapon_damage_mult:0 "Point Defense Weapon Damage"
- mod_weapon_type_strike_craft_weapon_damage_mult:0 "Strike Craft Damage"
- mod_weapon_type_strike_craft_weapon_speed_mult:0 "Strike Craft Speed"
- mod_planet_pops_food_upkeep_mult:0 "Food Upkeep"
- mod_planet_pops_minerals_upkeep_mult:0 "Minerals Upkeep"
- mod_shipsize_titan_build_speed_mult:0 "Titan Build Speed"
- mod_shipsize_colossus_build_speed_mult:0 "Colossus Build Speed"
- mod_shipsize_juggernaut_build_speed_mult:0 "Juggernaut Build Speed"
- mod_country_sr_living_metal_produces_mult:0 "Monthly Living Metal"
- mod_country_sr_zro_produces_mult:0 "Monthly Zro"
- mod_country_sr_dark_matter_produces_mult:0 "Monthly Dark Matter"
- mod_leaders_unity_upkeep_mult:0 "Leader Upkeep"
- mod_damage_vs_country_type_ruined_marauders_mult:0 "Damage vs Ruined Marauders"
- mod_damage_vs_country_type_marauder_raiders_mult:0 "Damage vs Marauder Raiders"

@@ -1,6 +1,5 @@
 ﻿l_russian:
  OVERGROWTH: "Мицелий"
- name_list_Overgrowth: "Мицелий"
  edict_fatalf_manager: "Настройки Fatal Foundations"
  edict_fatalf_manager_desc: "Используйте это меню для изменения различных аспектов событий Fatal Foundations."
  fatalf.054.desc: "Интересно, что каждые активированные в настоящее время L-врата начали излучать серию импульсов, и ваши датчики обнаруживают, что сеть галактических гиперкоридоров начала разрушаться. Кажется, причина кроется во всех L-вратах в галактике, а это значит, что пока империи не удастся контролировать все врата для изучения, гиперкоридоры будут продолжать непредсказуемо меняться."
@@ -81,4 +80,8 @@
  shipsize_seed_ship_build_cost_mult: "Корабль-семя"
  shipsize_seed_ship_construction_speed_mult: "Корабль-семя"
  shipsize_seed_ship_upkeep_mult: "Корабль-семя"
+ 
+ NAME_OVERGROWTH: "Мицелий"
+ NAME_seed_ship: "Корабль-семя"
+ NAME_seed_army: "Корабль-семя"
  

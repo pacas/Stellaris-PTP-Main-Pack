@@ -10,13 +10,13 @@
  # Colour Tricks
  # Country Modifiers
  # Debug
- # Districts
+ # Districts **************** NEW *******************
  # Edicts
  # Jobs
  # Messages
  # Modifier localisations
  # Opinions
- # Planet Classes
+ # Planet Classes **************** NEW *******************
  # Policies
  # R.E.S.
  # Ships
@@ -29,16 +29,82 @@
  # war Names
  #######################################
 
+ #######################################
+ #### Map Mode
+ #######################################
+ gpm_relic_map_mode:1 "Карта древних Реликвий"
+ gpm_relic_map_mode_desc:1 "Границы империй будут окрашены в зависимости от того, владеют они древними реликвиями или нет."
+ GPM_MAP_MODE_NOT_HAS_RELIC:1 "Нет §Yдревних Реликвий§!"
+ GPM_MAP_MODE_HAS_RELIC:1 "Есть 1 §Yдревняя Реликвия§!"
+ GPM_MAP_MODE_HAS_RELIC_2:1 "Есть 2 §Yдревних Реликвии§!"
+ GPM_MAP_MODE_HAS_RELIC_3:1 "Есть 3 §Yдревних Реликвии§!"
+ GPM_MAP_MODE_HAS_RELIC_4:1 "Есть 4 §Yдревних Реликвии§!"
+ GPM_MAP_MODE_HAS_RELIC_5:1 "Есть 5 §Yдревних Реликвий§!"
+ GPM_MAP_MODE_HAS_RELIC_6:1 "Есть 6 §Yдревних Реликвий§!"
+ GPM_MAP_MODE_HAS_RELIC_7:1 "Есть 7 §Yдревних Реликвий§!"
+ GPM_MAP_MODE_HAS_RELIC_8:1 "Есть 8 §Yдревних Реликвий§!"
+ GPM_MAP_MODE_HAS_RELIC_9:1 "Есть 9 §Yдревних Реликвий§!"
+ GPM_MAP_MODE_HAS_RELIC_10:1 "Есть 10 §Yдревних Реликвий§!"
+ GPM_MAP_MODE_HAS_RELIC_11:1 "Есть много §Yдревних Реликвий!§!"
+ GPM_MAP_MODE_HAS_UNKNOWN_RELICS:1 "Эта империя имеет неизвестное количество §YРеликвий§!.\nТребуется больше §Hразведданных§!."
+
+ GPM_MAP_MODE_SAME_EMPIRE_NOT_HAS_RELIC:1 ":1 "У нас нет §Yдревних Реликвий§!"
+ GPM_MAP_MODE_SAME_EMPIRE_HAS_RELIC:1 ":1 "У нас есть 1 §Yдревняя Реликвия§!"
+ GPM_MAP_MODE_SAME_EMPIRE_HAS_RELIC_2:1 ":1 "У нас есть 2 §Yдревних Реликвии§!"
+ GPM_MAP_MODE_SAME_EMPIRE_HAS_RELIC_3:1 ":1 "У нас есть 3 §Yдревних Реликвии§!"
+ GPM_MAP_MODE_SAME_EMPIRE_HAS_RELIC_4:1 ":1 "У нас есть 4 §Yдревних Реликвии§!"
+ GPM_MAP_MODE_SAME_EMPIRE_HAS_RELIC_5:1 ":1 "У нас есть 5 §Yдревних Реликвий§!"
+ GPM_MAP_MODE_SAME_EMPIRE_HAS_RELIC_6:1 ":1 "У нас есть 6 §Yдревних Реликвий§!"
+ GPM_MAP_MODE_SAME_EMPIRE_HAS_RELIC_7:1 ":1 "У нас есть 7 §Yдревних Реликвий§!"
+ GPM_MAP_MODE_SAME_EMPIRE_HAS_RELIC_8:1 ":1 "У нас есть 8 §Yдревних Реликвий§!"
+ GPM_MAP_MODE_SAME_EMPIRE_HAS_RELIC_9:1 ":1 "У нас есть 9 §Yдревних Реликвий§!"
+ GPM_MAP_MODE_SAME_EMPIRE_HAS_RELIC_10:1 ":1 "У нас есть 10 §Yдревних Реликвий§!"
+ GPM_MAP_MODE_SAME_EMPIRE_HAS_RELIC_11:1 ":1 "У нас есть более 10 §Yдревних Реликвий!§!"
+
+ #######################################
+ #### Generic Names
+ #######################################
+
+ NAME_gpm_ego:0 "Живая планета"
+ NAME_gpm_ego_ship:0 "Идеальный мир"
+ NAME_Rogue_Traders:0 "Вольные торговцы"
+ NAME_Rogue_Trader_Faction:0 "Вольные торговцы"
+ NAME_Rogue_Trader:0 "Вольный торговец"
+ NAME_Rogue_Den:0 "Форпост вольных торговцев"
+ gpm_ego:0 "Идеальный мир"
+ NAME_Guilli:0 "Г'юил-Ли"
+ NAME_docile_arachnid:0 "Покорный арахнид"
+ NAME_docile_arachnid_ship:0 "Десантная капсула с арахнидами"
+ NAME_docile_arachnid_fleet:0 "Покорные арахниды"
+ NAME_wild_xenomorph:0 "Покорный арахнид"
+ NAME_wild_xenomorph_ship:0 "Десантная капсула с арахнидами"
+ NAME_wild_xenomorph_fleet:0 "Покорные арахниды"
+ NAME_xenomorph:0 "Ксеноморф"
+ NAME_xenomorph_ship:0 "Десантная капсула с ксеноморфами"
+ NAME_xenomorph_fleet:0 "Хищные ксеноморфы"
+ NAME_venerable_dreadnaught:0 "Почтенный Дредноут"
+ NAME_venerable_dreadnaught_ship:0 "Почтенный Дредноут"
+ NAME_venerable_dreadnaught_fleet:0 "Почтенный Дредноут"
+ NAME_daughter_of_the_stars:0 "Дочь Звёзд"
+ NAME_primitive_world_name_1:0 "Острог"
+ NAME_primitive_world_name_2:0 "Каприка"
+ NAME_primitive_world_name_3:0 "Новая Каприка"
+ NAME_primitive_world_name_4:0 "Титаен"
+ NAME_primitive_world_name_5:0 "Сфера"
+ NAME_primitive_world_name_6:0 "Гимн"
+ NAME_primitive_world_name_7:0 "Трон"
+ NAME_Fen_Habbanis_IIIa:0 "Фен Хаббанис IIIa"
+
 
  #######################################
  #### Other non-cat events
  #######################################
  precursor.99336.name:0 "Они добрались сюда первыми!"
- precursor.99336.desc.vultaum:0 "Другая Империя обнаружила родную систему Вультаума!"
- precursor.99336.desc.yuht:0 "Другая Империя обнаружила родную систему Юутов!"
- precursor.99336.desc.first_league:0 "Другая Империя обнаружила родную систему Первой Лиги!"
- precursor.99336.desc.irassian:0 "Другая Империя обнаружила родную систему Ирассианцев!"
- precursor.99336.desc.cybrex:0 "Другая Империя обнаружила родную систему Сайбрекса!"
+ precursor.99336.desc.vultaum:0 "Другая империя нашла столичную систему Звёздной Ассамблеи Вультаум!"
+ precursor.99336.desc.yuht:0 "Другая империя нашла столичную систему Юутской Империи!"
+ precursor.99336.desc.first_league:0 "Другая империя нашла столичную систему Первой Лиги!"
+ precursor.99336.desc.irassian:0 "Другая империя нашла столичную систему Ирассианского Конкордата!"
+ precursor.99336.desc.cybrex:0 "Другая империя нашла столичную систему Сайбрекса!"
 
  #######################################
  #### Ambiend Objects
@@ -92,83 +158,83 @@
  gpm_precursor_shipyards_RS_8:0 "$gpm_precursor_shipyards_30$"
  gpm_precursor_shipyards_RS_7:0 "$gpm_precursor_shipyards_30$"
 
- gpm_precursor_shipyards_star_cybrex_desc:0 "Эти колоссальные верфи когда-то использовались Сайбрексом. Сборочные отсеки изгибаются под влиянием гравитации звезды, поглощая энергию, необходимую для производства кораблей."
- gpm_precursor_shipyards_star_desc:0 "Эти колоссальные верфи когда-то использовались древней цивилизацией предтеч."
+ gpm_precursor_shipyards_star_cybrex_desc:0 "Колоссальные верфи, когда-то использовавшиеся Сайбрексом. Расширенные сборочные отсеки слегка изогнулись под действием силы тяжести звезды. Однако они по-прежнему работают, поглощая чистую энергию, которая используется при производстве кораблей."
+ gpm_precursor_shipyards_star_desc:0 "Колоссальные верфи когда-то использовались древней расой предтеч."
 
- gpm_binary_asteroids:0 "Близнец [gpm_double_asteroid.GetName]"
+ gpm_binary_asteroids:0 "Близнецы [gpm_double_asteroid.GetName]"
 
- gpm_james_web:0 "Телескоп Джеймс Уэбб"
- gpm_james_web_desc:0 "Телескоп Джеймс Уэбб считается одним из величайших достижений человечества. Он позволил получить беспрецедентное представление о зарождении Вселенной."
+ gpm_james_web:0 "Космический телескоп «Джеймс Уэбб»"
+ gpm_james_web_desc:0 "Космический телескоп «Джеймс Уэбб» считался одним из величайших достижений человечества. Он дал беспримерную возможность взглянуть на возникновение Вселенной."
 
  #######################################
  #### Armies
  #######################################
- gpm_precursor_mech_army:0 "Робот предтеч"
- gpm_precursor_mech_army_plural:0 "Робот предтеч"
- gpm_precursor_mech_army_desc:0 "Робот предтеч. Хоть это и отняло немало ресурсов, но нам наконец удалось вернуть его в строй! Эти роботы, будучи выше зданий самой колонии и оснащёнными тяжёлым вооружением, являют собой впечатляющее зрелище. Однако, к сожалению, столь крупные размеры этих машин означают и то, что мы сможем их использовать лишь в обороне."
- precursor_mech_army_trigger_tooltip:0 "§BМожно построить только в мирах с боевыми роботами предтеч.§!"
+ gpm_precursor_mech_army:0 "Сохранившийся мех предтеч"
+ gpm_precursor_mech_army_plural:0 "Сохранившиеся мехи предтеч"
+ gpm_precursor_mech_army_desc:0 "Сохранившийся мех предтеч. Хотя это и отняло немало ресурсов, но нам удалось заставить одного из них заработать! Возвышаясь над колонией, с огромным бортовым вооружением, эти мехи - зрелище, которое стоит увидеть. К сожалению, из-за громадных размеров этой машины мы можем использовать её только в оборонительных целях."
+ precursor_mech_army_trigger_tooltip:0 "§BМожно построить только на мирах с мехами предтеч.§!"
 
- gpm_precursor_bunker_army:0 "Бункер предтеч"
- gpm_precursor_bunker_army_plural:0 "Бункеры предтеч"
- gpm_precursor_bunker_army_desc:0 "Бункер предтеч. Сложность бункерной сети этого мира поражает воображение. Будучи спроектированным продвинутым ИИ, каждый такой бункер представляет собой самодостаточную систему, способную принести нам немало пользы. У наших врагов уйдут месяцы, чтобы преодолеть их практически непробиваемые стены, а, обладая достаточным числом таких бункеров, мы сможем сдерживать силы противника почти бесконечно."
- precursor_bunker_army_trigger_tooltip:0 "§BМожно построить только в мирах с бункерами предтеч.§!"
+ gpm_precursor_bunker_army:0 "Защитники бункера предтеч"
+ gpm_precursor_bunker_army_plural:0 "Защитники бункера предтеч"
+ gpm_precursor_bunker_army_desc:0 "Сохранившийся бункер предтеч. Это сложная сеть укреплений просто поразительна, без сомнения, она разработана продвинутым ИИ. Кажется, каждый бункер является самоподдерживающейся системой, которую мы можем использовать в наших интересах. Практически непроницаемые стены означают, что нашим врагам понадобятся месяцы, чтобы прорваться через них. С достаточным количеством таких бункеров, мы могли бы сдерживать вражеские силы вечно."
+ precursor_bunker_army_trigger_tooltip:0 "§BМожно построить только на мирах с бункерами предтеч.§!"
 
  gpm_giant_arachnid_army:0 "Армия гигантских арахнидов"
- gpm_giant_arachnid_army_plural:0 "Армия гигантских арахнидов"
- gpm_giant_arachnid_army_desc:0 "Пролив реки крови, пота и слёз... хорошо, по большей части крови и слёз, нам удалось приручить местных пауков! Мы создали специальные кибернетические имплантаты, позволяющие управлять этими арахнидами путём задания их вектора перемещения. И этого более чем достаточно, поскольку они совершенно самостоятельно пытаются сожрать всё, на что наткнутся. Орбитальный дождь из закованных в тяжёлую броню и силовые поля гигантских пауков вполне способен оказаться достаточно страшным, чтобы мы смогли выиграть войну!"
- giant_arachnid_army_trigger_tooltip:0 "§BМожно построить только в мирах, заражённых гигантскими арахнидами.§!"
+ gpm_giant_arachnid_army_plural:0 "Армии гигантских арахнидов"
+ gpm_giant_arachnid_army_desc:0 "Через кровь, пот и слезы ... в основном через кровь и слёзы, нам удалось приручить арахнидов! Кибернетический имплант позволяет нам управлять этими гигантскими арахнидами, подсказывая им направление движения. Обычно они пытаются съесть всё, что встречается на их пути. Высадка десанта арахнидов с орбиты может деморализовать противника, что приблизит нас к победы в войне"
+ giant_arachnid_army_trigger_tooltip:0 "§Можно построить только на мирах, кишащих гигантскими арахнидами.§!"
 
  gpm_giant_arachnid_army_defensive:0 "Рой гигантских арахнидов"
  gpm_giant_arachnid_army_defensive_plural:0 "Рои гигантских арахнидов"
  gpm_giant_arachnid_army_defensive_desc:0 "Рой сверхагрессивных гигантских арахнидов."
 
- gpm_precursor_mech_army_machine:0 "Переоснащённые боевые роботы предтеч"
- gpm_precursor_mech_army_machine_plural:0 "Переоснащённые боевые роботы предтеч"
- gpm_precursor_mech_army_machine_desc:0 "Переоснащённые боевые роботы предтеч. Используя этих роботов как основу, мы интегрировали  в них значительное количество наших собственных систем. Там, где необходимо, мы использовали искусственные суставы и мышцы для улучшения движения. Помимо этого, новый источник питания и блок управления - это все, что потребовалось, чтобы снова запустить роботов."
- precursor_mech_army_machine_trigger_tooltip:0 "§BМожно построить только в мирах с боевыми роботами предтеч.§!"
+ gpm_precursor_mech_army_machine:0 "Перепроектированный мех предтеч"
+ gpm_precursor_mech_army_machine_plural:0 "Перепроектированные мехи предтеч"
+ gpm_precursor_mech_army_machine_desc:0 "Перепроектированный мех предтеч. Используя эти мехи в качестве основы, мы интегрировали в них значительное количество наших собственных систем. Там, где необходимо, мы использовали искусственные суставы и мышцы для улучшения движения. Кроме того, новый источник питания и блок управления - всё что потребовалось, чтобы эти мехи снова заработали."
+ precursor_mech_army_machine_trigger_tooltip:0 "§BМожно построить только на мирах с мехами предтеч.§!"
 
- gpm_precursor_bunker_army_machine:0 "Рой бункеров предтеч"
- gpm_precursor_bunker_army_machine_plural:0 "Рои бункеров предтеч"
- gpm_precursor_bunker_army_machine_desc:0 "Рои бункеров предтеч. Сложность бункерной сети в этом мире удивительна. Очевидно, что это разработано продвинутым ИИ. Каждый бункер - это самообслуживаемая система, которую мы можем использовать в своих интересах. Практически непроницаемые стены защитят от врагов на несколько месяцев. С достаточным количеством этих бункеров мы могли бы сдерживать вражеские силы бесконечно. Внедрив в систему дозорных дронов, мы можем сделать так, чтобы каждый бункер в сети мог уничтожить любого потенциального противника самостоятельно."
- precursor_bunker_army_machine_trigger_tooltip:0 "§BМожно построить только в мирах с бункерами предтеч.§!"
+ gpm_precursor_bunker_army_machine:0 "Рой бункера предтеч"
+ gpm_precursor_bunker_army_machine_plural:0 "Рой бункера предтеч"
+ gpm_precursor_bunker_army_machine_desc:0 "Рой бункера предтеч. Это сложная сеть укреплений просто поразительна, без сомнения, она разработана продвинутым ИИ. Кажется, каждый бункер - это самоподдерживающаяся система, которую мы можем использовать в наших интересах. Практически непроницаемые стены означают, что нашим врагам понадобятся месяцы, чтобы прорваться через них. С достаточным количеством таких бункеров, мы могли бы сдерживать вражеские силы вечно. Внедрив в систему автономных сторожевых дронов, мы можем гарантировать, что каждый бункер в сети сможет устранить любого потенциального нарушителя."
+ precursor_bunker_army_machine_trigger_tooltip:0 "§BМожно построить только на мирах с бункерами предтеч.§!"
 
  gpm_giant_arachnid_army_machine:0 "Рой кибернетических арахнидов"
  gpm_giant_arachnid_army_machine_plural:0 "Рой кибернетических арахнидов"
- gpm_giant_arachnid_army_machine_desc:0 "Обширно используя кибернетику и мозговые имплантаты на арахнидов, нам удалось получить полный контроль над этими жестокими существами. Программы быстрого размножения гарантируют, что можно использовать полчища этих существ. Будучи запрограммированными на поведение как плотный, быстро движущийся рой, они гарантируют победу над нашими врагами практически в любой ситуации."
- giant_arachnid_army_machine_trigger_tooltip:0 "§BМожно построить только в мирах, заражённых гигантскими арахнидами.§!"
+ gpm_giant_arachnid_army_machine_desc:0 "Обширно используя кибернетические и мозговые имплантаты на арахнидах, нам удалось получить полный контроль над этими жестокими существами. Программы быстрого разведения гарантируют, что у нас всегда будут большие запасы этих тварей для наших нужд. Будучи запрограммированными на поведение как плотный, быстро движущийся рой, они обеспечат победу над нашими врагами практически в любой ситуации."
+ giant_arachnid_army_machine_trigger_tooltip:0 "§BМожно построить только на мирах, кишащих гигантскими арахнидами.§!"
 
- gpm_relic_tank_battalion:0 "Батальон танков"
- gpm_relic_tank_battalion_desc:0 "Сверхпродвинутые танки на воздушной подушке."
+ gpm_relic_tank_battalion:0 "Танковый батальон"
+ gpm_relic_tank_battalion_desc:0 "Сверхсовременные парящие танки."
 
  gpm_relic_mech_squadron:0 "Мехвоины"
- gpm_relic_mech_squadron_desc:0 "Колосальные мехи под управлением лучших пилотов с достаточной для уничтожения небольшой луны огневой мощью."
+ gpm_relic_mech_squadron_desc:0 "Колоссальные мехи, пилотируемые вашими людьми, имеют достаточную огневую мощь чтобы взорвать небольшую луну."
 
  gpm_relic_fighter_squadron:0 "Эскадрилья истребителей"
- gpm_relic_fighter_squadron_desc:0 "Быстрые и манёвренные наземные спидеры, способные осуществлять атмосферные полёты на низких высотах."
+ gpm_relic_fighter_squadron_desc:0 "Быстрые и маневренные истребители, способные осуществлять атмосферные полёты на низких высотах."
 
  gpm_relic_power_armoured_troops:0 "Армия в силовой броне"
- gpm_relic_power_armoured_troops_desc:0 "Отряды в высокотехнологичной персональной броне."
+ gpm_relic_power_armoured_troops_desc:0 "Боевые отряды, защищённые высокотехнологичной силовой бронёй."
 
  # event xenomorph armies
  gpm_xenomorph_army_defensive:0 "Ксеноморф"
  gpm_xenomorph_army_defensive_plural:0 "Ксеноморфы"
- gpm_xenomorph_army_defensive_desc:0 "Полчища голодных тварей, созданных биоинженерами, состоящие из зубов, когтей и ненасытной тяги к убийству."
+ gpm_xenomorph_army_defensive_desc:0 "Ненасытные ужасы биоинженерии, состоящие лишь из зубов, когтей и инстинктивного желания убивать."
 
  gpm_xenomorph_army_queen:0 "Королева ксеноморфов"
  gpm_xenomorph_army_queen_plural:0 "Королевы ксеноморфов"
- gpm_xenomorph_army_queen_desc:0 "Единственный крупный ксеноморф, способный производить их яйца."
+ gpm_xenomorph_army_queen_desc:0 "Один большой ксеноморф, способный откладывать яйца."
 
  # xenomorph army dupe no upkeep
  gpm_xenomorph_army_no_upkeep:0 "$xenomorph_army$"
  gpm_xenomorph_army_no_upkeep_desc:0 "$xenomorph_army_desc$"
 
  # Venerable dreadnaught army
- gpm_venerable_dreadnaught_army:0 "Древний дредноут"
- gpm_venerable_dreadnaught_army_desc:0 "Мощный и древний личный мех."
+ gpm_venerable_dreadnaught_army:0 "Почтённый дредноут"
+ gpm_venerable_dreadnaught_army_desc:0 "Мощный древний шагающий личный мех."
 
  # dreadnaught army
  gpm_dreadnaught_army:0 "Дредноут"
- gpm_dreadnaught_army_desc:0 "Медленный неуклюжий личный робот, оснащенный разрушительными системами оружия и колоссальными пластинами брони."
+ gpm_dreadnaught_army:0 "Медленный неуклюжий личный мех, оснащенный разрушительными оружейными системами и колоссальными пластинами брони."
 
  #######################################
  #### Artifact Actions
@@ -181,10 +247,10 @@
  # gpm_artifact_precursor_deciphering_effect:0 "Experiment on £minor_artifacts£Minor Artifacts to discover random precursor technologies.\n\nCooldown: £time£ §Y1800§!"
  # gpm_artifact_precursor_deciphering_cooldown:0 "Experiments Cooldown"
  # requires_gpm_artifact_precursor_deciphering_no_cooldown:0 "Cannot have Experiments Cooldown"
- gpm_artifact_precursor_deciphering_effectTT:0 "Разберите £minor_artifacts£ мелкие артефакты ради случайных технологических бонусов. Вы добьетесь прогресса для случайной технологии, наберете очки исследований или получите временный бонус к темпу исследований.\n\n§Y20%§! шанс получить редкую технологию предтеч.\n\nПерезарядка: £time£ §Y3600§!"
+ gpm_artifact_precursor_deciphering_effectTT:0 "Разберите £minor_artifacts£ малые артефакты для получения случайных бонусов к технологиям. Можно добиться прогресса в случайной технологии, заработать очки исследований или приобрести временный бонус к скорости исследований.\n\nШанс обнаружить редкую технологию предтеч: §Y20%§!.\n\nПерезарядка: £time£ §Y3600§!"
 
- requires_artifact_sell_collector_cooldown_no_cooldown:0 "$TRIGGER_FAIL$§RВы пока не можете продать больше артефактов.§!"
- artifact_sell_collector_cooldown:0 "$artifact_sell_collector$ Перезарядка"
+ requires_artifact_sell_collector_cooldown_no_cooldown:0 "$TRIGGER_FAIL$§RПродать больше артефактов пока нельзя.§!"
+ artifact_sell_collector_cooldown:0 "Перезарядка $artifact_sell_collector$"
  gpm_artifact_sell_collectorTT:0 "\n\nПерезарядка: £time£ §Y360§!"
 
  GPM_unlock_artifact_research_centre_locked:0 "§L??????§!"
@@ -682,18 +748,18 @@
  #######################################
  #### R.E.S.
  #######################################
- pc_gpm_res:0 "Участок добычи"
- pc_gpm_res_anomaly_name:0 "Кольцевой участок добычи"
+ pc_gpm_res:0 "Месторождение"
+ pc_gpm_res_anomaly_name:0 "Кольцевое месторождение"
  pc_gpm_res_resource_name:0 "Богатые ресурсы"
- pc_gpm_res_exploited_name:0 "Участок по добыче ресурсов"
- pc_gpm_res_tiyanki_name:0 "Кормовые земли тиянки"
- pc_gpm_res_desc:0 "В этих планетарных кольцах находится значительное количество ресурсов, готовых к добыче."
+ pc_gpm_res_exploited_name:0 "Место добычи ресурсов"
+ pc_gpm_res_tiyanki_name:0 "Место кормления тиянок"
+ pc_gpm_res_desc:0 "Эти планетарные кольца содержат значительное количество ресурсов, готовых к извлечению."
 
  #######################################
  #### Ships
  #######################################
- gpm_manufactorium_ship:0 "Корабль-мануфакториум"
- gpm_manufactorium_ship_plural:0 "Корабли-мануфакториумы"
+ gpm_manufactorium_ship:0 "Корабль-Мануфакторум"
+ gpm_manufactorium_ship_plural:0 "Корабли-Мануфакторумы"
 
  gpm_precursor_destroyer:0 "Корабль предтеч"
  gpm_precursor_destroyer_plural:0 "Корабли предтеч"
@@ -713,6 +779,22 @@
  gpm_crystal_ship_large_red_elite:0 "Кристаллический зверь"
  gpm_crystal_ship_large_red_elite_plural:0 "Кристаллические звери"
  gpm_crystal_ship_large_red_elite_section:0 " "
+
+ # Crystal Event Ships
+ NAME_GPM_Large_Crystal_Entity_Blue_Elite:0 "Синий кристаллический зверь"
+ NAME_GPM_Large_Crystal_Entity_Green_Elite:0 "Зелёный кристаллический зверь"
+ NAME_GPM_Large_Crystal_Entity_Yellow_Elite:0 "Жёлтый кристаллический зверь"
+ NAME_GPM_Large_Crystal_Entity_Red_Elite:0 "Красный кристаллический зверь"
+
+ # manufactorium ship
+ NAME_manufactorium_fleet:0 "Корабль-Мануфакторум"
+ NAME_gpm_manufactorium_ship:0 "Фабрикатор"
+ NAME_manufactorium_ship_name:0 ""
+
+ # precursor ship
+ NAME_precursor_fleet:0 "Корабль предтеч"
+ NAME_gpm_precursor_ship:0 "Приносящий Войну"
+ NAME_precursor_ship_name:0 ""
 
  #######################################
  #### Ship Components
@@ -1228,106 +1310,133 @@
  #######################################
  #### War Goals
  #######################################
- war_goal_wg_gpm_r_time_displacer:0 "Отобрать реликвию"
- war_goal_wg_gpm_r_time_displacer_desc:0 "Целью войны является захват реликвии $gpm_r_time_displacer$"
- war_goal_wg_gpm_r_alien_eggs:0 "Отобрать реликвию"
- war_goal_wg_gpm_r_alien_eggs_desc:0 "Целью войны является захват реликвии $gpm_r_alien_eggs$"
- war_goal_wg_gpm_r_machine_world_core:0 "Отобрать реликвию"
- war_goal_wg_gpm_r_machine_world_core_desc:0 "Целью войны является захват реликвии $gpm_r_machine_world_core$"
- war_goal_wg_gpm_r_encyclopedia_galactica:0 "Отобрать реликвию"
- war_goal_wg_gpm_r_encyclopedia_galactica_desc:0 "Целью войны является захват реликвии $gpm_r_encyclopedia_galactica$"
- war_goal_wg_gpm_r_zero_energy_generator:0 "Отобрать реликвию"
- war_goal_wg_gpm_r_zero_energy_generator_desc:0 "Целью войны является захват реликвии $gpm_r_zero_energy_generator$"
- war_goal_wg_gpm_r_quantum_sphere:0 "Отобрать реликвию"
- war_goal_wg_gpm_r_quantum_sphere_desc:0 "Целью войны является захват реликвии $gpm_r_quantum_sphere$"
- war_goal_wg_gpm_r_ai_architect:0 "Отобрать реликвию"
- war_goal_wg_gpm_r_ai_architect_desc:0 "Целью войны является захват реликвии $gpm_r_ai_architect$"
- war_goal_wg_gpm_r_encrypted_sct:0 "Отобрать реликвию"
- war_goal_wg_gpm_r_encrypted_sct_desc:0 "Целью войны является захват реликвии $gpm_r_encrypted_sct$"
- war_goal_wg_gpm_r_experimental_weapon:0 "Отобрать реликвию"
- war_goal_wg_gpm_r_experimental_weapon_desc:0 "Целью войны является захват реликвии $gpm_r_experimental_weapon$"
- war_goal_wg_gpm_r_fallout_emergency_replicator:0 "Отобрать реликвию"
- war_goal_wg_gpm_r_fallout_emergency_replicator_desc:0 "Целью войны является захват реликвии $gpm_r_fallout_emergency_replicator$"
- war_goal_wg_gpm_r_power_core:0 "Отобрать реликвию"
- war_goal_wg_gpm_r_power_core_desc:0 "Целью войны является захват реликвии $gpm_r_power_core$"
- war_goal_wg_gpm_r_mysterious_shield_generator:0 "Отобрать реликвию"
- war_goal_wg_gpm_r_mysterious_shield_generator_desc:0 "Целью войны является захват реликвии $gpm_r_mysterious_shield_generator$"
- war_goal_wg_gpm_r_gravity_engine:0 "Отобрать реликвию"
- war_goal_wg_gpm_r_gravity_engine_desc:0 "Целью войны является захват реликвии $gpm_r_gravity_engine$"
- war_goal_wg_gpm_r_codex_administratum:0 "Отобрать реликвию"
- war_goal_wg_gpm_r_codex_administratum_desc:0 "Целью войны является захват реликвии $gpm_r_codex_administratum$"
- war_goal_wg_gpm_r_enigmatic_advisor:0 "Отобрать реликвию"
- war_goal_wg_gpm_r_enigmatic_advisor_desc:0 "Целью войны является захват реликвии $gpm_r_enigmatic_advisor$"
- war_goal_wg_gpm_r_positronic_microchip:0 "Отобрать реликвию"
- war_goal_wg_gpm_r_positronic_microchip_desc:0 "Целью войны является захват реликвии $gpm_r_positronic_microchip$"
- war_goal_wg_gpm_r_venerable_dreadnaught:0 "Отобрать реликвию"
- war_goal_wg_gpm_r_venerable_dreadnaught_desc:0 "Целью войны является захват реликвии $gpm_r_venerable_dreadnaught$"
- war_goal_wg_gpm_r_sentinel_queen:0 "Отобрать реликвию"
- war_goal_wg_gpm_r_sentinel_queen_desc:0 "Целью войны является захват реликвии $gpm_r_sentinel_queen$"
- war_goal_wg_gpm_r_earthquake_engine:0 "Отобрать реликвию"
- war_goal_wg_gpm_r_earthquake_engine_desc:0 "Целью войны является захват реликвии $gpm_r_earthquake_engine$"
- war_goal_wg_gpm_r_manufactorium_ship:0 "Отобрать реликвию"
- war_goal_wg_gpm_r_manufactorium_ship_desc:0 "Целью войны является захват реликвии $gpm_r_manufactorium_ship$"
- war_goal_wg_gpm_r_datacube:0 "Отобрать реликвию"
- war_goal_wg_gpm_r_datacube_desc:0 "Целью войны является захват реликвии $gpm_r_datacube$"
- war_goal_wg_gpm_r_self_assembly_hub:0 "Отобрать реликвию"
- war_goal_wg_gpm_r_self_assembly_hub_desc:0 "Целью войны является захват реликвии $gpm_r_self_assembly_hub$"
- war_goal_wg_gpm_r_banner_of_the_fallen:0 "Отобрать реликвию"
- war_goal_wg_gpm_r_banner_of_the_fallen_desc:0 "Целью войны является захват реликвии $gpm_r_banner_of_the_fallen$"
- war_goal_wg_gpm_r_cloaking_device:0 "Отобрать реликвию"
- war_goal_wg_gpm_r_cloaking_device_desc:0 "Целью войны является захват реликвии $gpm_r_cloaking_device$"
- war_goal_wg_gpm_r_q_storage_compressor:0 "Отобрать реликвию"
- war_goal_wg_gpm_r_q_storage_compressor_desc:0 "Целью войны является захват реликвии $gpm_r_q_storage_compressor$"
- war_goal_wg_gpm_r_soul_gem:0 "Отобрать реликвию"
- war_goal_wg_gpm_r_soul_gem_desc:0 "Целью войны является захват реликвии $gpm_r_soul_gem$"
- war_goal_wg_gpm_r_self_repairing_obelisk:0 "Отобрать реликвию"
- war_goal_wg_gpm_r_self_repairing_obelisk_desc:0 "Целью войны является захват реликвии $gpm_r_self_repairing_obelisk$"
+ war_goal_wg_gpm_r_time_displacer:0 "Захватить реликвию"
+ war_goal_wg_gpm_r_time_displacer_desc:0 "Война ведётся с целью захватить $gpm_r_time_displacer$"
+ war_goal_wg_gpm_r_alien_eggs:0 "Захватить реликвию"
+ war_goal_wg_gpm_r_alien_eggs_desc:0 "Война ведётся с целью захватить $gpm_r_alien_eggs$"
+ war_goal_wg_gpm_r_machine_world_core:0 "Захватить реликвию"
+ war_goal_wg_gpm_r_machine_world_core_desc:0 "Война ведётся с целью захватить $gpm_r_machine_world_core$"
+ war_goal_wg_gpm_r_encyclopedia_galactica:0 "Захватить реликвию"
+ war_goal_wg_gpm_r_encyclopedia_galactica_desc:0 "Война ведётся с целью захватить $gpm_r_encyclopedia_galactica$"
+ war_goal_wg_gpm_r_zero_energy_generator:0 "Захватить реликвию"
+ war_goal_wg_gpm_r_zero_energy_generator_desc:0 "Война ведётся с целью захватить $gpm_r_zero_energy_generator$"
+ war_goal_wg_gpm_r_quantum_sphere:0 "Захватить реликвию"
+ war_goal_wg_gpm_r_quantum_sphere_desc:0 "Война ведётся с целью захватить $gpm_r_quantum_sphere$"
+ war_goal_wg_gpm_r_ai_architect:0 "Захватить реликвию"
+ war_goal_wg_gpm_r_ai_architect_desc:0 "Война ведётся с целью захватить $gpm_r_ai_architect$"
+ war_goal_wg_gpm_r_encrypted_sct:0 "Захватить реликвию"
+ war_goal_wg_gpm_r_encrypted_sct_desc:0 "Война ведётся с целью захватить $gpm_r_encrypted_sct$"
+ war_goal_wg_gpm_r_experimental_weapon:0 "Захватить реликвию"
+ war_goal_wg_gpm_r_experimental_weapon_desc:0 "Война ведётся с целью захватить $gpm_r_experimental_weapon$"
+ war_goal_wg_gpm_r_fallout_emergency_replicator:0 "Захватить реликвию"
+ war_goal_wg_gpm_r_fallout_emergency_replicator_desc:0 "Война ведётся с целью захватить $gpm_r_fallout_emergency_replicator$"
+ war_goal_wg_gpm_r_power_core:0 "Захватить реликвию"
+ war_goal_wg_gpm_r_power_core_desc:0 "Война ведётся с целью захватить $gpm_r_power_core$"
+ war_goal_wg_gpm_r_mysterious_shield_generator:0 "Захватить реликвию"
+ war_goal_wg_gpm_r_mysterious_shield_generator_desc:0 "Война ведётся с целью захватить $gpm_r_mysterious_shield_generator$"
+ war_goal_wg_gpm_r_gravity_engine:0 "Захватить реликвию"
+ war_goal_wg_gpm_r_gravity_engine_desc:0 "Война ведётся с целью захватить $gpm_r_gravity_engine$"
+ war_goal_wg_gpm_r_codex_administratum:0 "Захватить реликвию"
+ war_goal_wg_gpm_r_codex_administratum_desc:0 "Война ведётся с целью захватить $gpm_r_codex_administratum$"
+ war_goal_wg_gpm_r_enigmatic_advisor:0 "Захватить реликвию"
+ war_goal_wg_gpm_r_enigmatic_advisor_desc:0 "Война ведётся с целью захватить $gpm_r_enigmatic_advisor$"
+ war_goal_wg_gpm_r_positronic_microchip:0 "Захватить реликвию"
+ war_goal_wg_gpm_r_positronic_microchip_desc:0 "Война ведётся с целью захватить $gpm_r_positronic_microchip$"
+ war_goal_wg_gpm_r_venerable_dreadnaught:0 "Захватить реликвию"
+ war_goal_wg_gpm_r_venerable_dreadnaught_desc:0 "Война ведётся с целью захватить $gpm_r_venerable_dreadnaught$"
+ war_goal_wg_gpm_r_sentinel_queen:0 "Захватить реликвию"
+ war_goal_wg_gpm_r_sentinel_queen_desc:0 "Война ведётся с целью захватить $gpm_r_sentinel_queen$"
+ war_goal_wg_gpm_r_earthquake_engine:0 "Захватить реликвию"
+ war_goal_wg_gpm_r_earthquake_engine_desc:0 "Война ведётся с целью захватить $gpm_r_earthquake_engine$"
+ war_goal_wg_gpm_r_manufactorium_ship:0 "Захватить реликвию"
+ war_goal_wg_gpm_r_manufactorium_ship_desc:0 "Война ведётся с целью захватить $gpm_r_manufactorium_ship$"
+ war_goal_wg_gpm_r_datacube:0 "Захватить реликвию"
+ war_goal_wg_gpm_r_datacube_desc:0 "Война ведётся с целью захватить $gpm_r_datacube$"
+ war_goal_wg_gpm_r_self_assembly_hub:0 "Захватить реликвию"
+ war_goal_wg_gpm_r_self_assembly_hub_desc:0 "Война ведётся с целью захватить $gpm_r_self_assembly_hub$"
+ war_goal_wg_gpm_r_banner_of_the_fallen:0 "Захватить реликвию"
+ war_goal_wg_gpm_r_banner_of_the_fallen_desc:0 "Война ведётся с целью захватить $gpm_r_banner_of_the_fallen$"
+ war_goal_wg_gpm_r_cloaking_device:0 "Захватить реликвию"
+ war_goal_wg_gpm_r_cloaking_device_desc:0 "Война ведётся с целью захватить $gpm_r_cloaking_device$"
+ war_goal_wg_gpm_r_q_storage_compressor:0 "Захватить реликвию"
+ war_goal_wg_gpm_r_q_storage_compressor_desc:0 "Война ведётся с целью захватить $gpm_r_q_storage_compressor$"
+ war_goal_wg_gpm_r_soul_gem:0 "Захватить реликвию"
+ war_goal_wg_gpm_r_soul_gem_desc:0 "Война ведётся с целью захватить $gpm_r_soul_gem$"
+ war_goal_wg_gpm_r_self_repairing_obelisk:0 "Захватить реликвию"
+ war_goal_wg_gpm_r_self_repairing_obelisk_desc:0 "Война ведётся с целью захватить $gpm_r_self_repairing_obelisk$"
 
- war_goal_wg_gpm_r_dragon_trophy:0 "Отобрать реликвию"
- war_goal_wg_gpm_r_dragon_trophy_desc:0 "Целью войны является захват реликвии $r_dragon_trophy$"
- war_goal_wg_gpm_r_khans_throne:0 "Отобрать реликвию"
- war_goal_wg_gpm_r_khans_throne_desc:0 "Целью войны является захват реликвии $r_khans_throne$"
- war_goal_wg_gpm_r_worm_scales:0 "Отобрать реликвию"
- war_goal_wg_gpm_r_worm_scales_desc:0 "Целью войны является захват реликвии $r_worm_scales$"
- war_goal_wg_gpm_r_rubricator:0 "Отобрать реликвию"
- war_goal_wg_gpm_r_rubricator_desc:0 "Целью войны является захват реликвии $r_rubricator$"
- war_goal_wg_gpm_r_galaxy:0 "Отобрать реликвию"
- war_goal_wg_gpm_r_galaxy_desc:0 "Целью войны является захват реликвии $r_galaxy$"
- war_goal_wg_gpm_r_omnicodex:0 "Отобрать реликвию"
- war_goal_wg_gpm_r_omnicodex_desc:0 "Целью войны является захват реликвии $r_omnicodex$"
- war_goal_wg_gpm_r_surveyor:0 "Отобрать реликвию"
- war_goal_wg_gpm_r_surveyor_desc:0 "Целью войны является захват реликвии $r_surveyor$"
- war_goal_wg_gpm_r_ancient_sword:0 "Отобрать реликвию"
- war_goal_wg_gpm_r_ancient_sword_desc:0 "Целью войны является захват реликвии $r_ancient_sword$"
- war_goal_wg_gpm_r_severed_head:0 "Отобрать реликвию"
- war_goal_wg_gpm_r_severed_head_desc:0 "Целью войны является захват реликвии $r_severed_head$"
- war_goal_wg_gpm_r_prethoryn_queen:0 "Отобрать реликвию"
- war_goal_wg_gpm_r_prethoryn_queen_desc:0 "Целью войны является захват реликвии $r_prethoryn_queen$"
- war_goal_wg_gpm_r_unbidden_warlock:0 "Отобрать реликвию"
- war_goal_wg_gpm_r_unbidden_warlock_desc:0 "Целью войны является захват реликвии $r_unbidden_warlock$"
- war_goal_wg_gpm_r_contingency_core:0 "Отобрать реликвию"
- war_goal_wg_gpm_r_contingency_core_desc:0 "Целью войны является захват реликвии $r_contingency_core$"
- war_goal_wg_gpm_r_zro_crystal:0 "Отобрать реликвию"
- war_goal_wg_gpm_r_zro_crystal_desc:0 "Целью войны является захват реликвии $r_zro_crystal$"
- war_goal_wg_gpm_r_the_last_baol:0 "Отобрать реликвию"
- war_goal_wg_gpm_r_the_last_baol_desc:0 "Целью войны является захват реликвии $r_the_last_baol$"
- war_goal_wg_gpm_r_the_defragmentor:0 "Отобрать реликвию"
- war_goal_wg_gpm_r_the_defragmentor_desc:0 "Целью войны является захват реликвии $r_the_defragmentor$"
- war_goal_wg_gpm_r_reality_perforator:0 "Отобрать реликвию"
- war_goal_wg_gpm_r_reality_perforator_desc:0 "Целью войны является захват реликвии $r_reality_perforator$"
- war_goal_wg_gpm_r_pox_sample:0 "Отобрать реликвию"
- war_goal_wg_gpm_r_pox_sample_desc:0 "Целью войны является захват реликвии $r_pox_sample$"
- war_goal_wg_gpm_r_cryo_core:0 "Отобрать реликвию"
- war_goal_wg_gpm_r_cryo_core_desc:0 "Целью войны является захват реликвии $r_cryo_core$"
- war_goal_wg_gpm_r_war_forge:0 "Отобрать реликвию"
- war_goal_wg_gpm_r_war_forge_desc:0 "Целью войны является захват реликвии $r_war_forge$"
+ war_goal_wg_gpm_r_dragon_trophy:0 "Захватить реликвию"
+ war_goal_wg_gpm_r_dragon_trophy_desc:0 "Война ведётся чтобы захватить $r_dragon_trophy$"
+ war_goal_wg_gpm_r_khans_throne:0 "Захватить реликвию"
+ war_goal_wg_gpm_r_khans_throne_desc:0 "Война ведётся чтобы захватить $r_khans_throne$"
+ war_goal_wg_gpm_r_worm_scales:0 "Захватить реликвию"
+ war_goal_wg_gpm_r_worm_scales_desc:0 "Война ведётся чтобы захватить $r_worm_scales$"
+ war_goal_wg_gpm_r_rubricator:0 "Захватить реликвию"
+ war_goal_wg_gpm_r_rubricator_desc:0 "Война ведётся чтобы захватить $r_rubricator$"
+ war_goal_wg_gpm_r_galaxy:0 "Захватить реликвию"
+ war_goal_wg_gpm_r_galaxy_desc:0 "Война ведётся чтобы захватить $r_galaxy$"
+ war_goal_wg_gpm_r_omnicodex:0 "Захватить реликвию"
+ war_goal_wg_gpm_r_omnicodex_desc:0 "Война ведётся чтобы захватить $r_omnicodex$"
+ war_goal_wg_gpm_r_surveyor:0 "Захватить реликвию"
+ war_goal_wg_gpm_r_surveyor_desc:0 "Война ведётся чтобы захватить $r_surveyor$"
+ war_goal_wg_gpm_r_ancient_sword:0 "Захватить реликвию"
+ war_goal_wg_gpm_r_ancient_sword_desc:0 "Война ведётся чтобы захватить $r_ancient_sword$"
+ war_goal_wg_gpm_r_severed_head:0 "Захватить реликвию"
+ war_goal_wg_gpm_r_severed_head_desc:0 "Война ведётся чтобы захватить $r_severed_head$"
+ war_goal_wg_gpm_r_prethoryn_queen:0 "Захватить реликвию"
+ war_goal_wg_gpm_r_prethoryn_queen_desc:0 "Война ведётся чтобы захватить $r_prethoryn_queen$"
+ war_goal_wg_gpm_r_unbidden_warlock:0 "Захватить реликвию"
+ war_goal_wg_gpm_r_unbidden_warlock_desc:0 "Война ведётся чтобы захватить $r_unbidden_warlock$"
+ war_goal_wg_gpm_r_contingency_core:0 "Захватить реликвию"
+ war_goal_wg_gpm_r_contingency_core_desc:0 "Война ведётся чтобы захватить $r_contingency_core$"
+ war_goal_wg_gpm_r_zro_crystal:0 "Захватить реликвию"
+ war_goal_wg_gpm_r_zro_crystal_desc:0 "Война ведётся чтобы захватить $r_zro_crystal$"
+ war_goal_wg_gpm_r_the_last_baol:0 "Захватить реликвию"
+ war_goal_wg_gpm_r_the_last_baol_desc:0 "Война ведётся чтобы захватить $r_the_last_baol$"
+ war_goal_wg_gpm_r_the_defragmentor:0 "Захватить реликвию"
+ war_goal_wg_gpm_r_the_defragmentor_desc:0 "Война ведётся чтобы захватить $r_the_defragmentor$"
+ war_goal_wg_gpm_r_reality_perforator:0 "Захватить реликвию"
+ war_goal_wg_gpm_r_reality_perforator_desc:0 "Война ведётся чтобы захватить $r_reality_perforator$"
+ war_goal_wg_gpm_r_pox_sample:0 "Захватить реликвию"
+ war_goal_wg_gpm_r_pox_sample_desc:0 "Война ведётся чтобы захватить $r_pox_sample$"
+ war_goal_wg_gpm_r_cryo_core:0 "Захватить реликвию"
+ war_goal_wg_gpm_r_cryo_core_desc:0 "Война ведётся чтобы захватить $r_cryo_core$"
+ war_goal_wg_gpm_r_war_forge:0 "Захватить реликвию"
+ war_goal_wg_gpm_r_war_forge_desc:0 "Война ведётся чтобы захватить $r_war_forge$"
+
 
  #######################################
  #### war Names
  #######################################
-
-
-
-
-
-
+ # War names
+ gpm_war_of_time:0 "Войны Времени"
+ gpm_war_of_the_xenos:0 "Война за чужую королеву"
+ gpm_war_of_the_machine:0 "Война за Ядро машины"
+ gpm_war_of_knowledge:0 "Война Знания"
+ gpm_war_of_power:0 "Война Силы"
+ gpm_war_of_the_sphere:0 "Квантовые войны"
+ gpm_war_of_the_architect:0 "Войны Архитектора"
+ gpm_war_of_the_stc:0 "Война за STC"
+ gpm_war_of_the_codex:0 "Война Кодекса"
+ gpm_war_of_the_soul:0 "Война за Душу"
+ gpm_war_of_the_queen:0 "Война Стража"
+ gpm_war_of_the_fallen:0 "Война Угасших"
+ gpm_war_of_the_dragon:0 "Война Дракона"
+ gpm_war_of_the_throne:0 "Война за Трон"
+ gpm_war_of_the_worm:0 "Война за Червя"
+ gpm_war_of_the_rubricator:0 "Войны Рубрикатора"
+ gpm_war_of_the_galaxy:0 "Война за Миниатюрную Галактику"
+ gpm_war_of_the_omnicodex:0 "Войны Омникодекса"
+ gpm_war_of_the_surveyor:0 "Войны Топографа"
+ gpm_war_of_the_ancient_sword:0 "Война за Меч Воительницы"
+ gpm_war_of_the_severed_head:0 "Война за Священную Голову"
+ gpm_war_of_the_prethoryn_queen:0 "Война за Королеву Преториан"
+ gpm_war_of_the_unbidden_warlock:0 "Войны Колдуна"
+ gpm_war_of_the_contingency_core:0 "Война за Ядро"
+ gpm_war_of_the_zro_crystal:0 "Войны Зро"
+ gpm_war_of_the_last_baol:0 "Война за Последнего из Баол"
+ gpm_war_of_the_defragmentor:0 "Войны Дефрагментатора"
+ gpm_war_of_the_reality_perforator:0 "Войны Реальности"
+ gpm_war_of_the_pox_sample:0 "Чумные Войны"
+ gpm_war_of_the_cryo_core:0 "Ледяные Войны"
+ gpm_war_of_the_war_forge:0 "Война за Кузницу"

@@ -1,19 +1,19 @@
 ﻿l_russian:
- 
+
  tech_fallen_technologies_1:0 "Манипуляция тёмной материей"
- tech_fallen_technologies_1_desc:0 "Освоение продвинутой формы манипуляции тёмной материей для обеспечения следующего поколения автоматизированных производств, вершина инженерии и производства, наконец, достижима." 
+ tech_fallen_technologies_1_desc:0 "Освоение продвинутой формы манипуляции тёмной материей для обеспечения следующего поколения автоматизированных производств, вершина инженерии и производства, наконец, достижима."
  tech_fallen_technologies_2:0 "Социальная эволюция"
  tech_fallen_technologies_2_desc:0 "Силы эволюции подталкивают наше общество к новой эпохе."
  tech_fallen_technologies_3:0 "Чертежи предтеч"
  tech_fallen_technologies_3_desc:0 "После многих лет исследований и шпионажа мы наконец получили полные чертежи кораблей предтеч и их городов."
  tech_fallen_technologies_4:0 "Технологическое совершенство"
- tech_fallen_technologies_4_desc:0 "Наше технологическое совершенство достигло новых высот, что открывает нам доступ к новым научным достижениям, которые ранее считались невозможными." 
+ tech_fallen_technologies_4_desc:0 "Наше технологическое совершенство достигло новых высот, что открывает нам доступ к новым научным достижениям, которые ранее считались невозможными."
  tech_fallen_technologies_5:0 "Амбиции власти"
  tech_fallen_technologies_5_desc:0 "У нас должны быть галактические амбиции, соответствующие нашему статусу и мощи, и мы должны распространять свое влияние на все края галактики. Новые указы и кампании также обеспечат дальнейшее процветание и стабильность нашей империи."
  tech_fallen_technologies_6:0 "Инженерное совершенство"
  tech_fallen_technologies_6_desc:0 "Когда наши инженерные навыки будут доведены до совершенства, мы сами сможем добиться совершенства."
 
- 
+
  tech_fe_escorts:0 "Эскорт"
  tech_fe_escorts_desc:0 "Чертежи, украденные у империи предтеч, позволяют нам строить мощные военные суда класса Эскорт."
  TECH_UNLOCK_FE_ESCORT_CONSTRUCTION_TITLE:0 "§HТип кораблей:§! Эскорт"
@@ -26,7 +26,14 @@
  tech_fe_titans_desc:0 "Чертежи, украденные у империи предтеч, позволяют нам строить мощные военные суда класса Падший титан."
  TECH_UNLOCK_FE_TITANS_CONSTRUCTION_TITLE:0 "§HТип кораблей:§! Падший титан"
  TECH_UNLOCK_FE_TITANS_CONSTRUCTION_DESC:0 "§HПадший титан§!\nГордость и радость любого флота - Падший титан, который является одновременно массивным военным кораблем и символом силы."
- 
+
+ SHIP_GRAPHICS_FE_ESCORT_DESC:0 "Эскорт - это первая линия обороны Вознесенной империи, часто выполняющая функции пограничного патруля или сопровождающая более крупные корабли."
+ SHIP_GRAPHICS_FE_BATTLECRUISER_DESC:0 "Крейсера - это вторая линия обороны Вознесенной империи. Это универсальные мощные корабли, способные привнести огромную огневую мощь в любой серьезный бой."
+ SHIP_GRAPHICS_FE_TITAN_DESC:1 "Падшие титаны часто служат флагманами Вознесенных империй. Они обладают огромной мощью сами по себе, а также аурой для усиления дружественных кораблей."
+ SHIP_GRAPHICS_FE_GOLIATH_DESC:0 "В последний раз голиафов видели во время Великого крестового похода 10000 лет назад. Несмотря на свою огромную мощь, они часто считаются слишком большими творениями сумрачного гения и настолько непрактичными, что некоторые сравнивали этот массивный корабль с тщеславием создателей."
+ SHIP_GRAPHICS_FE_SMALL_STATION_DESC:0 "Оборонительные аванпосты - это передовые платформы, предназначенные для усиления обороны звёздных баз Вознесенной империи."
+ SHIP_GRAPHICS_FE_LARGE_STATION_DESC:0 "Оборонительные платформы могут похвастаться внушительным внешним видом, а их массивная огневая мощь усиливает оборону цитаделей Вознесенной империи."
+
  tech_fe_defense_platforms_1:0 "Оборонительная застава"
  tech_fe_defense_platforms_1_desc:0 "Чертежи, украденные у империи предтеч, позволяют строить оборонительные платформы следующего поколения."
  TECH_UNLOCK_FE_SMALL_STATION_CONSTRUCTION_TITLE:0 "§HТип кораблей:§! Оборонительная застава"
@@ -35,10 +42,10 @@
  tech_fe_defense_platforms_2_desc:0 "Чертежи, украденные у империи предтеч, позволяют строить оборонительные платформы следующего поколения."
  TECH_UNLOCK_FE_LARGE_STATION_CONSTRUCTION_TITLE:0 "§HТип кораблей:§! Защитная башня"
  TECH_UNLOCK_FE_LARGE_STATION_CONSTRUCTION_DESC:0 "§HЗащитная башня§!\nЗащитная башня обладает большой огневой мощью и внушительным внешним видом."
- 
+
  tech_arcology_project:0 "$ap_arcology_project$"
  tech_arcology_project_desc:0 "$ap_arcology_project_desc$"
- 
+
  tech_matter_generator:0 "Генератор материи"
  tech_matter_generator_desc:0 "Используя огромное количество энергии, мы можем превращать свет в материю из, казалось бы, ничего."
  tech_synthetic_dark_matter:0 "Лаборатория тёмной материи"
@@ -55,29 +62,29 @@
  tech_dimensional_encryption_desc:0 "Используя физику измерений для шифрования наших каналов связи, наши системы данных становятся практически недоступными для взлома без нашего ведома."
  tech_dimensional_decryption:0 "Пространственная расшифровка"
  tech_dimensional_decryption_desc:0 "Используя пространственную физику для расшифровки вражеских коммуникаций, наши сетевые атаки станут намного более эффективны и не обнаружимы."
- 
+
  tech_fe_escort_build_speed:0 "Стандартные модели эскортов"
  tech_fe_escort_build_speed_desc:0 "Введение новых стандартов моделирования и строительства эскортов значительно повышает эффективность производственного процесса на всех этапах."
  tech_fe_escort_hull_1:0 "Улучшенная обшивка эскортов"
  tech_fe_escort_hull_1_desc:0 "Развитие методов строительства позволит создавать более прочные и надежные эскорты."
  tech_fe_escort_hull_2:0 "Продвинутая обшивка эскортов"
  tech_fe_escort_hull_2_desc:0 "В последнем поколении обшивки эскортов оптимизированы поля структурной целостности и улучшены переборки."
- 
+
  tech_fe_battlecruiser_hull_1:0 "Улучшенная обшивка линейных крейсеров"
  tech_fe_battlecruiser_hull_1_desc:0 "Развитие методов строительства позволит создавать более прочные и надежные линейные крейсеры."
  tech_fe_battlecruiser_hull_2:0 "Продвинутая обшивка линейных крейсеров"
  tech_fe_battlecruiser_hull_2_desc:0 "В последнем поколении обшивки линейных крейсеров оптимизированы поля структурной целостности и улучшены переборки."
  tech_fe_battlecruiser_build_speed:0 "Стандартные модели линейных крейсеров"
  tech_fe_battlecruiser_build_speed_desc:0 "Введение новых стандартов моделирования и строительства линейных крейсеров значительно повышает эффективность производственного процесса на всех этапах."
- 
+
  tech_fe_titan_hull_1:0 "Улучшенная обшивка Падших титанов"
  tech_fe_titan_hull_1_desc:0 "Развитие методов строительства позволит создавать более прочные и надежные Падшие титаны."
  tech_fe_titan_hull_2:0 "Продвинутая обшивка Падших титанов"
  tech_fe_titan_hull_2_desc:0 "В последнем поколении обшивки Падших титанов оптимизированы поля структурной целостности и улучшены переборки."
- 
+
  tech_colossus_hull_1:0 "Улучшенная обшивка Колоссов"
  tech_colossus_hull_1_desc:0 "Развитие методов строительства позволит создавать более прочные и надежные Колоссы."
- 
+
  mod_shipsize_fe_escort_hull_add:0 "Прочность корпуса эскортов"
  mod_shipsize_fe_escort_build_speed_mult:0 "Скорость строительства эскортов"
  mod_shipsize_fe_battlecruiser_hull_add:0 "Прочность корпуса линейных крейсеров"
@@ -85,14 +92,14 @@
  mod_shipsize_fe_titan_hull_add:0 "Прочность корпуса Падших титанов"
  mod_shipsize_colossus_hull_add:0 "Прочность корпуса Колоссов"
 
- 
+
  tech_gaia_world_creation:0 "Создание идеальных миров"
  tech_gaia_world_creation_desc:0 "Позволяет терраформировать планеты в идеальные миры."
  tech_hive_world_creation:0 "Создание миров-ульев"
  tech_hive_world_creation_desc:0 "Позволяет терраформировать планеты в миры-улья."
  tech_machine_world_creation:0 "Создание миров машин"
  tech_machine_world_creation_desc:0 "Позволяет терраформировать планеты в миры машин."
- 
+
  building_fe_affluence_center:0 "Центр изобилия"
  building_fe_affluence_center_desc:0 "Здесь можно утолить любой тип материального желания, каким бы странным оно ни было."
  building_fe_nourishment_center:0 "Центр питания"
@@ -144,10 +151,10 @@
  building_fe_opulent_plaza_desc:0 "$tech_fe_opulent_plaza_desc$"
  building_fe_nano_forge_2:0 "$tech_fe_nano_forge_2$"
  building_fe_nano_forge_2_desc:0 "$tech_fe_nano_forge_2_desc$"
- 
+
  decision_ae_arcology_project:0 "$ap_arcology_project$"
  decision_ae_arcology_project_desc:0 "$decision_arcology_project_desc$"
- 
+
  tech_fe_affluence_center:0 "Центр изобилия"
  tech_fe_affluence_center_desc:0 "Здесь можно утолить любой тип материального желания, каким бы странным оно ни было."
  tech_fe_nourishment_center:0 "Центр питания"
@@ -178,7 +185,7 @@
  tech_fe_aegis_complex_2_desc:0 "Бастион считается крепостью, равной которой нет, и содержит широкий спектр передовых систем защиты и оружия на тёмной материи.\n\n§GЭто чудо инженерной мысли - вершина технологий и промышленности.§!"
  tech_fe_aegis_complex_3:0 "Невозможная крепость"
  tech_fe_aegis_complex_3_desc:0 "Как её часто называют, Невозможная Крепость - это оборонительное укрепление, настолько хорошо спроектированное и настолько сложное для захвата, что, согласно некоторым записям, даже предтечи старались держаться от неё подальше.\n\n§MКогда-то эта утраченная технология считалась безвозвратно утерянной для истории.§!"
- 
+
  tech_automated_industries_1:0 "Центр автоматизированного управления производством"
  tech_automated_industries_1_desc:0 "Центр автоматизированного управления производством управляет всем автоматизированным производством на планете. Точно координируя транспортировку ресурсов между объектами, можно повысить эффективность автоматизированных зданий во всем мире.\n\n§GЭто чудо инженерной мысли - вершина технологий и промышленности.§!"
  tech_fe_class_5_singularity:0 "Сингулярность класса 5"
@@ -191,7 +198,7 @@
  tech_fe_opulent_plaza_desc:0 "Грандиозная, роскошная площадь, где часто бывают гедонисты, материальные потребности здесь удовлетворяются с невероятной скоростью. Что бы вы ни пожелали, площадь изобилия никогда не перестает впечатлять.\n\n§GЭто чудо инженерной мысли - вершина технологий и промышленности.§!"
  tech_fe_nano_forge_2:0 "Нанокузня"
  tech_fe_nano_forge_2_desc:0 "Нанокузня- это улучшение автокузни. После предоставления необходимых ресурсов, указанных в восстановленных схемах, теперь она преобразует сырье в сплавы с гораздо большей скоростью.\n\n§GЭто чудо инженерной мысли - вершина технологий и промышленности.§!"
- 
+
  col_ae_capital:0 "Столица вознесённой империи"
  col_ae_capital_desc:0 "Столичная планета вознесённой империи - это огромный комплекс правительственных зданий, бюро и штаб-квартир разных агентств."
  col_ae_capital_machine:0 "Столица вознесённой империи машин"
@@ -200,12 +207,12 @@
  col_ae_capital_hive_desc:0 "Столичная планета вознесённого разума улья является основным местом, откуда берутся мысли и действия всего коллектива."
  col_le_capital:0 "Столица угасшей империи"
  col_le_capital_desc:0 "Хотя эта империя и находится в упадке, но всё равно уровень технологического прогресса в этом мире поразителен."
- 
+
  job_ae_xeno_keeper:0 "Ксенохранитель"
  job_ae_xeno_keeper_plural:0 "Ксенохранители"
  job_ae_xeno_keeper_desc:0 "Эти хранители ксенозаповедника заботятся о нуждах подопечных."
  mod_job_ae_xeno_keeper_add:0 "$job_ae_xeno_keeper$"
- mod_job_ae_xeno_keeper_add:0 "$job_ae_xeno_keeper$" 
+ mod_job_ae_xeno_keeper_add:0 "$job_ae_xeno_keeper$"
  job_ae_xeno_ward:0 "Ксеноподопечный"
  job_ae_xeno_ward_plural:0 "Ксеноподопечные"
  job_ae_xeno_ward_desc:0 "Эти образцы были собраны здесь, в условиях, приближенных к их естественной среде обитания, чтобы обеспечить сохранение их видов в хаотичной и разрушительной галактике."
@@ -218,56 +225,57 @@
  HEDONIST_UTOPIAN:0 "Декаданс"
  HEDONIST_UTOPIAN_DESC:0 "Назначение нашему основному виду уровня жизни §Yутопическое изобилие§! или §Yдекаданс§! очень порадует [Root.GetName]."
  HEDONIST_NO_UTOPIAN:0 "$HEDONIST_UTOPIAN$"
- 
+
  pft_hedonist:0 "Фракция гедонистов"
  pft_hedonist_desc:0 "Фракция гедонистов стремится к максимально возможному уровню жизни и праву наслаждаться жизнью без работы. Они не любят войны и предпочли бы сохранить свою жизнь, чтобы исследовать все формы удовольствия, которые может предложить галактика.\n\n§LЭтика пацифизма§!"
- 
+
  factions.1.desc.hedonist:0 "Их члены работают неполный рабочий день, чтобы гарантировать свободы и права для гедонистов в нашей империи.\n\n"
- 
-  
+
+ format.pop_faction.hedonist:0 "<hedonist_names_1> <hedonist_names_2>"
+
  promoted_hedonist:0 "Гедонизм продвигается"
  promoted_hedonist_desc:0 "Правительство продвигает гедонистский образ жизни."
  suppressed_hedonist:0 "Гедонизм подавляется"
  suppressed_hedonist_desc:0 "Правительство подавляет гедонистский образ жизни."
- 
+
  job_ae_dark_matter_technician:0 "Техник тёмной материи"
  job_ae_dark_matter_technician_plural:0 "Техники тёмной материи"
  job_ae_dark_matter_technician_desc:0 "Техники тёмной материи выполняют опасную задачу по преобразованию видимой материи в тёмную."
  job_ae_dark_matter_technician_effect_desc:0 "£sr_dark_matter£ $job_ae_dark_matter_technician_plural$ перерабатывают £minerals£ §Y$minerals$§! в £sr_dark_matter£ §Yтёмную материю§!."
  mod_job_ae_dark_matter_technician_add:0 "$job_ae_dark_matter_technician$"
  planet_dm_technician:0 "Вакансии техников тёмной материи"
- 
+
  job_ae_living_metal_smith:0 "Кузнец живого металла"
  job_ae_living_metal_smith_plural:0 "Кузнецы живого металла"
  job_ae_living_metal_smith_desc:0 "Кузнецы живого металла - опытные инженеры, способные вдохнуть жизнь в необработанный металл."
  job_ae_living_metal_smith_effect_desc:0 "£sr_living_metal£ $job_ae_living_metal_smith_plural$ перерабатывают £alloys£ §Yсплавы§! и £sr_dark_matter£ §Yтёмную материю§! в £sr_living_metal£ §Yживой металл§!."
  mod_job_ae_living_metal_smith_add:0 "$job_ae_living_metal_smith$"
  planet_lm_smith:0 "Вакансии кузнецов живого металла"
- 
+
  job_ae_zro_alchemist:0 "Химик Зро"
  job_ae_zro_alchemist_plural:0 "Химики Зро"
  job_ae_zro_alchemist_desc:0 "Химики Зро смешивают минералы с экзотическими пылинками для получения Зро."
  job_ae_zro_alchemist_effect_desc:0 "£sr_zro£ $job_ae_zro_alchemist_plural$ перерабатывают £minerals£ §Y$minerals$§! в £sr_zro£ §Y$sr_zro$§!."
  mod_job_ae_zro_alchemist_add:0 "$job_ae_zro_alchemist$"
  planet_zro_alchemist:0 "Вакансии химиков Зро"
-  
+
  fe_titan:1 "Падший титан"
  fe_titan_plural:1 "Падшие титаны"
  fe_battlecruiser:1 "Линейный крейсер"
  fe_battlecruiser_plural:1 "Линейные крейсеры"
  fe_escort:1 "Эскорт"
  fe_escort_plural:1 "Эскорты"
- 
+
  fe_large_station:1 "Защитная башня"
  fe_large_station_plural:1 "Защитные башни"
  fe_small_station:1 "Оборонительная застава"
- fe_small_station_plural:1 "Оборонительные заставы"  
- 
+ fe_small_station_plural:1 "Оборонительные заставы"
+
  FE_ESCORT_KEY:1 "Носовой отсек эскорта"
  FE_ESCORT_TORPEDO_KEY:1 "Торпедный отсек эскорта"
  FE_ESCORT_MID_KEY:1 "Ядро эскорта"
  FE_ESCORT_STERN_KEY:1 "Корма эскорта"
- 
+
  FE_ESCORT_O_KEY:1 "Восстановленный носовой отсек эскорта"
  FE_ESCORT_TORPEDO_O_KEY:1 "Восстановленный торпедный отсек эскорта"
  FE_ESCORT_MID_O_KEY:1 "Восстановленное ядро эскорта"
@@ -277,12 +285,12 @@
  FE_ESCORT_TORPEDO_OE_KEY:1 "Исходный торпедный отсек эскорта"
  FE_ESCORT_MID_OE_KEY:1 "Исходное ядро эскорта"
  FE_ESCORT_STERN_OE_KEY:1 "Исходная корма эскорта"
- 
+
  FE_BATTLECRUISER_BOW_KEY:1 "Носовой отсек линейного крейсера"
  FE_BATTLECRUISER_TORPEDO_KEY:1 "Торпедный отсек линейного крейсера"
  FE_BATTLECRUISER_KEY:1 "Ядро линейного крейсера"
  FE_BATTLECRUISER_STERN_KEY:1 "Корма линейного крейсера"
- 
+
  FE_BATTLECRUISER_BOW_O_KEY:1 "Восстановленный носовой отсек линейного крейсера"
  FE_BATTLECRUISER_TORPEDO_O_KEY:1 "Восстановленный торпедный отсек линейного крейсера"
  FE_BATTLECRUISER_O_KEY:1 "Восстановленное ядро линейного крейсера"
@@ -292,12 +300,12 @@
  FE_BATTLECRUISER_TORPEDO_OE_KEY:1 "Исходный торпедный отсек линейного крейсера"
  FE_BATTLECRUISER_OE_KEY:1 "Исходное ядро линейного крейсера"
  FE_BATTLECRUISER_STERN_OE_KEY:1 "Исходная корма линейного крейсера"
- 
+
  FE_TITAN_BOW_KEY:1 "Носовой отсек падшего титана"
  FE_TITAN_KEY:1 "Падший титан"
  FE_TITAN_HANGAR:1 "Ангарный отсек падшего титана"
  FE_TITAN_STERN:1 "Корма падшего титана"
- 
+
  FE_TITAN_BOW_O_KEY:1 "Восстановленный носовой отсек титана"
  FE_TITAN_O_KEY:1 "Восстановленный титан"
  FE_TITAN_HANGAR_O:1 "Восстановленный ангарный отсек титана"
@@ -307,19 +315,19 @@
  FE_TITAN_OE_KEY:1 "Исходный титан"
  FE_TITAN_HANGAR_OE:1 "Исходный ангарный отсек титана"
  FE_TITAN_STERN_OE:1 "Исходная корма титана"
- 
+
  FE_SMALL_STATION_HEAVY:1 "Тяжелая секция"
  FE_SMALL_STATION_MEDIUM:1 "Средняя секция"
- 
+
  FE_LARGE_STATION_XL:1 "XL секция"
  FE_LARGE_STATION_HEAVY:1 "Тяжелая секция"
  FE_LARGE_STATION_MEDIUM:1 "Средняя секция"
  FE_LARGE_STATION_PD:1 "Легкая секция"
- 
+
  FE_ESCORT_COMBAT_COMPUTER_1:0 "Боевой компьютер эскорта (рой)"
  FE_ESCORT_COMBAT_COMPUTER_2:0 "Боевой компьютер эскорта (перехват)"
  FE_ESCORT_COMBAT_COMPUTER_3:0 "Боевой компьютер эскорта (линия)"
- FE_ESCORT_COMBAT_COMPUTER_4:0 "Боевой компьютер эскорта (артиллерия)" 
+ FE_ESCORT_COMBAT_COMPUTER_4:0 "Боевой компьютер эскорта (артиллерия)"
  FE_BATTLECRUISER_COMBAT_COMPUTER_1:0 "Боевой компьютер линейного крейсера (перехват)"
  FE_BATTLECRUISER_COMBAT_COMPUTER_2:0 "Боевой компьютер линейного крейсера (линия)"
  FE_BATTLECRUISER_COMBAT_COMPUTER_3:0 "Боевой компьютер линейного крейсера (артиллерия)"
@@ -331,7 +339,7 @@
  FE_GOLIATH_COMBAT_COMPUTER_1:0 "Боевой компьютер голиафа (линия)"
  FE_GOLIATH_COMBAT_COMPUTER_2:0 "Боевой компьютер голиафа (артиллерия)"
  FE_GOLIATH_COMBAT_COMPUTER_3:0 "Боевой компьютер голиафа (снайпер)"
- FE_GOLIATH_COMBAT_COMPUTER_4:0 "Боевой компьютер голиафа (дальная дистанция)" 
+ FE_GOLIATH_COMBAT_COMPUTER_4:0 "Боевой компьютер голиафа (дальная дистанция)"
 
  FE_ESCORT_DARK_MATTER_REACTOR:0 "Реактор на тёмной материи"
  FE_ESCORT_DARK_MATTER_REACTOR_DESC:0 "Только тёмная материя сможет запитать такой продвинутый корабль."
@@ -345,7 +353,7 @@
  FE_STATIONS_DARK_MATTER_REACTOR_DESC:0 "Только тёмная материя сможет запитать такой продвинутый корабль."
  FE_LARGE_STATIONS_DARK_MATTER_REACTOR:0 "Реактор на тёмной материи"
  FE_LARGE_STATIONS_DARK_MATTER_REACTOR_DESC:0 "Только тёмная материя сможет запитать такой продвинутый корабль."
- 
+
  FE_ESCORT_SHIP_THRUSTER:0 "Двигатели на тёмной материи"
  FE_ESCORT_SHIP_THRUSTER_DESC:0 "Эти двигатели используют технологию тёмной материи для создания движущей силы таким образом, что это бросает вызов многочисленным законам физики."
  FE_BATTLECRUISER_SHIP_THRUSTER:0 "Двигатели на тёмной материи"
@@ -354,7 +362,7 @@
  FE_TITAN_SHIP_THRUSTER_DESC:0 "Эти двигатели используют технологию тёмной материи для создания движущей силы таким образом, что это бросает вызов многочисленным законам физики."
  FE_GOLIATH_SHIP_THRUSTER:0 "Двигатели на тёмной материи"
  FE_GOLIATH_SHIP_THRUSTER_DESC:0 "Эти двигатели используют технологию тёмной материи для создания движущей силы таким образом, что это бросает вызов многочисленным законам физики."
- 
+
  FE_COMBAT_COMPUTER_DEFAULT:0 "Нет боевого компьютера"
  FE_SHIP_THRUSTER:0 "Нет двигателей"
  FE_BATTLECRUISER_THRUSTER:0 "Нет двигателей"
@@ -366,7 +374,7 @@
  FE_GOLIATH_REACTOR:0 "Нет реактора"
  FE_SMALL_STATION_REACTOR:0 "Нет реактора"
  FE_LARGE_STATION_REACTOR:0 "Нет реактора"
- 
+
  SNIPER_BEHAVIOR_DESC:0 "§HТактика - снайпер:§! Корабль будет оставаться позади (§Y120§!) и стрелять из оружия дальнего действия."
  LONG_RANGE_BEHAVIOR_DESC:0 "§HТактика - дальная дистанция:§! Корабль будет оставаться далеко (§Y180§!) позади и осуществлять поддержку оружием дальнего действия."
  FE_TITAN_AURA_NANOBOT_CLOUD:2 "$AURA_NANOBOT_CLOUD$"
@@ -383,11 +391,11 @@
  GOLIATH_AURA_SUBSPACE_SNARE:0 "Подпространственная ловушка голиафа"
  GOLIATH_AURA_INSPIRING_PRESENCE:0 "Вдохновляющее присутствие голиафа"
  GOLIATH_AURA_NANOBOT_CLOUD:0 "Облако наноботов голиафа"
- 
+
  TITAN_LANCE_01:0 "Копье титана"
  TITAN_LANCE_01_DESC:0 "Элегантное оружие чистой энергии, используемое в цивилизованный век цивилизованными империями."
  TITAN_LASER_DESC:0 "Элегантное оружие чистой энергии, используемое в цивилизованный век цивилизованными империями."
- 
+
  ap_galactic_ascendancy:0 "Галактическое вознесение"
  ap_galactic_ascendancy_desc:0 "Мы обладаем технологиями, необходимыми для создания цивилизации, которая будет существовать тысячелетия, и молодые расы запомнят наши достижения на века вперед."
  ap_galactic_consciousness:0 "Вознесённый разум"
@@ -402,7 +410,7 @@
  describe_ascended_hive_mind:0 "\nНа вершине своей силы, способности коллективного разума будут в пике. §HВознесённый коллективный разум§! будет подчинять подданных, как Пробудившаяся империя, или станет пожирающим галактическим бичом.\n"
  become_ascended_machine:0 "Мы станем §HВознесённой империей§!"
  describe_ascended_machine:0 "\nНа вершине своей силы, машинный разум будет обладать непревзойденным интеллектом и вычислительной мощностью. §HВознесённый машинный разум§! будут преследовать свое видение галактики с необычным рвением.\n"
-  
+
 # requires_technology_fallen_technologies_2:0 "$TRIGGER_FAIL$Requires the £engineering  §Y$tech_fallen_technologies_2$§! technology."
  requires_technology_dark_matter_power:0 "$TRIGGER_FAIL$Требуется технология £physics  §Y$tech_dark_matter_power_core$§!."
  requires_technology_ascension_theory:0 "$TRIGGER_FAIL$Требуется технология £society  §Y$tech_ascension_theory$§!."
@@ -411,12 +419,12 @@
  is_awakened_empire_subject:0 "$TRIGGER_FAIL$Мы подданные. Наш повелитель, §HПробуждённая империя§!, никогда не позволит этого."
  is_original_empire_subject:0 "$TRIGGER_FAIL$Мы подданные. Наш повелитель, §HПервоначальная империя§!, никогда не позволит этого."
  is_another_empire_subject:0 "$TRIGGER_FAIL$Мы подданные. Мы должны быть независимы, чтобы выбрать этот бонус за стремление."
- 
+
  mod_damage_vs_country_type_default_mult:0 "Урон обычным империям"
- 
- 
+
+
  ##Civics
- 
+
  civic_tooltip_fanatic_spiritualist:0 "Является фанатичным §Yспиритуалистом§!"
  civic_tooltip_fanatic_materialist:0 "Является фанатичным §Yматериалистом§!"
  civic_tooltip_fanatic_xenophile:0 "Является фанатичным §Yксенофилом§!"
@@ -425,7 +433,7 @@
  civic_tooltip_fanatic_pacifist:0 "Является фанатичным §Yпацифистом§!"
  civic_tooltip_fanatic_authoritarian:0 "Является фанатичным §Yавторитаристом§!"
  civic_tooltip_fanatic_egalitarian:0 "Является фанатичным §Yэгалитаристом§!"
- 
+
  civic_spiritualist_fervor:0 "Спиритуалистическое рвение"
  civic_spiritualist_fervor_desc:0 "Эта империя, кажется, преследует свои спиритуалистические идеалы с необычным рвением."
  civic_materialist_fervor:0 "Материалистическое рвение"
@@ -446,8 +454,8 @@
  civic_ascended_mind_desc:0 "Этот коллективный разум, кажется, находится на пике его силы."
  civic_ascended_machine:0 "Вознесенный машинный разум"
  civic_ascended_machine_desc:0 "Этот машинный разум работает с максимальной эффективностью."
- 
- 
+
+
  civic_galactic_superpower:0 "Галактическая сверхдержава"
  civic_galactic_superpower_desc:0 "Поддерживая военное превосходство и защищая национальные интересы по всей галактике, галактическая сверхдержава понимает, что сила даёт право."
  civic_beacon_of_prosperity:0 "Маяк процветания"
@@ -460,16 +468,16 @@
  civic_technological_mastery_desc:0 "Технология - это основа цивилизации, и поэтому технологическое овладение всеми вопросами науки - единственное логическое стремление."
  civic_spymaster:0 "Мастера-шпионы"
  civic_spymaster_desc:0 "Это мастера создания шпионских сетей и ведения шпионских операций, а когда дело доходит до сбора разведданных или создания проблем за кулисами, это для них почти как спорт."
- 
- 
- 
+
+
+
 
 # civic_hive_knowledge:0 "Hive Knowledge"
 # civic_hive_knowledge_desc:0 "This Hive Mind is extremely knowledgeable."
 # civic_large_databanks:0 "Large Databanks"
 # civic_large_databanks_desc:0 "This Machine possesses an extremely large databank and has considerable knowledge at its disposal."
- 
- 
+
+
 
  civic_barbarism:0 "Варварство"
  civic_barbarism_desc:0 "Эта империя наслаждается своими варварскими путями и обычаями."
@@ -478,7 +486,7 @@
  civic_murderous_rage:0 "Кровавая ярость"
  civic_murderous_rage_desc:0 "Глаза этого вида кажутся наполненными кровавой яростью."
 
- 
+
  civic_scripture_scholars:0 "Криптархи священных писаний"
  civic_scripture_scholars_desc:0 "Эта вознесённая империя посвящает значительные ресурсы изучению своих древних писаний."
  civic_fanatical_roboteers:0 "Фанатичные роботостроители"
@@ -497,13 +505,13 @@
  civic_all_seeing_eye_desc:0 "Этот коллективный разум видит все, делая трутней более эффективными в любых задачах."
  civic_all_seeing_machine:0 "Всевидящий машинный разум"
  civic_all_seeing_machine_desc:0 "Этот машинный разум получает визуальную обратную связь от всех своих единиц."
- 
+
  civic_lost_fervor:0 "Утраченное рвение"
  civic_lost_fervor_desc:0 "Эта империя и её граждане равнодушны к идеалам, которые когда-то были им дороги."
  civic_societal_stagnation:0 "Социальная стагнация"
  civic_societal_stagnation_desc:0 "Технологические нововведения и достижения, похоже, прекратились. Каждый день здесь просто блаженно скучен."
  civic_fallen_power:0 "Падшая сила"
- civic_fallen_power_desc:0 "Когда-то бывшая великой державой в галактике, эта империя начала свою нисходящую спираль к тому, чтобы стать падшей империей." 
+ civic_fallen_power_desc:0 "Когда-то бывшая великой державой в галактике, эта империя начала свою нисходящую спираль к тому, чтобы стать падшей империей."
  civic_national_humiliation:0 "Национальное унижение"
  civic_national_humiliation_desc:0 "Граждан этой империи избегают по всей галактике, и многие обвиняют их несчастье в неумелом руководстве."
  civic_societal_turmoil:0 "Социальные потрясения"
@@ -511,11 +519,11 @@
  civic_treaty_bound:0 "Договорные обязательства"
  civic_treaty_bound_desc:0 "Эта империя связана унизительным договором, который налагает серьезные военные ограничения."
 
- 
- 
- 
- 
- 
+
+
+
+
+
  #galactic_superpower:0 "§HUnlocks Civic:§! $civic_galactic_superpower$\n\n§Y$MOD_SHIP_WEAPON_DAMAGE$§! §G+25%§!\n§Y$MOD_SHIP_HULL_MULT$§! §G+25%§!\n§Y$MOD_SHIP_ARMOR_MULT$§! §G+25%§!\n§Y$MOD_SHIP_SHIELD_MULT$§! §G+25%§!\n\n§EAllows $bombardment_armageddon$ orbital bombardment stance.§!\n\n"
  #economic_prosperity:0 "§HUnlocks Civic:§! $civic_beacon_of_prosperity$\n\n§Y$mod_planet_jobs_energy_produces_mult$§! §G+25%§!\n§Y$mod_country_consumer_goods_produces_mult$§! §G+25%§!\n§Y$MOD_PLANET_AMENITIES_MULT$§! §G+25%§!\n§Y$MOD_TRADE_VALUE_MULT$§! §G+25%§!\n\n"
  #world_architect:0 "§HUnlocks Civic:§! $civic_world_architect$\n\n§Y$mod_planet_jobs_minerals_produces_mult$§! §G+25%§!\n§Y$mod_planet_jobs_alloys_produces_mult$§! §G+25%§!\n§Y$MOD_MEGASTRUCTURE_BUILD_SPEED_MULT$§! §G+25%§!\n§Y$MOD_COUNTRY_TERRAFORM_SPEED_MULT$§! §G+25%§!\n\n"
@@ -535,13 +543,13 @@
  #retains_servitor:0 "§HRetains Civic:§! $civic_machine_servitor$\n\n"
  #retains_assimilator:0 "§HRetains Civic:§! $civic_machine_assimilator$\n\n"
  #retains_terminator:0 "§HRetains Civic:§! $civic_machine_terminator$\n\n"
- 
- 
+
+
  gov_renounced_ascendancy:0 "Отрёкшиеся от господства"
  gov_renounced_ascendancy_desc:0 "Вознесённая империя отжила свое."
  gov_banished_ascendancy:0 "Изгнанная вознесённая империя"
- gov_banished_ascendancy_desc:0 "Вознесённая империя была изгнана из галактических дел." 
- 
+ gov_banished_ascendancy_desc:0 "Вознесённая империя была изгнана из галактических дел."
+
  gov_galactic_ascendancy:0 "Вознесённая империя"
  gov_galactic_ascendancy_desc:0 "Зенит могущества цивилизации и предмет зависти для всех."
  gov_ascended_constitutional_dictatorship:0 "Вознесённая империя"
@@ -550,7 +558,7 @@
  gov_ascended_plutocratic_oligarchy_desc:0 "Зенит могущества цивилизации и предмет зависти для всех."
  gov_ascended_representative_democracy:0 "Вознесённая империя"
  gov_ascended_representative_democracy_desc:0 "Зенит могущества цивилизации и предмет зависти для всех."
- 
+
  gov_ascended_divine_empire:0 "Вознесённая империя"
  gov_ascended_divine_empire_desc:0 "Зенит могущества цивилизации и предмет зависти для всех."
  gov_ascended_theocratic_dictatorship:0 "Вознесённая империя"
@@ -559,7 +567,7 @@
  gov_ascended_holy_tribunal_desc:0 "Зенит могущества цивилизации и предмет зависти для всех."
  gov_ascended_theocratic_republic:0 "Вознесённая империя"
  gov_ascended_theocratic_republic_desc:0 "Зенит могущества цивилизации и предмет зависти для всех."
- 
+
  gov_ascended_despotic_hegemony:0 "Вознесённая империя"
  gov_ascended_despotic_hegemony_desc:0 "Зенит могущества цивилизации и предмет зависти для всех."
  gov_ascended_technocratic_dictatorship:0 "Вознесённая империя"
@@ -574,7 +582,7 @@
  gov_ascended_science_directorate_desc:0 "Зенит могущества цивилизации и предмет зависти для всех."
  gov_ascended_rational_consensus:0 "Вознесённая империя"
  gov_ascended_rational_consensus_desc:0 "Зенит могущества цивилизации и предмет зависти для всех."
- 
+
  gov_ascended_star_empire:0 "Вознесённая империя"
  gov_ascended_star_empire_desc:0 "Зенит могущества цивилизации и предмет зависти для всех."
  gov_ascended_military_dictatorship:0 "Вознесённая империя"
@@ -589,7 +597,7 @@
  gov_ascended_war_council_desc:0 "Зенит могущества цивилизации и предмет зависти для всех."
  gov_ascended_assembly_of_clans:0 "Вознесённая империя"
  gov_ascended_assembly_of_clans_desc:0 "Зенит могущества цивилизации и предмет зависти для всех."
- 
+
  gov_ascended_irenic_monarchy:0 "Вознесённая империя"
  gov_ascended_irenic_monarchy_desc:0 "Зенит могущества цивилизации и предмет зависти для всех."
  gov_ascended_irenic_dictatorship:0 "Вознесённая империя"
@@ -598,17 +606,17 @@
  gov_ascended_irenic_bureaucracy_desc:0 "Зенит могущества цивилизации и предмет зависти для всех."
  gov_ascended_moral_democracy:0 "Вознесённая империя"
  gov_ascended_moral_democracy_desc:0 "Зенит могущества цивилизации и предмет зависти для всех."
- 
+
  gov_ascended_citizen_stratocracy:0 "Вознесённая империя"
  gov_ascended_citizen_stratocracy_desc:0 "Зенит могущества цивилизации и предмет зависти для всех."
  gov_ascended_citizen_republic:0 "Вознесённая империя"
  gov_ascended_citizen_republic_desc:0 "Зенит могущества цивилизации и предмет зависти для всех."
- 
+
  gov_ascended_hive_mind:0 "Галактический разум"
  gov_ascended_hive_mind_desc:0 "Этот коллективный разум способен влиять на формы жизни на галактическом уровне."
  gov_ascended_devouring_swarm:0 "Галактический рой"
  gov_ascended_devouring_swarm_desc:0 "Этот коллективный разум намерен пожирать все формы жизни в галактике."
- 
+
  gov_ascended_machine_empire:0 "Галактическое ядро"
  gov_ascended_machine_empire_desc:0 "Этот машинный разум работает на галактическом уровне."
  gov_ascended_machine_terminator:0 "Галактический экстерминатор"
@@ -625,7 +633,7 @@
  ascended_empire_governor:0 "Губернатор"
  ascended_empire_ruler:0 "Правитель"
  ascended_empire_envoy:0 "Посол"
- 
+
  lost_empire:0 "Падшая империя"
  lost_empire_admiral:0 "Адмирал"
  lost_empire_general:0 "Генерал"
@@ -633,14 +641,14 @@
  lost_empire_governor:0 "Губернатор"
  lost_empire_ruler:0 "Правитель"
  lost_empire_envoy:0 "Посол"
- 
+
  COUNTRY_ASCENDED_EMPIRE:0 "Вознесённая империя"
  COUNTRY_ASCENDED_EMPIRE_DESC:0 "Вознесённая империя на пике своей силы."
  COUNTRY_LOST_EMPIRE:0 "Падшая империя"
  COUNTRY_LOST_EMPIRE_DESC:0 "Падшая империя уже не в разгаре своей власти."
  COUNTRY_ORIGINAL_EMPIRE:0 "Первоначальная империя"
  COUNTRY_ORIGINAL_EMPIRE_DESC:0 "Первоначальная империя, первая империя, которая когда-либо была."
- 
+
  personality_ascended_empire_spiritualist:0 "Догматические стражи"
  personality_ascended_empire_materialist:0 "Бдительные регуляторы"
  personality_ascended_empire_xenophobe:0 "Шовинистические завоеватели"
@@ -659,7 +667,7 @@
  personality_ascended_assimilators:0 "Вознесённые ассимиляторы"
  personality_ascended_exterminators:0 "Вознесённые экстерминаторы"
  personality_ascended_empire_neutral:0 "$personality_null$"
- 
+
  personality_ascended_empire_spiritualist_desc:0 "Эта вознесённая империя стремится навязать галактике свои религиозные доктрины. Они, вероятно, атакуют любую империю, которая не будет готова перестроиться."
  personality_ascended_empire_materialist_desc:0 "Эта вознесённая империя стремится контролировать технологический уровень всех других цивилизаций в галактике. Они, вероятно, атакуют любую империю, которая не откажется от своей технологической независимости."
  personality_ascended_empire_xenophobe_desc:0 "Эта вознесённая империя стремится установить господство над галактикой. Они, вероятно, атакуют любую империю, которая не признает их господство."
@@ -678,7 +686,7 @@
  personality_ascended_assimilators_desc:0 "Эта вознесённая империя кажется одержима ассимиляцией органической жизни."
  personality_ascended_exterminators_desc:0 "Эта вознесённая империя стремится очистить галактику от органической жизни."
  personality_ascended_empire_neutral_desc:0 "Что заставляет вид стать нейтральным... Жажда золота? Власть? Или они просто родились с сердцем, полным нейтралитета?"
- 
+
  personality_lost_empire_spiritualist:0 "Святые стражи"
  personality_lost_empire_materialist:0 "Хранители знаний"
  personality_lost_empire_xenophobe:0 "Воинствующие изоляционисты"
@@ -690,7 +698,7 @@
  personality_lost_empire_hive_mind:0 "Спящий коллективный разум"
  personality_lost_empire_machine:0 "Древние хранители"
  personality_lost_empire_neutral:0 "Нейтральные свидетели"
- 
+
  personality_lost_empire_spiritualist_desc:0 "Эта падшая империя посвящает себя сохранению и защите своих святых мест. Колонизация систем, которые они считают священными, вероятно, вызовет их гнев."
  personality_lost_empire_materialist_desc:0 "Эта падшая империя посвящает себя накоплению знаний и технологий. Они могут предлагать задачи или требовать дань от меньших империй для достижения этой цели."
  personality_lost_empire_xenophobe_desc:0 "Эта падшая империя посвящает себя защите своих границ от любых вторжений. Колонизация систем, которые граничат с ними, вероятно, вызовет их гнев."
@@ -702,13 +710,13 @@
  personality_lost_empire_hive_mind_desc:0 "Эта падшая империя похожа на некий коллективный разум который стал... бездействующим."
  personality_lost_empire_machine_desc:0 "Эта падшая империя - древний искусственный интеллект, который, кажется, работает по каким-то протоколам смотрителя. Он ведет себя хаотично, но, кажется, не представляет прямой угрозы для нас."
  personality_lost_empire_neutral_desc:0 "Эта падшая империя, кажется, довольна просто быть беспристрастным наблюдателем."
- 
+
  opinion_ascended_empire_opposing:0 "Противостоят фанатичным убеждениям"
  opinion_ascended_empire_same:0 "Разделяют наши фанатичные убеждения"
- 
- 
+
+
  ##Events
-  
+
  fallen_technologies.1.name:0 "Рождение вознесённой империи"
  fallen_technologies.1.desc:0 "И таким образом родилась вознесённая империя.\n\nС того дня, когда предки §H[From.GetHomeWorldName]§! впервые стали пристально смотреть на звезды, наш великий вид достиг невероятных успехов в технологии, и с тех пор мы превратились в процветающую звёздную империю, намного превосходящую наши первоначальные надежды. Несмотря на постоянную борьбу за наше выживание, наши §HСпиритуалистические§! убеждения в конце концов привели нашу цивилизацию в зенит славы и могущества. Прямо сейчас по всей галактике инопланетяне сгруппировываются для изменения и изучения наших путей. Это была наша судьба. Это было предсказано. §H[From.GetName]§! будет в каждом историческом архиве, и инопланетные историки по всей галактике будут изучать наше наследие на протяжении веков.\n\nОднако, с большой силой приходит большая ответственность. Не все пути одинаковы. История будет помнить этот момент, когда мы выберем наш национальный фокус."
  fallen_technologies.1.desc.02:0 "И таким образом родилась вознесённая империя.\n\nС того дня, когда предки §H[From.GetHomeWorldName]§! впервые стали пристально смотреть на звезды, наш великий вид достиг невероятных успехов в технологии, и с тех пор мы превратились в процветающую звёздную империю, намного превосходящую наши первоначальные надежды. Несмотря на постоянную борьбу за наше выживание, наше §HМатериалистическое§! общество в конце концов привело нашу цивилизацию в зенит славы и могущества. Прямо сейчас по всей галактике, инопланетян очаровывают наши игрушки и изобретения, и ещё никогда не было настолько великого периода для §H[From.GetSpeciesNamePlural]§!. Это была наша судьба. §H[From.GetName]§! будет в каждом историческом архиве, и инопланетные историки по всей галактике будут изучать наше наследие на протяжении веков.\n\nОднако, с большой силой приходит большая ответственность. Не все пути одинаковы. История будет помнить этот момент, когда мы выберем наш национальный фокус."
@@ -721,7 +729,7 @@
  fallen_technologies.1.desc.09:0 "И таким образом родилась вознесённая империя.\n\nС того дня, когда предки §H[From.GetHomeWorldName]§! впервые стали пристально смотреть на звезды, наш великий вид достиг невероятных успехов в технологии, и с тех пор мы превратились в процветающую звёздную империю, намного превосходящую наши первоначальные надежды. Несмотря на постоянную борьбу за наше выживание, коллективный разум в конце концов привел нашу цивилизацию в зенит славы и могущества. Прямо сейчас по всей галактике инопланетяне не уверены что делать с этим. Это была наша судьба. §H[From.GetName]§! будет в каждом историческом архиве, и инопланетные историки по всей галактике будут изучать наше наследие на протяжении веков.\n\nОднако, с большой силой приходит большая ответственность. Не все пути одинаковы. История будет помнить этот момент, когда мы выберем наш национальный фокус."
  fallen_technologies.1.desc.10:0 "И таким образом родилась вознесённая империя.\n\nС того дня, когда предки §H[From.GetHomeWorldName]§! первый раз построили свои примитивные механические игрушки, мы сделали невероятные успехи в технологии, и с тех пор мы превратились в процветающую звёздную империю, намного превосходящую наши первоначальные надежды. Несмотря на постоянную борьбу за наше выживание, наш машинный разум в конце концов привел нашу цивилизацию в зенит славы и могущества. Прямо сейчас по всей галактике инопланетяне не уверены что делать с этим. Это была наша судьба. §H[From.GetName]§! будет в каждом историческом архиве, и инопланетные историки по всей галактике будут изучать наше наследие на протяжении веков.\n\nОднако, с большой силой приходит большая ответственность. Не все пути одинаковы. История будет помнить этот момент, когда мы выберем наш национальный фокус."
  fallen_technologies.1.desc.11:0 "Исходная империя вернулась!\n\nС того дня, как наши предшественники прибыли на §H[From.GetHomeWorldName]§!, мы совершили невероятные технологические открытия, восстановив наши утерянные знания космических полетов и воссоздав межзвездную империю. Несмотря на то, что мы были близки к исчезновению, Исходные в конечном итоге вернулись к Зениту цивилизации. Прямо сейчас по всей галактике инопланетяне не уверены что делать с этим, ведь большинство из них ничего не знают об Исходной империи. Наверняка это была наша судьба. §H[From.GetName]§! ещё раз появится в каждом историческом архиве, и мы построим ещё один галактический империум, который проживёт 10000 лет.\n\nОднако наши древние враги всё ещё могут существовать, и новости о нашем возвращении не останутся незамеченными. Если бы мы не хотим не повторить нашу трагическую историю, мы должны немедленно укрепить нашу оборону."
- 
+
  fallen_technologies.1.a:0 "Наше время пришло."
  fallen_technologies.1.b:0 "Мошенничество?"
  fallen_technologies.1.c:0 "Очистить галактику!"
@@ -731,7 +739,7 @@
   fallen_technologies.1.g:0 "Мы вернём своё место в галактике!"
  fallen_technologies_chain_title:0 "Зенит угасших империй"
  fallen_technologies_chain_desc:0 "На пике своего могущества падшие империи были хозяевами галактики, и всё было в пределах досягаемости, всё было возможно.\n\nНо путь к величию не всегда линеен, и иногда приходится делать выбор и жертвовать. Теперь наша очередь выбирать.\n\nПриведенные ниже пути могут быть пройдены в любом порядке, каждый ведет к своей собственной ветви технологий, функциям и последствиям. Если активен неподдерживаемый мод, полезно помнить, что соответствующий путь не требуется."
- 
+
  fallen_technologies_1:0 "Автоматизация индустрии"
  fallen_technologies_1_DESC:0 "Используя продвинутую форму манипуляции с темной материей, технологическое мастерство предтеч позволило целым отраслям промышленности работать автономно, освободив население, позволяя прожить остаток своей жизни занимаясь самоопределением и гедонизмом.\n\nЕсли мы посвятим себя изучению того, каким образом они манипулируют тёмной материей, мы сможем воспроизвести и перестроить эти технологические чудеса для эффективной экономики."
  fallen_technologies_2:0 "Социальное вознесение"
@@ -744,16 +752,16 @@
  fallen_technologies_5_DESC:0 "У нас должны быть галактические амбиции, соответствующие нашему статусу и мощи, которые распространяют наше влияние на все края галактики. Новые указы и кампании также обеспечат дальнейшее процветание и стабильность нашей империи.\n\nЕсли мы имеем возможность, но еще не открыли §HКолосс§!, этот проект даст нам эквивалентный эффект."
  fallen_technologies_6:0 "Инженерное превосходство"
  fallen_technologies_6_DESC:0 "Совершенства можно добиться, если совершенны будут наши инженерные навыки. Это позволит нам строить масштабные проекты, которые являются настоящими чудесами Вселенной.\n\nЕсли мы имеем возможность, но еще не открыли §HГалактические чудеса§!, этот проект даст нам эквивалентный эффект."
- 
- 
+
+
  fallen_technologies.101.name:0 "Создана автоматизированная промышленность!"
  fallen_technologies.101.desc:0 "Мы освоили продвинутую форму манипуляции тёмной материей. Хотя полевые испытания всё ещё продолжаются, наши ученые стремятся применить то, что мы узнали, для создания нового поколения автоматизированных производств. Экономические выгоды для §H[Root.GetName]§! могут быть огромными."
  fallen_technologies.101.a:0 "Великолепно!"
- 
+
  fallen_technologies.102.name:0 "Социальное вознесение завершено!"
  fallen_technologies.102.desc:0 "Наше заявление о преобразовании нашего общества было встречено населением с большим энтузиазмом. Государство еще раз доказало свою приверженность своим гражданам, инвестируя в гражданские структуры на благо всех. Нам следует подумать о строительстве новых зданий, чтобы наполнить наших граждан чувством националистической гордости."
  fallen_technologies.102.a:0 "Что мы должны построить следующим?"
- 
+
  fallen_technologies.103.name:0 "Дизайны предтеч получены!"
  fallen_technologies.103.desc:0 "После многих лет исследований и шпионажа мы наконец получили полные проекты и чертежи кораблей и городов предтеч. Наши архитекторы и проектировщики с тех пор работают день и ночь, внося соответствующие коррективы в эти проекты. В ожидании одобрения §H[Root.GetRulerTitle] [Root.GetRulerName]§!, мы готовы дать впечатляющий облик каждому городу нашей империи, а также любым новым кораблям, строящимся в настоящее время на наших верфях."
  fallen_technologies.103.a:0 "Дизайн спиритуалистов идеально подходит для нас."
@@ -776,27 +784,27 @@
  fallen_technologies.103.x:0 "Не слишком ли поздно для редизайна?"
  fallen_technologies.103.z:0 "Что не так с нашими прошлыми дизайнами?"
  fe_ships_graphical_bugs:0 "§RВнимание§! Выбирайте только если ваши турели §Yневидимы§!.\n\n"
- 
+
  fallen_technologies.104.name:0 "Технологическое совершенство достигнуто!"
  fallen_technologies.104.desc:0 "Наше технологическое превосходство открывает новые возможности от вычислений до преобразования материи. Наши ученые также утверждают, что, возможно, теперь мы сможем синтезировать редкие и стратегические ресурсы, что имеет большое значение для нашей нынешней экономической модели."
  fallen_technologies.104.a:0 "Что мы можем синтезировать?"
- 
+
  fallen_technologies.105.name:0 "Галактические амбиции завершены!"
  fallen_technologies.105.desc:0 "Мы разработали новые инструменты и организационные структуры в нашем правительстве для расширения нашего влияния в галактике. С этой целью мы разработали амбиции единства §YПротоколы наказания§! для не особо важных империй, нуждающихся в демонстрации силы."
  fallen_technologies.105.a:0 "Кого мы должны наказать?"
- 
+
  fallen_technologies.106.name:0 "Инженерное совершенство достигнуто!"
  fallen_technologies.106.desc:0 "Благодаря совершенствованию наших инженерных навыков все технические проблемы навсегда устранены, поскольку мы создаем совершенные конструкции, которые выдерживают испытание временем. Да сохранится наше наследие в грядущих тысячелетиях."
  fallen_technologies.106.a:0 "Великолепно!"
- 
+
  fallen_technologies.1000.name:0 "Вознесение завершено!"
  fallen_technologies.1000.desc:0 "Вознесение §H[Root.GetName]§! больше не может быть отложено. Это начало новой эры - нашей эры.\n\nОднако с большой силой приходит большая ответственность. Галактическое господство должно означать что-то, и, достигнув зенита цивилизации, мы должны посвятить себя делу с полным фанатизмом. Только тогда нас будут помнить в архиве истории на долгие эоны."
  fallen_technologies.1000.desc.02:0 "Вознесение §H[Root.GetName]§! больше не может быть отложено. Как новая §YГалактическая сверхдержава§!, наша национальная безопасность является высшим приоритетом. В дополнение к наличию значительного постоянного флота - и мы стремимся к тому, чтобы иметь самый большой - мы должны быть готовы отправить наши военные корабли на самый край галактики, если возникнет такая необходимость и всякий раз, когда нашим интересам угрожают. Галактика должна запомнить военную мощь §H[Root.GetSpeciesAdj]§! на века. Это начало новой эры - нашей эры.\n\nОднако с большой силой приходит большая ответственность. Галактическое господство должно означать что-то, и, достигнув зенита цивилизации, мы должны посвятить себя делу с полным фанатизмом. Только тогда нас будут помнить в архиве истории на долгие эоны."
  fallen_technologies.1000.desc.03:0 "Вознесение §H[Root.GetName]§! больше не может быть отложено. Как новый §YМаяк процветания§!, наш экономический рост является нашим высшим приоритетом. Помимо обеспечения наивысшего уровня жизни наших граждан, наши интересы заключаются в стабильности и процветании нашего региона. Галактика узнает о новом, процветающем веке - веке §H[Root.GetSpeciesAdj]§!. Это начало новой эры - нашей эры.\n\nОднако с большой силой приходит большая ответственность. Галактическое господство должно означать что-то, и, достигнув зенита цивилизации, мы должны посвятить себя делу с полным фанатизмом. Только тогда нас будут помнить в архиве истории на долгие эоны."
- fallen_technologies.1000.desc.04:0 "Вознесение §H[Root.GetName]§! больше не может быть отложено. Как новый §YИндустриальный гигант§!, наши промышленные мощности и объем производства легендарны и не имеют себе равных. Обладая самыми современными производственными мощностями, мы скоро станем фабрикой галактики. Это начало новой эры - нашей эры.\n\nОднако с большой силой приходит большая ответственность. Галактическое господство должно означать что-то, и, достигнув зенита цивилизации, мы должны посвятить себя делу с полным фанатизмом. Только тогда нас будут помнить в архиве истории на долгие эоны." 
+ fallen_technologies.1000.desc.04:0 "Вознесение §H[Root.GetName]§! больше не может быть отложено. Как новый §YИндустриальный гигант§!, наши промышленные мощности и объем производства легендарны и не имеют себе равных. Обладая самыми современными производственными мощностями, мы скоро станем фабрикой галактики. Это начало новой эры - нашей эры.\n\nОднако с большой силой приходит большая ответственность. Галактическое господство должно означать что-то, и, достигнув зенита цивилизации, мы должны посвятить себя делу с полным фанатизмом. Только тогда нас будут помнить в архиве истории на долгие эоны."
  fallen_technologies.1000.desc.05:0 "Вознесение §H[Root.GetName]§! больше не может быть отложено. Как новые §YАрхитекторы галактики§!, построение прочного наследия - наш высший приоритет. В дополнение к крупным инвестициям в инфраструктуру и строительство мы стремимся строить самые многочисленные и великолепные сооружения в галактике, оставляя наследие для всех, чтобы увидеть и насладиться видом. Галактика должна запомнить инженеров §H[Root.GetSpeciesAdj]§! как величайших из когда-либо живших. Это начало новой эры - нашей эры.\n\nОднако с большой силой приходит большая ответственность. Галактическое господство должно означать что-то, и, достигнув зенита цивилизации, мы должны посвятить себя делу с полным фанатизмом. Только тогда нас будут помнить в архиве истории на долгие эоны."
  fallen_technologies.1000.desc.06:0 "Вознесение §H[Root.GetName]§! больше не может быть отложено. Как новые §YТехнологические мастера§!, наше стремление к знаниям остается неутолимым, мы вкладываем значительные средства в науку для развития нашего общества. Галактика должна знать об учёных §H[Root.GetSpeciesAdj]§! как о лучших, что когда-либо существовали. Это начало новой эры - нашей эры.\n\nОднако с большой силой приходит большая ответственность. Галактическое господство должно означать что-то, и, достигнув зенита цивилизации, мы должны посвятить себя делу с полным фанатизмом. Только тогда нас будут помнить в архиве истории на долгие эоны."
-  
+
  fallen_technologies.1000.a:0 "Принять ценности §Hспиритуализма§!"
  fallen_technologies.1000.b:0 "Принять ценности §Hматериализма§!"
  fallen_technologies.1000.c:0 "Принять ценности §Hксенофилии§!"
@@ -819,10 +827,10 @@
  #fallen_technologies.100.desc.10:0 "The ascension of the §H[Root.GetName]§! can no longer be denied. As a §YUtopian Union§!, the expansion of democracy is our highest priority. Our goal is to create a true Utopia by spreading our union across the entire galaxy, uniting all species under §H[Root.GetSpeciesAdj]§! leadership. The galaxy shall remember the §H[Root.GetName]§! as the first civilization to truly succeed in their noble quest to erase all borders and heal division in our galaxy.\n\nUnfortunately, our ships and cities still take the same appearance as the first day we achieved spaceflight, which no longer reflect an empire of our current stature. Common consensus among the empire is that we need something new. We recruited some artists to submit several designs but none of them were any good. Or perhaps we need something old? While the submitted designs could make us the laughing stock of the galaxy, maybe some designs borrowed from our precursor neighbours would both serve to intimidate our enemies and deter future invasions."
  #fallen_technologies.100.desc.11:0 "The ascension of the §H[Root.GetName]§! can no longer be denied. As the §YOriginal People§!, the restoration of our once great civilization is our highest priority. Our goal is to create a true Utopia by spreading our union across the entire galaxy, uniting all species under §H[Root.GetSpeciesAdj]§! leadership. The galaxy shall remember the §H[Root.GetName]§! as the Original Empire - a proud nation - once more.\n\nUnfortunately, our ships and cities still take the same appearance as the first day we achieved spaceflight, which no longer reflect an empire of our current stature. Common consensus among the empire is that we need something new. We recruited some artists to submit several designs but none of them were any good. Or perhaps we need something old? While none of the ships designs of our original civilization survived, parts of them nevertheless survived since our precursor neighbours kindly perserved it in their warships - albeit with alterations. Having our old designs again would certainly serve to intimidate our enemies and deter future invasions."
  #fallen_technologies.100.desc.x:0 "The ascension of the §H[Root.GetName]§! can no longer be denied.\n\nUnfortunately, our ships and cities still take the same appearance as the first day we achieved spaceflight, which no longer reflect an empire of our current stature. Common consensus among the empire is that we need something new. We recruited some artists to submit several designs but none of them were any good. Or perhaps we need something old? While the submitted designs could make us the laughing stock of the galaxy, maybe some designs borrowed from our precursor neighbours would both serve to intimidate our enemies and deter future invasions."
- 
- 
- 
- 
+
+
+
+
  fallen_technologies.2.name:0 "Новая вознесённая империя"
  fallen_technologies.2.desc:0 "§H[From.GetName]§! стала вознесённой империей - вошла в зенит галактической цивилизации. Их технологические достижения удивительны, и их сбалансированные убеждения выдержали испытание временем. Прямо сейчас по всей галактике инопланетяне сгруппировываются для изучения их образа жизни. Однако, с большой силой приходит большая ответственность. Как это изменит нашу галактику?"
  fallen_technologies.2.desc.a:0 "§H[From.GetName]§! стала вознесённой империей - вошла в зенит галактической цивилизации. Их технологические достижения удивительны, и их §Hспиритуалистические§! убеждения выдержали испытание временем. Прямо сейчас по всей галактике инопланетяне сгруппировываются для изучения их образа жизни. Однако, с большой силой приходит большая ответственность. Как это изменит нашу галактику?"
@@ -842,18 +850,18 @@
  fallen_technologies.2.desc.kb:0 "§H[From.GetName]§! стала вознесённой империей - вошла в зенит галактической цивилизации. Их технологические достижения удивительны, и их §Hмашинный разум§! выдержал испытание временем. Прямо сейчас по всей галактике инопланетяне ещё не до конца уверены, что делать с этим явлением. Однако, с большой силой приходит большая ответственность. Распространились слухи об их намерении держать все органические формы жизни в каком-то раю, чтобы они могли жить счастливыми, ничтожными жизнями. Как это изменит нашу галактику?"
  fallen_technologies.2.desc.kc:0 "§H[From.GetName]§! стала вознесённой империей - вошла в зенит галактической цивилизации. Их технологические достижения удивительны, и их §Hмашинный разум§! выдержал испытание временем. Прямо сейчас по всей галактике инопланетяне ещё не до конца уверены, что делать с этим явлением. Однако, с большой силой приходит большая ответственность. Распространились слухи об их намерении ассимилировать все органические формы жизни в какие-то механические тела. Как это изменит нашу галактику?"
  fallen_technologies.2.desc.kd:0 "§H[From.GetName]§! стала вознесённой империей - вошла в зенит галактической цивилизации. Их технологические достижения удивительны, и их §Hмашинный разум§! выдержал испытание временем. Прямо сейчас по всей галактике инопланетяне ещё не до конца уверены, что делать с этим явлением. Однако, с большой силой приходит большая ответственность. Распространились слухи об их намерение очистить галактику от всех органических форм жизни. Как это изменит нашу галактику?"
- 
+
  fallen_technologies.2.a:0 "Что это значит для нас?"
- 
+
  fallen_technologies.3.name:0 "Внешний вид старых звёздных баз"
  fallen_technologies.3.desc:0 "К сожалению, некоторые из наших старых звёздных баз всё ещё имеют примитивный дизайн, который действительно плохо отражается на нашем нынешнем статусе вознесённой империи. Однако значительные изменения в конструкции могут нарушить повседневную работу на наших звездных базах."
  fallen_technologies.3.a:0 "Меняйте."
  fallen_technologies.3.b:0 "Нет, оставьте текущие версии!"
- 
+
  SPACEPORT_RECONSTRUCTION_PROJECT:0 "Редизайн звёздных баз"
  SPACEPORT_RECONSTRUCTION_PROJECT_DESC:0 "Из-за необходимости в значительных изменениях в компоновке нашего нового дизайна, все здания и модули звёздных баз должны быть переустановлены после завершения проекта. Кроме того, добывающие станции могут быть списаны, чтобы обеспечить необходимые ресурсы для обновлений.\n\n§YЭтот масштабный проект будет прерван во время войны, чтобы защитить наших рабочих.§!"
- 
- 
+
+
  fallen_technologies.40.name:0 "Сообщение от §H[NoobEmpire.GetName]§!"
  fallen_technologies.40.desc:0 "Мы следуем духовным учениям §H[AscendedEmpireOverlord.GetName]§!. Мы присоединимся к вашим поискам."
  fallen_technologies.40.desc.b:0 "Мы верим, что §H[AscendedEmpireOverlord.GetName]§! станет прекрасным хранителем знаний. Мы поможем вам в ваших поисках."
@@ -867,7 +875,7 @@
  fallen_technologies.40.desc.i:0 "Позвольте нам служить вам. Пожалуйста, не нападайте на нас!"
  fallen_technologies.40.desc.j:0 "Возможно, в галактике будет достаточно места для нас обоих?"
  fallen_technologies.40.desc.k:0 "Вы сумасшедшие машины. §H[NoobEmpire.GetName]§! больше не будет следовать этому пути безумия."
- 
+
  fallen_technologies.40.a:0 "§H[NoobEmpire.GetName]§! будет прекрасным  §HДоминионом§!."
  fallen_technologies.40.b:0 "§H[NoobEmpire.GetName]§! будет служить нам прекрасным §HСателлитом§!."
  fallen_technologies.40.c:0 "§H[NoobEmpire.GetName]§! теперь §HУчастники§!."
@@ -880,7 +888,7 @@
  fallen_technologies.40.i:0 "§H[NoobEmpire.GetName]§! будет прекрасной §HСатрапией§!."
  fallen_technologies.40.j:0 "Конечно. §H[NoobEmpire.GetName]§! будет прекрасным §HСимбионтом§!."
  fallen_technologies.40.k:0 "Несоответствие не допускается."
- 
+
  fallen_technologies.6.name:0 "Особые эффекты подданого"
  fallen_technologies.6.desc:0 "Являясь фанатичными роботатехниками, мы должны обеспечить то, чтобы §H[NoobEmpire.GetName]§! уважали права своих ИИ граждан."
  fallen_technologies.6.desc.ed:0 "Являясь вдохновляющими военачальниками, §H[NoobEmpire.GetName]§! будет получать бонусы своим вооруженным силам."
@@ -890,7 +898,7 @@
  fallen_technologies.6.desc.hd:0 "§H[NoobEmpire.GetName]§! была демократизирована. В соответствии с нашими идеалами истинного Союзного государства, должна быть обеспечена политика открытых границ."
  fallen_technologies.6.desc.i:0 "§H[NoobEmpire.GetName]§! была покорена. В дополнение к их налогам, их размер флота будет уменьшен."
  fallen_technologies.6.desc.j:0 "§H[NoobEmpire.GetName]§! была покорена. Мы расширим их промышленность, чтобы они быстрее строили роботов."
- 
+
  fallen_technologies.6.bd:0 "Договорились."
  fallen_technologies.6.ed:0 "Они будут сражаться, как настоящие воины."
  fallen_technologies.6.f:0 "Они недостаточно ответственны, чтобы сохранить свой флот."
@@ -899,6 +907,5 @@
  fallen_technologies.6.hd:0 "Договорились."
  fallen_technologies.6.i:0 "Отлично."
  fallen_technologies.6.j:0 "Подтвержаю."
- 
- 
- 
+
+

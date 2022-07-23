@@ -1,0 +1,27 @@
+﻿l_russian:
+                                #   "12345678 9ABCDEFH"
+  #######################
+  ## ELVEN3 - MOON ELF ##
+  #######################
+
+  EOS_NAMELIST_ELVEN3_FLEET_ORD: "$O$ Caemesh Lýn"
+
+  EOS_NAMELIST_ELVEN3_ARMY_MACHINE_DEFENSE_ORD:   "$O$ Mai'rén Daireldén"
+  EOS_NAMELIST_ELVEN3_ARMY_MACHINE_ASSUALT1_ORD:  "$O$ Shaíth Mai'rén"
+  EOS_NAMELIST_ELVEN3_ARMY_MACHINE_ASSUALT2_ORD:  "$O$ Shaíth Mai'rén"
+  EOS_NAMELIST_ELVEN3_ARMY_MACHINE_ASSUALT3_ORD:  "$O$ Shaíth Mai'rén"
+  EOS_NAMELIST_ELVEN3_ARMY_DEFENSE_ORD:           "$O$ Mai'rén Laên"
+  EOS_NAMELIST_ELVEN3_ARMY_ASSAULT_ORD:           "$O$ Mai'rén Renáe"
+  EOS_NAMELIST_ELVEN3_ARMY_SLAVE_ORD:             "$O$ Camnaéth'aes Qui'rén"
+  EOS_NAMELIST_ELVEN3_ARMY_CLONE_ORD:             "$O$ Rah'thul Mai'rén"
+  EOS_NAMELIST_ELVEN3_ARMY_UNDEAD_ORD:            "$O$ Arcenám Mai'rén"
+  EOS_NAMELIST_ELVEN3_ARMY_ROBOTIC_ORD:           "$O$ Veth Mai'rén"
+  EOS_NAMELIST_ELVEN3_ARMY_ROBOTIC_DEFENSE_ORD:   "$O$ Mai'rén Dairelden"
+  EOS_NAMELIST_ELVEN3_ARMY_PSIONIC_ORD:           "$O$ Mai'ren Arcaén"
+  EOS_NAMELIST_ELVEN3_ARMY_XENO_ORD:              "$O$ Sathas Qui'rén"
+  EOS_NAMELIST_ELVEN3_ARMY_GENE_ORD:              "$O$ Mai'rén Sylênn"
+  EOS_NAMELIST_ELVEN3_ARMY_OCCUPATION_ORD:        "$O$ Saemirán Mai'ren"
+  EOS_NAMELIST_ELVEN3_ARMY_ROBOT_OCCUPATION_ORD:  "$O$ Mai'rén Daireldén"
+  EOS_NAMELIST_ELVEN3_ARMY_PRIMITIVE_ORD:         "Qui'rén Channemén $O$"
+  EOS_NAMELIST_ELVEN3_ARMY_INDUSTRIAL_ORD:        "Qui'rén Arcirán $O$"
+  EOS_NAMELIST_ELVEN3_ARMY_POSTATOMIC_ORD:        "Qui'rén Nanderán $O$"

@@ -1,0 +1,3 @@
+﻿l_russian:
+ format.mec_en_asr.1:1 "[This.GetSpeciesName] <mec_en_asr>"
+ format.mec_en_asr_sub.1:1 "<mec_en_asr_sub> [This.Capital.GetName]"

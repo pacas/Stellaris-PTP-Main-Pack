@@ -65,6 +65,7 @@ shipclass_mining_station_build_cost_mult:0 "Стоимость строител�
 shipclass_research_station_build_cost_mult:0 "Стоимость строительства исследовательских станций"
 mod_station_gatherers_minerals_cost_mult:0 "Стоимость добывающей станции"
 mod_station_researchers_minerals_cost_mult:0 "Стоимость исследовательской станции"
+mod_station_researchers_minerals_cost_add:1 "Стоимость исследовательской станции"
 mod_shipclass_mining_station_hull_mult:0 "Прочность обшивки добывающей станции"
 mod_shipclass_research_station_hull_mult:0 "Прочность обшивки исследовательской станции"
 mod_shipsize_mining_station_build_cost_mult:0 "Стоимость строительства добывающей станции"
@@ -415,6 +416,11 @@ mod_planet_farmers_society_research_produces_add: "£society_research£ $society
 
 # other
 planet_duelists:0 "Дуэлянты"
+mod_job_criminal_per_pop: "§G+1§! $job_criminal$ за $VALUE$ поселений"
+mod_planet_farmers_minerals_produces_add: "£job_farmer£ §Y$job_farmer_plural$§! теперь также производят §Yминералы§! £minerals£"
+mod_planet_jobs_specialist_unity_produces_add: "$SPECIALISTS$ теперь также производят §Y$unity$§! £unity£"
+mod_planet_jobs_ruler_influence_produces_add: "$RULERS$ теперь также производят §Y$influence$§! £influence£"
+mod_planet_researchers_unity_produces_add: "£job_researcher£ §Y$job_researcher_plural$§! теперь также производят §Yединство§! £unity£"
 
 # ---------------Empire---------------------
 
@@ -480,5 +486,7 @@ mod_country_resource_max_food_add:0 "Вместимость хранилища �
 mod_country_resource_max_alloys_add:0 "Вместимость хранилища £alloys£ сплавов"
 mod_country_resource_max_influence_add:0 "Вместимость хранилища £influence£ влияния"
 
-# ------------------------------------------
+# traits
+mod_ROBOT_species_trait_picks_add:1 "$SPECIES_TRAIT_PICKS$ для машин"
 
+# ------------------------------------------

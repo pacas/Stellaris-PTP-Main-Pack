@@ -107,6 +107,18 @@ EMPIRE_DESIGN_lunariciv_desc:0 "Ничто так не смущает ксено
 elven_system_lunari_initializer_NAME:0 "Беззвёздные царства"
 elven_system_lunari_initializer_DESC:0 "Холодная двойная система черной дыры. Единственный источник света - странная близлежащая луна.\n\n$system_initializer_DESC$"
 
+ELVEN_lunari_empire_adjective: "Сребролун"
+ELVEN_lunari_species_name: "Наэрелин"
+ELVEN_lunari_species_plural: "Наэрелин"
+ELVEN_lunari_species_adjective: "Наэрелин"
+ELVEN_lunari_ruler_title: "Высший жрец"
+ELVEN_lunari_ruler_title_female: "Высшая жрица"
+ELVEN_lunari_heir_title: "Жрец"
+ELVEN_lunari_heir_title_female: "Жрица"
+ELVEN_lunari_ruler_name: "Гвендолин"
+ELVEN_lunari_homeworld_name: "Сейлин"
+ELVEN_lunari_home_system_name: "Беззвёздные царства"
+
 ####################################
 # Origin
 ####################################
@@ -231,3 +243,42 @@ job_elven_malevolent_grove_researcher_hive_effect_desc:0 "£job_elven_malevolent
 mod_job_elven_malevolent_grove_researcher_hive_add:0 "$job_elven_malevolent_grove_researcher_hive$"
 mod_job_elven_malevolent_grove_researcher_hive_per_pop:0 "§G+1§! $job_elven_malevolent_grove_researcher_hive$ за $VALUE$ поселений"
 mod_job_elven_malevolent_grove_researcher_hive_per_pop_short:0 "\n§G+1§! £mod_job_elven_malevolent_grove_researcher_hive_add£ за $VALUE$ £pop£"
+
+#####################
+### FACTION NAMES ###
+#####################
+
+format.pop_faction.totalitarian.lunari:       "<lunari_totalitarian_names>"
+format.pop_faction.imperialist.lunari:        "<lunari_imperialist_names>"
+format.pop_faction.traditionalist.lunari:     "<lunari_spiritualist_names>"
+format.pop_faction.technologist.lunari:       "<lunari_technologist_names>"
+format.pop_faction.prosperity.lunari:         "<lunari_prosperity_names>"
+format.pop_faction.supremacist.lunari:        "[This.Owner.GetSpeciesName] <lunari_supremacist_names>"
+format.pop_faction.xenoist.lunari:            "<lunari_xenoist_names>"
+format.pop_faction.isolationist.lunari:       "<lunari_isolationist_names>"
+format.pop_faction.progressive.lunari:        "<lunari_progressive_names>"
+
+EOS_FACTION_INNER_CIRCLE:                     "Внутренний круг"
+EOS_FACTION_SILVER_CONCLAV:                   "Серебряный конклав"
+EOS_FACTION_SILVER_COUNCIL:                   "Серебряный совет"
+EOS_FACTION_CONCLAVE_NTERNAL_ORDER:           "Конклав внутреннего порядка"
+EOS_FACTION_LUNAR_SUPREME_COURT:              "Лунный Верховный суд"
+EOS_FACTION_SILVER_GUARD:                     "Серебряная гвардия"
+EOS_FACTION_CHURCH_MOON:                      "Церковь Луны"
+EOS_FACTION_SILVER_ACADEMY:                   "Серебряная академия"
+EOS_FACTION_INSTITUTE_APPLIED_SCIENCE:        "Институт прикладных наук"
+EOS_FACTION_ACADEMY_ADVANCED_STUDIES:         "Академия перспективных исследований"
+EOS_FACTION_SCIENCE_TECHNOLOGY_INSTITUTE:     "Научно-технический институт"
+EOS_FACTION_NATIONAL_STABILITY_ASSOCIATION:   "Национальная ассоциация стабильности"
+EOS_FACTION_LUNAR_TRADE_NETWORK:              "Лунная торговая сеть"
+EOS_FACTION_LUNAR_INVESTMENT_BANK:            "Лунный инвестиционный банк"
+EOS_FACTION_ASCENSION_MOVEMENT:               "Движение Вознесения"
+EOS_FACTION_PURITY_MOVEMENT:                  "Движение за чистоту"
+EOS_FACTION_LUNAR_XENO_AGENCY:                "Лунное агентство инопланетян"
+EOS_FACTION_STELLAR_DIPLOMACY_ASSOCIATION:    "Ассоциация звездной дипломатии"
+EOS_FACTION_CLOSED_BORDERS_INITIATIVE:        "Инициатива «Закрытые границы»"
+EOS_FACTION_NEUTRALITY_BALANCE_MOVEMENT:      "Движение нейтральности и равновесия"
+EOS_FACTION_FREE_THOUGHT_MOVEMENT:            "Движение за свободу слова"
+EOS_FACTION_SELF_DETERMINISM_MOVEMENT:        "Движение за самоопределение"
+EOS_FACTION_TRUE_DEMOCRACY_MOVEMENT:          "Движение за истинную демократию"
+EOS_FACTION_INDIVIDUAL_CHOICE_MOVEMENT:       "Движение за индивидуальный выбор"

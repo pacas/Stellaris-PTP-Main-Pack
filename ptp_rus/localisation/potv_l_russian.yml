@@ -24,6 +24,14 @@
   ethic_any_religion: "Свободная религия"
   ethic_any_religion_desc: "Признание и уважение любых религий или же их отсутствия."
 
+  ethic_no_religion_missionaries: "Иррелигиозный прозелитизм [YOU SHOULD NOT SEE THIS]"
+  ethic_atheism_missionaries: "Атеистичный прозелитизм"
+  ethic_agnosticism_missionaries: "Агностический прозелитизм"
+  ethic_deism_missionaries: "Миссионеры монотеизма"
+  ethic_polytheism_missionaries: "Миссионеры политеизма"
+  ethic_animatism_missionaries: "Миссионеры анимализма"
+  ethic_animism_missionaries: "Миссионеры анимизма"
+
   job_ethic_no_religion_preacher: "Проповедник отсутствия религии"
   job_ethic_no_religion_preacher_plural: "Проповедники отсутствия религии"
   job_ethic_no_religion_preacher_desc: ""
@@ -59,7 +67,7 @@
   mod_pop_ethic_animatism_attraction_mult: "Привлекательность аниматизма"
   mod_pop_ethic_any_religion_attraction_mult: "Привлекательность свободной религии"
 
-  war_goal_wg_stop_dogmatics: "Сокрушители душ"
+  war_goal_wg_stop_dogmatics: "Сокрушить души"
   war_goal_wg_stop_dogmatics_desc: "Война ведется для того, чтобы положить конец репрессивному догматизму, присущему режиму противника."
   war_goal_wg_purge_infidels: "Инквизиция"
   war_goal_wg_purge_infidels_desc: "Война ведется для того, чтобы покончить с еретическими практиками противника."
@@ -107,6 +115,13 @@
 
   religion_dialog_back: "Назад"
 
+  establish_faith_council: "Учредить Совет конфессий"
+  bribe_faith_council: "Подкупить совет"
+  change_faith_system: "Изменить систему вероисповедания"
+  aggressive_missionaries: "Агрессивные миссионеры"
+  abandon_faith_path: "Отказаться от текущего пути"
+  close_faith_session: "Завершить заседание"
+
   missionaries.1.need_rival_council:0 "У вас нет соперников с иной религиозной системой и уже созданным советом."
   missionaries.1.a:0 "§Y[missionary_target_1.GetName].§!"
   missionaries.1.b:0 "§Y[missionary_target_2.GetName].§!"
@@ -117,6 +132,7 @@
   decision_religious_diversity_celebration_effects: "Наша империя не против отличающихся мнений, разнообразие - это ключ к прогрессу. Гармония - наш путь.\nЕретики и проповедники ереси производят влияние."
   decision_ban_herecy: "Запретить ересь"
   decision_ban_herecy_effects: "На еретиков развёрнута охота, а проповедники боятся последствий своих кощунственных действий. Мы не потерпим ереси!"
+  herecy_banned: "Ересь запрещена"
 
   building_monolith: "Религиозный монолит"
   building_monolith_desc: "Великий монумент, посвящённый нашей вере и служащий напоминанием народу о тех религиозных ценностях, которыми мы так дорожим в нашем обществе."
@@ -151,6 +167,7 @@
   galactic_tradition_1_tooltip: "§YЭкуменизм§!\nМы должны развивать более тесные отношения и лучшее взаимопонимание между различными религиозными конфессиями, чтобы стремиться к истинному единству веры.\n\nМнение других империй: §G+50§!"
   galactic_tradition_2: "Сокрушители душ"
   galactic_tradition_2_tooltip: "§YСокрушители душ§!\nВысокомерное мнение, основанное лишь на бездоказательных теориях морали и веры, доказывает лишь упрямство. Мы больше не потерпим неизменный и не подвергающийся сомнению комплекс убеждений.\n\nДаёт повод для тотальной войны §YСокрушители душ§!."
+  religion_celebrated: "Праздник веры"
 
   ## dogmatic
   regional_tradition_4: "Государственная религия"

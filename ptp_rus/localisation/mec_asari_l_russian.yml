@@ -8,6 +8,8 @@
  mec_asari_republics:1 "Республики Азари"
  mec_asari_corporate_interests:1 "Корпоративные Интересы Азари"
  mec_asari_ascendancy:1 "Вознесённые Азари"
+ mec_asari_nebula_athena: "Туманность Афины"
+ mec_asari_nebula_crescent: "Туманность Полумесяц"
 
  ####################################
  # Species
@@ -81,7 +83,7 @@
  mec_asari_trait_BIOTIC_EFFECT:0 "Биотические £pop£ поселения производят §G+0.1§! £mec_biotics£ Биотику, которая может быть потрачена на активацию особых §Yуказов§!."
  mec_asari_trait_sophisticated:0 "Сложные потребности"
  mec_asari_trait_sophisticated_desc:0 "§LЭтот вид очень социальный и культурный, его легко ввергнуть в тоску и печаль, если ему отказывают в общении и интеллектуальном стимулировании.§!\n"
- mec_asari_trait_SOPHISTICATED_EFFECT:0 ""
+ mec_asari_trait_SOPHISTICATED_EFFECT:0 "£happiness£ Счастье §R-10%§!/§R-20%§!/§R-30%§! если £amenities£ блага меньше §R0§!/§R-10§!/§R-20§!"
 
  mec_asari_leader_trait_farsighted:0 "Дальновидная"
  mec_asari_leader_trait_farsighted_desc:0 "Этот лидер строит планы на будущее - на десятилетия, столетия, даже поколения вперед."
@@ -107,42 +109,42 @@
  mec_asari_decision_busy:0 "£trigger_no£ Событие уже происходит"
 
  mec_asari_asr.201.name:0 "Новая республика"
- mec_asari_asr.201.desc:0 "Forums across the extranet are abuzz with the news! The local e-democracies of [This.GetName] have voted to form a global assembly to represent the planet's interests in the Ecclessia. While the various local republics will retain their autonomy in regional matters, they must now find common ground and decide what joint agenda the §YRepublic of [This.GetName]§! will bring to the international table..."
+ mec_asari_asr.201.desc:0 "Форумы по всей Экстрасети переполнены новостями! Местные электронные демократии [This.GetName] проголосовали за создание глобальной ассамблеи для представления интересов планеты в Экклесии. Хотя различные местные республики сохранят свою автономию в региональных вопросах, теперь они должны найти общий язык и решить, какую совместную повестку §YРеспулики [This.GetName]§! привнесет на международный уровень дипломатии..."
  mec_asari_asr.201.a:0 "Свобода"
- mec_asari_asr.201.a.tooltip:0 "$job_entertainer$ Jobs: §G+1§!\n§G+1§! $job_entertainer$ Job per §Y40§! Pops\n$mod_pop_ethic_egalitarian_attraction_mult$: §G+20%§!"
+ mec_asari_asr.201.a.tooltip:0 "$job_entertainer$: §G+1§!\n§G+1§! $job_entertainer$ за §Y40§! поселений\n$mod_pop_ethic_egalitarian_attraction_mult$: §G+20%§!"
  mec_asari_asr.201.b:0 "Стабильность"
- mec_asari_asr.201.b.tooltip:0 "$job_bureaucrat$ Jobs: §G+1§!\n§G+1§! $job_bureaucrat$ Job per §Y40§! Pops\n$mod_pop_ethic_authoritarian_attraction_mult$: §G+20%§!"
+ mec_asari_asr.201.b.tooltip:0 "$job_bureaucrat$: §G+1§!\n§G+1§! $job_bureaucrat$ за §Y40§! поселений\n$mod_pop_ethic_authoritarian_attraction_mult$: §G+20%§!"
  mec_asari_asr.201.c:0 "Благосостояние"
- mec_asari_asr.201.c.tooltip:0 "$job_healthcare$ Jobs: §G+1§!\n§G+1§! $job_healthcare$ Job per §Y40§! Pops\n$mod_pop_ethic_xenophile_attraction_mult$: §G+20%§!"
+ mec_asari_asr.201.c.tooltip:0 "$job_healthcare$: §G+1§!\n§G+1§! $job_healthcare$ за §Y40§! поселений\n$mod_pop_ethic_xenophile_attraction_mult$: §G+20%§!"
  mec_asari_asr.201.d:0 "Безопастность"
- mec_asari_asr.201.d.tooltip:0 "$job_enforcer$ Jobs: §G+1§!\n§G+1§! $job_enforcer$ Job per §Y40§! Pops\n$mod_pop_ethic_xenophobe_attraction_mult$: §G+20%§!"
+ mec_asari_asr.201.d.tooltip:0 "$job_enforcer$: §G+1§!\n§G+1§! $job_enforcer$ за §Y40§! поселений\n$mod_pop_ethic_xenophobe_attraction_mult$: §G+20%§!"
  mec_asari_asr.201.e:0 "Процветание"
- mec_asari_asr.201.e.tooltip:0 "$job_artisan$ Jobs: §G+1§!\n§G+1§! $job_artisan$ Job per §Y40§! Pops\n$mod_pop_ethic_pacifist_attraction_mult$: §G+20%§!"
+ mec_asari_asr.201.e.tooltip:0 "$job_artisan$: §G+1§!\n§G+1§! $job_artisan$ за §Y40§! поселений\n$mod_pop_ethic_pacifist_attraction_mult$: §G+20%§!"
  mec_asari_asr.201.f:0 "Индустрия"
- mec_asari_asr.201.f.tooltip:0 "$job_foundry$ Jobs: §G+1§!\n§G+1§! $job_foundry$ Job per §Y40§! Pops\n$mod_pop_ethic_militarist_attraction_mult$: §G+20%§!"
+ mec_asari_asr.201.f.tooltip:0 "$job_foundry$: §G+1§!\n§G+1§! $job_foundry$ за §Y40§! поселений\n$mod_pop_ethic_militarist_attraction_mult$: §G+20%§!"
  mec_asari_asr.201.g:0 "Обучение"
- mec_asari_asr.201.g.tooltip:0 "$job_researcher$ Jobs: §G+1§!\n§G+1§! $job_researcher$ Job per §Y40§! Pops\n$mod_pop_ethic_materialist_attraction_mult$: §G+20%§!"
+ mec_asari_asr.201.g.tooltip:0 "$job_researcher$: §G+1§!\n§G+1§! $job_researcher$ за §Y40§! поселений\n$mod_pop_ethic_materialist_attraction_mult$: §G+20%§!"
  mec_asari_asr.201.h:0 "Культура"
- mec_asari_asr.201.h.tooltip:0 "$job_culture_worker$ Jobs: §G+1§!\n§G+1§! $job_culture_worker$ Job per §Y40§! Pops\n$mod_pop_ethic_spiritualist_attraction_mult$: §G+20%§!"
- mec_asari_asr.201.ha.tooltip:0 "$job_priest$ Jobs: §G+1§!\n§G+1§! $job_priest$ Job per §Y40§! Pops\n$mod_pop_ethic_spiritualist_attraction_mult$: §G+20%§!"
- mec_asari_asr.201.i:0 "£trigger_no£ No consensus"
+ mec_asari_asr.201.h.tooltip:0 "$job_culture_worker$: §G+1§!\n§G+1§! $job_culture_worker$ за §Y40§! поселений\n$mod_pop_ethic_spiritualist_attraction_mult$: §G+20%§!"
+ mec_asari_asr.201.ha.tooltip:0 "$job_priest$: §G+1§!\n§G+1§! $job_priest$ за §Y40§! поселений\n$mod_pop_ethic_spiritualist_attraction_mult$: §G+20%§!"
+ mec_asari_asr.201.i:0 "£trigger_no£ Нет консенсуса"
 
  d_mec_asari_republic_egalitarian:0 "Тессийская республика: Свобода"
- d_mec_asari_republic_egalitarian_desc:0 "This Republic values the freedom and individuality of its citizens above all else. Lax legistlation and freedom of expression have given rise to a thriving entertainment industry."
+ d_mec_asari_republic_egalitarian_desc:0 "Эта Республика ценит свободу и индивидуальность своих граждан превыше всего. Мягкое законодательство и свобода самовыражения привели к процветанию индустрии развлечений."
  d_mec_asari_republic_authoritarian:0 "Тессийская республика: Стабильность"
- d_mec_asari_republic_authoritarian_desc:0 "This Republic is a highly efficient machine driven by a well-designed bureaucratic system that ensures mag-trains always run on time and citizens rarely face inconvenience in their daily lives."
+ d_mec_asari_republic_authoritarian_desc:0 "Эта Республика - высокоэффективная машина, управляемая хорошо продуманной бюрократической системой, благодаря которой поезда всегда ходят вовремя, а граждане редко сталкиваются с неудобствами в своей повседневной жизни."
  d_mec_asari_republic_xenophile:0 "Тессийская республика: Благосостояние"
- d_mec_asari_republic_xenophile_desc:0 "This Republic cultivates a deep reverence for life in all aspects of society. Generous investment in healthcare and xenostudies make the quality of life second to none for native and foreign citizens alike."
+ d_mec_asari_republic_xenophile_desc:0 "Эта республика воспитывает глубокое уважение к жизни во всех сферах жизни общества. Щедрые инвестиции в здравоохранение и ксеноисследования делают качество жизни непревзойденным как для местных, так и для иностранных граждан."
  d_mec_asari_republic_xenophobe:0 "Тессийская республика: Безопасность"
- d_mec_asari_republic_xenophobe_desc:0 "This Republic is a bastion of safety, protecting its citizens from crime, corporate exploitation and other dangers both within and without."
+ d_mec_asari_republic_xenophobe_desc:0 "Эта Республика является оплотом безопасности, защищая своих граждан от преступности, корпоративной эксплуатации и других опасностей как внутри страны, так и за ее пределами."
  d_mec_asari_republic_pacifist:0 "Тессийская республика: Процветание"
- d_mec_asari_republic_pacifist_desc:0 "This Republic was founded on the idea that happiness can indeed be bought. State patronage of local craft guilds and open but ethical trade policies offer the citizens a peaceful life in the lap of luxury."
+ d_mec_asari_republic_pacifist_desc:0 "Эта республика была основана на идее, что счастье можно купить. Государственное покровительство местным ремесленным гильдиям и открытая, но этичная торговая политика обеспечивают гражданам спокойную жизнь в роскоши."
  d_mec_asari_republic_militarist:0 "Тессийская республика: Индустрия"
- d_mec_asari_republic_militarist_desc:0 "This Republic inspires a sense of patriotic zeal in its citizens, centered around the ship-building industry. They take great pride in the navy and those who serve aboard."
+ d_mec_asari_republic_militarist_desc:0 "Эта республика вызывает у своих граждан чувство патриотического рвения, сосредоточенного вокруг судостроительной промышленности. Они гордятся флотом и теми, кто служит там."
  d_mec_asari_republic_materialist:0 "Тессийская республика: Обучение"
- d_mec_asari_republic_materialist_desc:0 "This Republic is renowned for its institutions of learning, many of which regularly produce prominent scholars and scientists."
+ d_mec_asari_republic_materialist_desc:0 "Эта республика славится своими учебными заведениями, многие из которых регулярно выпускают выдающихся ученых и исследователей."
  d_mec_asari_republic_spiritualist:0 "Тессийская республика: Культура"
- d_mec_asari_republic_spiritualist_desc:0 "This Republic is famous for its rich and diverse portfolio of art, literature, philosophy and even some more esoteric disciplines."
+ d_mec_asari_republic_spiritualist_desc:0 "Эта республика славится своим богатым и разнообразным портфолио искусств, литературы, философии и даже некоторых более эзотерических дисциплин."
 
  mec_asari_decision_civic_republic_dissolve:0 "Распустить Тессийскую республику"
  mec_asari_decision_civic_republic_dissolve_desc:0 "Существующая Тессийская республика будет распущена."
@@ -178,31 +180,31 @@
  # Governments
  ####################################
 
- gov_mec_asr:0 "Electronic Democracy"
- gov_mec_asr_desc:0 "This government is a highly decentralized form of democracy where a sophisticated communications network permeating the entire civil infrastructure allows citizens to be directly involved in the matters of countless semi-independent nation-states.\nThe only elected office is that of a liaison representing the e-republics' collective interests on the galactic stage."
- MEC_RT_ASR_M:0 "Liaison"
- MEC_RT_ASR_F:0 "Liaison"
+ gov_mec_asr:0 "Электронная демократия"
+ gov_mec_asr_desc:0 "Это правительство представляет собой крайне децентрализованную форму демократии, где сложная коммуникационная сеть, пронизывающая всю гражданскую инфраструктуру, позволяет гражданам непосредственно участвовать в делах бесчисленных полунезависимых национальных государств.\n Единственная выборная должность - это должность связного, представляющего коллективные интересы электронных республик на галактической арене."
+ MEC_RT_ASR_M:0 "Связной"
+ MEC_RT_ASR_F:0 "Связной"
 
  ####################################
  # Decisions
  ####################################
- mec_biotics:0 "Biotics"
- mec_biotics_desc:0 "§E§H$mec_biotics$§! (£mec_biotics£) represents the abstract sum of biotic assets and research at the empire's disposal. It is collected from Biotic £pop£ §HPops§! and can be spent to activate special §HEdicts§!.§!"
+ mec_biotics:0 "Биотика"
+ mec_biotics_desc:0 "§E§H$mec_biotics$§! (£mec_biotics£) представляет собой абстрактную сумму биотических активов и исследований, имеющихся в распоряжении империи. Она собирается от биотических £pop£ §Hпоселений§! и может быть потрачена для принятия специальных §Hуказов§!.§!"
 
- edict_mec_biotics_edict_armies:0 "Biotics: Empower Military"
- edict_mec_biotics_edict_armies_desc:0 "In combat, biotically-supported units benefit from not only a sheer strength multiplier but also the tactical flexibility provided by easily deployed barriers, precise gravitational anomalies and other forms of mass effect manipulation.\n\n§Y$mec_biotics_desc$§!"
- edict_mec_biotics_edict_research:0 "Biotics: Fund Research"
- edict_mec_biotics_edict_research_desc:0 "Biotics have many practical applications across a wide range of scientific disciplines. Between manipulating gravity, generating containment fields and even more exotic phenomena manifested by test subjects, there are very few avenues of research that cannot benefit from a little biotic touch.\n\n§Y$mec_biotics_desc$§!"
- edict_mec_biotics_edict_upkeep:0 "Biotics: Support Industry"
- edict_mec_biotics_edict_upkeep_desc:0 "While even organic Biotics cannot generate more energy than they consume, the resulting input-output ratio is still far more efficient than any machinery. By substituting biotics for equipment in certain fields of industry, the operating costs can be greatly reduced.\n\n§Y$mec_biotics_desc$§!"
- edict_mec_biotics_edict_sell:0 "Biotics: Sell Biotic Research"
- edict_mec_biotics_edict_sell_desc:0 "Knowledge is power and power has a price that someone somewhere is always willing to pay.\n\n§Y$mec_biotics_desc$§!"
+ edict_mec_biotics_edict_armies:0 "Биотика: Усиление войск"
+ edict_mec_biotics_edict_armies_desc:0 "В бою подразделения с биотической поддержкой выигрывают не только от увеличения силы, но и от тактической гибкости, которую обеспечивают легко устанавливаемые барьеры, точные гравитационные аномалии и другие формы манипуляции эффектом массы.\n\n§Y$mec_biotics_desc$§!"
+ edict_mec_biotics_edict_research:0 "Биотика: Спонсирование исследований"
+ edict_mec_biotics_edict_research_desc:0 "Биотика имеет множество практических применений в широком спектре научных дисциплин. Между манипулированием гравитацией, созданием сдерживающих полей и даже более экзотическими явлениями, проявляющимися у испытуемых, существует очень мало направлений исследований, которые не выиграли бы от небольшого биотического прикосновения.\n\n§Y$mec_biotics_desc$§!"
+ edict_mec_biotics_edict_upkeep:0 "Биотика: Поддержка индустрии"
+ edict_mec_biotics_edict_upkeep_desc:0 "Хотя даже органические биотики не могут вырабатывать больше энергии, чем потребляют, результирующий показатель «затраты-получение» всё равно намного эффективнее любого оборудования. Заменив биотиками оборудование в некоторых областях промышленности, можно значительно снизить эксплуатационные расходы.\n\n§Y$mec_biotics_desc$§!"
+ edict_mec_biotics_edict_sell:0 "Биотика: Продажа биотических исследований"
+ edict_mec_biotics_edict_sell_desc:0 "Знание - сила, а сила имеет цену, которую кто-то где-то всегда готов заплатить.\n\n§Y$mec_biotics_desc$§!"
 
  ####################################
  # Modifiers
  ####################################
  mec_asari_mod_pop_ardatyakshi:0 "Перенаселение Ардат-Якши"
- mec_asari_mod_pop_ardatyakshi_desc:0 "This population contains an abnormally high number of Ardat-Yakshi individuals."
+ mec_asari_mod_pop_ardatyakshi_desc:0 "Эта популяция содержит аномально высокое количество особей Ардат-Якши."
 
  ####################################
  # Opinion Modifiers
@@ -210,4 +212,4 @@
  mec_asari_triggered_opinion_asr_asi_base:0 "Дальние сестры"
  mec_asari_triggered_opinion_asi_asr_base:0 "Дальние сестры"
  mec_asari_triggered_opintion_asc_civic_effect:0 "$mec_asari_civic_ascendancy$"
- mec_asari_triggered_opintion_galactic_good_effect:0 "Sharing Prothean Beacon"
+ mec_asari_triggered_opintion_galactic_good_effect:0 "Совместное использование Протеанского маяка"

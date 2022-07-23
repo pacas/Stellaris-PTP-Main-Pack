@@ -1,7 +1,7 @@
 ﻿l_russian:
 
 ASCENSION_PERKS_NEW:0 "Бонус за стремление"
-PLENTIFUL_TRADITIONS_VERSION:0 "Plentiful Traditions §GV3.4.3§! от §EBirdy§!, §MSI-Abominus§!"
+PLENTIFUL_TRADITIONS_VERSION:0 "Plentiful Traditions §GV3.4§! от §EBirdy§!, §MSI-Abominus§!"
 
 plentiful_traditions_announcement.3.desc:0 "Предыдущая и снятая с поддержки версия Plentiful Traditions доступна в мастерской под названием Plentiful Traditions Old. Она предназначена для версии §RStellaris 1.6§!. Люди, которые охотно играют в §GStellaris 1.8§! и выше, могут игнорировать это сообщение.\n\n§YКОНЕЦ СВЯЗИ§!"
 
@@ -251,8 +251,8 @@ tr_plentiful_biogenesis_adopt:0 "Традиции биогенеза"
 #tr_plentiful_biogenesis_adopt_effect:0 "§Y$mod_category_biology_research_speed_mult$§! увеличится на §G+20%§!"
 
 tr_plentiful_biogenesis_finish:0 "Традиции биогенеза завершены"
-tr_plentiful_biogenesis_finish_effect:0 "§EЭффект от завершения:§! \n§Y$mod_BIOLOGICAL_species_trait_points_add$§!: §G+3§! \n§Y$MOD_COUNTRY_MODIFY_SPECIES_COST_MULT$§! снизится на §G-20%§! \n§YАграрный район§! предоставляет §Y$MOD_PLANET_HOUSING_ADD$§! и места §Hфермерам§!: §G+1§!"
- 
+tr_plentiful_biogenesis_finish_desc:2 "§EЭффект от завершения:§! \n§Y$mod_BIOLOGICAL_species_trait_points_add$§!: §G+3§! \n§Y$MOD_COUNTRY_MODIFY_SPECIES_COST_MULT$§! снизится на §G-20%§! \n§YАграрный район§! предоставляет §Y$MOD_PLANET_HOUSING_ADD$§! и места §Hфермерам§!: §G+1§!"
+
 tr_plentiful_biogenesis_1:0 "Эволюционная конвергенция"
 tr_plentiful_biogenesis_1_desc:0 "§Y$mod_planet_pops_organics_food_upkeep_mult$§! снизится на §G-15%§!\n§Y$mod_planet_livestock_food_produces_add$§! увеличится на §G+3§!"
 tr_plentiful_biogenesis_1_delayed:0 "Специализированное население обладает намного лучшей потребительской эффективностью. Инъекция гормонов ещё никому не повредила."
@@ -274,9 +274,8 @@ tr_plentiful_biogenesis_5_desc:0 "£society §YСоциологические и
 tr_plentiful_biogenesis_5_delayed:0 "Доступность освежающей генной ванны для наших граждан является ключом к совершенству."
 
 # Swaped Biogenesis
-tr_plentiful_biogenesis_finish:0 "Традиции биогенеза завершены"
-tr_plentiful_biogenesis_machine_finish:0 "Традиции биогенеза завершены"
-tr_plentiful_biogenesis_finish_effect:0 "§EЭффект от завершения:§!\n§Y$mod_BIOLOGICAL_species_trait_points_add$§!: §G+1§!\n§Y$mod_ROBOT_species_trait_points_add$§!: §G+3§!\n§Y$mod_MACHINE_species_trait_points_add$§!: §G+3§!\n§Y$MOD_COUNTRY_MODIFY_SPECIES_COST_MULT$§! снизится на §G-20%§!"
+#tr_plentiful_biogenesis_machine_finish:0 "Традиции биогенеза завершены"
+#tr_plentiful_biogenesis_machine_finish_effect:0 "§EЭффект от завершения:§!\n§Y$mod_BIOLOGICAL_species_trait_points_add$§!: §G+1§!\n§Y$mod_ROBOT_species_trait_points_add$§!: §G+3§!\n§Y$mod_MACHINE_species_trait_points_add$§!: §G+3§!\n§Y$MOD_COUNTRY_MODIFY_SPECIES_COST_MULT$§! снизится на §G-20%§!"
 
 tr_plentiful_biogenesis_machine_1:0 "Эволюционная конвергенция"
 tr_plentiful_biogenesis_machine_1_desc:0 "§Y$mod_planet_pop_assemblers_alloys_upkeep_mult$§! снизится на §G-15%§!\n§Y$MOD_PLANET_POP_ASSEMBLY_ADD$§! от £job_replicator£ увеличится на §G+25%§!\n§Y$mod_planet_jobs_organic_battery_energy_produces_add$§!: §G+2§!"
@@ -331,11 +330,11 @@ tr_plentiful_faith_1_desc:0 "§Y$MOD_PLANET_SENSOR_RANGE_ADD$§!: §G+2§!\n§Y$
 tr_plentiful_faith_1_delayed:0 "Подконтрольный ум - сильный ум."
 
 tr_plentiful_faith_2:0 "Пробуждение"
-tr_plentiful_faith_2_desc:0 "§YЛимит указов§!: §G+1§!"
+tr_plentiful_faith_2_desc:0 "£unity §Y$MOD_COUNTRY_EDICT_FUND_ADD$§! увеличится на §G50§!."
 tr_plentiful_faith_2_delayed:0 "Наше пробуждение - это только начало."
 
 tr_plentiful_faith_3:0 "Прощение"
-tr_plentiful_faith_3_desc:0 "£unity §Y$mod_edicts_cost_mult$§! снизится на §G15%§!\n§YСодержание указа§! снизится на §G-15%§!"
+tr_plentiful_faith_3_desc:0 "£unity §Y$mod_edicts_cost_mult$§! и §Y$mod_edicts_upkeep_mult$§! снизятся на §G15%§!"
 tr_plentiful_faith_3_delayed:0 "Живите отпущением грехов и утешайтесь истиной."
 
 tr_plentiful_faith_4:0 "Вложение"
@@ -372,12 +371,12 @@ modifier_plentiful_traditions_piety_desc:1 "£pops Поселения на эт�
 
 tradition_plentiful_order:0 "Порядок"
 tradition_plentiful_order_desc:0 "В отсутствии порядка остаётся только хаос."
-#tr_plentiful_order_adopt:0 "Традиции порядка"
-tr_plentiful_order_adopt_desc:0 "$tr_plentiful_order_adopt_effect$\n\n$tr_plentiful_order_finish_effect$"
-#tr_plentiful_order_adopt_effect:0 "§YПерезарядка экстренного сверхсветового манёвра§! ускорится на §G25%§!\n§Y$MOD_SHIP_SPEED_MULT$§! увеличится на §G+10%§!"
+tr_plentiful_order_adopt:0 "Традиции порядка"
+# tr_plentiful_order_adopt_desc:0 "$tr_plentiful_order_adopt_effect$\n\n$tr_plentiful_order_finish_effect$"
+# tr_plentiful_order_adopt_effect:0 "§YПерезарядка экстренного сверхсветового манёвра§! ускорится на §G25%§!\n§Y$MOD_SHIP_SPEED_MULT$§! увеличится на §G+10%§!"
 
 tr_plentiful_order_finish:0 "Традиции порядка завершены"
-tr_plentiful_order_finish_effect:0 "§EЭффект от завершения:§!\n§Y$mod_megastructures_cost_mult$§! снизится на §G-15%§!\n§Y$MOD_COUNTRY_GOVERNMENT_CIVIC_POINTS_ADD$§!: §G+1§!\n§Y$MOD_COUNTRY_OCCUPATION_ARMIES_ADD$§!: §G+5§!"
+# tr_plentiful_order_finish_desc:1 "§EЭффект от завершения:§!\n§Y$mod_megastructures_cost_mult$§! снизится на §G-15%§!\n§Y$MOD_COUNTRY_GOVERNMENT_CIVIC_POINTS_ADD$§!: §G+1§!\n§Y$MOD_COUNTRY_OCCUPATION_ARMIES_ADD$§!: §G+5§!"
 
 tr_plentiful_order_1:0 "Бастион"
 tr_plentiful_order_1_desc:0 "§Y$MOD_SHIP_SHIELD_HP_MULT$§! увеличится на §G+15%§! \n§Y$MOD_STARBASE_SHIPYARD_BUILD_COST_MULT$§! снизится на §G-5%§!\n§Y$MOD_COUNTRY_STARBASE_CAPACITY_ADD$§!: §G+1§!"
@@ -441,10 +440,10 @@ tradition_plentiful_malice:0 "Устрашение"
 tradition_plentiful_malice_desc:0 "Страх - отличная почва для семян раздора. Давайте же пиршествовать чужими страданиями."
 tr_plentiful_malice_adopt:0 "Традиции устрашения"
 #tr_plentiful_malice_adopt_desc:0 "$tr_plentiful_malice_adopt_effect$\n\n$tr_plentiful_malice_finish_effect$"
-#tr_plentiful_malice_adopt_effect:0 "§Y$MOD_COUNTRY_INSULT_EFFICIENCY$§! увеличится на §G+50%§!\n£happiness  §Y$MOD_POP_HAPPINESS$§! §Yрабов§! на территории нашей империи увеличится на §G+5%§!\nЗатраты на потребляемые §Yрабами§! §YТМС§! снизятся на §G-20%§!"
+tr_plentiful_malice_adopt_desc:0 "§Y$MOD_COUNTRY_INSULT_EFFICIENCY$§! увеличится на §G50%§!\n£happiness §Y$MOD_POP_HAPPINESS$§! §Yрабов§! на территории нашей империи увеличится на §G+5%§!\nЗатраты на потребляемые §Yрабами§! §YТМС§! снизятся на §G20%§!"
 
 tr_plentiful_malice_finish:0 "Традиции устрашения завершены"
-tr_plentiful_malice_finish_effect:0 "§EЭффект от завершения:§!\n§HОткрывает указ:§! §YЗлой умысел§! - увеличит §Y$mod_damage_vs_country_type_fallen_empire_mult$§! и §Y $mod_damage_vs_country_type_awakened_fallen_empire_mult$§! на §G+15%§!\n\n§HМодуль звёздной базы:§! §Y$sm_orbital_refinery_station$§! - увеличит производство £alloys §Yсплавов§! на планетах системы."
+tr_plentiful_malice_finish_desc:1 "§HОткрывает указ:§! §YЗлой умысел§! - увеличит §Y$mod_damage_vs_country_type_fallen_empire_mult$§! и §Y $mod_damage_vs_country_type_awakened_fallen_empire_mult$§! на §G15%§!\n\n§HМодуль звёздной базы:§! §Y$sm_orbital_refinery_station$§! - увеличит производство £alloys §Yсплавов§! на планетах системы."
 
 tr_plentiful_malice_1:0 "Отчаяние"
 tr_plentiful_malice_1_desc:0 "§Y$mod_pop_cat_slave_happiness$§! увеличится на §G20%§!"
@@ -455,11 +454,11 @@ tr_plentiful_malice_2_desc:0 "§Y$MOD_SPY_NETWORK_LEVELS_ADD$§!: §G+20§!"
 tr_plentiful_malice_2_delayed:0 "Крики наших соперников будет хорошо слышно даже в космосе."
 
 tr_plentiful_malice_3:0 "Ужас"
-tr_plentiful_malice_3_desc:0 "§Y$mod_planet_jobs_slave_produces_mult$§! увеличится на §G+10%§!"
+tr_plentiful_malice_3_desc:0 "§Y$mod_planet_jobs_slave_produces_mult$§! увеличится на §G10%§!"
 tr_plentiful_malice_3_delayed:0 "Наши рабы, кажется, работают до смерти, но почему? Смерть - всего лишь уход от страданий."
 
 tr_plentiful_malice_4:0 "Гнев"
-tr_plentiful_malice_4_desc:0 "§Y$MOD_COUNTRY_MAX_RIVALRIES$§!: §G+4§! \n§Y$mod_planet_jobs_slave_minerals_produces_mult$§! увеличатся на §G+15%§!"
+tr_plentiful_malice_4_desc:0 "§Y$MOD_COUNTRY_MAX_RIVALRIES$§!: §G+4§! \n§Y$mod_planet_jobs_slave_minerals_produces_mult$§! увеличатся на §G15%§!"
 tr_plentiful_malice_4_delayed:0 "Мы будем медленно читать их боль, страницу за страницей. Больше врагов, больше чести. И в то время, как наше правительство вынуждено увеличить число наших врагов, шахты продолжат выжимать силы рабов, чтобы собирать больше £minerals §Yминералов§!."
 
 tr_plentiful_malice_5:0 "Злость"
@@ -477,11 +476,11 @@ edict_plentiful_traditions_malicious_intent_desc:1 "Этот указ укреп
 
 building_plentiful_traditions_advanced_slave_processing:0 "Улучшенный блок подготовки рабов"
 building_plentiful_traditions_advanced_slave_processing_desc:0 "Потребность в повседневных товарах высока среди нашего населения. Мы должны выжимать досуха наших рабов, как лимоны, чтобы утолить её."
- 
+
 advanced_defense_slave_army:0 "Продвинутая оборонительная армия рабов"
 advanced_defense_slave_army_plural:0 "Продвинутые оборонительные армии рабов"
-advanced_defense_slave_army_desc:0 "Рабы-солдаты служат своим хозяевам на поле битвы. 
- 
+advanced_defense_slave_army_desc:0 "Рабы-солдаты служат своим хозяевам на поле битвы.
+
 defense_slave_army:0 "Оборонительная армия рабов"
 defense_slave_army_plural:0 "Оборонительные армии рабов"
 defense_slave_army_desc:0 "Рабы-солдаты служат своим хозяевам на поле битвы. Эти войска специально обучаются в §Y$building_plentiful_traditions_advanced_slave_processing$§!."
@@ -598,9 +597,9 @@ tr_plentiful_affinity_finish:0 "Традиции взаимности завер
 tr_plentiful_affinity_finish_effect:0 "§EЭффект от завершения:§!\n§Y$mod_planet_jobs_produces_mult$§!: §G+0.8%§! за каждую проживающую на планетах расу, не считая первые §Y2§! \nЭффект суммируется до §Y10§! раз и может достигать §G+8%§! \n§Y$district_arcology_civilian_industry$§! и §Y$district_industrial$§! предоставляют §Y$MOD_PLANET_HOUSING_ADD$§! и места §Hмастерам§!: §G+1§!"
 
 tr_plentiful_affinity_1:0 "Терпимость"
-tr_plentiful_affinity_1_desc:0 "§Y$MOD_TRADITION_COST_EMPIRE_SIZE_MULT$§! снизится на §G-10%§! \n£influence §Y$MOD_COUNTRY_FACTION_INFLUENCE_ADD$§!: §G+1§!"
+tr_plentiful_affinity_1_desc:0 "§Y$MOD_TRADITION_COST_EMPIRE_SIZE_MULT$§! снизится на §G-10%§! \n£influence §Y$mod_country_resource_max_influence_add$§!: §G+250§!"
 tr_plentiful_affinity_1_delayed:0 "Терпимость по отношению к другим - вот что отличает нас от наших врагов."
- 
+
 tr_plentiful_affinity_2:0 "Чуткое общество"
 tr_plentiful_affinity_2_desc:0 "При нахождении нашей империи в состоянии §Gмира§!: \n£happiness §Y$MOD_POP_HAPPINESS$§! всех наших £pops §Yпоселений§! увеличится на §G+5%§!"
 tr_plentiful_affinity_2_delayed:0 "Понимание и разделение чувств с другими расами - вот что движет нас вперёд."
@@ -703,7 +702,7 @@ tr_plentiful_mutagenesis_adopt:0 "Традиции мутагенеза"
 #tr_plentiful_mutagenesis_adopt_effect:0 "§YСкорость роста поселений§! увеличится на §G+20%§!"
 
 tr_plentiful_mutagenesis_finish:0 "Традиции мутагенеза завершены"
-tr_plentiful_mutagenesis_finish_effect:0 "§EЭффект от завершения:§!\nГеноцид £pop §Yпоселений§! чужаков приносит дополнительную £food §Yпищу§!. \n§Y$MOD_TRADITION_COST_EMPIRE_SIZE_MULT$§! снизится на §G-15%§!"
+tr_plentiful_mutagenesis_finish_desc:0 "Геноцид £pop §Yпоселений§! чужаков приносит дополнительную £food §Yпищу§!. \n§Y$MOD_TRADITION_COST_EMPIRE_SIZE_MULT$§! снизится на §G-15%§!"
 
 tr_plentiful_mutagenesis_1:0 "Наводнение"
 tr_plentiful_mutagenesis_1_desc:0 "§Y$MOD_POP_ENVIRONMENT_TOLERANCE$§! увеличится на §G+10%§!"
@@ -727,8 +726,8 @@ tr_plentiful_mutagenesis_5_delayed:0 "Источники энергии гала
 
 # Mutagenesis Swapped
 tr_plentiful_mutagenesis_adopt_machine:0 "Мутагенез"
-tr_plentiful_mutagenesis_adopt_machine_desc:0 "$tr_plentiful_mutagenesis_adopt_machine_effect$\n\n$tr_plentiful_mutagenesis_finish_effect$"
-tr_plentiful_mutagenesis_adopt_machine_effect:0 "§HЗдание:§! £building §Y$building_plentiful_traditions_clone_vats$§! - увеличит §Yскорость роста органических поселений§! на §G+50%§! \nУникально для планеты."
+#tr_plentiful_mutagenesis_adopt_machine_desc:0 "$tr_plentiful_mutagenesis_adopt_machine_effect$\n\n$tr_plentiful_mutagenesis_finish_effect$"
+tr_plentiful_mutagenesis_adopt_machine_desc:0 "§HЗдание:§! £building §Y$building_plentiful_traditions_clone_vats$§! - увеличит §Yскорость роста органических поселений§! на §G+50%§! \nУникально для планеты."
 
 # Mutagenesis buildings
 building_plentiful_traditions_pillar_of_affliction:0 "Столп нестабильности"
@@ -995,10 +994,10 @@ tradition_plentiful_transformation:0 "Трансформация"
 tradition_plentiful_transformation_desc:0 "Застой означает регресс. Мы должны адаптироваться, чтобы идти в ногу с будущим."
 tr_plentiful_transformation_adopt:0 "Традиции трансформации"
 #tr_plentiful_transformation_adopt_desc:0 "$tr_plentiful_transformation_adopt_effect$\n\n$tr_plentiful_transformation_finish_effect$"
-#tr_plentiful_transformation_adopt_effect:0 "§Y$MOD_COUNTRY_MODIFY_SPECIES_COST_MULT$§! снизится на §G-5%§! \nОткрывает технологию: §G$tech_climate_restoration$§! \nПри продвижением по традиции открывает технологию: §G$tech_terrestrial_sculpting$§!"
+tr_plentiful_transformation_adopt_desc:0 "§Y$MOD_COUNTRY_MODIFY_SPECIES_COST_MULT$§! снизится на §G-5%§! \nОткрывает технологию: §G$tech_climate_restoration$§! \nПри продвижением по традиции открывает технологию: §G$tech_terrestrial_sculpting$§!"
 
 tr_plentiful_transformation_finish:0 "Традиции трансформации завершены"
-tr_plentiful_transformation_finish_effect:0 "§EЭффект от завершения:§!\n§Y$MOD_COUNTRY_TERRAFORMING_COST_MULT$§! снизится на §G-10%§!\n§Y$MOD_COUNTRY_TERRAFORM_SPEED_MULT$§! увеличится на §G+10%§!"
+#tr_plentiful_transformation_finish_effect:0 "§EЭффект от завершения:§!\n§Y$MOD_COUNTRY_TERRAFORMING_COST_MULT$§! снизится на §G-10%§!\n§Y$MOD_COUNTRY_TERRAFORM_SPEED_MULT$§! увеличится на §G+10%§!"
 
 tr_plentiful_transformation_1:0 "Строительство энергоскладов"
 tr_plentiful_transformation_1_desc:0 "§YВместимость хранилища (£energy£ энергия)§! увеличится на §G5000§!"
@@ -1076,7 +1075,7 @@ tr_plentiful_endure_adopt:0 "Традиции стойкости"
 #tr_plentiful_endure_adopt_effect:0 "§Y$MOD_POP_ENVIRONMENT_TOLERANCE$§! увеличится на §G+5%§!"
 
 tr_plentiful_endure_finish:0 "Традиции стойкости завершены"
-tr_plentiful_endure_finish_effect:0 "§EЭффект от завершения:§!\n§Y$mod_pc_nuked_habitability$§! увеличится на §G+10%§!"
+#tr_plentiful_endure_finish_effect:0 "§EЭффект от завершения:§!\n§Y$mod_pc_nuked_habitability$§! увеличится на §G+10%§!"
 
 tr_plentiful_endure_1:0 "Сплоченность приносит единство"
 tr_plentiful_endure_1_desc:0 "§Y$mod_country_unity_produces_mult$§!: §G+5%§!"
@@ -1102,6 +1101,47 @@ sm_orbital_fertilizer_array:0 "Склады удобрений"
 
 tech_plentiful_traditions_orbital_fertilizer_array:0 "Склады удобрений"
 tech_plentiful_traditions_orbital_fertilizer_array_desc:0 "Постоянная бомбардировка особым излучением позволяет нам получить больше продуктов питания в этой системе."
+
+#####################
+# Dedication
+#####################
+
+tradition_plentiful_dedication:0 "Стремление"
+tradition_plentiful_dedication_desc:0 "Мы рождены, чтобы вести за собой. Мы тянемся к звездам и ведём другие народы в славное будущее."
+tr_plentiful_dedication_adopt:0 "Традиции стремления"
+
+tr_plentiful_dedication_finish:0 "Традиции стремления завершены"
+
+tr_plentiful_dedication_1:0 "Меры по укреплению доверия"
+tr_plentiful_dedication_1_desc:0 "Наш §Y$mod_country_resource_max_energy_add$§! увеличивается на §G5000§!"
+tr_plentiful_dedication_1_delayed:1 "Другие культуры доверяют нам все больше и больше. Возможно, это из-за наших болтеров, направленных на них..."
+
+tr_plentiful_dedication_2:0 "Общие цели"
+tr_plentiful_dedication_2_desc:0 "Указы для преобразования £энергии §Yэнергии§!, £минералов §Yминералов§! и £пищи §Yпищи§!"
+tr_plentiful_dedication_2_delayed:1 "Империи всегда строились и поддерживались на крови, поте и слезах."
+
+tr_plentiful_dedication_3:0 "Технологическая лихорадка"
+tr_plentiful_dedication_3_desc:0 "Во время терраформирования планеты нет никакого негативного влияния на §Gнастроение§!."
+tr_plentiful_dedication_3_delayed:1 "Наши испытуемые не в состоянии проводить надлежащие исследования. Мы поддержим их в этом."
+
+tr_plentiful_dedication_4:0 "Поддержка за рубежом"
+tr_plentiful_dedication_4_desc:0 "§YЗдания повелителя§! - §G+1§!."
+tr_plentiful_dedication_4_delayed:1 "Наши подопечные иногда нуждаются в твердой руке или другой поддержке."
+
+tr_plentiful_dedication_5:0 "Поддержка отечества"
+tr_plentiful_dedication_5_desc:1 "Теперь мы можем восстанавливать разрушенные и непригодные миры (новая опция терраформирования для §Y$pc_shattered$§!, §Y$pc_molten$§!, §Y$pc_broken$§!, §Y$pc_barren$§!, §Y$pc_toxic$§!, §Y$pc_barren_cold$§! и §Y$pc_frozen$§!)."
+tr_plentiful_dedication_5_delayed:1 "Наши субъекты служат нам, поставляя ресурсы."
+
+subject_holdings_limit_0_plentiful_traditions:0 "1"
+subject_holdings_limit_0_plentiful_traditions_desc:1 "Повелитель может иметь 1 холдинг на всех планетах субъекта."
+subject_holdings_limit_1_plentiful_traditions:0 "2"
+subject_holdings_limit_1_plentiful_traditions_desc:1 "Повелитель может иметь 2 холдинга на всех планетах субъекта."
+subject_holdings_limit_2_plentiful_traditions:0 "3"
+subject_holdings_limit_2_plentiful_traditions_desc:1 "Повелитель может иметь 3 холдинга на всех планетах субъекта."
+subject_holdings_limit_3_plentiful_traditions:0 "4"
+subject_holdings_limit_3_plentiful_traditions_desc:1 "Повелитель может иметь 4 холдинга на всех планетах субъекта."
+subject_holdings_limit_4_plentiful_traditions:0 "5"
+subject_holdings_limit_4_plentiful_traditions_desc:1 "Повелитель может иметь 5 холдингов на всех планетах субъекта."
 
 
 ################################################################
@@ -1915,17 +1955,17 @@ mod_ships_food_cost_mult:0 "Расход £food£ пищи на строител
 mod_ships_minerals_cost_mult:0 "Расход £minerals£ минералов на строительство кораблей"
 mod_ships_energy_cost_mult:0 "Расход £energy£ энергии на строительство кораблей"
 mod_ships_alloys_cost_mult:0 "Расход £alloys£ сплавов на строительство кораблей"
-                                             
+
 mod_ships_food_upkeep_mult:0 "Расход £food£ пищи на содержание кораблей"
 mod_ships_minerals_upkeep_mult:0 "Расход £minerals£ минералов на содержание кораблей"
 mod_ships_energy_upkeep_mult:0 "Расход £energy£ энергии на содержание кораблей"
 mod_ships_alloys_upkeep_mult:0 "Расход £alloys£ сплавов на содержание кораблей"
-                                       
+
 mod_planet_structures_food_upkeep_mult:0 "Расход £food£ пищи на содержание зданий и районов"
 mod_planet_structures_minerals_upkeep_mult:0 "Расход £minerals£ минералов на содержание зданий и районов"
 mod_planet_structures_energy_upkeep_mult:0 "Расход £energy£ энергии на содержание зданий и районов"
 mod_planet_structures_alloys_upkeep_mult:0 "Расход £alloys£ сплавов на содержание зданий и районов"
-                                        
+
 mod_planet_buildings_food_upkeep_mult:0 "Расход £food£ пищи на содержание зданий"
 mod_planet_buildings_minerals_upkeep_mult:0 "Расход £minerals£ минералов на содержание зданий"
 mod_planet_buildings_energy_upkeep_mult:0 "Расход £energy£ энергии на содержание зданий"

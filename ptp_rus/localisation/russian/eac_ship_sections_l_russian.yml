@@ -7,7 +7,7 @@
  # Rear sections have a flavor-name followed by the key-word "Bulwark"
  #
  ####################################
- 
+
  EAC_TITAN_BOW:0 "Нос титана-носителя"
  EAC_TITAN_MID:0 "Корпус титана-носителя"
  EAC_TITAN_STERN:0 "Корма титана-носителя"
@@ -28,6 +28,10 @@
  EAC_BATTLESHIP_MID_AC:1 "Корпус улучшенного носителя"
  EAC_BATTLESHIP_STERN_AC:1 "Корма улучшенного носителя"
 
+ EAC_OFFSPRING_BATTLESHIP_BOW_AC:1 "Нос улучшенного носителя"
+ EAC_OFFSPRING_BATTLESHIP_MID_AC:1 "Корпус улучшенного носителя"
+ EAC_OFFSPRING_BATTLESHIP_STERN_AC:1 "Корма улучшенного носителя"
+
  ####################################
  # Cruiser
  ####################################
@@ -38,8 +42,18 @@
  EAC_CRUISER_MID_S2:0 "Корпус лёгкого носителя"
  EAC_CRUISER_STERN_P2:0 "Корма лёгкого носителя"
 
+ EAC_OFFSPRING_CRUISER_BOW_G2:1 "Носовые ракетницы"
+ EAC_OFFSPRING_CRUISER_MID_G3:1 "Палубные ракетницы"
+
+ EAC_OFFSPRING_CRUISER_BOW_S1:0 "Нос лёгкого носителя"
+ EAC_OFFSPRING_CRUISER_MID_S2:0 "Корпус лёгкого носителя"
+ EAC_OFFSPRING_CRUISER_STERN_P2:0 "Корма лёгкого носителя"
+
  ####################################
  # Destroyer
  ####################################
  EAC_DESTROYER_BOW_H1:0 "Нос быстрого реагирования"
  EAC_CORVETTE_MID_M2P1:0 "Улучшенный ракетный корпус"
+
+ EAC_OFFSPRING_DESTROYER_BOW_H1:0 "Нос быстрого реагирования"
+ EAC_OFFSPRING_CORVETTE_MID_M2P1:0 "Улучшенный ракетный корпус"

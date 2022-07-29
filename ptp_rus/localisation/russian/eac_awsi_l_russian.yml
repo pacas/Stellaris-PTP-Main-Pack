@@ -21,9 +21,34 @@
  EAC_STARBASE_ANTIMATTER_REACTOR:0 "$STARBASE_ANTIMATTER_REACTOR$"
  EAC_STARBASE_ZERO_POINT_REACTOR:0 "$STARBASE_ZERO_POINT_REACTOR$"
  EAC_STARBASE_DARK_MATTER_REACTOR:0 "$STARBASE_DARK_MATTER_REACTOR$"
+ EAC_ORBITAL_RING_FISSION_REACTOR:0 "$STARBASE_FISSION_REACTOR$"
+ EAC_ORBITAL_RING_FUSION_REACTOR:0 "$STARBASE_FUSION_REACTOR$"
+ EAC_ORBITAL_RING_COLD_FUSION_REACTOR:0 "$STARBASE_COLD_FUSION_REACTOR$"
+ EAC_ORBITAL_RING_ANTIMATTER_REACTOR:0 "$STARBASE_ANTIMATTER_REACTOR$"
+ EAC_ORBITAL_RING_ZERO_POINT_REACTOR:0 "$STARBASE_ZERO_POINT_REACTOR$"
+ EAC_ORBITAL_RING_DARK_MATTER_REACTOR:0 "$STARBASE_DARK_MATTER_REACTOR$"
  sm_eac_gun_battery:0 "Тяжелая огневая батарея"
- sm_eac_gun_battery_desc:0 "Добавляет четыре больших, два средних орудийных слота и 2 орудия точечной обороны на космическую базу."
+ sm_eac_gun_battery_desc:0 "Добавляет 4 больших, 2 средних орудийных слота и 2 орудия точечной обороны на космическую базу."
  sm_eac_missile_battery:0 "Тяжелая торпедная батарея"
- sm_eac_missile_battery_desc:0 "Добавляет шесть торпедных и два малых орудийных слота на космическую базу."
+ sm_eac_missile_battery_desc:0 "Добавляет 6 торпедных и 2 малых орудийных слота на космическую базу."
  sm_eac_hangar_bay:0 "Тяжелый ангарный отсек"
- sm_eac_hangar_bay_desc:0 "Добавляет восемь ангаров для штурмовиков и два малых орудийных слота на космическую базу."
+ sm_eac_hangar_bay_desc:0 "Добавляет 6 ангаров для штурмовиков и 2 малых орудийных слота на космическую базу."
+ sm_eac_heavy_gun_battery:0 "Сверхтяжелая огневая батарея"
+ sm_eac_heavy_gun_battery_desc:0 "Добавляет 2 сверхтяжелых орудийных слота на космическую базу."
+ starbase_heavy_gun_battery_limit.tooltip.fail:0 "Нельзя использовать более 2-х $sm_eac_heavy_gun_battery$"
+ ###################
+ # Orbital Ring
+ ###################
+ sm_eac_orbital_ring_gun_battery:0 "Огневые батареи планетарной обороны"
+ sm_eac_orbital_ring_gun_battery_desc:0 "Добавляет 4 больших и 2 средних орудийных слота, и 2 орудия точечной обороны к орбитальному кольцу."
+
+ sm_eac_orbital_ring_missile_battery:0 "ЗРК планетарной обороны"
+ sm_eac_orbital_ring_missile_battery_desc:0 "Добавляет 6 слотов для торпед и 2 малых орудийных слотов к орбитальному кольцу."
+
+ sm_eac_orbital_ring_hangar_bay:0 "Ангары планетарной обороны"
+ sm_eac_orbital_ring_hangar_bay_desc:0 "Добавляет 6 ангаров для штурмовиков и 2 малых орудийных слотов к орбитальному кольцу."
+
+ ###################
+ # Starbase Type
+ ###################
+ hfortress:0 "Тяжелый бастион"

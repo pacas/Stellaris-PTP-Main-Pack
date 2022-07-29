@@ -7,10 +7,12 @@
  EAC_ARTILLERY_MAX_BEHAVIOR_DESC:1 "§HТактика артиллерии:§! Корабль будет держаться на максимальном расстоянии и стрелять дальнобойными орудиями по целям."
  EAC_CARRIER_BEHAVIOR_DESC:1 ""§HТактика носителя:§! Корабль будет держаться в отдалении (§Y250§!) и запускать штурмовики."
 
+ EAC_COMBAT_COMPUTER_ARTILLERY_120_AUTONOMOUS:0 "Автономный боевой компьютер (Артиллерия - Большое расстояние)"
  EAC_COMBAT_COMPUTER_ARTILLERY_120_ADVANCED:0 "Продвинутый боевой компьютер (Артиллерия - Большое расстояние)"
  EAC_COMBAT_COMPUTER_ARTILLERY_120_SAPIENT:0 "Разумный боевой компьютер (Артиллерия - Большое расстояние)"
  EAC_COMBAT_COMPUTER_ARTILLERY_120_PRECOG:0 "Прекогнитивный интерфейс (Артиллерия - Большое расстояние)"
 
+ EAC_COMBAT_COMPUTER_ARTILLERY_MAX_AUTONOMOUS:0 "Автономный боевой компьютер (Артиллерия - Максимальное расстояние)"
  EAC_COMBAT_COMPUTER_ARTILLERY_MAX_ADVANCED:0 "Продвинутый боевой компьютер (Артиллерия - Максимальное расстояние)"
  EAC_COMBAT_COMPUTER_ARTILLERY_MAX_SAPIENT:0 "Разумный боевой компьютер (Артиллерия - Максимальное расстояние)"
  EAC_COMBAT_COMPUTER_ARTILLERY_MAX_PRECOG:0 "Прекогнитивный интерфейс (Артиллерия - Максимальное расстояние)"

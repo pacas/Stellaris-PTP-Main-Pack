@@ -186,3 +186,6 @@
  mission_vbp_machine_repurpose:0 "Перепрошивка роботов"
  mission_vbp_machine_repurpose_desc:0 "Мы будем захватывать роботов этой планеты, постепенно меняя их базовые директивы в угоду нам.\n\n§EПо завершении миссии роботы будут служить нам, а планета будет аннексирована.§!\n\n"
  VBP_MACHINE_FINAL_STAGE:0 "На этой стадии мы больше не можем влиять на них."
+
+ format.primitive_machine.1: "[This.GetSpeciesName] <protointelligence>"
+ Protointelligence: "Протоинтеллект"

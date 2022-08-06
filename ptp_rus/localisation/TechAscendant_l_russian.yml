@@ -82,7 +82,7 @@
  breakthrough.statecraft.desc: "В ранней научной фантастике [root.GetSpeciesAdj], универсальные переводчики были немного большим, чем обычное устройство с дисплеем, и потому языковые барьеры были препятствием для перевода даже типичных 30-минутных эпизодов. До сегодняшнего дня, когда ведущий лингвист §Y[society_researcher.GetName]§! разработал портативное устройство, которое может в режиме реального времени обеспечить естественную коммуникацию между любыми видами. С идеалистической верой в то, что простое общение может стать последней и лучшей надеждой на мир, [root.GetName] построили станцию на нейтральной территории для предотвращения будущих войн, место, где [root.GetSpeciesNamePlural] и инопланетяне могли бы решать свои разногласия мирным путём. Это тихая гавань, дома вдали от дома для дипломатов, дельцов, предпринимателей и скитальцев. И название этого места - Вавилон 5. Возможно, мы должны послать посла."
  breakthrough.military_theory.desc: "Уроки истории - это ключи к будущему. Похоже, что многие ученые, включая уважаемого учёного - §Y[society_researcher.GetName]§! - стали одержимы серией стратегических игр, которые изображают различные периоды времени из истории. Некоторые воспроизводят великие войны прошлого, борьбу феодалов, чтобы получить власть, когда [military_theory_origin.GetSpeciesNamePlural] всё ещё были примитивной расой или более поздними событиями, такими как разведка и экспансия в космос. Похоже, что это повальное увлечение историей и стратегией породило поколение лидеров, гораздо лучше приспособленных для действий в сложных ситуациях, оптимизации логистики и разработке тактик, чтобы вести крупные флоты в бой."
 
- spread_chance: "Шанс jnrhsnbz увеличивается за счёт:"
+ spread_chance: "Шанс прорыва увеличивается за счёт:"
  living_sections: "§YСекции живых звездолётов§! теперь доступны"
 
  materials.tooltip: "$materials.effect$ \n\n$breakthrough_committed$"
@@ -124,23 +124,23 @@
  statecraft.effect: "§G+25%§! $MOD_COUNTRY_SOCIETY_TECH_RESEARCH_SPEED$ \n§G+40%§! $MOD_DIPLO_WEIGHT_MULT$ \n§G+40§! $OPINION$ \n§G+25%§! $MOD_COUNTRY_TRADE_ATTRACTIVENESS$ \n$REMOVE_RIVALS$ "
  military_theory.effect: "§G+25%§! $MOD_COUNTRY_SOCIETY_TECH_RESEARCH_SPEED$ \n§G+20§! $MOD_COUNTRY_COMMAND_LIMIT_ADD$\n$strategy_leaders$"
 
- NOT_TODAY: "A Theory Ahead of its Time"
- Unlock_secrets: "We Must Unlock these Secrets"
- breakthrough_rejected.tooltip: "§RReject the Idea§! This §YBreakthrough§! will not appear again for at least §R20 years§!."
- breakthrough_committed: "Other §YBreakthroughs§! will be slightly §Rmore difficult§! to discover, and no breakthroughs will appear until this one is researched."
+ NOT_TODAY: "Теория, опередившая свое время"
+ Unlock_secrets: "Мы должны раскрыть эти секреты"
+ breakthrough_rejected.tooltip: "§RОтвергнуть идею§! - Этот §YПрорыв§! не появится снова по крайней мере §R20 лет§!."
+ breakthrough_committed: "Другие §YПрорывы§! будет иметь немного §Rменьший шанс§! обнаружения, и никаких прорывов не будет, пока не будет исследован этот."
 
- materials_discovered.title: "Breakthrough from the [materials_origin.GetName]"
- industry_discovered.title: "Breakthrough from the [industry_origin.GetName]"
- voidcraft_discovered.title: "Breakthrough from the [voidcraft_origin.GetName]"
- rocketry_discovered.title: "Breakthrough from the [rocketry_origin.GetName]"
- particles_discovered.title: "Breakthrough from the [particles_origin.GetName]"
- field_manipulation_discovered.title: "Breakthrough from the [field_manipulation_origin.GetName]"
- computing_discovered.title: "Breakthrough from the [computing_origin.GetName]"
- psionics_discovered.title: "Breakthrough from the [psionics_origin.GetName]"
- statecraft_discovered.title: "Breakthrough from the [statecraft_origin.GetName]"
- biology_discovered.title: "Breakthrough from the [biology_origin.GetName]"
- new_worlds_discovered.title: "Breakthrough from the [new_worlds_origin.GetName]"
- military_theory_discovered.title: "Breakthrough from the [military_theory_origin.GetName]"
+ materials_discovered.title: "Прорыв от [materials_origin.GetName]"
+ industry_discovered.title: "Прорыв от [industry_origin.GetName]"
+ voidcraft_discovered.title: "Прорыв от [voidcraft_origin.GetName]"
+ rocketry_discovered.title: "Прорыв от [rocketry_origin.GetName]"
+ particles_discovered.title: "Прорыв от [particles_origin.GetName]"
+ field_manipulation_discovered.title: "Прорыв от [field_manipulation_origin.GetName]"
+ computing_discovered.title: "Прорыв от [computing_origin.GetName]"
+ psionics_discovered.title: "Прорыв от [psionics_origin.GetName]"
+ statecraft_discovered.title: "Прорыв от [statecraft_origin.GetName]"
+ biology_discovered.title: "Прорыв от [biology_origin.GetName]"
+ new_worlds_discovered.title: "Прорыв от [new_worlds_origin.GetName]"
+ military_theory_discovered.title: "Прорыв от [military_theory_origin.GetName]"
 
 ###################################################
  # Mapmode

@@ -3,33 +3,29 @@
  shared_window_title: "Обновления"
  shared_window_desc: "§WЛента новостей§!\n\nВсем привет! Это лента новостей про мои самые большие моды. Я буду продолжать работать над ними и через это окно сообщать об изменениях в этих модах после их обновлений!\nВы можете выбрать интересующий вас в нужных вкладках. Информация о моде и номер его версии будут актуальны, пока вы будете продолжать обновлять сами моды :)\n\nВсе это стало возможным благодаря тем, кто поддерживает меня на Patreon. Если вы хотите помочь, то проследуйте по ссылке §Whttps://patreon.com/hivemods§!!\n\n\nПожалуйста, сообщайте о любых ошибках и предложениях по поводу будущего развития в соответствующих разделах Steam, Twitter или Reddit.\n\nНаслаждайтесь игрой и до следующего раза!"
  shared_window_name: "О моде"
- 
+
  fq_version_base: "[Root.GetFQVersion]"
  story_version_base: "[Root.GetSTORYVersion]"
  copack_version_base: "[Root.GetCOPACKVersion]"
- 
+
  fq_name_base: "[Root.GetFQName]"
  story_name_base: "[Root.GetSTORYName]"
  copack_name_base: "[Root.GetCOPACKName]"
- 
+
  fq_desc_base: "[Root.GetFQDesc]"
  story_desc_base: "[Root.GetSTORYDesc]"
  copack_desc_base: "[Root.GetCOPACKDesc]"
- 
- 
- 
- 
+
  fq_version_ni: "Forgotten Queens: §RНе установлен§!"
  story_version_ni: "Nyblax and the Collector: §RНе установлен§!"
  copack_version_ni: "Complex Origins: §RНе установлен§!"
 
- 
+
  fq_name_ni: "Forgotten Queens"
  story_name_ni: "Nyblax and the Collector"
  copack_name_ni: "Complex Origins"
- 
+
  fq_desc_ni: "Forgotten Queens добавляет гражданские модели, пути вознесения, истоки и другой контент для коллективных разумов.\n\nВы можете загрузить его по следующей ссылке:\n§Bhttps://steamcommunity.com/sharedfiles/filedetails/?id=1715190550§!"
  story_desc_ni: "The Nyblax and the Collector добавляет реликвии, кризис середины игры и 6 мест для археологических раскопок, которые приведут к удивительным открытиям.\n\nВы можете загрузить его по следующей ссылке:\n§Bhttps://steamcommunity.com/sharedfiles/filedetails/?id=1878601358§!"
+ potv_desc_ni: "Pantheons of the Void это мод, который добавляет новую религиозную систему, пользовательский интерфейс для неё и уникальный игровой процесс.\n\nВы можете загрузить его здесь:\n§Bhttps://steamcommunity.com/sharedfiles/filedetails/?id=1913588422§!"
  copack_desc_ni: "Complex Origins добавляет в игру новые происхождения с весёлым и интересным геймплеем.\n\nВы можете загрузить его по следующей ссылке:\n§Bhttps://steamcommunity.com/sharedfiles/filedetails/?id=2060393654§!"
- 
- 

@@ -74,3 +74,5 @@
 
  vbp_col_primitive_habitat:0 "Примитивная орбиталь"
  vbp_col_primitive_habitat_desc:0 "Космическая станция, население которой больше не может покинуть её."
+
+ primitive_habitat_name: "Орбиталь [habitat_site.GetName]"

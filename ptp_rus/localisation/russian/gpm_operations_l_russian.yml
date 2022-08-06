@@ -1,0 +1,200 @@
+﻿l_russian:
+
+ #######################################
+ #### Steal Relic
+ #######################################
+ operation_gpm_steal_relic:1 "Украсть реликвию"
+ operation_gpm_steal_relic_desc:1 "Попытайтесь совершить дерзкое ограбление, чтобы похитить таинственную и могущественную Реликвию из этой империи."
+ operation_gpm_steal_relic_on_success:1 "§EВ случае успеха:§!\nПохитите таинственную и могущественную реликвию из этой империи. Это может иметь непредвиденные последствия..."
+ gpm_target_has_no_relics_operation:1 "$TRIGGER_FAIL$ §RУ этой империи нет реликвий, которые можно украстью§!"
+ gpm_target_not_enough_intel:1 "$TRIGGER_FAIL$ §RНам нужно больше информации об этой империию§!"
+ gpm_operation_not_neighbours:1 "§R$TRIGGER_FAIL$ Эта империя не граничит с нашей империей. Слишком опасно даже пытаться.§!"
+ gpm_operation_is_subject:1 "§R$TRIGGER_FAIL$ Эта империя - наш подданный, было бы невежливо красть у них.§!"
+ gpm_operation_is_overlord:1 "§R$TRIGGER_FAIL$ Эта империя - наш повелитель, это было бы слишком опасно.§!"
+
+ #######################################
+ #### Steal Relic Events
+ #######################################
+ # The Crew
+ gpm_operation.1.name:1 "Экипаж"
+ gpm_operation.1.desc:1 "Мы успешно набрали подходящую команду для этой работы. Разношерстная банда наемников готова начать свое продвижение по империи §H[from.GetName]§! С нужными инструментами, маскировкой и небольшой удачей им не составит труда занять позицию для величайшего ограбления, которое когда-либо видела эта галактика."
+ gpm_operation.1.a:1 "Прекрасная команда!"
+
+ # The Setup
+ gpm_operation.2.name:1 "Подготовка"
+ gpm_operation.2.desc:1 "Команда заняла различные тактические позиции в империи §Н[from.GetName]§! От чистильщика голо-линз до наемного артиста и его клиента. Поддельное приглашение чиновника лично увидеть древнюю реликвию было «выдано», и все готовы приступить к работе. Теперь нам остается только ждать, что они скажут после ограбления."
+ gpm_operation.2.a:1 "Миссия выполнима, приступайте!"
+
+ # The Heist
+ gpm_operation.3.name:1 "Ограбление"
+ gpm_operation.3.desc:1 "По нашим темным каналам мы подтвердили, что команда заполучила древнюю реликвию! Сейчас в ход идут различные части плана, чтобы вывезти всех оттуда, пока не разразился хаос. Мы уже слышим сообщения о том, что космические путешествия ограничены в столичной системе империи §H[from.GetName]§!. К счастью, у нашего экипажа есть собственные средства для побега."
+ gpm_operation.3.a:1 "Это самая сложная часть."
+
+  # The Getaway
+ gpm_operation.4.name:1 "Выход"
+ gpm_operation.4.desc:1 "Теперь самое сложное: унести ноги!"
+ gpm_operation.4_NORELICS.desc:1 "Мы получили сообщение, что в империи §H[from.GetName]§ нет реликвий! Кто-то опередил нас и ограбил их вслепую! Наши оперативники поспешно и незаметно уходят."
+ gpm_operation.4.a:1 "Выполнено на отлично!"
+
+ gpm_operation_getaway_gpm_r_time_displacerTT:1 "\n   §RКража реликвии:§! §Y$gpm_r_time_displacer$§!\n\n"
+ gpm_operation_getaway_gpm_r_mars_roverTT:1 "\n   §RКража реликвии:§! §Y$gpm_r_mars_rover$§!\n\n"
+ gpm_operation_getaway_r_dragon_trophyTT:1 "\n   §RКража реликвии:§! §Y$r_dragon_trophy$§!\n\n"
+ gpm_operation_getaway_r_khans_throneTT:1 "\n   §RКража реликвии:§! §Y$r_khans_throne$§!\n\n"
+ gpm_operation_getaway_r_worm_scalesTT:1 "\n   §RКража реликвии:§! §Y$r_worm_scales$§!\n\n"
+ gpm_operation_getaway_r_rubricatorTT:1 "\n   §RКража реликвии:§! §Y$r_rubricator$§!\n\n"
+ gpm_operation_getaway_r_galaxyTT:1 "\n   §RКража реликвии:§! §Y$r_galaxy$§!\n\n"
+ gpm_operation_getaway_r_omnicodexTT:1 "\n   §RКража реликвии:§! §Y$r_omnicodex$§!\n\n"
+ gpm_operation_getaway_r_surveyorTT:1 "\n   §RКража реликвии:§! §Y$r_surveyor$§!\n\n"
+ gpm_operation_getaway_r_galatronTT:1 "\n   §RКража реликвии:§! §Y$r_galatron$§!\n\n"
+ gpm_operation_getaway_r_ancient_swordTT:1 "\n   §RКража реликвии:§! §Y$r_ancient_sword$§!\n\n"
+ gpm_operation_getaway_r_severed_headTT:1 "\n   §RКража реликвии:§! §Y$r_severed_head$§!\n\n"
+ gpm_operation_getaway_r_prethoryn_queenTT:1 "\n   §RКража реликвии:§! §Y$r_prethoryn_queen$§!\n\n"
+ gpm_operation_getaway_r_unbidden_warlockTT:1 "\n   §RКража реликвии:§! §Y$r_unbidden_warlock$§!\n\n"
+ gpm_operation_getaway_r_contingency_coreTT:1 "\n   §RКража реликвии:§! §Y$r_contingency_core$§!\n\n"
+ gpm_operation_getaway_r_zro_crystalTT:1 "\n   §RКража реликвии:§! §Y$r_zro_crystal$§!\n\n"
+ gpm_operation_getaway_r_the_last_baolTT:1 "\n   §RКража реликвии:§! §Y$r_the_last_baol$§!\n\n"
+ gpm_operation_getaway_r_the_defragmentorTT:1 "\n   §RКража реликвии:§! §Y$r_the_defragmentor$§!\n\n"
+ gpm_operation_getaway_r_reality_perforatorTT:1 "\n   §RКража реликвии:§! §Y$r_reality_perforator$§!\n\n"
+ gpm_operation_getaway_r_pox_sampleTT:1 "\n   §RКража реликвии:§! §Y$r_pox_sample$§!\n\n"
+ gpm_operation_getaway_r_cryo_coreTT:1 "\n   §RКража реликвии:§! §Y$r_cryo_core$§!\n\n"
+ gpm_operation_getaway_r_war_forgeTT:1 "\n   §RКража реликвии:§! §Y$r_war_forge$§!\n\n"
+ gpm_operation_getaway_gpm_r_ai_architectTT:1 "\n   §RКража реликвии:§! §Y$gpm_r_ai_architect$§!\n\n"
+ gpm_operation_getaway_gpm_r_banner_of_the_fallenTT:1 "\n   §RКража реликвии:§! §Y$gpm_r_banner_of_the_fallen$§!\n\n"
+ gpm_operation_getaway_gpm_r_cloaking_deviceTT:1 "\n   §RКража реликвии:§! §Y$gpm_r_cloaking_device$§!\n\n"
+ gpm_operation_getaway_gpm_r_codex_administratumTT:1 "\n   §RКража реликвии:§! §Y$gpm_r_codex_administratum$§!\n\n"
+ gpm_operation_getaway_gpm_r_datacubeTT:1 "\n   §RКража реликвии:§! §Y$gpm_r_datacube$§!\n\n"
+ gpm_operation_getaway_gpm_r_earthquake_engineTT:1 "\n   §RКража реликвии:§! §Y$gpm_r_earthquake_engine$§!\n\n"
+ gpm_operation_getaway_gpm_r_encrypted_sctTT:1 "\n   §RКража реликвии:§! §Y$gpm_r_encrypted_sct$§!\n\n"
+ gpm_operation_getaway_gpm_r_encyclopedia_galacticaTT:1 "\n   §RКража реликвии:§! §Y$gpm_r_encyclopedia_galactica$§!\n\n"
+ gpm_operation_getaway_gpm_r_enigmatic_advisorTT:1 "\n   §RКража реликвии:§! §Y$gpm_r_enigmatic_advisor$§!\n\n"
+ gpm_operation_getaway_gpm_r_experimental_weaponTT:1 "\n   §RКража реликвии:§! §Y$gpm_r_experimental_weapon$§!\n\n"
+ gpm_operation_getaway_gpm_r_fallout_emergency_replicatorTT:1 "\n   §RКража реликвии:§! §Y$gpm_r_fallout_emergency_replicator$§!\n\n"
+ gpm_operation_getaway_gpm_r_gravity_engineTT:1 "\n   §RКража реликвии:§! §Y$gpm_r_gravity_engine$§!\n\n"
+ gpm_operation_getaway_gpm_r_manufactorium_shipTT:1 "\n   §RКража реликвии:§! §Y$gpm_r_manufactorium_ship$§!\n\n"
+ gpm_operation_getaway_gpm_r_mysterious_shield_generatorTT:1 "\n   §RКража реликвии:§! §Y$gpm_r_mysterious_shield_generator$§!\n\n"
+ gpm_operation_getaway_gpm_r_positronic_microchipTT:1 "\n   §RКража реликвии:§! §Y$gpm_r_positronic_microchip$§!\n\n"
+ gpm_operation_getaway_gpm_r_power_coreTT:1 "\n   §RКража реликвии:§! §Y$gpm_r_power_core$§!\n\n"
+ gpm_operation_getaway_gpm_r_q_storage_compressorTT:1 "\n   §RКража реликвии:§! §Y$gpm_r_q_storage_compressor$§!\n\n"
+ gpm_operation_getaway_gpm_r_quantum_sphereTT:1 "\n   §RКража реликвии:§! §Y$gpm_r_quantum_sphere$§!\n\n"
+ gpm_operation_getaway_gpm_r_self_assembly_hubTT:1 "\n   §RКража реликвии:§! §Y$gpm_r_self_assembly_hub$§!\n\n"
+ gpm_operation_getaway_gpm_r_self_repairing_obeliskTT:1 "\n   §RКража реликвии:§! §Y$gpm_r_self_repairing_obelisk$§!\n\n"
+ gpm_operation_getaway_gpm_r_sentinel_queenTT:1 "\n   §RКража реликвии:§! §Y$gpm_r_sentinel_queen$§!\n\n"
+ gpm_operation_getaway_gpm_r_soul_gemTT:1 "\n   §RКража реликвии:§! §Y$gpm_r_soul_gem$§!\n\n"
+ gpm_operation_getaway_gpm_r_venerable_dreadnaughtTT:1 "\n   §RКража реликвии:§! §Y$gpm_r_venerable_dreadnaught$§!\n\n"
+ gpm_operation_getaway_gpm_r_zero_energy_generatorTT:1 "\n   §RКража реликвии:§! §Y$gpm_r_zero_energy_generator$§!\n\n"
+ gpm_operation_getaway_gpm_r_alien_eggsTT:1 "\n   §RКража реликвии:§! §Y$gpm_r_alien_eggs$§!\n\n"
+ gpm_operation_getaway_gpm_r_machine_world_coreTT:1 "\n   §RКража реликвии:§! §Y$gpm_r_machine_world_core$§!\n\n"
+
+ # The Getaway (good)
+ gpm_operation.5.name:1 "Побег"
+ gpm_operation.5.desc:1 "Побег прошел точно по плану! Экипаж встретился с несколькими медицинскими судами где-то недалеко от границы §Н[fromfrom.owner.GetName]§! иИ наших собственных границ под видом нейтральных медицинских операций. Они исчезли незамеченными! Эти дурни никогда не узнают, кто это был."
+ gpm_operation.5.a:1 "Выполнено на отлично!"
+
+ # The Getaway (enraged)
+ gpm_operation.6.name:1 "Побег"
+ gpm_operation.6.desc:1 "Команда захватила военный корабль у границы империи §Н[fromfrom.owner.GetName]§! и прыгнула с него в наше пространство. Древняя реликвия наша! Однако побег прошел не совсем так, как планировалось: один пост прослушивания сумел отследить сигнатуру их двигателя, и за экипажем тут же последовал целый флот быстроходных фрегатов-перехватчиков. Хитрый план экипажа помог им продержаться достаточно долго, чтобы пересесть на один из наших фрегатов и уйти оттуда через варп. Империя §H[fromfrom.owner.GetName]§! знает, что это были мы, и мы можем ожидать возмездия в той или иной форме."
+ gpm_operation.6.a:1 "Приведите наши флоты в состояние повышенной готовности!"
+
+ # The Getaway (allies)
+ gpm_operation.7.name:1 "Побег"
+ gpm_operation.7.desc:1 "Команда захватила военный корабль у границы империи §Н[fromfrom.owner.GetName]§! и прыгнула с него в наше пространство. Однако побег прошел не совсем по плану: несколько постов прослушивания сумели засечь сигнатуру их двигателя, и за экипажем тут же последовал целый флот быстроходных фрегатов-перехватчиков. Хитрый план экипажа помог им продержаться достаточно долго, чтобы пересесть на один из наших фрегатов и уйти оттуда через варп. Древняя реликвия - наша! Однако теперь вся галактика знает, что мы сделали. Мы можем ожидать ответных действий со стороны §Н[fromfrom.owner.GetName]§! и их союзников."
+ gpm_operation.7.a:1 "Мы справимся с последствиями."
+
+ gpm_operation.8.name:1 "Реликтовые операции: Ложная информация"
+ gpm_operation.8.desc:1 "Во время подготовки к похищению реликвии из империи §H[fromfrom.GetName]§ разведка обнаружила поразительную правду. У них нет реликвии! Либо у них ее никогда не было, либо они каким-то образом потеряли реликвию!"
+
+ # The Getaway Target Empire Notification Event
+ gpm_operation.80.name:1 "Приоритет-0 - чрезвычайная ситуация: Реликвия украдена!"
+ gpm_operation.80.a:1 "Это непростительно."
+    # The Getaway (good)
+ gpm_operation.80.desc:1 "Кто-то §RУКРАЛ§! нашу §Yреликвию§!! Они действовали тщательно и не оставили никаких улик или подсказок... Мы должны проинструктировать наших посланников и офицеров разведки, чтобы они были бдительны на предмет любых разговоров о недавно полученной реликвии в других империях."
+    # The Getaway (enraged)
+ gpm_operation.81.desc:1 "Империя §R[from.owner.GetName]§! §RУКРАЛа§! нашу §Yреликвию§!! По нашим данным, они планировали эту операцию уже очень давно. Они знали обо всех наших мерах безопасности и маршрутах военного патрулирования. Благодаря своей некомпетентности, им не удалось засечь нашу сеть пограничных датчиков. Без сомнения, за этим стоит империя §R[from.owner.GetName]§!"
+    # The Getaway (allies)
+ gpm_operation.82.desc:1 "Империя §R[from.owner.GetName]§! §RУКРАЛа§! нашу §Yреликвию§!! По нашим данным, они планировали эту операцию уже очень давно. Они знали обо всех наших мерах безопасности и маршрутах военного патрулирования. Благодаря своей некомпетентности, им не удалось засечь нашу сеть пограничных датчиков. Наши союзники сообщили нам, что они также отследили сбежавший корабль. Без сомнения, за этим стоит империя §R[from.owner.GetName]§!"
+
+
+ #######################################
+ #### Steal Minor Artifacts
+ #######################################
+
+ operation_gpm_steal_minor_artifacts:1 "Похищение мадые артефактов"
+ operation_gpm_steal_minor_artifacts_desc:1 "Совершите рейд на целевую империю и захватите все малые артефакты, которые сможете найти (WIP)."
+ operation_gpm_steal_minor_artifacts_on_success:1 "§EВ случае успеха:§!\nУкрасть несколько £minor_artifacts£ малых артефактов."
+
+ #######################################
+ #### Steal Minor Artifacts Events
+ #######################################
+
+
+ #######################################
+ #### Gather Relic Information Events
+ #######################################
+
+ gpm_operation.10.name:1 "Отчет о реликвии"
+ gpm_operation.10.desc:1 "Только что поступили разведданные о таинственном артефакте, который нашла империя §H[fromfrom.GetName]§!!"
+
+ gpm_operation.11.name:1 "Отчет о реликвии: детали"
+ gpm_operation.11.desc:1 "§H[fromfrom.GetName]§!, очевидно, нашла очень мощный и редкий артефакт. Они стали называть его §YРеликвия предтеч§!. Эта мощная реликвия, похоже, оказывает какое-то влияние на их империю. Возможно, это даже оружие! Мы должны рассмотреть все варианты."
+
+ gpm_gather_information_gpm_r_time_displacer_relicTT:1 "Мы узнали что §Y[fromfrom.GetName]§! владеет мистиченской реликвией под названием §Y$gpm_r_time_displacer$§!.\n\nРазблокирует казус белли §Y$casus_belli_cb_gpm_r_time_displacer$§!."
+ gpm_gather_information_r_dragon_trophy_relicTT:1 "Мы узнали что §Y[fromfrom.GetName]§! владеет мистиченской реликвией под названием §Y$r_dragon_trophy$§!.\n\nРазблокирует казус белли §Y$casus_belli_cb_gpm_r_dragon_trophy$§!."
+ gpm_gather_information_r_khans_throne_relicTT:1 "Мы узнали что §Y[fromfrom.GetName]§! владеет мистиченской реликвией под названием §Y$r_khans_throne$§!.\n\nРазблокирует казус белли §Y$casus_belli_cb_gpm_r_khans_throne$§!."
+ gpm_gather_information_r_worm_scales_relicTT:1 "Мы узнали что §Y[fromfrom.GetName]§! владеет мистиченской реликвией под названием §Y$r_worm_scales$§!.\n\nРазблокирует казус белли §Y$casus_belli_cb_gpm_r_worm_scales$§!."
+ gpm_gather_information_r_rubricator_relicTT:1 "Мы узнали что §Y[fromfrom.GetName]§! владеет мистиченской реликвией под названием §Y$r_rubricator$§!.\n\nРазблокирует казус белли §Y$casus_belli_cb_gpm_r_rubricator$§!."
+ gpm_gather_information_r_galaxy_relicTT:1 "Мы узнали что §Y[fromfrom.GetName]§! владеет мистиченской реликвией под названием §Y$r_galaxy$§!.\n\nРазблокирует казус белли §Y$casus_belli_cb_gpm_r_galaxy$§!."
+ gpm_gather_information_r_omnicodex_relicTT:1 "Мы узнали что §Y[fromfrom.GetName]§! владеет мистиченской реликвией под названием §Y$r_omnicodex$§!.\n\nРазблокирует казус белли §Y$casus_belli_cb_gpm_r_omnicodex$§!."
+ gpm_gather_information_r_surveyor_relicTT:1 "Мы узнали что §Y[fromfrom.GetName]§! владеет мистиченской реликвией под названием §Y$r_surveyor$§!.\n\nРазблокирует казус белли §Y$casus_belli_cb_gpm_r_surveyor$§!."
+ gpm_gather_information_r_galatron_relicTT:1 "Мы узнали что §Y[fromfrom.GetName]§! владеет мистиченской реликвией под названием §Y$r_galatron$§!.\n\nРазблокирует казус белли §Y$casus_belli_cb_galatron$§!."
+ gpm_gather_information_r_ancient_sword_relicTT:1 "Мы узнали что §Y[fromfrom.GetName]§! владеет мистиченской реликвией под названием §Y$r_ancient_sword$§!.\n\nРазблокирует казус белли §Y$casus_belli_cb_gpm_r_ancient_sword$§!."
+ gpm_gather_information_r_severed_head_relicTT:1 "Мы узнали что §Y[fromfrom.GetName]§! владеет мистиченской реликвией под названием §Y$r_severed_head$§!.\n\nРазблокирует казус белли §Y$casus_belli_cb_gpm_r_severed_head$§!."
+ gpm_gather_information_r_prethoryn_queen_relicTT:1 "Мы узнали что §Y[fromfrom.GetName]§! владеет мистиченской реликвией под названием §Y$r_prethoryn_queen$§!.\n\nРазблокирует казус белли §Y$casus_belli_cb_gpm_r_prethoryn_queen$§!."
+ gpm_gather_information_r_unbidden_warlock_relicTT:1 "Мы узнали что §Y[fromfrom.GetName]§! владеет мистиченской реликвией под названием §Y$r_unbidden_warlock$§!.\n\nРазблокирует казус белли §Y$casus_belli_cb_gpm_r_unbidden_warlock$§!."
+ gpm_gather_information_r_contingency_core_relicTT:1 "Мы узнали что §Y[fromfrom.GetName]§! владеет мистиченской реликвией под названием §Y$r_contingency_core$§!.\n\nРазблокирует казус белли §Y$casus_belli_cb_gpm_r_contingency_core$§!."
+ gpm_gather_information_r_zro_crystal_relicTT:1 "Мы узнали что §Y[fromfrom.GetName]§! владеет мистиченской реликвией под названием §Y$r_zro_crystal$§!.\n\nРазблокирует казус белли §Y$casus_belli_cb_gpm_r_zro_crystal$§!."
+ gpm_gather_information_r_the_last_baol_relicTT:1 "Мы узнали что §Y[fromfrom.GetName]§! владеет мистиченской реликвией под названием §Y$r_the_last_baol$§!.\n\nРазблокирует казус белли §Y$casus_belli_cb_gpm_r_the_last_baol$§!."
+ gpm_gather_information_r_the_defragmentor_relicTT:1 "Мы узнали что §Y[fromfrom.GetName]§! владеет мистиченской реликвией под названием §Y$r_the_defragmentor$§!.\n\nРазблокирует казус белли §Y$casus_belli_cb_gpm_r_the_defragmentor$§!."
+ gpm_gather_information_r_reality_perforator_relicTT:1 "Мы узнали что §Y[fromfrom.GetName]§! владеет мистиченской реликвией под названием §Y$r_reality_perforator$§!.\n\nРазблокирует казус белли §Y$casus_belli_cb_gpm_r_reality_perforator$§!."
+ gpm_gather_information_r_pox_sample_relicTT:1 "Мы узнали что §Y[fromfrom.GetName]§! владеет мистиченской реликвией под названием §Y$r_pox_sample$§!.\n\nРазблокирует казус белли §Y$casus_belli_cb_gpm_r_pox_sample$§!."
+ gpm_gather_information_r_cryo_core_relicTT:1 "Мы узнали что §Y[fromfrom.GetName]§! владеет мистиченской реликвией под названием §Y$r_cryo_core$§!.\n\nРазблокирует казус белли §Y$casus_belli_cb_gpm_r_cryo_core$§!."
+ gpm_gather_information_r_war_forge_relicTT:1 "Мы узнали что §Y[fromfrom.GetName]§! владеет мистиченской реликвией под названием §Y$r_war_forge$§!.\n\nРазблокирует казус белли §Y$casus_belli_cb_gpm_r_war_forge$§!."
+ gpm_gather_information_gpm_r_ai_architect_relicTT:1 "Мы узнали что §Y[fromfrom.GetName]§! владеет мистиченской реликвией под названием §Y$gpm_r_ai_architect$§!.\n\nРазблокирует казус белли §Y$casus_belli_cb_gpm_r_ai_architect$§!."
+ gpm_gather_information_gpm_r_banner_of_the_fallen_relicTT:1 "Мы узнали что §Y[fromfrom.GetName]§! владеет мистиченской реликвией под названием §Y$gpm_r_banner_of_the_fallen$§!.\n\nРазблокирует казус белли §Y$casus_belli_cb_gpm_r_banner_of_the_fallen$§!."
+ gpm_gather_information_gpm_r_cloaking_device_relicTT:1 "Мы узнали что §Y[fromfrom.GetName]§! владеет мистиченской реликвией под названием §Y$gpm_r_cloaking_device$§!.\n\nРазблокирует казус белли §Y$casus_belli_cb_gpm_r_cloaking_device$§!."
+ gpm_gather_information_gpm_r_codex_administratum_relicTT:1 "Мы узнали что §Y[fromfrom.GetName]§! владеет мистиченской реликвией под названием §Y$gpm_r_codex_administratum$§!.\n\nРазблокирует казус белли §Y$casus_belli_cb_gpm_r_codex_administratum$§!."
+ gpm_gather_information_gpm_r_datacube_relicTT:1 "Мы узнали что §Y[fromfrom.GetName]§! владеет мистиченской реликвией под названием §Y$gpm_r_datacube$§!.\n\nРазблокирует казус белли §Y$casus_belli_cb_gpm_r_datacube$§!."
+ gpm_gather_information_gpm_r_earthquake_engine_relicTT:1 "Мы узнали что §Y[fromfrom.GetName]§! владеет мистиченской реликвией под названием §Y$gpm_r_earthquake_engine$§!.\n\nРазблокирует казус белли §Y$casus_belli_cb_gpm_r_earthquake_engine$§!."
+ gpm_gather_information_gpm_r_encrypted_sct_relicTT:1 "Мы узнали что §Y[fromfrom.GetName]§! владеет мистиченской реликвией под названием §Y$gpm_r_encrypted_sct$§!.\n\nРазблокирует казус белли §Y$casus_belli_cb_gpm_r_encrypted_sct$§!."
+ gpm_gather_information_gpm_r_encyclopedia_galactica_relicTT:1 "Мы узнали что §Y[fromfrom.GetName]§! владеет мистиченской реликвией под названием §Y$gpm_r_encyclopedia_galactica$§!.\n\nРазблокирует казус белли §Y$casus_belli_cb_gpm_r_encyclopedia_galactica$§!."
+ gpm_gather_information_gpm_r_enigmatic_advisor_relicTT:1 "Мы узнали что §Y[fromfrom.GetName]§! владеет мистиченской реликвией под названием §Y$gpm_r_enigmatic_advisor$§!.\n\nРазблокирует казус белли §Y$casus_belli_cb_gpm_r_enigmatic_advisor$§!."
+ gpm_gather_information_gpm_r_experimental_weapon_relicTT:1 "Мы узнали что §Y[fromfrom.GetName]§! владеет мистиченской реликвией под названием §Y$gpm_r_experimental_weapon$§!.\n\nРазблокирует казус белли §Y$casus_belli_cb_gpm_r_experimental_weapon$§!."
+ gpm_gather_information_gpm_r_fallout_emergency_replicator_relicTT:1 "Мы узнали что §Y[fromfrom.GetName]§! владеет мистиченской реликвией под названием §Y$gpm_r_fallout_emergency_replicator$§!.\n\nРазблокирует казус белли §Y$casus_belli_cb_gpm_r_fallout_emergency_replicator$§!."
+ gpm_gather_information_gpm_r_gravity_engine_relicTT:1 "Мы узнали что §Y[fromfrom.GetName]§! владеет мистиченской реликвией под названием §Y$gpm_r_gravity_engine$§!.\n\nРазблокирует казус белли §Y$casus_belli_cb_gpm_r_gravity_engine$§!."
+ gpm_gather_information_gpm_r_manufactorium_ship_relicTT:1 "Мы узнали что §Y[fromfrom.GetName]§! владеет мистиченской реликвией под названием §Y$gpm_r_manufactorium_ship$§!.\n\nРазблокирует казус белли §Y$casus_belli_cb_gpm_r_manufactorium_ship$§!."
+ gpm_gather_information_gpm_r_mysterious_shield_generator_relicTT:1 "Мы узнали что §Y[fromfrom.GetName]§! владеет мистиченской реликвией под названием §Y$gpm_r_mysterious_shield_generator$§!.\n\nРазблокирует казус белли §Y$casus_belli_cb_gpm_r_mysterious_shield_generator$§!."
+ gpm_gather_information_gpm_r_positronic_microchip_relicTT:1 "Мы узнали что §Y[fromfrom.GetName]§! владеет мистиченской реликвией под названием §Y$gpm_r_positronic_microchip$§!.\n\nРазблокирует казус белли §Y$casus_belli_cb_gpm_r_positronic_microchip$§!."
+ gpm_gather_information_gpm_r_power_core_relicTT:1 "Мы узнали что §Y[fromfrom.GetName]§! владеет мистиченской реликвией под названием §Y$gpm_r_power_core$§!.\n\nРазблокирует казус белли §Y$casus_belli_cb_gpm_r_power_core$§!."
+ gpm_gather_information_gpm_r_q_storage_compressor_relicTT:1 "Мы узнали что §Y[fromfrom.GetName]§! владеет мистиченской реликвией под названием §Y$gpm_r_q_storage_compressor$§!.\n\nРазблокирует казус белли §Y$casus_belli_cb_gpm_r_q_storage_compressor$§!."
+ gpm_gather_information_gpm_r_quantum_sphere_relicTT:1 "Мы узнали что §Y[fromfrom.GetName]§! владеет мистиченской реликвией под названием §Y$gpm_r_quantum_sphere$§!.\n\nРазблокирует казус белли §Y$casus_belli_cb_gpm_r_quantum_sphere$§!."
+ gpm_gather_information_gpm_r_self_assembly_hub_relicTT:1 "Мы узнали что §Y[fromfrom.GetName]§! владеет мистиченской реликвией под названием §Y$gpm_r_self_assembly_hub$§!.\n\nРазблокирует казус белли §Y$casus_belli_cb_gpm_r_self_assembly_hub$§!."
+ gpm_gather_information_gpm_r_self_repairing_obelisk_relicTT:1 "Мы узнали что §Y[fromfrom.GetName]§! владеет мистиченской реликвией под названием §Y$gpm_r_self_repairing_obelisk$§!.\n\nРазблокирует казус белли §Y$casus_belli_cb_gpm_r_self_repairing_obelisk$§!."
+ gpm_gather_information_gpm_r_sentinel_queen_relicTT:1 "Мы узнали что §Y[fromfrom.GetName]§! владеет мистиченской реликвией под названием §Y$gpm_r_sentinel_queen$§!.\n\nРазблокирует казус белли §Y$casus_belli_cb_gpm_r_sentinel_queen$§!."
+ gpm_gather_information_gpm_r_soul_gem_relicTT:1 "Мы узнали что §Y[fromfrom.GetName]§! владеет мистиченской реликвией под названием §Y$gpm_r_soul_gem$§!.\n\nРазблокирует казус белли §Y$casus_belli_cb_gpm_r_soul_gem$§!."
+ gpm_gather_information_gpm_r_venerable_dreadnaught_relicTT:1 "Мы узнали что §Y[fromfrom.GetName]§! владеет мистиченской реликвией под названием §Y$gpm_r_venerable_dreadnaught$§!.\n\nРазблокирует казус белли §Y$casus_belli_cb_gpm_r_venerable_dreadnaught$§!."
+ gpm_gather_information_gpm_r_zero_energy_generator_relicTT:1 "Мы узнали что §Y[fromfrom.GetName]§! владеет мистиченской реликвией под названием §Y$gpm_r_zero_energy_generator$§!.\n\nРазблокирует казус белли §Y$casus_belli_cb_gpm_r_zero_energy_generator$§!."
+ gpm_gather_information_gpm_r_alien_eggs_relicTT:1 "Мы узнали что §Y[fromfrom.GetName]§! владеет мистиченской реликвией под названием §Y$gpm_r_alien_eggs$§!.\n\nРазблокирует казус белли §Y$casus_belli_cb_gpm_r_alien_eggs$§!."
+ gpm_gather_information_gpm_r_machine_world_core_relicTT:1 "Мы узнали что §Y[fromfrom.GetName]§! владеет мистиченской реликвией под названием §Y$gpm_r_machine_world_core$§!.\n\nРазблокирует казус белли §Y$casus_belli_cb_gpm_r_machine_world_core$§!."
+
+ gpm_gather_information_NO_RELIC:1 "Выяснилось что §Y[fromfrom.GetName]§! не владеет никакой реликвией. Наша разведка ошиблась!\nЧасть влияния была возвращена."
+
+ #######################################
+ #### Sabotage Planet
+ #######################################
+
+ operation_gpm_sabotage_planet:1 "Саботировать планету"
+ operation_gpm_sabotage_planet_desc:1 "Саботировать планету, изменяя её геологические или биосферные свойства или заселяя её враждебными формами жизни (WIP)."
+ operation_gpm_sabotage_planet_on_success:1 "§EВ случае успеха:§!\nПрименить плохой модификатор планеты к целевой или случайной планете, принадлежащей целевой империи (WIP)."
+
+ #######################################
+ #### Sabotage Planet Events
+ #######################################

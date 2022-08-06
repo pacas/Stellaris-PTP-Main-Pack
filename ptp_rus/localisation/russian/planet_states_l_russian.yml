@@ -16,7 +16,7 @@
   RT_PS_AUTHORITARIAN: "Великий принц"
   gov_planet_state_militarist: "$gov_planet_state_egalitarian$"
   gov_planet_state_militarist_desc: "$gov_planet_state_egalitarian_desc$"
-  RT_PS_MILITARIST: "Главный претор"
+  RT_PS_MILITARIST: "Королева"
   gov_planet_state_pacifist: "$gov_planet_state_egalitarian$"
   gov_planet_state_pacifist_desc: "$gov_planet_state_egalitarian_desc$"
   RT_PS_PACIFIST: "Архонт"
@@ -108,4 +108,4 @@
   opinion_destroyed_ps_pacifist_trade: "$opinion_destroyed_ps_egalitarian_trade$"
   opinion50: "+50 £opinion£ мнения"
   # Others
-  PS_VERSION: "Planet States v1.4.0"
+  PS_VERSION: "Planet States v1.6.2"

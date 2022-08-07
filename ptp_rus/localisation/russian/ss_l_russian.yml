@@ -26,7 +26,7 @@
  job_decompressor_drone_effect_desc:0 "$job_decompressor_drone_plural$ turn £sr_hypernuclear£ §Y$sr_hypernuclear$§! into £energy£ §Y$energy$§! and £minerals£ §Y$minerals$§!"
  mod_job_decompressor_drone_add:0 "$job_decompressor_drone$ Jobs"
 
- planet_decompressor:0 "Decompressor Jobs"
+ planet_decompressors:0 "Decompressor Jobs"
 
  job_muonic_reactor:0 "Muonic Reactor Technician"
  job_muonic_reactor_plural:0 "Muonic Reactor Technicians"
@@ -42,7 +42,7 @@
  job_muonic_reactor_drone_effect_desc:0 "$job_muonic_reactor_drone_plural$ turn £muonic_hydrogen£ §Y$sr_muonic_hydrogen$§! into £energy£ §Y$energy$§!"
  mod_job_muonic_reactor_drone_add:0 "$job_muonic_reactor_drone$ Jobs"
 
- planet_muonic_reactor:0 "Muonic Reactor Jobs"
+ planet_muonic_reactors:0 "Muonic Reactor Jobs"
 
  job_quantanium_synthesiser:0 "Quantanium Synthesizer"
  job_quantanium_synthesiser_plural:0 "Quantanium Synthesizers"
@@ -58,7 +58,7 @@
  job_quantanium_synthesiser_drone_effect_desc:0 "$job_quantanium_synthesiser_drone_plural$ turn £minerals£ §Y$minerals$§! into £quantanium£ §Y$sr_quantanium$§!"
  mod_job_quantanium_synthesiser_drone_add:0 "$job_quantanium_synthesiser_drone$ Jobs"
 
- planet_quantanium_synthesiser:0 "Quantanium Synthesizer Jobs"
+ planet_synthesisers:0 "Quantanium Synthesizer Jobs"
 
  job_quantanium_researcher:0 "Quantanium Researcher"
  job_quantanium_researcher_plural:0 "Quantanium Researchers"
@@ -100,6 +100,8 @@
  job_ss_cosmologist_effect_desc:0 "£job_ss_cosmologist£ $job_ss_cosmologist_plural$ turn £consumer_goods£ §Y$consumer_goods$§! into £unity£ §Y$unity$§!, £mod_planet_amenities_add£ §Y$PLANET_AMENITIES_TITLE$§! and £physics£ §Y$physics_research$§!"
  mod_job_ss_cosmologist_add:0 "$job_ss_cosmologist$ Jobs"
  mod_job_ss_cosmologist_per_pop:0 "§G+1§! $job_ss_cosmologist$ Job per $VALUE$ Pops"
+
+ planet_cosmologists:0 "Cosmologist Jobs"
 
  job_ss_elder:0 "Elder"
  job_ss_elder_plural:0 "Elders"
@@ -233,16 +235,46 @@
  SS_CONVERT_ABYSS_BLACK_HOLE:0 "Abyssal Conversion"
  SS_CONVERT_ABYSS_BLACK_HOLE_DESC:0 "We can finalise the conversion of a star into an abyssal black hole by deploying a construction ship to its location."
 
- ap_hive_ascension:0 "Hive Ascension"
+ ap_hive_ascension:0 "§HHive Ascension§!"
  ap_hive_ascension_desc:0 "We are the ascension of flesh and life, we are eternal, adaptable, limitless. Our form and capability is limited only by what the hive dreams of."
  requires_ap_hive_worlds:1 "$TRIGGER_FAIL$Requires the §Y$ap_hive_worlds$§! Ascension Perk."
- ap_hive_ascension_modifier_desc:0 "§HVirulancy:§! Grants the §Y$bombardment_hive_conversion$§! bombardment stance, which converts bombarded worlds into hive worlds.\n\n§HLimitless:§! Our hive worlds grow over time, increasing planetary size once our planets reach certain population thresholds."
+ ap_hive_ascension_modifier_desc:0 "§HVirulancy:§! Grants the §Y$bombardment_hive_conversion$§! bombardment stance, which converts worlds bombarded to §Y100% devastation§! into hive worlds.\n\n§HLimitless:§! Our hive worlds grow over time, increasing planetary size once our planets reach certain population thresholds."
 
+ ap_hive_flesh_ascension:0 "§HAscension of the Flesh§!"
+ ap_hive_flesh_ascension_desc:0 "That myriad of forms; the essence that makes us aligns with the mind's will. We are the purity of flesh given will."
+ ap_hive_flesh_ascension_modifier_desc:0 "§HUnbounded Liveliness:§! Evenly distributes additional £mod_planet_pop_assembly_mult£ §Y$MOD_PLANET_POP_ASSEMBLY_ORGANIC_ADD$§! based on the £food£ §Yfood§! income to £pops£ §Yempire population§! ratio amongst our planets.\n\n§HLimitless:§! §YIf we have the Hive Worlds ascension perk§!, our hive worlds grow in size when the number of pops reaches 2.5 times the current planet size, up to 5 times."
+ ss_ap_hive_flesh_planet_growth:0 "§HHive Growth§!"
+ ss_ap_hive_flesh_planet_growth_desc:0 "The very planet grows; layering vast nodes and caverns atop each other to facilitate greater drone populations and productivity.\n§YSource:§! §HAscension of the Flesh§! Ascension Perk"
+
+ ap_hive_mind_ascension:0 "§HAscension of Will§!"
+ ap_hive_mind_ascension_desc:0 "The mind thinks, dreams and commands across worlds and uncountable drones. The disunity of individual minds is dominated by the will of the hive."
+ ap_hive_mind_ascension_modifier_desc:0 "§HOrganic Domination:§! grants the §Y$bombardment_hive_seeding$§! bombardment stance, converts pops on bombarbed worlds into Infested Armies, which attack the planet.\n§YIf we have the Hive Worlds Ascension Perk§!, the planet will be converted into a hive world once all planetside pops are dead.\n\n§HDominated Minds:§! Enslaved pops produce an extra 4 £physics£ £society£ £engineering£ §YResearch Points§!. §YDevouring Swarms§! get this bonus and an additional +1 £mod_planet_pop_assembly_mult£ §Y$MOD_PLANET_POP_ASSEMBLY_ORGANIC_ADD$§! per §YPurged§! pop."
+ ss_ap_hive_mind_research:0 "§HEnthralled Slaves§!"
+ ss_ap_hive_mind_research_desc:0 "The will of the mind has dominated the thoughts of the livestock on this world for it's own needs.\n§YSource:§! §HAscension of Will§! Ascension Perk"
+ ss_ap_hive_mind_research_2:0 "§HDevoured Minds§!"
+ ss_ap_hive_mind_research_2_desc:0 "Devouring prey nourishes not only the body, but also the mind. It's thought and memories are forfeit. \n§YSource:§! §HAscension of Will§! Ascension Perk"
+ ss_ap_hive_mind_research_3:0 "§HDevoured Minds§!"
+ ss_ap_hive_mind_research_3_desc:0 "Devouring prey nourishes not only the body, but also the mind. It's thought and memories are forfeit. \n§YSource:§! §HAscension of Will§! Ascension Perk"
+ mod_planet_livestock_engineering_research_produces_add:0 "£engineering£ $£engineering£$ from £job_livestock£ $job_livestock_plural$"
+ mod_planet_livestock_physics_research_produces_add:0 "£physics£ $£physics£$ from £job_livestock£ $job_livestock_plural$"
+ mod_planet_livestock_society_research_produces_add:0 "£society£ $£society£$ from £job_livestock£ $job_livestock_plural$"
+
+ mod_pop_category_purge_engineering_research_produces_add:0 "£engineering£ $£engineering£$ from £job_purge£ $job_purge_plural$ pops"
+ mod_pop_category_purge_physics_research_produces_add:0 "£physics£ $£physics£$ from £job_purge£ $job_purge_plural$ pops"
+ mod_pop_category_purge_society_research_produces_add:0 "£society£ $£society£$ from £job_purge£ $job_purge_plural$ pops"
+
+ ap_hive_genetic_memory:0 "§HAncestral Genetics§!"
+ ap_hive_genetic_memory_desc:0 "The memories, experiences, knowledge of the hive shall not be passed on simply through archives and the re-telling of stories, but also in our genetics, coded into the very being of the hive itself."
+ ap_hive_genetic_memory_modifier_desc:0 "§HInherited Knowledge§!: When a leader dies, a random leader of the same type will gain §G+50%§! of the passed leader's total experience.\n\n§HCollective Experience§!: £unity£ §YUnity§! output is increased by §G+0.25%§! for every year that has passed since selecting this ascension perk."
+ ss_genetic_memory_mod:0 "§HCollective Experience§!"
+ ss_genetic_memory_mod_desc:0 "The knowledge, experiences and lives of the Mind live not only through memory, but also through our very being.\n\nSource: Ancestral Genetics, our unity output increases over time."
+ MESSAGE_LEADER_GENETIC_MEMORY_TITLE:0 "Knowledge Inherited"
+ MESSAGE_LEADER_GENETIC_MEMORY:0 "$LEADER_NEW|Y$ has inherited knowledge from the recent death of $LEADER_OLD|Y$"
 
  ap_pacifist_ascension_within:0 "§HEnlightenment§!"
  ap_pacifist_ascension_within_desc:0 "To ascend, we must look within ourselves. The material needs of existance are nought, secondary to the pursuit of eternal enlightenment. Everything else is simply a distraction."
  ap_must_be_pacifist:0 "$TRIGGER_FAIL$Must be some degree of §YPacifist§!"
- ap_ascension_within_modifier_desc:0 "§HAscension Within§!: Provides §G+5§! £stability£ §Ystability§! and §G+10%§! £science£ §YResearch Speed§! when not at war."
+ ap_ascension_within_modifier_desc:0 "§HAscension Within§!: Provides a §G-30%§! £pops£ §Ypop upkeep§! reduction and §G+10%§! £science£ §YResearch Speed§! bonus when not at war."
 
  ap_flagship:0 "Mars Project"
  ap_flagship_desc:0 "The Mars Project proposes to build the largest, most indomitable warship ever conceived. It will inspire our people and act as a symbol of sovereignty for all."
@@ -387,8 +419,11 @@
 
  ap_militarist_volunteer_fleet:0 "§HMilitarised Civilian Fleet§!"
  ap_militarist_volunteer_fleet_desc:0 "A militarised civilian fleet ensures we can address all contingencies of war."
- ap_militarist_volunteer_fleet_modifier_desc:0 "§HRepurposed Fleet§!: If our used naval capacity is below half of our total naval capacity, we will receive free warships with no upkeep. These warships do not disengage and have §R-25%§! armour and shields and §R-10§! accuracy."
+ ap_militarist_volunteer_fleet_modifier_desc:0 "Grants acces to the §YReclaim Civilian Fleets§! edict:\nIf our used naval capacity is below half of our total naval capacity, we will receive free warships with §G-25%§! reduced upkeep. These warships do not disengage and have §R-25%§! armour and shields, §R-15§! accuracy and weapon range."
  ss_ap_militarist_volunteer_fleet_1:0 "Volunteer Fleet"
+ ap_militarist_volunteer_fleet_edict:0 "§HReclaim Civilian Fleets§!"
+ ap_militarist_volunteer_fleet_edict_desc:0 "We will institute mandatory civilian vessel construction requirements such that they can easily re-fitted for combat purposes. A mandatory buy-back every §Y2§! years will acquire some of these prepared civilian vessels for the navy."
+
 
  ap_pacifist_body:0 "§HPeace in Body§!"
  ap_pacifist_body_desc:0 "The body is the vessel of the mind which labors for the mind. Peace within in limits and capabilites unlocks a longevity and prosperity seldom found elsewhere."
@@ -396,21 +431,25 @@
 
  ap_pacifist_soul:0 "§HPacifist Diplomacy§!"
  ap_pacifist_soul_desc:0 "While war and conflict is despicable; there does exist challenges to peace. Our defence then, is to engage in diplomacy to ensure war is never a consideration."
- ap_pacifist_soul_modifier_desc:0 "§HWarmongering disdain:§! Other empires that claim your territory recieve a §R-25%§! £influence£ §YInfluence§! and §R-25%§! £diplo_weight£ §Ydiplomatic weight§! penalty.\n\n§HAura of Peace:§! Enemies that wage war on you recieve a §R-60%§! sublight speed penalty for §Y1 year§!."
+ ap_pacifist_soul_modifier_desc:0 "§HWarmongering disdain:§! Other empires that claim your territory recieve a §R-25%§! £influence£ §YInfluence§! and §R-25%§! £diplo_weight£ §Ydiplomatic weight§! penalty.\n\n§HCost of War:§! Enemies that wage war on you recieve a §R-20%§! £military_ship£ §YNaval Capacity§!, §R+20%§! §YShip Upkeep§! and §R-15%§! £alloys£ §YMonthly Alloy Income§! penalty."
  ss_ap_pacifist_soul_claim:0 "Pacifist Claims"
  ss_ap_pacifist_soul_claim_desc:0 "Our claims on a pacifist empire is causing a political backlash, reducing our political efficacy.\n\nSource: we have claims on another empire with §YPacifist Diplomacy§! ascension perk."
 
- ss_ap_pacifist_soul:0 "Political Interference"
- ss_ap_pacifist_soul_desc:0 "Political interference from our opponents is affecting our ability to mobilise military assets."
+ ss_ap_pacifist_soul:0 "§HCost of War§!"
+ ss_ap_pacifist_soul_desc:0 "Political interference, sanctions and targetted economic enforcement from our opponents is hampering our ability to maintain current and build new military assets."
 
  ap_materialist_future_seekers:0 "§HExplorers of the Frontier§!"
  ap_materialist_future_seekers_desc:0 "What awaits us in great expanse of the new frontier? Technological marvels? Galactic Wonders? The secrets of the Reality? Whatever it is, we greet it with open arms."
- ap_materialist_future_seekers_modifier_desc:0 "§HFuture Seekers:§! Our £job_researcher£ §Y$job_researcher_plural$§! have maximum happiness.\n\n§HLost Relics:§! We gain £physics£ £society£ £engineering£ §YResearch Points§! equal to the number of £minor_artifacts£ §YMinor Artifacts§! we possess."
+ ap_materialist_future_seekers_modifier_desc:0 "§HFuture Seekers:§! Our £job_researcher£ §Y$job_researcher_plural$§! have +50% £happiness£ §YHappiness§!.\n\n§HLost Relics:§! Cosmologist jobs gain additional £physics£ £society£ £engineering£ §YResearch Points§! output equal to the number of §Y0.2§! times the £minor_artifacts£ §YMinor Artifacts§! we possess, bonus is capped at 250 £minor_artifacts£ §YMinor Artifacts§!."
  ss_ap_materialist_future_seekers:0 "Future Seekers"
  ss_ap_materialist_future_seekers_desc:0 "This pop is enthralled by possibilities of the future."
  ss_ap_materialist_future_seekers_artifacts:0 "Secrets of the Past"
- ss_ap_materialist_future_seekers_artifacts_desc:0 "Our archive of forgotten relics guides our research and understanding.\n\nWe gain research points depending on our stockpile of §Yminor artifacts§!."
+ ss_ap_materialist_future_seekers_artifacts_desc:0 "Our archive of forgotten relics guides our research and understanding.\n\nWe gain research points depending on our stockpile of §Yminor artifacts§!. Bonus is capped at 250 £minor_artifacts£ §YMinor Artifacts§!"
  ap_must_be_materialist:0 "$TRIGGER_FAIL$Must be some degree of §YMaterialist§!"
+
+ mod_planet_cosmologists_physics_research_produces_add:0 "£physics£ $physics$ from £job_ss_cosmologist£ $job_ss_cosmologist_plural$"
+ mod_planet_cosmologists_society_research_produces_add:0 "£society£ $society$ from £job_ss_cosmologist£ $job_ss_cosmologist_plural$"
+ mod_planet_cosmologists_engineering_research_produces_add:0 "£engineering£ $engineering$ from £job_ss_cosmologist£ $job_ss_cosmologist_plural$"
 
  ap_materialist_material_masters:0 "§HMasters of the Material§!"
  ap_materialist_material_masters_desc:0 "Mathematics and logic guide us to the ultimate solution, to the secrets of the universe. Our mastery of those material things gives us an enigmatic understanding without equal."
@@ -461,15 +500,47 @@
 
  ap_machine_networks:0 "§HNetwork Nodes§!"
  ap_machine_networks_desc:0 "Our understanding of computing; of logical algorithms; of networks is unrivalled, after all, we are the computer. The power of computers aligned in networks is limitless."
- ap_machine_networks_modifier_desc:0 "§HGalactic Networking§!: Each planet with a §Y$building_machine_capital$§! (Level 2 capital building) or for each empire with more than 60 infiltration, we gain +10 £mod_country_admin_cap_add£ §Y$MOD_COUNTRY_ADMIN_CAP_ADD$§!, +10 £energy£ §Yenergy§! and +10 £physics£ £society£ £engineering£ §YResearch Points§!."
+ ap_machine_networks_modifier_desc:0 "§HGalactic Networking§!: Each planet with a §Y$building_machine_capital$§! (Level 2 capital building), we gain +10 £energy£ §Yenergy§! and +10 £physics£ £society£ £engineering£ §YResearch Points§! and for each empire with more than 40 infiltration, we gain double this bonus."
  ss_ap_machine_networks:0 "§HNetwork Nodes§!"
  ss_ap_machine_networks_desc:0 "Masterful interlinking of network production nodes and hijacked external nodes increases our computational capacity and energy production.\n\nUpgraded planetary capitals and spy networks with >60 infiltration provide flat energy, research and administration cap bonuses."
+ mod_country_base_physics_research_produces_add:0 "$mod_country_physics_research_produces_mult$"
+ mod_country_base_society_research_produces_add:0 "$mod_country_society_research_produces_mult$"
+ mod_country_base_engineering_research_produces_add:0 "$mod_country_engineering_research_produces_mult$"
+
+ ap_machine_infinite_architecture:0 "§HInfinite Architecture§!"
+ ap_machine_infinite_architecture_desc:0 "We are not restricted by the frailties of flesh. Nor is our potential limited by form or intelligence. We build pillars of greatness, adaptable to any of our needs."
+ ap_machine_infinite_architecture_modifier_desc:0 "§HAdaptable Systems§!: Each building on a planet provides a small bonus depending on the planet's designation.\n\n§HAdaptable Systems§!: Provides access to the §YInfrastructure Management Complex§! building which provides increased pop assembly speed at the cost of increased £energy£ §YEnergy§! upkeep."
+ ss_ap_machine_infinite_architecture_1:0 "§HAdaptable Systems§!"
+ ss_ap_machine_infinite_architecture_1_desc:0 "Adaptability in our infrastructure improves planet-wide capability.\n\nSource: §HInfinite Architecture§! Ascension Perk. Bonus increases with the number of buildings and depends on colony designation."
+ ss_ap_machine_infinite_architecture_2:0 "$ss_ap_machine_infinite_architecture_1$"
+ ss_ap_machine_infinite_architecture_2_desc:0 "$ss_ap_machine_infinite_architecture_1_desc$"
+ ss_ap_machine_infinite_architecture_3:0 "$ss_ap_machine_infinite_architecture_1$"
+ ss_ap_machine_infinite_architecture_3_desc:0 "$ss_ap_machine_infinite_architecture_1_desc$"
+ ss_ap_machine_infinite_architecture_4:0 "$ss_ap_machine_infinite_architecture_1$"
+ ss_ap_machine_infinite_architecture_4_desc:0 "$ss_ap_machine_infinite_architecture_1_desc$"
+ ss_ap_machine_infinite_architecture_5:0 "$ss_ap_machine_infinite_architecture_1$"
+ ss_ap_machine_infinite_architecture_5_desc:0 "$ss_ap_machine_infinite_architecture_1_desc$"
+ ss_ap_machine_infinite_architecture_6:0 "$ss_ap_machine_infinite_architecture_1$"
+ ss_ap_machine_infinite_architecture_6_desc:0 "$ss_ap_machine_infinite_architecture_1_desc$"
+ ss_ap_machine_infinite_architecture_7:0 "$ss_ap_machine_infinite_architecture_1$"
+ ss_ap_machine_infinite_architecture_7_desc:0 "$ss_ap_machine_infinite_architecture_1_desc$"
+ ss_ap_machine_infinite_architecture_8:0 "$ss_ap_machine_infinite_architecture_1$"
+ ss_ap_machine_infinite_architecture_8_desc:0 "$ss_ap_machine_infinite_architecture_1_desc$"
+ building_machine_IMC:0 "Infrastructure Management Complex"
+ building_machine_IMC_desc:0 "This structure channels administrative clock cycles into the micromanagement of individual drones and resource allocations to increase node development rates."
+ mod_planet_pops_energy_upkeep_mult:0 "£energy£ §YEnergy§! upkeep from £pops£ pops."
 
  ap_machine_systems:0 "§HSpecialised Systems§!"
  ap_machine_systems_desc:0 "The unparalleled coordination of our intelligence allows us to specialize individual nodes, systems and planets to an incredible degree, such that our systems run with uncomparable efficiency."
  ap_machine_systems_modifier_desc:0 ""
- col_machine_mining:0 "Specialised Mining World"
- col_machine_mining_desc:1 "Specialised and efficient extraction and refining systems dominate this world's infrastructure."
+
+ ss_ap_hive_flesh_growth:0 "§HAscension of the Flesh§!"
+ ss_ap_hive_flesh_growth_desc:0 "Additional organic material is being channeled into spawning basins to increase gestation and growth rates of drone populations.\n\n§YSource:§! §HAscension of the Flesh§! Ascension Perk."
+
+ mod_country_sr_hypernuclear_produces_mult: "Monthly £hypernuclear£ §Y$sr_hypernuclear$§!"
+ mod_country_sr_muonic_hydrogen_produces_mult: "Monthly £muonic_hydrogen£ §Y$sr_muonic_hydrogen$§!"
+
+ ss_str_resource_deficit:0 "Strategic Resource Shortage"
 
  #################
  # TECHS
@@ -610,7 +681,7 @@
  CRUISE_MISSILE_1:0 "Cruise Missiles"
  CRUISE_MISSILE_1_DESC:0 "These large missiles have a large propellant load giving them a long range and high velocity. This comes at a sacrifice of payload and missile defences."
  CRUISE_MISSILE_2:0 "Advanced Cruise Missiles"
- CRUISE_MISSILE_DESC:0 "Improvements to thrusters onboard the weapon allow for a greater payload, lending to a more potent weapon."
+ CRUISE_MISSILE_2_DESC:0 "Improvements to thrusters onboard the weapon allow for a greater payload, lending to a more potent weapon."
  CRUISE_MISSILE_3:0 "Hunter-Seeker Cruise Missiles"
  CRUISE_MISSILE_3_DESC:0 "Fine-tuning improvements to these weapons has lead to the pinnacle of this weapon system."
  CRUISE_MISSILE_4:0 "Antimatter Cruise Missiles"
@@ -776,11 +847,11 @@
  sr_quantanium_desc:1 "Quantanium is a broad term for matter that is temporally entangled. It may allow us to manipulate space-time on a large scale."
 
  building_quantanium_lab:0 "Temporal Research Laboratory"
- building_quantanium_lab_desc:0 "Utilising quantanium, we cnn bend space time to manipulate experiments to benefit us. Understanding the behaviour of quantanium is also inherently useful."
+ building_quantanium_lab_desc:0 "Utilising quantanium, we can bend space time to manipulate experiments to benefit us. Understanding the behaviour of quantanium is also inherently useful."
  quantanium_lab_desc:0 "Automatically generates £physics£ £society£ £engineering£ §YResearch Points§!"
 
  building_quantanium_plant:0 "Quantanium Synthesis Plant"
- building_quantanium_plant_desc:0 "Using controlled nuclear reactions and experiments, ordinary matter is converted into quantanium through quantum entanglement"
+ building_quantanium_plant_desc:0 "Using controlled nuclear reactions and experiments, ordinary matter is converted into quantanium through quantum entanglement."
 
  building_quantanium_processer:0 "Quantanium Processer"
  building_quantanium_processer_desc:0 "An arcane structure that produces raw resources from quantanium. It's operation is quite mysterious."
@@ -1049,7 +1120,12 @@
  hive_expansion_2_desc:0 "After decades of expansion and growth on this hive world, its size has physically increased as material from off-world is being integrated into the ever-expanding hive."
  bombardment_hive_conversion:0 "Hive World Seeding"
  bombardment_hive_conversion_desc:0 "$bombardment_hive_conversion$ Bombardment seeds the planet with biological material to rapidly convert the biomass on the planet to produce a hive world once bombardment is complete.\n- §GLight§! damage to §YArmies§!\n- §HHeavy§! damage to §YPlanet§!\n- §GLight§! damage to §YPops§!\n- Will bombard undefended planets\n- Will §RNOT§! kill the last §Y11§! Pops"
-
+ bombardment_hive_seeding:0 "Hive Seeding"
+ bombardment_hive_seeding_desc:0 "Hive seeding deploys various biological airborne agents which deal significant damage to population. The agents are invasive and will eventually dominate a host and fall under the control of our mind."
+ bombardment_hive_seeding_desc:0 "$bombardment_hive_seeding$ deploys various biological airborne agents which deal significant damage to population. The biological agents are invasive and will consume and transform organic material, including the local biosphere.\n- §YLight§! damage to §YArmies§!\n- §YLight§! damage to §YPlanet§!\n- §RMassive§! damage to §YPops§!\n- Will bombard undefended planets\n- Killed pops will spawn §YInfested Armies§! which immediately invade the planet\n- Once the planet is at or above §Y95%§! devastation, the planet will transform into a §YHive World§! if you have the §YHive Worlds§! Ascension Perk. Habitats, Ring worlds etc. are not transformed."
+ ss_ap_infested_army:0 "Infested Army"
+ ss_ap_infested_army_plural:0 "Infested Armies"
+ ss_ap_infested_army_desc:0 "Infested armies have been dominated by foreign biological agents and transformed into twisted forms of teeth and claws."
 
  ssmisc.90.title:0 "Ascension Within"
  ssmisc.90.desc.a: "Through an extended period of peace, our people have had many years for self-reflection, meditation and enlightenment.\n\nOur understanding of ourselves and the universe we live in has improved."
@@ -1106,7 +1182,7 @@
  ssmisc.110.a:0 "Unfortunate."
 
  ssmisc.127.name:0 "Repurposed Civilian Fleets"
- ssmisc.127.desc:0 "After recent fleet readiness appraisals, it was deemed necessary to repurpose militarised civilian vessels to bolster the fleet.\n\nThe repurposed fleet has been made available at our capital."
+ ssmisc.127.desc:0 "After recent fleet readiness appraisals, militarised civilian vessels have been bought-back and repurposed to bolster the fleet.\n\nThe repurposed fleet has been made available at our capital."
  ssmisc.127.a:0 "Excellent"
 
  ssmisc.128.name:0 "Political Backlash"
@@ -1114,7 +1190,7 @@
  ssmisc.128.a:0 "Unfortunate"
 
  ssmisc.138.name:0 "Influenced"
- ssmisc.138.desc:0 "The §H[From.GetName]§! have influenced us with their spirituality, and faith in clandestine missions to the point that is it having a negative effect on our military efficacy.\n\nOur ships will suffer a §R-20%§! £military_power£ fire rate and sublight speed penalty while this remains the case.\n\n§HImproving our unity production beyond that of our enighbours will remove this penalty!§."
+ ssmisc.138.desc:0 "The §H[From.GetName]§! have influenced us with their spirituality, and faith in clandestine missions to the point that is it having a negative effect on our military efficacy.\n\nOur ships will suffer a §R-20%§! £military_power£ fire rate and sublight speed penalty while this remains the case.\n\n§HImproving our unity production beyond that of our neighbours will remove this penalty!§."
  ssmisc.138.a:0 "Unfortunate"
  ss_ap_spiritualist_immaterial_masters_penalty:0 "Influenced"
  ss_ap_spiritualist_immaterial_masters_penalty_desc:0 "Our people are in awe of the unity of a spiritualist neighbour, weakening our militaries efficacy.\n\nSource: A enighbour with the §YImmaterial Masters§! ascension perk with more unity output than us."
@@ -1126,7 +1202,7 @@
  ssmisc.139.a:0 "Excellent"
 
  ssmisc.140.name:0 "Influence"
- ssmisc.140.desc:0 "Our unity has made us become influential over §H[From.GetName]§!; we are leveraging our unity to reduce the efficacy of their military operations.\n\nTheir ships will suffer a §R-20%§! £military_power£ fire rate and sublight speed penalty while this remains the case.\n\n§HThis penalty will remain in place while our unity output exceeds theirs.§!"
+ ssmisc.140.desc:0 "Our unity has made us become influential over §H[event_target:ss_immaterial_country_temp.GetName]§!; we are leveraging our unity to reduce the efficacy of their military operations.\n\nTheir ships will suffer a §R-20%§! £military_power£ fire rate and sublight speed penalty while this remains the case.\n\n§HThis penalty will remain in place while our unity output exceeds theirs.§!"
  ssmisc.140.a:0 "Excellent."
 
  ssmisc.144.name:0 "§HWeapon Specialisation§!"
@@ -1169,6 +1245,10 @@
  ssmisc.211.desc:0 "After our claims on the territory of the §Y[ss_soul_claimee.GetName]§!, we have recieved political backlash from many external entities and even internally.\n\nThe result is that our beaurocracy is been clogged up with diplomatic requests and red-tape that is significantly affecting the efficacy of our government, reducing our §YInfluence§! and §YDiplomatic Weight§!.\n\nIf we relinquish our claims on the §Y[ss_soul_claimee.GetName]§!, then this issue will disappear."
  ssmisc.211.a:0 "Frustrating."
 
+ ssmisc.1000.name:0 "§GSolar Storm Crisis Settings§!"
+ ssmisc.1000.desc:0 "You can set the difficulty mode for all Solar Storm Crises here:\n\n§RHard mode:§!\nHard mode increases the strength of crisis fleets (on top of the normal crisis multiplier), makes crises progress quicker and adds additional negative events to deal with.\n§YBest suited for experienced players with heavily modded games.§!\n\n§GNormal Mode:§! Normal mode involves smaller fleets and slower crises.\n§YBest suited for lightly modded playthroughs similar to base Stellaris.§!"
+ ssmisc.1000.a:0 "§EC O N F I R M   S E T T I N G S§!"
+
  #############
  # Deposits
  #############
@@ -1197,8 +1277,8 @@
  ss_d_private_military:0 "§HOutsourced Military Operation§!"
  ss_d_private_military_desc:0 "The maintenance and operation of these military facilities are outsourced to the private industry. Government employed soliders are stationed and train here, whilst privately employed security contractors operate out of these facilities."
 
- ss_d_private_civilian:0 "§HPrivate Civilians Services District§!"
- ss_d_private_civilian_desc:0 "Privately owned facilities provide civilians with goods and services including: real-estate, finance, education and consumer staples."
+ ss_d_private_services:0 "§HPrivate Civilians Services District§!"
+ ss_d_private_services_desc:0 "Privately owned facilities provide civilians with goods and services including: real-estate, finance, education and consumer staples."
 
  ss_d_sp_foundry:0 "§HPrivate Foundry Arcology§!"
  ss_d_sp_foundry_desc:0 "Private interests have acquired development and real estate rights for advanced industrial production within this precinct, producing a significant quantity of refined resources."

@@ -19,3 +19,12 @@
 
  css_dss_fedbuild_colours:0 "DS: Строители Федерации [Цвет]"
  css_dss_fedbuild_colours_desc:1 "Корабли защитников и хранителей Строителей Федерации с динамическими цветами. С патчем для мода Downscaled ships."
+
+ CORVETTE_CSS_FEDBUILD_01_S1PD1:1 "Пикетный корабль класса «Кабуто»"
+
+ #Odds and Ends
+ tech_css_fedbuild_01:0 "Строители Федерации"
+ tech_css_fedbuild_01_desc:0 "Корабли защитников и хранителей Строителей Федерации."
+ TECH_CSS_FEDBUILD:0 "Строители Федерации"
+ tech_css_fedbuild_02:0 "Строители Федерации"
+ tech_css_fedbuild_02_desc:0 "Корабли защитников и хранителей Строителей Федерации."

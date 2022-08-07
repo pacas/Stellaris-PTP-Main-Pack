@@ -1,0 +1,110 @@
+﻿l_russian:
+ #######################################
+ ####### UI ELEMENTS
+ #######################################
+
+ ss_hunters_ui_test_button_clicked: "§YOh Hello, looks like you clicked the button!§!"
+ ss_hunters_ui_title_loc: "Biomass Options"
+ ss_hunters_ui_desc_loc: "Spend your biomass here."
+ ss_hunters_ui_test_button: "Test Button"
+ hunter_test_button_clicked_loc: "\n§RYou already clicked the button!§!"
+ hunter_test_button_loc: "\n§GClick to do the thing§!"
+
+
+ ss_ui.1.text: "Test text description goes here."
+ ss_hard_button: "Hard mode increases the strength of crisis fleets (on top of the normal crisis multiplier), makes crises progress quicker and adds additional negative events.\n\n§YBest suited for experienced players or heavily modded playthroughs.§!"
+ ss_normal_button: "Normal mode involves smaller fleets and slower crises.\n\n§YBest suited for lightly modded playthroughs similar to base Stellaris."
+ ss_main_desc: "§YSolar Storm V1.1 P5 (30th May 2022) Crisis Settings§!\nPlease report any bugs you encounter on the steam workshop page."
+
+ ss_AS_switch_container_01: "Gestalt Override"
+ ss_AS_switch_container_02: "Randomly Roll Crisis Tech"
+ ss_AS_switch_container_03: "Enable Abyssal Secrets"
+ ss_AS_switch_container_04: "Crisis Strength"
+
+ ################
+ # TOOLTIPS
+ ################
+
+ ss_crisis_01_tooltip: "Dangerous reality bending technologies leads to mysterious madness, profane preminitions, the resurgence of an ancient force of nature and threats that can end reality as we know it."
+ ss_crisis_02_tooltip: "Coming soon!"
+
+ ss_AS_gestalt_tooltip: "Allows Gestalt Empires to activate the Abyssal Secrets crisis.\n\n§YWARNING: The localisation and modifiers are not adjusted for gestalts, leading to immersion breaking events. This may be solved in the future.§!"
+ ss_hard_mode_tooltip: "Hard mode increases the strength of crisis fleets (on top of the normal crisis multiplier), makes crises progress quicker and adds additional negative events."
+ ss_normal_mode_tooltip: "Normal mode involves smaller fleets and slower crises.\n§YBest suited for lightly modded playthroughs similar to base Stellaris."
+ ss_AS_show_tooltip: "Toggles whether you can naturally roll the §YQuantanium Synthesization§! technology in the tech tree required to trigger the crisis.\n\n§YWARNING: If disabled, you will need the Galactic Secrets II ascension perk to activate the crisis.§!"
+ ss_AS_enable_tooltip: "Allows the Abyssal Secrets crisis to trigger."
+
+ ss_AS_strength_1_tooltip: "Applies an additional §G-75%§! shield hit point and §G-37.5%§! weapon damage penalty to crisis fleets.\n§YStacks on top of the existing crisis strength modifier.§!"
+ ss_AS_strength_2_tooltip: "Applies an additional §G-50%§! shield hit point and §G-25%§! weapon damage penalty to crisis fleets.\n§YStacks on top of the existing crisis strength modifier.§!"
+ ss_AS_strength_3_tooltip: "Applies an additional §G-25%§! shield hit point and §G-12.5%§! weapon damage penalty to crisis fleets.\n§YStacks on top of the existing crisis strength modifier.§!"
+ ss_AS_strength_4_tooltip: "Applies no additional penalties or bonuses.\n§YThe global crisis strength modifier is still used.§!"
+ ss_AS_strength_5_tooltip: "Applies an additional §G+25%§! shield hit point and §G+12.5%§! weapon damage bonus to crisis fleets.\n§YStacks on top of the existing crisis strength modifier.§!"
+ ss_AS_strength_6_tooltip: "Applies an additional §G+50%§! shield hit point and §G+25%§! weapon damage bonus to crisis fleets.\n§YStacks on top of the existing crisis strength modifier.§!"
+ ss_AS_strength_7_tooltip: "Applies an additional §G+75%§! shield hit point and §G+37.5%§! weapon damage bonus to crisis fleets.\n§YStacks on top of the existing crisis strength modifier.§!"
+ ss_AS_strength_8_tooltip: "Applies an additional §G+100%§! shield hit point and §G+50%§! weapon damage bonus to crisis fleets.\n§YStacks on top of the existing crisis strength modifier.§!"
+ ss_AS_strength_9_tooltip: "Applies an additional §G+200%§! shield hit point and §G+100%§! weapon damage bonus to crisis fleets.\n§YStacks on top of the existing crisis strength modifier.§!"
+ ss_AS_strength_10_tooltip: "Applies an additional §G+300%§! shield hit point and §G+150%§! weapon damage bonus to crisis fleets.\n§YStacks on top of the existing crisis strength modifier.§!"
+ ss_AS_strength_11_tooltip: "Applies an additional §G+650%§! shield hit point and §G+325%§! weapon damage bonus to crisis fleets.\n§YStacks on top of the existing crisis strength modifier.§!"
+ ss_AS_strength_12_tooltip: "The crisis becomes nearly unstoppable. §RSelect this option only with VERY powerful mods installed.§!\n§YStacks on top of the existing crisis strength modifier.§!"
+
+ ss_slider_button_1: "¼"
+ ss_slider_button_2: "½"
+ ss_slider_button_3: "¾"
+ ss_slider_button_4: "1"
+ ss_slider_button_5: "1¼"
+ ss_slider_button_6: "1½"
+ ss_slider_button_7: "1¾"
+ ss_slider_button_8: "2"
+ ss_slider_button_9: "3"
+ ss_slider_button_10: "4"
+ ss_slider_button_11: "7½"
+ ss_slider_button_12: "X"
+
+ ################
+ # PF UI ITEMS
+ ################
+
+ ss_pf_menu_title: "The Prime Flesh"
+
+ ss_pf_appeasement_tooltip: "Appeasing the Prime Flesh will reduce the likelihood they will seek hostile action against us. High appeasement may also lead them to bestow us with gifts.\n\nAppeasement can be increased via certain policies and by donating raw materials to the Prime Flesh."
+ ss_pf_growth_tooltip: "The Prime Flesh are limitless. Over time, the hive will grow and become more powerful.\n\nGiving gifts of resources or losing battles to their invasion forces hastens this process."
+ ss_pf_fleet_power_tooltip: "Total fleet power of the Prime Flesh assault fleets."
+ ss_pf_defence_power_tooltip: "Total fleet power of the Prime Flesh home system defences."
+
+ ss_pf_fleet_power_desc: "£military_power£§Y[ss_pf_country.ss_pf_fleet_power]§!"
+ ss_pf_defence_desc: "£military_power£§Y[ss_pf_country.ss_pf_defence_power]§!"
+
+ ss_pf_belligerent: "§RBelligerent§!"
+ ss_pf_belligerent_tooltip: "The Prime Flesh hold us in very strong contempt and are mobilising attack fleets. They will soon wage war on us."
+ ss_pf_contemptuous: "§HContemptuous§!"
+ ss_pf_contemptuous_tooltip: "The Prime Flesh are engaging in hostile diplomacy and show obvious disdain towards us. However, they are yet to commit to any further action."
+ ss_pf_disinterested: "§YDisinterested§!"
+ ss_pf_disinterested_tooltip: "The Prime Flesh currently are not making any efforts to engage with us diplomatically."
+ ss_pf_interested: "§GInterested§!"
+ ss_pf_interested_tooltip: "The Prime Flesh are tentatively seeking to learn about us and increase cooperation with us."
+ ss_pf_favourable: "§EFavourable§!"
+ ss_pf_favourable_tooltip: "The Prime Flesh consider us sensible and respectful in their image and thus show us significant favour."
+ ss_pf_ravenous: "§PRavenous§!"
+ ss_pf_ravenous_tooltip: "The Prime Flesh has abandoned reason and seeks only to consume us. They will likely wage war on us soon."
+
+ ss_pf_neutral: "§YNeutral§!"
+ ss_pf_neutral_tooltip: "The Prime Flesh currently hold no agreements with us."
+ ss_pf_scion: "§EScion§!"
+ ss_pf_scion_tooltip: "The Prime Flesh consider us their descendant and seek to guide us in their image of principle and truth.\n\nThey are actively integrating our collective consciousnesses and bestowing benefits."
+ ss_pf_ally: "§GAlly§!"
+ ss_pf_ally_tooltip: "The Prime Flesh consider us partners in shared vision and principles.\n\nA mutual agreement between us provides us both with benefits."
+ ss_pf_adversary: "§RAdversary§!"
+ ss_pf_adversary_tooltip: "While the Prime Flesh doesn't admit to it, they are currently engaging in clandestine operations seeking to undermine us.\n\nThey consider us antithetical to their shared vision, and publicy annouce their disdain for us."
+
+ ss_pf_indicator_food_tooltip: "Giving lump-sum payments of £food£ §YFood§! to the Prime Flesh will §Eincrease§! our appeasement."
+ ss_pf_indicator_energy_tooltip: "Giving lump-sum payments of £energy£ §YEnergy§! to the Prime Flesh will §Eincrease§! our appeasement."
+ ss_pf_indicator_bombardment_tooltip: "Allowing §YIndiscriminate§! or §YArmageddon§! bombing stances through policy §Rangers§! the Prime Flesh"
+ ss_pf_indicator_purge_tooltip: "Allowing for the §YPurging§! of pops will §Ranger§! the Prime Flesh."
+ ss_pf_indicator_exterminator_tooltip: "Adopting a outwardly genocidal diplomatic stance greatly §Rangers§! the Prime Flesh (§YDevouring Swarms§! excluded)."
+ ss_pf_indicator_pop_controls_tooltip: "Removing population controls, allowing free reproductive rights, will §Eplease§! the Prime Flesh."
+ ss_pf_indicator_refugees_tooltip: "Allowing for all §YRefugees§! to settle in our empire will §Eplease§! the Prime Flesh."
+ ss_pf_indicator_hive_tooltip: "Being a §YHive Mind§! §Epleases§! the Prime Flesh."
+ ss_pf_indicator_xenophile_tooltip: "Having §YXenophilic§! government ethics §Epleases§! the Prime Flesh."
+ ss_pf_indicator_ap_genetic_tooltip: "Following the §YEvolution Mastery§! ascension perk path will §Eplease§! the Prime Flesh."
+ ss_pf_indicator_ally_tooltip: "Pledging ourselves as an §YAlly§! of the Prime Flesh will please them over time."
+ ss_pf_indicator_war_tooltip: "Engaging in §Ywar§! with the Prime Flesh at any point will forever §Ranger§! them."

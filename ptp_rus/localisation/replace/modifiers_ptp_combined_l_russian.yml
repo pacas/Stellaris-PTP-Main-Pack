@@ -355,6 +355,7 @@ mod_planet_replicator_alloys_upkeep_mult:0 "£alloys£ Содержание £jo
 mod_planet_pop_assemblers_alloys_upkeep_mult:0 "£alloys£ Содержание £job_replicator£ $job_replicator$"
 mod_planet_metallurgists_minerals_upkeep_add:0 "£minerals£ Потребление минералов £job_foundry£ металлургами"
 mod_planet_artisans_minerals_upkeep_add:0 "£minerals£ Потребление минералов £job_artisan£ ремесленниками"
+mod_planet_researchers_consumer_goods_upkeep_mult:0 "£consumer_goods£ Потребление ТМС £job_researcher£ исследователями"
 
 # unity
 mod_planet_doctors_unity_produces_add: "£unity£ $unity$ от £job_healthcare£ $job_healthcare_plural$"

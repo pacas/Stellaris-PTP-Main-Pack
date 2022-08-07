@@ -1,5 +1,8 @@
 ﻿l_russian:
 
+
+this_empire_adj:0 "[This.GetAdj]"
+
 sc_shadow_m:0 "$sc_m_giant$"
 sc_shadow_m_desc:0 "$sc_m_giant_desc$"
 
@@ -199,22 +202,15 @@ mzilli_anomaly_events.6.tooltip:0 "The §Y[Root.GetName]§! loses §R60§! hitpo
 mzilli_anomaly_events.7.desc.intro:0 "Our attempt to induce a large-scale temporal anomaly on §Y[FROMFROM.GetName]§! was a success! As the crew of the [Root.GetName] watched in amazement, the [FROMFROM.GetPlanetMoon] apparently reverted to an earlier period of its existence, roughly two billion years ago, when it was"
 
 mzilli_anomaly_events.7.desc.uninhabited:0 "$mzilli_anomaly_events.7.desc.intro$ [FROMFROM.GetAAnPlanetClass] §Y[FROMFROM.GetClassName]§!$mzilli_anomaly_events.7.desc.outro$"
-mzilli_anomaly_events.7.desc.inhabited:0 "$mzilli_anomaly_events.7.desc.intro$ [FROMFROM.GetAAnPlanetClass] §Y[FROMFROM.GetClassName]§! inhabited by a primitive alien species$mzilli_anomaly_events.7.desc.outro$"
+mzilli_anomaly_events.7.desc.inhabited:0 "$mzilli_anomaly_events.7.desc.intro$ an inhabited §Y[FROMFROM.GetClassName]§!$mzilli_anomaly_events.7.desc.outro$"
 
-#mzilli_anomaly_events.7.desc.wet.uninhabited:0 "$mzilli_anomaly_events.7.desc.intro$ lush §Y[FROMFROM.GetClassName]§!$mzilli_anomaly_events.7.desc.outro$"
-#mzilli_anomaly_events.7.desc.wet.inhabited:0 "$mzilli_anomaly_events.7.desc.intro$ lush §Y[FROMFROM.GetClassName]§! inhabited by a primitive alien species$mzilli_anomaly_events.7.desc.outro$"
-#mzilli_anomaly_events.7.desc.dry.uninhabited:0 "$mzilli_anomaly_events.7.desc.intro$ dry §Y[FROMFROM.GetClassName]§!$mzilli_anomaly_events.7.desc.outro$"
-#mzilli_anomaly_events.7.desc.dry.inhabited:0 "$mzilli_anomaly_events.7.desc.intro$ dry §Y[FROMFROM.GetClassName]§! inhabited by a primitive alien species$mzilli_anomaly_events.7.desc.outro$"
-#mzilli_anomaly_events.7.desc.cold.uninhabited:0 "$mzilli_anomaly_events.7.desc.intro$ frigid §Y[FROMFROM.GetClassName]§!$mzilli_anomaly_events.7.desc.outro$"
-#mzilli_anomaly_events.7.desc.cold.inhabited:0 "$mzilli_anomaly_events.7.desc.intro$ frigid §Y[FROMFROM.GetClassName]§! inhabited by a primitive alien species$mzilli_anomaly_events.7.desc.outro$"
-
-mzilli_anomaly_events.7.desc.relic:0 "$mzilli_anomaly_events.7.desc.intro$ a battered §Y[FROMFROM.GetClassName]§! inhabited by what appears to be a post-apocalyptic alien civilization$mzilli_anomaly_events.7.desc.outro$"
+mzilli_anomaly_events.7.desc.relic:0 "$mzilli_anomaly_events.7.desc.intro$ a battered -- but not uninhabited -- §Y[FROMFROM.GetClassName]§!$mzilli_anomaly_events.7.desc.outro$"
 mzilli_anomaly_events.7.desc.molten:0 "$mzilli_anomaly_events.7.desc.intro$ a smaller, younger §Y[FROMFROM.GetClassName]§!$mzilli_anomaly_events.7.desc.outro$"
 
 mzilli_anomaly_events.7.desc.outro:0 "!\n\nWhile most of the tachyons beneath [FROMFROM.GetName]'s surface were apparently consumed by the procedure, this experiment has greatly improved our understanding of temporal mechanics."
 
-mzilli_anomaly_events.7.tooltip.inhabited:0 "§Y[FROMFROM.GetName]§! is now an inhabited §Y[FROMFROM.GetClassName]§!."
-mzilli_anomaly_events.7.tooltip.uninhabited:0 "§Y[FROMFROM.GetName]§! is now an uninhabited §Y[FROMFROM.GetClassName]§!."
+mzilli_anomaly_events.7.tooltip.inhabited:0 "§Y[FROMFROM.GetName]§! is now [FROMFROM.GetAAnPlanetClass] §Y[FROMFROM.GetClassName]§! inhabited by a pre-FTL civilization."
+mzilli_anomaly_events.7.tooltip.uninhabited:0 "§Y[FROMFROM.GetName]§! is now [FROMFROM.GetAAnPlanetClass] §Y[FROMFROM.GetClassName]§!."
 mzilli_anomaly_events.7.tooltip.molten:0 "§Y[FROMFROM.GetName]§! is now a primordial §Y[FROMFROM.GetClassName]§!."
 
 mzilli_tachyon_core:0 "Tachyon Core"
@@ -256,8 +252,8 @@ mzilli_arch_events.14.desc.b:0 "The alien script adorning the surface of §Y[Fro
 mzilli_arch_events.14.desc.c:0 "The alien script adorning the surface of §Y[From.Planet.GetName]§! describes, in language that is colorful to say the least, a century-long civil war between the writers -- a race [Root.Leader.GetName] calls the §HAuthors§! -- and a faction they referred to as the §HNightbringers§!.\n\nBeneath the surface, the [Root.GetName] has detected signs that the interior of the moon has undergone dramatic alteration. Presumably this, too, is the work of the Authors."
 mzilli_arch_events.14.tooltip:0 "Establishes contact with the §H[mzilli_bombmakers.GetRealName]§!."
 mzilli_arch_events.15.name:0 "A Death Cult"
-mzilli_arch_events.15.desc.a:0 "An ancient control room was just unearthed beneath the surface of §Y[From.Planet.GetName]§!. In addition to confirming its make as [mzilli_bombmakers.GetSpeciesAdj], [Root.Leader.GetName] was able to extract some data from its long-dormant computers.\n\nOne of [From.Planet.GetName]'s neighboring moons, the [mzilli_bomb_victim.GetClassName] we know as §Y[mzilli_bomb_victim.GetName]§!, was the birthplace of a [mzilli_bombmakers.GetSpeciesAdj] cult known as the §HNightbringers§!. They worshipped an entity they called §PThe End of the Cycle§!, and sought to unleash it upon the galaxy through the use of blood sacrifice and psionic arts. The §H[mzilli_bombmakers.GetSpeciesAdj] Empire§! fought a century-long war to stop them from unleashing this deity, which ended with the orbital bombardment of [mzilli_bomb_victim.GetName].\n\nApparently, [From.Planet.GetName] was used as an outpost to monitor [mzilli_bomb_victim.GetName] for any sign of a resurgent threat."
-mzilli_arch_events.15.desc.b:0 "An ancient control room was just unearthed beneath the surface of §Y[From.Planet.GetName]§!, and inside it, [Root.Leader.GetName] was able to extract some data from its long-dormant computers.\n\nOne of [From.Planet.GetName]'s neighboring moons, the [mzilli_bomb_victim.GetClassName] we know as §Y[mzilli_bomb_victim.GetName]§!, was the birthplace of an Author cult known as the §HNightbringers§!. They worshipped an entity they called §Mthe End of the Cycle§!, and sought to unleash it upon the galaxy through the use of blood sacrifice and psionic arts. The Authors fought a century-long war to stop them from unleashing this deity, which ended with the orbital bombardment of [mzilli_bomb_victim.GetName].\n\nApparently, this moon was used as an outpost to monitor [mzilli_bomb_victim.GetName] for any sign of a resurgent threat."
+mzilli_arch_events.15.desc.a:0 "An ancient control room was just unearthed beneath the surface of §Y[From.Planet.GetName]§!. In addition to confirming its make as [mzilli_bombmakers.GetSpeciesAdj], [Root.Leader.GetName] was able to extract some data from its long-dormant computers.\n\nOne of [From.Planet.GetName]'s neighboring moons, the [mzilli_bomb_victim.GetClassName] we know as §Y[mzilli_bomb_victim.GetName]§!, was the birthplace of a [mzilli_bombmakers.GetSpeciesAdj] cult known as the §HNightbringers§!. They worshipped an entity they called §PThe Reckoning§!, and sought to unleash it upon the galaxy through the use of blood sacrifice and psionic arts. The §H[mzilli_bombmakers.GetSpeciesAdj] Empire§! fought a century-long war to stop them from unleashing this deity, which ended with the orbital bombardment of [mzilli_bomb_victim.GetName].\n\nApparently, [From.Planet.GetName] was used as an outpost to monitor [mzilli_bomb_victim.GetName] for any sign of a resurgent threat."
+mzilli_arch_events.15.desc.b:0 "An ancient control room was just unearthed beneath the surface of §Y[From.Planet.GetName]§!, and inside it, [Root.Leader.GetName] was able to extract some data from its long-dormant computers.\n\nOne of [From.Planet.GetName]'s neighboring moons, the [mzilli_bomb_victim.GetClassName] we know as §Y[mzilli_bomb_victim.GetName]§!, was the birthplace of an Author cult known as the §HNightbringers§!. They worshipped an entity they called §Mthe Reckoning§!, and sought to unleash it upon the galaxy through the use of blood sacrifice and psionic arts. The Authors fought a century-long war to stop them from unleashing this deity, which ended with the orbital bombardment of [mzilli_bomb_victim.GetName].\n\nApparently, this moon was used as an outpost to monitor [mzilli_bomb_victim.GetName] for any sign of a resurgent threat."
 mzilli_arch_events.16.name:0 "Dug Too Deep"
 mzilli_arch_events.16.desc.a:0 "As [Root.Leader.GetName] probed deeper into §Y[From.Planet.GetName]§!'s computer banks, a shrill siren suddenly pierced the room. The glyphs on the moon's surface began to glow, and enormous alien mechanisms begin to appear on the surface. The computers inside all display a single [mzilli_bombmakers.GetSpeciesAdj] glyph:\n\n§RARMED.§!\n\n[Root.Leader.GetName] has the uncomfortable feeling that [From.Planet.GetName] is not just a monitoring station, but also a massive superweapon... one that [Root.Leader.GetSheHe] has inadvertently re-armed. Perhaps it can be disarmed again, but [Root.Leader.GetHerHis] team will have to proceed with extreme caution."
 mzilli_arch_events.16.desc.b:0 "As [Root.Leader.GetName] probed deeper into §Y[From.Planet.GetName]§!'s computer banks, a shrill siren suddenly pierced the room. The glyphs on the moon's surface began to glow, and enormous alien mechanisms begin to appear on the surface. The computers inside all display a single alien glyph:\n\n§RARMED.§!\n\n[Root.Leader.GetName] has the uncomfortable feeling that [From.Planet.GetName] is not just a monitoring station, but also a massive superweapon... one that [Root.Leader.GetSheHe] has inadvertently re-armed. Perhaps it can be disarmed again, but [Root.Leader.GetHerHis] team will have to proceed with extreme caution."
@@ -281,16 +277,16 @@ mzilli_arch_events.18.desc:0 "[Root.GetSpeciesName]. What do you want?"
 mzilli_arch_events.18.a:0 "We found one of your... devices... in the [mzilli_bomb_planet.System.GetName] system."
 
 mzilli_arch_events.19.name:0 "$mzilli_arch_events.18.name$"
-mzilli_arch_events.19.desc:0 "[mzilli_bomb_planet.System.GetName]... I'd nearly forgotten.\n\nYes, we did place a \"device\" in that system. In the event that the Nightbringers resurfaced, or some other psionic abomination, it would destroy their moon and the rest of the system along with it. We could not take the chance that they would return and bring about the End of the Cycle."
+mzilli_arch_events.19.desc:0 "[mzilli_bomb_planet.System.GetName]... I'd nearly forgotten.\n\nYes, we did place a \"device\" in that system. In the event that the Nightbringers resurfaced, or some other psionic abomination, it would destroy their moon and the rest of the system along with it. We could not take the chance that they would return and bring about the Reckoning."
 mzilli_arch_events.19.a:0 "What can you tell us about the Nightbringers?"
-mzilli_arch_events.19.b:0 "What exactly is the \"End of the Cycle\"?"
+mzilli_arch_events.19.b:0 "What exactly is the Reckoning?"
 mzilli_arch_events.19.c:0 "Can you help us disarm it?"
 
 mzilli_arch_events.20.name:0 "$mzilli_arch_events.18.name$"
 mzilli_arch_events.20.desc:0 "The Nightbringers were a cult of insane [mzilli_bombmakers.GetSpeciesNamePlural] who worshipped dark entities from the Shroud, a dimension composed of pure malice. They practiced dark arts that allowed them to harness Shroud-energy to amplify our natural pisonic abilities.\n\nTo be clear, they suffered no illusions that they were in control of the Shroud. They merely embraced its \"gifts\" while any sane person would flee in terror. They were too dangerous to be left to their own devices."
 
 mzilli_arch_events.21.name:0 "$mzilli_arch_events.18.name$"
-mzilli_arch_events.21.desc:0 "Beyond your ability to comprehend.\n\nPray that you never encounter it. And that if you do, you will be sensible enough to flee or destroy yourself on the spot.\n\nAny alternative would be unthinkable."
+mzilli_arch_events.21.desc:0 "The Archenemy. The Shadow that Devours All. The End of the Cycle.\n\nPray that you never encounter it. And that if you do, you will be sensible enough to flee in terror or destroy yourself on the spot.\n\nAny alternative would be... unthinkable."
 
 mzilli_arch_events.22.name:0 "$mzilli_arch_events.18.name$"
 mzilli_arch_events.22.desc.a:0 "Perhaps.\n\nThe Nightbringers were destroyed two thousand years ago. If there has been no activity on their homeworld since then, perhaps they really are extinct. If so, there is no longer any need for the contingency weapon.\n\nWe will disarm it for you, [Root.GetSpeciesName], on one condition: that when we have need of you, you §Rwill§! answer.\n\nAm I clear? You owe us a debt, and we may call to collect at any time."
@@ -319,7 +315,7 @@ mzilli_arch_events.26.desc.a:0 "Success! [Root.Leader.GetName] was able to disar
 mzilli_arch_events.26.desc.b:0 "Success! [Root.Leader.GetName] was able to disarm the superweapon on §Y[mzilli_bomb_planet.GetName]§! without activating the detonation sequence. The moon has reverted to its inactive state, a simple $pc_barren_cold$ covered in large alien runes.\n\nThe threat to the [mzilli_bomb_planet.System.GetName] system appears to be over for now, so long as we keep our distance from [mzilli_bomb_planet.GetName]."
 
 mzilli_arch_events.27.name:0 "Singularity"
-mzilli_arch_events.27.desc:0 "It would appear that [Root.Leader.GetName] was unsuccessful in [Root.Leader.GetHerHis] attempt to disarm the superweapon on §Y[mzilli_bomb_planet.GetName]§!.\n\nWithout warning, but presumably as a result of [Root.Leader.GetHerHis] efforts, the entire moon suddenly imploded into a small $pc_black_hole$, one that subsequently consumed both [mzilli_bomb_victim.GetName] and its parent planet. While the [Root.GetName] was able to get clear in time, [Root.Leader.GetSecondName] and [Root.Leader.GetHerHis] team on [mzilli_bomb_planet.GetName] were lost.\n\nOn the upside, the newly-created $pc_black_hole$ -- dubbed "§B[Root.Leader.GetSecondName]'s Demise§!" -- remains in a stable orbit around [mzilli_bomb_planet.System.GetName] and should provide opportunities for research."
+mzilli_arch_events.27.desc:0 "It would appear that [Root.Leader.GetName] was unsuccessful in [Root.Leader.GetHerHis] attempt to disarm the superweapon on §Y[mzilli_bomb_planet.GetName]§!.\n\nWithout warning, but presumably as a result of [Root.Leader.GetHerHis] efforts, the entire moon suddenly imploded into a small $pc_black_hole$, one that subsequently consumed both [mzilli_bomb_victim.GetName] and its parent planet. While the [Root.GetName] was able to get clear in time, [Root.Leader.GetSecondName] and [Root.Leader.GetHerHis] team on [mzilli_bomb_planet.GetName] were lost.\n\nOn the upside, the newly-created $pc_black_hole$ remains in a stable orbit around [mzilli_bomb_planet.System.GetName] and should provide opportunities for research."
 mzilli_arch_events.27.tooltip:0 "$mzilli_arch_events.32.tooltip$\n§Y[Root.Leader.GetName]§! is killed."
 
 mzilli_arch_events.28.name:0 "Absolute Zero"
@@ -398,11 +394,14 @@ mzilli_anomaly_events.17.c:0 "Welcome to the [Root.Owner.GetName]."
 HELP_LANDLOCKED_PLANET_3:0 "[landlocked_species.GetAdj] Relocation"
 HELP_LANDLOCKED_PLANET_3_DESC:0 "A large number of [landlocked_species.GetAdj] refugees were successfully evacuated from [landlocked_planet.GetName]. They have requested that we relocate them to §Y[non_landlocked_planet.GetName]§!, a [non_landlocked_planet.GetPlanetMoon] in the [non_landlocked_planet.System.GetName] system, to found a new homeworld."
 
-mzilli_anomaly_events.18.name:0 "§HNew [landlocked_species.GetName]§!: Landlocked No More!"
-mzilli_anomaly_events.18.desc.a:0 "The [landlocked_species.GetNamePlural] refugees have made planetfall on [non_landlocked_planet.GetName], which they have re-named "§YNew [landlocked_species.GetName]§!". Although the pristine [non_landlocked_planet.GetClassName] is very unlike the exhausted planet they left behind, they seem to have taken to this place with remarkable enthusiasm.\n\nWhile it will take a long time for them to rebuild their civilization, they appear to be off to a good start. Hopefully they can avoid repeating the mistakes of their past."
-mzilli_anomaly_events.18.desc.b:0 "The [landlocked_species.GetNamePlural] refugees have made planetfall on [non_landlocked_planet.GetName], which they have re-named "§YNew [landlocked_species.GetName]§!". Although the battered [non_landlocked_planet.GetClassName] bears more than a passing resemblance to the exhausted planet they left behind, they seem to have taken to this place with remarkable enthusiasm.\n\nWhile it will take a long time for them to rebuild their civilization, they appear to be off to a good start. Hopefully they can avoid repeating the mistakes of their past."
+landlocked_new_homeworld_name:0 "New [landlocked_species.home_planet.GetName]"
+new_landlocked_civ:0 "New [This.GetName]"
+
+mzilli_anomaly_events.18.name:0 "§HNew [landlocked_species.home_planet.GetName]§!: Landlocked No More!"
+mzilli_anomaly_events.18.desc.a:0 "The [landlocked_species.GetNamePlural] refugees have made planetfall on [non_landlocked_planet.GetName], which they have re-named "§YNew [landlocked_species.home_planet.GetName]§!". Although the [non_landlocked_planet.GetClassAdj] [non_landlocked_planet.GetPlanetMoon] is very unlike the exhausted world they left behind, they seem to have taken to this place with remarkable enthusiasm.\n\nWhile it will take a long time for them to rebuild their civilization, they appear to be off to a good start. Hopefully they can avoid repeating the mistakes of their past."
+mzilli_anomaly_events.18.desc.b:0 "The [landlocked_species.GetNamePlural] refugees have made planetfall on [non_landlocked_planet.GetName], which they have re-named "§YNew [landlocked_species.home_planet.GetName]§!". Although the [non_landlocked_planet.GetClassAdj] [non_landlocked_planet.GetPlanetMoon] bears more than a passing resemblance to the exhausted world they left behind, they seem to have taken to this place with remarkable enthusiasm.\n\nWhile it will take a long time for them to rebuild their civilization, they appear to be off to a good start. Hopefully they can avoid repeating the mistakes of their past."
 mzilli_anomaly_events.18.a:0 "Good luck, [landlocked_species.GetNamePlural]..."
-mzilli_anomaly_events.18.tooltip:0 "§Y[non_landlocked_planet.GetName]§! now belongs to the §YNew [landlocked_species.GetAdj] Civilization§! and is now called §YNew [landlocked_species.GetName]§!."
+mzilli_anomaly_events.18.tooltip:0 "§Y[non_landlocked_planet.GetName]§! now belongs to the §YNew [landlocked_species.GetAdj] Civilization§! and is now called §YNew [landlocked_species.home_planet.GetName]§!."
 
 mzilli_anomaly_events.19.name:0 "§HLandlocked§!: Beaten by the Rush"
 mzilli_anomaly_events.19.intro.a:0 "It appears that §Y[owned_non_landlocked_planet.GetName]§! has already been colonized by the [owned_non_landlocked_planet.Owner.GetName]. There is no place on this [owned_non_landlocked_planet.GetPlanetMoon] for the [landlocked_species.GetAdj] refugees hoping to found a new homeworld."
@@ -427,13 +426,19 @@ mzilli_anomaly_events.20.tooltip:0 "Now we wait and see..."
 mzilli_anomaly_events.22.name:0 "§HLandlocked§!: Ashes to Ashes"
 mzilli_anomaly_events.22.desc.intro:0 "In the aftermath of the cataclysm on §H[landlocked_planet.GetName]§!, what little remained of the planet's biosphere has collapsed, and the planet's tenuous atmosphere is no longer breathable. All that remains is dust; there are not even any useful resources left for us to exploit."
 mzilli_anomaly_events.22.desc.a:0 "$mzilli_anomaly_events.22.desc.intro$\n\nDespite their best efforts, the aliens that called it home never made the technological leap needed to leave their solar system. With no other worlds within reach, their extinction was only a matter of time."
-mzilli_anomaly_events.22.desc.b:0 "$mzilli_anomaly_events.22.desc.intro$\n\nWhile the destruction of the [landlocked_species.GetAdj] civilization is a tragedy, it was hardly unexpected. Thankfully, with our help, a small number of them managed to escape before the end. Hopefully their future on §YNew [landlocked_species.GetName]§! will be a bright one."
+mzilli_anomaly_events.22.desc.b:0 "$mzilli_anomaly_events.22.desc.intro$\n\nWhile the destruction of the [landlocked_species.GetAdj] civilization is a tragedy, it was hardly unexpected. Thankfully, with our help, a small number of them managed to escape before the end. Hopefully their future on §YNew [landlocked_species.home_planet.GetName]§! will be a bright one."
 mzilli_anomaly_events.22.tooltip.a:0 "§Y[landlocked_planet.GetName]§! is now an airless $pc_barren_cold$."
 mzilli_anomaly_events.22.tooltip.b:0 "Special Project Cancelled: §Y$HELP_LANDLOCKED_PLANET_1$§!"
 mzilli_anomaly_events.22.tooltip.c:0 "Special Project Cancelled: §Y$HELP_LANDLOCKED_PLANET_2$§!"
 
 mzilli_anomaly_events.24.name:0 "§H[landlocked_planet.GetName]§!: Landlocked No More!"
 mzilli_anomaly_events.24.desc:0 "Our observation of §Y[landlocked_planet.GetName]§! has revealed a flurry of activity in one of the planet's few remaining universities. It appears the asteroid they recently captured has indeed inspired a flood of new ideas in the field of physics and engineering... perhaps enough for them to develop a working hyperdrive!\n\nMuch work remains, of course, and there is no guarantee they will succeed in time to colonize worlds outside the [landlocked_planet.System.GetName] system. Still, this is a significant step forward for the [landlocked_species.GetNamePlural]. They may yet be able to save themselves."
+
+mustafar_1-2a:0 "[This.System.GetName] I-IIa"
+mustafar_2-3a:0 "[This.System.GetName] II-IIIa"
+mustafar_3-4a:0 "[This.System.GetName] III-IVa"
+mustafar_4-5a:0 "[This.System.GetName] IV-Va"
+mustafar_5-6a:0 "[This.System.GetName] V-VIa"
 
 MZILLI_MUSTAFAR:0 "Tug-of-War"
 MZILLI_MUSTAFAR_DESC:0 "This planet appears to be caught in the barycenter of two co-orbiting gas giants, with apocalyptic results."
@@ -566,39 +571,43 @@ mzilli_cuteness_proximity:0 "Cuteness Proximity"
 mzilli_cuteness_proximity_desc:0 "The lifeforms on this [This.GetPlanetMoon] are, by all accounts, adorable."
 
 MZILLI_RINGED_MOON:0 "Ringed Moon"
-MZILLI_RINGED_MOON_DESC:0 "Unlike most moons, [From.GetName] has a very prominent ring system."
+MZILLI_RINGED_MOON_DESC:0 "[From.GetName] has a very prominent ring system, unusual for a mere moon."
 
 mzilli_anomaly_events.44.name:0 "Lunar Art"
-mzilli_anomaly_events.44.desc:0 "Upon closer inspection, the ring system around §Y[From.GetName]§! consists of billions of small artificial satellites, each designed to be highly reflective. The network is at least a thousand years old, although tidal interactions and solar wind have been gradually deorbiting them over the years -- [Root.Leader.GetName] estimates that the original ring system was large and complex enough to see from the far side of the [From.System.GetName] system with the naked eye.\n\n[Root.Leader.GetSheHeCap] cannot find any practical reason for this ring system to be here, and theorizes that they were placed to serve as some kind of artistic display."
+mzilli_anomaly_events.44.desc:0 "Upon closer inspection, the ring system around §Y[FromFrom.GetName]§! consists of billions of small artificial satellites, each designed to be highly reflective. The network is at least a thousand years old, although tidal interactions and solar wind have been gradually deorbiting them over the years -- [Root.Leader.GetName] estimates that the original ring system was large and complex enough to see from the far side of the [FromFrom.System.GetName] system with the naked eye.\n\n[Root.Leader.GetSheHeCap] cannot find any practical reason for this ring system to be here, and theorizes that they were placed to serve as some kind of artistic display."
+
+mzilli_artificial_beauty:0 "Artificial Beauty"
+mzilli_artificial_beauty_desc:0 "This moon's artificial ring system is quite a sight, both from the surface and in space."
+
+mzilli_anomaly_events.91.name:0 "$orbital_ring_ruined$"
+mzilli_anomaly_events.91.desc:0 "A closer examination of [FromFrom.GetName] revealed the astonishing truth behind its brilliant ring system. It is artificial -- the remains of a megastructure that, in its prime, must have encircled the entire moon.\n\nThis §Y$orbital_ring$§! has deteriorated significantly in the millennia since it was abandoned, and the remains are in a decaying orbit -- [Root.Leader.GetName] estimates that they have no more than a thousand years left before they fall to [FromFrom.GetName] and are destroyed, in an impact that will likely devastate the [FromFrom.GetClassAdj] moon as well.\n\nHowever, the remains are still relatively intact for their age, and the technology is not that dissimilar to our own, albeit somewhat more advanced. With the right technological leaps, [Root.Owner.GetAdj] engineers might be able to restore it..."
+mzilli_anomaly_events.91.tooltip:0 "A §Y$orbital_ring_ruined$§! has been discovered orbiting [FromFrom.GetName]. Restoring it would provide additional infrastructure for a future colony on the moon, and for the [FromFrom.System.GetName] system in general."
 
 MZILLI_ROCKY_SNOWBALL:0 "Heavy Snowball"
 MZILLI_ROCKY_SNOWBALL_DESC:0 "[From.GetName] has a huge gravity well and relatively young surface features, unusual for a frozen [From.GetPlanetMoon] such as this."
 
-mzilli_anomaly_events.45.name:0 "$chthonian_planet$"
+mzilli_anomaly_events.45.name:0 "Chthonian Planet"
 mzilli_anomaly_events.45.desc:0 "According to [Root.Leader.GetName]'s report, §Y[From.GetName]§! appears to be a chthonian planet: a gas giant that lost its atmosphere to solar winds or some other form of hydrodynamic escape, leaving behind only its solid metallic core.\n\nThis core migrated outward from its sun over the eons, eventually ending up in the outer region of the [From.System.GetName] system and accumulating a thin crust of ice."
 
 MZILLI_GREENHOUSE_EFFECT:0 "Pressure Cooker"
 MZILLI_GREENHOUSE_EFFECT_DESC:0 "[From.GetName] appears to be in the early stages of a runaway greenhouse effect."
 
 mzilli_greenhouse_effect:0 "$greenhouse_effect$"
-mzilli_greenhouse_effect_desc:0 "This [This.GetPlanetMoon] is experiencing the early stages of a runaway greenhouse effect, and will eventually become a lifeless $pc_toxic$."
+mzilli_greenhouse_effect_desc:0 "This world is experiencing the early stages of a runaway greenhouse effect."
 
-mzilli_anomaly_events.47.intro:0 "It appears that §Y[FROMFROM.GetName]§! was a habitable world until about a thousand years ago, when increasing solar radiation from its sun, [greenhouse_sun.GetName], began to boil away the [FROMFROM.GetPlanetMoon]'s oceans. Water vapor became trapped in the atmosphere, and a runaway greenhouse effect began. In another thousand years, this [FROMFROM.GetPlanetMoon]"
-mzilli_anomaly_events.47.desc.a:0 "$mzilli_anomaly_events.47.intro$ may well resemble [planet_venus.GetName]. $mzilli_anomaly_events.47.outro$"
+mzilli_anomaly_events.47.intro:0 "It appears that §Y[FROMFROM.GetName]§! was a habitable world until about a thousand years ago, when increasing solar radiation from its sun, [greenhouse_sun.GetName], began to boil away the planet's oceans. Water vapor became trapped in the atmosphere, and a runaway greenhouse effect began. In another thousand years, this planet"
+mzilli_anomaly_events.47.desc.a:0 "$mzilli_anomaly_events.47.intro$ may well resemble [planet_venus.GetName] in the [planet_venus.System.GetName] system. $mzilli_anomaly_events.47.outro$"
 mzilli_anomaly_events.47.desc.b:0 "$mzilli_anomaly_events.47.intro$ will likely have transformed beyond any hope of repair. $mzilli_anomaly_events.47.outro$"
-mzilli_anomaly_events.47.outro:0 "\n\n[Root.Leader.GetName] has proposed that we construct a sunshield in [greenhouse_primary.GetName]'s L1 Lagrangian point. This will reduce the amount of solar radiation arriving from [greenhouse_sun.GetName], and hopefully halt [FROMFROM.GetName]'s transformation into a $pc_toxic$ before it goes too far. Then perhaps we can terraform it into a habitable world again."
+mzilli_anomaly_events.47.outro:0 "\n\n[Root.Leader.GetName] has proposed that we construct a large mirror - a sunshield - in [FROMFROM.GetName]'s L1 Lagrangian point. This will reduce the amount of solar radiation arriving from [greenhouse_sun.GetName], and hopefully halt the planet's transformation before it crosses the point of no return. Then perhaps we can terraform it into a habitable world again."
 mzilli_anomaly_events.47.a:0 "Proceed at once! We must save [FROMFROM.GetName]."
-mzilli_anomaly_events.47.b:0 "No, leave that [FROMFROM.GetPlanetMoon] to its fate."
+mzilli_anomaly_events.47.b:0 "No, leave that planet to its fate."
 
 REVERSE_GREENHOUSE:0 "Reverse $greenhouse_effect$"
-REVERSE_GREENHOUSE_DESC:0 "[FROMFROM.GetName] is in the early stages of a runaway greenhouse effect, which will reduce the [FROMFROM.GetPlanetMoon] to a $pc_toxic$ over the next few centuries.\n\nBy constructing a sunshield in [greenhouse_primary.GetName]'s L1 Lagrangian point, we might be able to reduce the amount of solar radiation arriving from [greenhouse_sun.GetName], halting the overheating."
+REVERSE_GREENHOUSE_DESC:0 "§Y[FROMFROM.GetName]§! is in the early stages of a runaway greenhouse effect, which will reduce the planet to an uninhabitable wasteland over the next few centuries.\n\nBy constructing a sunshield in its L1 Lagrangian point, we might be able to reduce the amount of solar radiation arriving from [greenhouse_sun.GetName], halting the overheating."
 
 mzilli_anomaly_events.48.name:0 "Greenhouse No More"
-mzilli_anomaly_events.48.desc.a:0 "With the completion of our sunshield in §Y[greenhouse_planet.GetName]§!'s L1 point, the planet's $mzilli_anomaly_events.48.desc.outro$"
-mzilli_anomaly_events.48.desc.b:0 "With the completion of our sunshield in [greenhouse_planet.orbit.GetName]'s L1 point, §Y[greenhouse_planet.GetName]§!'s $mzilli_anomaly_events.48.desc.outro$"
-mzilli_anomaly_events.48.desc.outro:0 "rate of heating has dropped dramatically as incoming radiation from [greenhouse_sun.GetName] is blocked. Now that the [greenhouse_planet.GetPlanetMoon] is no longer in danger, we can proceed with terraforming.\n\nAs solar input from [greenhouse_sun.GetName] continues to increase, it will eventually be necessary to expand the sunshield to keep [greenhouse_planet.GetName]'s new climate stable. Fortunately, stars age slowly enough that we will easily be able to keep up with the changes."
-mzilli_anomaly_events.48.tooltip.a:0 "§Y$mzilli_greenhouse_effect$§! modifier removed from §Y[greenhouse_planet.GetName]§!."
-mzilli_anomaly_events.48.tooltip.b:0 "§Y$terraforming_candidate$§! modifier added to §Y[greenhouse_planet.GetName]§!."
+mzilli_anomaly_events.48.desc:0 "With the completion of our sunshield in §Y[FROMFROM.GetName]§!'s L1 point, the planet's rate of heating has dropped dramatically as incoming radiation from [greenhouse_sun.GetName] is blocked, and the thick atmosphere has begun precipitating to the surface. Now that the planet is no longer in danger, we can proceed with terraforming.\n\nAs solar input from [greenhouse_sun.GetName] continues to increase, it will eventually be necessary to expand the sunshield to keep [FROMFROM.GetName]'s new climate stable. Fortunately, stars age slowly enough that we will easily be able to keep up with the changes."
+mzilli_anomaly_events.48.tooltip:0 "§Y[FROMFROM.GetName]§! is now a $pc_barren$."
 
 MZILLI_CROOKED:0 "$mzilli_crooked_planet$"
 MZILLI_CROOKED_DESC.a:0 "This [From.GetClassAdj] planet has a highly-tilted axis, possibly the result of a massive impact event early in its history."
@@ -610,13 +619,13 @@ mzilli_crooked_planet_desc:0 "This world has a highly-tilted axis, probably the 
 
 mzilli_anomaly_events.50.name:0 "Traumatic Childhood"
 mzilli_anomaly_events.50.desc.a:0 "Like [planet_uranus.GetName] in the [planet_uranus.System.GetName] system, $mzilli_anomaly_events.50.desc.b$"
-mzilli_anomaly_events.50.desc.b:0 "§Y[FROMFROM.GetName]§! appears to have suffered a major impact during its formative years billions of years ago, probably from a smaller protoplanet. The collision knocked it off its axis, resulting in a day/night cycle that does not correspond to the amount of sunlight each side receives, not unlike a tidally-locked 'twilight' world."
+mzilli_anomaly_events.50.desc.b:0 "§Y[FROMFROM.GetName]§! appears to have suffered a series of major impacts during its formative years billions of years ago, probably from a cluster of smaller protoplanets. The collisions gradually knocked it off its axis, resulting in a much more chaotic day-night cycle."
 
 MZILLI_SUPERNOVA_REMNANT:0 "Stellar Corpse"
 MZILLI_SUPERNOVA_REMNANT_DESC:0 "Centuries ago, astronomers on our homeworld witnessed the supernova that left this [From.GetClassName] behind."
 
 mzilli_anomaly_events.52.name:0 "Supernova Remnant"
-mzilli_anomaly_events.52.desc:0 "The giant star that formed the [FROMFROM.GetClassName] we call §Y[FROMFROM.GetName]§! exploded in a cataclysmic Type II supernova approximately one thousand years ago, an event that was visible all the way from [supernova_observed_planet.GetName].\n\nThe appearance of a \"new\" star in the night sky was quite disturbing to contemporary [Root.Owner.GetSpeciesNamePlural], many of whom thought that it represented the wrath of a displeased god, or perhaps even marked the beginning of the End Times.\n\nFortunately, we are much wiser now. We now know that supernovae do not represent the anger of the divine, but are actually how the universe re-invigorates itself. The heavy elements forged in its dying core and scattered across the universe will one day help to form new worlds that future generations will call home."
+mzilli_anomaly_events.52.desc:0 "The giant star that formed this §Y[FROMFROM.GetClassName]§! exploded in a cataclysmic Type II supernova approximately one thousand years ago, an event that was visible all the way from [supernova_observed_planet.GetName].\n\nThe appearance of a \"new\" star in the night sky was quite disturbing to contemporary [Root.Owner.GetSpeciesNamePlural], many of whom thought that its arrival signified the wrath of a displeased god, or perhaps even marked the beginning of the End Times.\n\nFortunately, we are much wiser now. We now know that supernovae do not represent the anger of the divine, but are actually how the universe re-invigorates itself. The heavy elements forged in its dying core and scattered across the universe will one day help to form new worlds that future generations will call home."
 mzilli_anomaly_events.52.a:0 "We are all star-stuff."
 mzilli_anomaly_events.52.b:0 "In a way, they were right about the End Times..."
 
@@ -717,13 +726,14 @@ mzilli_arch_events.81.name:0 "Explosive Overclocking"
 mzilli_arch_events.81.desc:0 "It turns out that the [slaver_ship_victim_species.GetAdj] abductees' victory over the slavers was a rather pyrrhic one. While they had taken the ship, they had no idea how to operate or maintain it and thus had no way to get back to [slaver_ship_victim_species.home_planet.GetName].\n\nA few weeks after their emancipation, they apparently figured out how to fire the engines and attempted to do so, but without the proper training they inadvertently overloaded the coolant systems. The subsequent explosion crippled the vessel, dooming the [slaver_ship_victim_species.GetNamePlural] on board to a slow death in interplanetary space. The lifeless hulk eventually crashed into [From.Planet.GetName], where it has remained since."
 
 MZILLI_EGG_PLANET:0 "$mzilli_bulge_planet$"
-MZILLI_EGG_PLANET_DESC:0 "This gas giant has a very pronounced bulge along its equator, visible even from a great distance away."
+MZILLI_EGG_PLANET_DESC:0 "§Y[From.GetName]§! has a very pronounced bulge along its equator, visible even from a great distance away."
 
 mzilli_anomaly_events.63.name:0 "Spinning Apart"
-mzilli_anomaly_events.63.desc:0 "§Y[From.GetName]§! has a very rapid rate of rotation, far quicker than any gas giant seen to date. A day on this planet would last only three hours. As a result of this, the centrifugal force produces a bulge around its equator as its mass is slung around like a [Root.Owner.GetAdj] trainee in a centrifuge.\n\nIt is fortunate that [From.GetName] is an uninhabitable gas planet, as the rapid day and night cycle would be quite damaging to the [Root.Owner.GetSpeciesAdj] psyche."
+mzilli_anomaly_events.63.desc.a:0 "§Y[From.GetName]§! has a very rapid rate of rotation, far quicker than that of any [From.GetClassName] seen to date. A day on this planet would last only three hours. As a result of this, the centrifugal force produces a bulge around its equator as its mass is slung around like a [Root.Owner.GetAdj] trainee in a centrifuge.\n\nIt is fortunate that [From.GetName] is an uninhabitable gas planet, as the rapid day and night cycle would be quite damaging to the [Root.Owner.GetSpeciesAdj] psyche."
+mzilli_anomaly_events.63.desc.b:0 "§Y[From.GetName]§! completes a full rotation every four hours, far quicker than any [From.GetClassName] seen to date. As a result of this, the centrifugal force produces a bulge around its equator as its mass is slung around like a [Root.Owner.GetAdj] trainee in a centrifuge.\n\nIt is fortunate that [From.GetName] is a stellar body rather than a conventional planet, as the rapid rotation would bring an equally rapid day and night cycle, one quite damaging to the [Root.Owner.GetSpeciesAdj] psyche."
 
 mzilli_bulge_planet:0 "Equatorial Bulge"
-mzilli_bulge_planet_desc:0 "This planet's high rate of rotation gives it a pronounced bulge along its equator."
+mzilli_bulge_planet_desc:0 "This celestial body's high rate of rotation gives it a pronounced bulge along its equator."
 
 MZILLI_POOR_DUMB_PACIFISTS:0 "Harsh Reality"
 MZILLI_POOR_DUMB_PACIFISTS_DESC:0 "A metallic debris field orbits this [From.GetPlanetMoon], evidently the remains of a large spacecraft."
@@ -797,6 +807,8 @@ mzilli_rogue_planet_chain_desc:0 "$FIND_ROGUE_PLANET_PROJECT_DESC$"
 
 mzilli_rogue_planet_poi_title:0 "[rogue_planet_system.GetName]"
 mzilli_rogue_planet_poi_desc:0 "While we have elected to leave the rogue planet §Y[rogue_planet_system.GetName]§! isolated for now, its location will remain marked until we develop the §R$JUMP_DRIVE_1$§! technology needed to access it without hyperlanes."
+
+rogue_planet_moon_name:0 "[This.System.GetName] a"
 
 pc_mzilli_rogue:0 "$pc_frozen$"
 pc_mzilli_rogue_desc:0 "$pc_frozen_desc$"
@@ -873,10 +885,10 @@ MZILLI_POST_APOCALYPSE:0 "Post-Apocalypse"
 MZILLI_POST_APOCALYPSE_DESC:0 "Upon closer examination, this [From.GetClassAdj] [From.GetPlanetMoon] may not be as abandoned as previously thought..."
 
 mzilli_anomaly_events.74.name:0 "From the Ashes"
-mzilli_anomaly_events.74.desc:0 "It seems that the inhabitants of §Y[From.GetName]§! survived the destruction of their [From.GetPlanetMoon] after all. While their technological civilization collapsed long ago, pockets of survivors have formed communities that eke out an existence on the irradiated remains of their homeworld.\n\nThe aliens have apparently adapted to survive in the bleak environment, and would likely do well if transplanted to other $pc_nuked$s. We should construct an §YObservation Post§! in orbit to study them further."
+mzilli_anomaly_events.74.desc:0 "It seems that the inhabitants of §Y[FromFrom.GetName]§! survived the destruction of their [FromFrom.GetPlanetMoon] after all. While their technological civilization collapsed long ago, pockets of survivors have formed communities that eke out an existence on the irradiated remains of their homeworld.\n\nThe aliens have apparently adapted to survive in the bleak environment, and would likely do well if transplanted to other $pc_nuked$s. We should construct an §YObservation Post§! in orbit to study them further."
 
-mzilli_anomaly_events.74.tooltip.1:0 "A primitive species with the §Y$trait_survivor$§! trait is revealed on §Y[From.GetName]§!."
-mzilli_anomaly_events.74.tooltip.2:0 "§Y[From.GetName]§! will now be referred to by its local name."
+mzilli_anomaly_events.74.tooltip.1:0 "A primitive species with the §Y$trait_survivor$§! trait is revealed on §Y[FromFrom.GetName]§!."
+mzilli_anomaly_events.74.tooltip.2:0 "§Y[FromFrom.GetName]§! will now be referred to by its local name."
 
 MZILLI_RED_GIANT_PLANET:0 "Dry [From.GetPlanetMoonCap]"
 MZILLI_RED_GIANT_PLANET_DESC:0 "Ancient seabeds on the surface of §Y[From.GetName]§! suggest this [From.GetPlanetMoon] once had much more extensive ocean coverage."
@@ -984,7 +996,7 @@ MZILLI_UNSTABLE_TECTONICS:0 "$unstable_tectonics$"
 MZILLI_UNSTABLE_TECTONICS_DESC:0 "[From.GetName] is quite unstable for a [From.GetPlanetMoon] of its kind, with many volcanoes and geological features marking its young surface."
 
 mzilli_anomaly_events.85.name:0 "Dying [From.GetPlanetMoonCap]"
-mzilli_anomaly_events.85.desc:0 "Despite [Root.Leader.GetName]'s original theories, which involved alien interference, §Y[From.GetName]§!'s geological instability turned out to be a natural phenomenon. During its formation billions of years ago, the [From.GetPlanetMoon]'s interior somehow formed unusually-complex lattices of £rare_crystals£ §HRare Crystals§! that convert geothermal energy into mechanical energy. This exerts immense pressure on the crust, driving the volcanism we are seeing.\n\n[Root.Leader.GetName] estimates that [From.GetName]'s surface will become entirely molten in roughly five thousand years, and that the [From.GetPlanetMoon] will break up several years later. In astronomical terms, that's very soon."
+mzilli_anomaly_events.85.desc:0 "Despite [Root.Leader.GetName]'s initial theories to the contrary, §Y[From.GetName]§!'s geological instability turned out to be a natural phenomenon. During its formation billions of years ago, the [From.GetPlanetMoon]'s interior somehow formed unusually-complex lattices of £rare_crystals£ §HRare Crystals§! that convert geothermal energy into mechanical energy. This exerts immense pressure on the crust, driving the volcanism we are seeing.\n\n[Root.Leader.GetName] estimates that [From.GetName]'s surface will become entirely molten in roughly five thousand years, erasing its geological history in one cataclysmic event. In astronomical terms, that's very soon -- it is fortunate we found it when we did."
 mzilli_anomaly_events.85.a:0 "Good thing there's no life down there!"
 mzilli_anomaly_events.85.b:0 "Where have we seen this before..."
 
@@ -1074,7 +1086,71 @@ MZILLI_OLD_STAR:0 "Methuselah"
 MZILLI_OLD_STAR_DESC:0 "This red dwarf is much older than any star yet surveyed, over twelve billion years in age."
 
 mzilli_anomaly_events.86.name:0 "$mzilli_ancient_star$"
-mzilli_anomaly_events.86.desc:0 "§Y[From.GetName]§! is absolutely ancient for a star -- it must have formed less than two billion years after the Big Bang, and therefore predates the galaxy itself, having presumably been captured by its gravity eons ago and eventually forming planets and moons of its own.\n\nMost incredible is the fact that, being a low-mass red dwarf with a convective interior, it likely has more than a trillion years left in its lifespan."
+mzilli_anomaly_events.86.desc:0 "§Y[From.GetName]§! is absolutely ancient for a star -- it must have formed less than two million years after the Big Bang, and therefore predates the galaxy itself, having presumably been captured by its gravity eons ago and eventually forming planets and moons of its own.\n\nMost incredible is the fact that, being a low-mass red dwarf with a convective interior, it likely has more than a trillion years left in its lifespan."
 
 mzilli_ancient_star:0 "Primordial Star"
 mzilli_ancient_star_desc:0 "$MZILLI_OLD_STAR_DESC$"
+
+MZILLI_BLACK_DOMAIN:0 "Strange Singularity"
+MZILLI_BLACK_DOMAIN_DESC:0 "This §Y$pc_black_hole$§!'s event horizon is unusually large for its mass, and it exhibits strange qualities that suggest it may not be a natural phenomenon."
+
+mzilli_anomaly_events.88.name:0 "Veiled Star"
+mzilli_anomaly_events.88.desc:0 "It was never a black hole at all! Upon closer examination, §Y[FROMFROM.GetName]§! is actually a patch of space where the speed of light is much lower than normal -- only a few thousand kilometers per second. At the heart of this space is [FROMFROM.GetAAnPlanetClass] §Y[FROMFROM.GetClassName]§! and two planets, which are invisible to the outside universe because lightspeed in the system is lower than solar escape velocity.\n\n[From.Leader.GetName] cannot begin to guess why the speed of light is different here, and cautions that, while [Root.Owner.GetAdj] hyperdrives will permit us access to and from the system, ships traveling at sublight speeds will be limited to a snail's pace."
+mzilli_anomaly_events.88.tooltip:0 "§Y[FROMFROM.GetName]§! is revealed to be [FROMFROM.GetAAnPlanetClass] [FROMFROM.GetClassName] with two planets."
+
+black_domain_name_1:0 "[This.System.GetName] I"
+black_domain_name_2:0 "[This.System.GetName] II"
+
+mzilli_black_domain_mod:0 "Reduced Lightspeed"
+mzilli_black_domain_mod_desc:0 "The speed of light is much slower than normal in this system, limiting sublight travel speed and rate of fire for energy weapons."
+
+mzilli_arch_black_domain:0 "Tomb of Ancients"
+mzilli_arch_black_domain_desc:0 "Within the reduced-lightspeed space of §Y[From.Planet.System.GetName]§! are two terrestrial planets, one of which is habitable and posesses [FROM.planet.GetAAnPlanetClass] [FROM.planet.GetClassAdj] climate. Although there is no sign of intelligent life on its surface, it seems likely that someone inhabited the planet long ago."
+mzilli_arch_events.82.name:0 "Reclaimed by Nature"
+mzilli_arch_events.82.desc.ocean:0 "Scattered across the dimunitive islands $mzilli_arch_events.82.desc.outro$"
+mzilli_arch_events.82.desc.other:0 "Beneath the [From.Planet.GetClassAdj] surface $mzilli_arch_events.82.desc.outro$"
+mzilli_arch_events.82.desc.outro:0 "of §Y[From.Planet.GetName]§!, our archaeological teams have found the remains of vast cities that once spanned the planet. Little has been recovered in the way of artifacts thus far, but their age has been determined to be about 30,000 years.\n\nIt is too early to say what destroyed this civilization, but presumably it is related to whatever reduced the speed of light in the [From.Planet.System.GetName] system."
+mzilli_arch_events.83.name:0 "Pieces of the Puzzle"
+mzilli_arch_events.83.desc:0 "More artifacts have been recovered from §Y[From.Planet.GetName]§!, and we are starting to put together the story of what happened here.\n\nLong ago, the planet was the homeworld of a sapiant [black_domain_descendents.GetSpeciesClass] species. Although reasonably advanced, they had little interest in crewed spaceflight and never roamed far beyond their atmosphere -- their homeworld was extremely resource-laden, enough to support their civilization indefinitely."
+mzilli_arch_events.84.name:0 "A Visitor From The Stars"
+mzilli_arch_events.84.desc:0 "As our archaelogical teams explore §Y[From.Planet.GetName]§!, more details emerge regarding the planet's long-departed inhabitants.\n\n30,000 years ago, the [From.Planet.System.GetName] system was visited by some kind of §Hspace-dwelling life form§!. Its description does not match anything encountered by [Root.Owner.GetSpeciesNamePlural] -- a serpentine creature, more than a thousand kilometers long and composed almost entirely of £sr_dark_matter£ §L$sr_dark_matter$§!. [From.Planet.GetName]'s inhabitants, fearing the creature's unknown intentions, assumed the worst and launched a massive ICBM salvo at it.\n\nMuch to their surprise, the missile strike was successful and the creature was killed. Its body violently exploded upon death, scattering huge quantities of $sr_dark_matter$ across the system and warping local space-time. This appears to have been the cause of the reduced lightspeed."
+mzilli_arch_events.85.name:0 "Locked In"
+mzilli_arch_events.85.desc.a:0 "After the inhabitants of §Y[From.Planet.GetName]§! unwittingly sealed themselves in the [From.Planet.System.GetName] system, very little changed at first -- they were sedentary in nature, and their planet still had a wealth of natural resources to draw upon. Over time, however, tensions began to mount as mineral veins dried up and arable land become depleted.\n\nEventually, the aliens discovered hyperdrive technology, enabling them to leave their system for the first time. About half of their population ultimately left to look for new homes among the stars; the rest chose to stay behind and nurture the only home they'd ever known. How long they lasted on [From.Planet.GetName] is unknown, but they appear to have met their end relatively peacefully.\n\n[Root.Leader.GetName] has also discovered the name of the planet's indigenous race: the §H[black_domain_descendents.GetSpeciesNamePlural]§!."
+mzilli_arch_events.85.desc.b:0 "After the inhabitants of §Y[From.Planet.GetName]§! -- which we now know were called the [black_domain_descendents.GetSpeciesNamePlural] -- unwittingly sealed themselves in the [From.Planet.System.GetName] system, very little changed at first -- they were sedentary in nature, and their planet still had a wealth of natural resources to draw upon. Over time, however, tensions began to mount as mineral veins dried up and arable land become depleted.\n\nEventually, the [black_domain_descendents.GetSpeciesNamePlural] discovered hyperdrive technology, enabling them to leave their system for the first time. About half of their population ultimately left to look for new homes among the stars; the rest chose to stay behind and nurture the only home they'd ever known. How long they lasted on [From.Planet.GetName] is unknown, but they appear to have met their end relatively peacefully."
+mzilli_arch_events.85.b:0 "Now we know where the §H[black_domain_descendents.GetName]§! came from!"
+mzilli_arch_events.86.name:0 "Dark Matter Analysis"
+mzilli_arch_events.86.desc:0 "With the conclusion of our study of §Y[From.Planet.GetName]§!, [Root.Leader.GetName] has turned [Root.Leader.GetHerHis] attention to the warped space-time that enveloped this system 30,000 years ago. [Root.Leader.GetSheHeCap] believes it may be possible to reproduce the effect in a laboratory setting, and is transmitting [Root.Leader.GetHerHis] findings to our Physics Head on [Root.Owner.Capital.GetName].\n\nWe will, of course, take all necessary precations. Nobody wants this to happen to the [Root.Owner.GetAdj] capital system."
+
+tech_mzilli_black_domain:0 "Lightspeed Reduction"
+tech_mzilli_black_domain_desc:0 "By carefully manipulating the curvature of local space-time, the speed of light can be permanently slowed within an entire solar system."
+
+sm_mzilli_black_domain_building:0 "Subspace Decelerator"
+sm_mzilli_black_domain_building_desc:0 "$tech_mzilli_black_domain_desc$"
+mzilli_black_domain_building_modifier:0 "Upon activation, this module will be deleted and the §H$mzilli_black_domain_mod$§! modifier will be added to the system, with the following effects:\n- $MOD_SHIP_SPEED_REDUCTION$: §R50%§!\n- $MOD_SHIP_DISENGAGE_CHANCE_REDUCTION$: §R50%§!\n- $mod_weapon_type_energy_weapon_fire_rate_mult$: §R-50%§!\nThis cannot be undone."
+
+mzilli_general_events.14.name:0 "$tech_mzilli_black_domain$"
+mzilli_general_events.14.desc:0 "[Root.GetName] reports it has finished construction of our $sm_mzilli_black_domain_building$ in the §Y[Root.solar_system.GetName] system§!. They are standing by to activate the device.\n\nUpon detonation, vast quantities of $sr_dark_matter$ will be scattered across the [Root.solar_system.GetName] system, permanently slowing the speed of light in the region. This will make it much more difficult for starships to operate in the system, allowing us to use it as a chokepoint, and because the new lightspeed will be less than solar escape velocity, outside scans will be rendered nearly useless.\n\nThe station commander is quick to remind us that [Root.Owner.GetAdj] ships will be equally affected by the altered lightspeed, and that these new conditions will be permanent."
+mzilli_general_events.14.tooltip:0 "The $sm_mzilli_black_domain_building$ building is deleted from [ROOT.GetName]."
+
+lightspeed_veil_name:0 "[Root.solar_system.GetName] Lightspeed Veil"
+
+MZILLI_NEUTRON_TO_BLACK_HOLE:0 "Razor's Edge"
+MZILLI_NEUTRON_TO_BLACK_HOLE_DESC:0 "Weighing in at 2.36 solar masses, §Y[From.GetName]§! is very close to the upper limit for a $pc_neutron_star$."
+
+mzilli_anomaly_events.89.name:0 "Just a Nudge..."
+mzilli_anomaly_events.89.desc:0 "$pc_neutron_star$s like §Y[From.GetName]§! can only exist within a certain mass range, up to about 2.37 solar masses depending on its rate of rotation. Should it exceed this limit, the neutron-degenerate matter in the core will be unable to resist its own gravitational pull, and the [From.GetClassName] will collapse into a singularity -- a §L$pc_black_hole$§!.\n\n[From.GetName] is stable for now, but it would not take much to trigger a core collapse. Simply slowing its rotation by a hair would probably do it..."
+mzilli_anomaly_events.89.b:0 "Let's slow it down and see what happens."
+
+NEUTRON_TO_BLACK_HOLE_PROJECT:0 "Kill the [From.GetClassName]"
+NEUTRON_TO_BLACK_HOLE_PROJECT_DESC:0 "By slowing the rotation of §Y[From.GetName]§!, it may be possibly to push its relative mass over the Tolman-Oppenheimer-Volkoff limit, causing the [From.GetClassName] to collapse into a $pc_black_hole$."
+
+mzilli_anomaly_events.90.name:0 "Into Darkness"
+mzilli_anomaly_events.90.desc:0 "Suddenly... darkness. §Y[FromFrom.GetName]§! disappears from view, and the dead star's light fades to nothing. But the [From.GetName]'s sensors confirm that its mass is still there.\n\nWe have successfully triggered a core collapse in the $pc_neutron_star$, turning it into a $pc_black_hole$. The process appears to have generated a flood of £sr_dark_matter£ §L$sr_dark_matter$§! that can be recovered -- carefully -- from the edge of its event horizon."
+mzilli_anomaly_events.90.tooltip:0 "[FromFrom.GetName] is now a $pc_black_hole$, and gains 3 £sr_dark_matter£ $sr_dark_matter$.\nSystem-wide ship modifiers have been recalculated."
+
+sc_binary_1_bh:0 "$sc_binary_1$"
+sc_binary_2_bh:0 "$sc_binary_1$"
+
+mzilli_anomaly_events.92.name:0 "Buried Hope"
+mzilli_anomaly_events.92.desc:0 "It seems that the inhabitants of §Y[FromFrom.GetName]§! survived the destruction of their [FromFrom.GetPlanetMoon] after all. While their original civilization collapsed long ago, pockets of survivors have formed vast underground cities beneath the irradiated remains of their homeworld, some of which span dozens of kilometers.\n\nThe aliens have apparently adapted to survive in the bleak subsurface environment, and would likely do well if transplanted to other worlds. We should construct an §YObservation Post§! in orbit to study them further."
+mzilli_anomaly_events.92.tooltip:0 "A primitive species of §Y$trait_cave_dweller$s§! is revealed on §Y[FromFrom.GetName]§!."

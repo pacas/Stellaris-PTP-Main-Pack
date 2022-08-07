@@ -169,9 +169,11 @@ mod_job_silence_flower_drone_per_pop:0 "§G+1§! $job_silence_flower_drone$ ка
 job_militant_flower_drone:0 "Дрон-воинствующий ботаник"
 job_militant_flower_drone_plural:0 "Дроны-воинствующие ботаники"
 job_militant_flower_drone_desc:0 "Эти специализированные дроны находятся в тесном контакте с красными цветами. Они чувствуют себя удивительно отстранёнными, и их голос больше не принадлежит им."
+job_militant_flower_drone_effect_desc:0 "£job_militant_flower_dronet£ $job_militant_flower_drone_plural$ превращают £food£ §YПищу§! во §YВместимость флотилии§! и §YОборонительные армии§!. Они также снижают £amenities£ §YБлага§!"
 mod_job_militant_flower_drone_add:0 "Виды деятельности дронов-воинствующих ботаников."
-mod_job_militant_flower_drone_per_pop:0 "\n§G+1§! £mjob_flower_drone_add£ для $VALUE$ £pop£"
-mod_job_militant_flower_drone_per_pop:0 "£job_militant_flower_dronet£ $job_militant_flower_drone_plural$ превращают £food£ §YПищу§! в §YВместимость флотилии§! и §YОборонительные армии§!. Они также снижают £amenities£ §YБлага§! "
+mod_job_militant_flower_drone_per_pop_short:0 "\n§G+1§! £mjob_flower_drone_add£ для $VALUE$ £pop£"
+mod_job_militant_flower_drone_per_pop:0 "£job_militant_flower_dronet£ $job_militant_flower_drone_plural$ превращают £food£ §YПищу§! во §YВместимость флотилии§! и §YОборонительные армии§!. Они также снижают £amenities£ §YБлага§!"
+job_militant_flower_drone_effect_desc:0 "£job_militant_flower_dronet£ $job_militant_flower_drone_plural$ превращают £food£ §YПищу§! во §YВместимость флотилии§! и §YОборонительные армии§!. Они также снижают £amenities£ §YБлага§!"
 job_lichen_drone:0 "Лишайниковый дрон"
 job_lichen_drone_plural:0 "Лишайниковые дроны"
 job_lichen_drone_desc:0 "Эти дроны наблюдают за лишайниковыми предприятиями."
@@ -300,5 +302,4 @@ civic_gaia_theory_effects:0 "§YФермеры§!, §YБотаники§! и §Y
 #Events
 
 teamod.101.name:0 "Добро пожаловать в мод Interplanetary Agriculture"
-teamod.101.desc:0 "Если вы видите это событие, это означает, что вы используете мод Interplanetary Agriculture версии §Y1.6.1: Осень на Марсе.§! Эта версия включает в себя различные исправления и корректировки баланса."
-
+teamod.101.desc:0 "Если вы видите это событие, это означает, что вы используете мод Interplanetary Agriculture версии §Y1.6.3: Осень на Марсе.§! Эта версия включает в себя совместимость со Stellaris 3.+ Никакие элементы геймплея не были изменены."

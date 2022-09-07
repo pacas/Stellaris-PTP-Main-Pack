@@ -137,7 +137,7 @@ tr_plentiful_cybernetics_1_desc:0 "§HЗдание:§! £building  §Y$building_
 tr_plentiful_cybernetics_1_delayed:0 "Увеличит эффективность наших роботов, позволяя фабрикам воплощать новые идеи на месте."
 
 tr_plentiful_cybernetics_hive_1:0 "Систематизация чертежей"
-tr_plentiful_cybernetics_hive_1_desc:0 "§HЗдание:§! £building  $building_plentiful_traditions_cybernetics_facility$ - ускоряет £engineering §Yинженерные исследования§!. Уникально для планеты.
+tr_plentiful_cybernetics_hive_1_desc:0 "§HЗдание:§! £building  $building_plentiful_traditions_cybernetics_facility$ - ускоряет £engineering §Yинженерные исследования§!. Уникально для планеты."
 tr_plentiful_cybernetics_hive_1_delayed:0 "Повышает эффективность нашей биомеханики."
 
 tr_plentiful_cybernetics_2:0 "Парадигма"
@@ -479,7 +479,7 @@ building_plentiful_traditions_advanced_slave_processing_desc:0 "Потребно
 
 advanced_defense_slave_army:0 "Продвинутая оборонительная армия рабов"
 advanced_defense_slave_army_plural:0 "Продвинутые оборонительные армии рабов"
-advanced_defense_slave_army_desc:0 "Рабы-солдаты служат своим хозяевам на поле битвы.
+advanced_defense_slave_army_desc:0 "Рабы-солдаты служат своим хозяевам на поле битвы."
 
 defense_slave_army:0 "Оборонительная армия рабов"
 defense_slave_army_plural:0 "Оборонительные армии рабов"

@@ -34,7 +34,7 @@ nsc_freebooter_leader_making_already_set_skill_level.fail:0 "£trigger_no£ Эт
 nsc_freebooter_leader_trait_cost.fail:0 "£trigger_no£ §RВам нужно 500 £energy£ и 500 £consumer_goods£, чтобы выбрать эту черту.§!"
 nsc_freebooter_leader_already_picked_trait.fail:0 "£trigger_no£ Вы уже выбрали эту черту."
 nsc_freebooter_leader_trait_points.fail:0 "£trigger_no£ Вы НЕ можете выбрать больше черт."
-nsc_freebooter_leader_already_picked_class.fail:0 "£trigger_no£ Вы НЕ можете одновременно выбирать черты разных классов лидеров.
+nsc_freebooter_leader_already_picked_class.fail:0 "£trigger_no£ Вы НЕ можете одновременно выбирать черты разных классов лидеров."
 
 nsc_freebooter_leader_skill_level.fail.2:0 "£trigger_no£ §RУ вас должен быть сейчас или ранее лидер (исключая Хана) как минимум с 2 уровнями навыков.§!"
 nsc_freebooter_leader_skill_level.fail.3:0 "£trigger_no£ §RУ вас должен быть сейчас или ранее лидер (исключая Хана) как минимум с 3 уровнями навыков.§!"

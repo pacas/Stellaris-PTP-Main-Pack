@@ -118,7 +118,7 @@ als_experted: "§P<Эксперт>§!"
 
  als_trait_strategic_invader_tooltip1: "Скорострельность на чужой территории: §G+15%§!\n$als_trait_strategic_invader_ally_tooltip$"
  als_trait_strategic_invader_tooltip2: "Скорострельность на чужой территории: §G+30%§!\n$als_trait_strategic_invader_ally_tooltip$"
- als_trait_strategic_invader_ally_tooltip: "$als_trait_strategic_pretext_ally1$\n  Outland Territory Fire Rate: §G+10%§!\n$als_trait_strategic_pretext_ally2$"
+ als_trait_strategic_invader_ally_tooltip: "$als_trait_strategic_pretext_ally1$\n  Скорострельность на чужой территории: §G+10%§!\n$als_trait_strategic_pretext_ally2$"
 
 
  als_trait_strategic_jumpdriver: "$als_strategy$: §YПрыгун§!"
